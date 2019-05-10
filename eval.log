@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Arabic-PUD:
-commit 7d392486efaf006a5cf921d7c1de44161d954730
-Merge: 529ad7a a67e8c8
+commit eb3cbd82b37dde1efe7f0b3b963823879501098c
+Merge: 976fee6 221b22e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 20751 of 20751 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.06518887657311.
