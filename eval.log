@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Arabic-PUD:
-commit 2b9706dff5c6f7941f32133945c6d58de25861f1
+commit 876fbe426c5f5279b6cda791f0c8a428f6fb8715
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 20:55:31 2019 +0200
+Date:   Tue Nov 12 16:42:16 2019 +0100
 Size: counted 20751 of 20751 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.06518887657311.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -24,17 +24,28 @@ Udapi: worst expected case (threshold) is one bug per 10 words. There are 20751 
 Genres: found 2 out of 17 known.
 validate.py --lang ar --max-err=10 UD_Arabic-PUD/ar_pud-ud-test.conllu
 [Line 74 Sent n01001013 Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 70 Sent n01001013 Node 18]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
 [Line 70 Sent n01001013 Node 18]: [L5 Syntax cop-lemma] 'kAn-u_1' is not a copula in language [ar]
+[Line 277 Sent n01003013 Node 3]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
 [Line 277 Sent n01003013 Node 3]: [L5 Syntax cop-lemma] 'kAn-u_1' is not a copula in language [ar]
 [Line 532 Sent n01009027 Node 14]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 520 Sent n01009027 Node 2]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
 [Line 520 Sent n01009027 Node 2]: [L5 Syntax cop-lemma] 'kAn-u_1' is not a copula in language [ar]
 [Line 579 Sent n01010042 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 658 Sent n01011017 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 775 Sent n01015033 Node 9]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
 [Line 775 Sent n01015033 Node 9]: [L5 Syntax cop-lemma] 'kAn-u_1' is not a copula in language [ar]
 [Line 815 Sent n01015036 Node 26]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 818 Sent n01015036 Node 29]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
 ...suppressing further errors regarding Syntax
+[Line 1056 Sent n01018024 Node 2]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
+[Line 1185 Sent n01020021 Node 6]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
+[Line 1440 Sent n01022016 Node 14]: [L5 Morpho aux-lemma] '>aSobaH_1' is not an auxiliary verb in language [ar]
+[Line 1564 Sent n01024010 Node 11]: [L5 Morpho aux-lemma] 'kAn-u_1' is not an auxiliary verb in language [ar]
+...suppressing further errors regarding Morpho
+Morpho errors: 153
 Syntax errors: 323
-*** FAILED *** with 323 errors
+*** FAILED *** with 476 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
