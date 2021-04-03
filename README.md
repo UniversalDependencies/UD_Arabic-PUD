@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Removed relation subtype det:predet, it is not relevant for Arabic.
 * 2017-11-15 v2.1
   * First official release after it was used as a surprise dataset in the
     CoNLL 2017 shared task.

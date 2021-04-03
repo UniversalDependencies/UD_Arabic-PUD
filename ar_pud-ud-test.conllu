@@ -70,7 +70,7 @@
 18	يكون	kAn-u_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	20	cop	_	_
 19	الأمر	>amor_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	_
 20	مختلفاً	muxotalif_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-21	بعض	baEoD_1	DET	PDT	Case=Acc	22	det:predet	_	_
+21	بعض	baEoD_1	DET	PDT	Case=Acc	22	det	_	_
 22	الشيء	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	advmod	_	SpaceAfter=No
 23	.	._0	PUNCT	.	_	20	punct	_	_
 
@@ -127,7 +127,7 @@
 4	الذي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	5	nsubj	_	_
 5	تجمع	tajam~aE_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	_
 6	في	fiy_1	ADP	IN	_	8	case	_	_
-7	أحد	>aHad_1	DET	PDT	Case=Gen	8	det:predet	_	_
+7	أحد	>aHad_1	DET	PDT	Case=Gen	8	det	_	_
 8	الملاعب	maloEab_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	obl	_	_
 9	الرياضية	riyADiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	_
 10	الخاصة	xAS~_1	ADJ	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	ccomp	_	_
@@ -474,7 +474,7 @@
 # text_en = That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau  -- and seems likely to jump again this year.
 1	و	w	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 2	ارتفعت	{irotafaE_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	تلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	تلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
 4	النسبة	nisobap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
 5	ب	b	ADP	IN	_	6	case	_	SpaceAfter=No
 6	اطراد	{iT~irAd_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
@@ -507,7 +507,7 @@
 33	أن	>ano_1	ADP	IN	_	34	mark	_	_
 34	ترتفع	{irotafaE_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	31	ccomp	_	_
 35	مجدداً	mujad~id_1	ADV	RB	_	34	advmod	_	_
-36	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	37	det:predet	_	_
+36	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	37	det	_	_
 37	العام	EAm_1	ADV	RB	_	34	obl:tmod	_	SpaceAfter=No
 38	.	._0	PUNCT	.	_	2	punct	_	_
 
@@ -649,7 +649,7 @@
 2	أدخل	daxal-u_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	_
 3	السجن	sijon_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
 4	في	fiy_1	ADP	IN	_	6	case	_	_
-5	كل	kul~_1	DET	PDT	Case=Gen	6	det:predet	_	_
+5	كل	kul~_1	DET	PDT	Case=Gen	6	det	_	_
 6	الأحوال	HAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 7	,	,_0	PUNCT	,	_	8	punct	_	_
 8	آمل	>amal-a_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	2	parataxis	_	_
@@ -673,7 +673,7 @@
 7	ثم	vum~a_1	CCONJ	CC	_	8	cc	_	_
 8	تبعت	tabiE-a_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	SpaceAfter=No
 9	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	_	_
-10	إحدى	>aHad_1	DET	PDT	Case=Nom	11	det:predet	_	_
+10	إحدى	>aHad_1	DET	PDT	Case=Nom	11	det	_	_
 11	صديقات	Sadiyq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
 12	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	SpaceAfter=No
 13	.	._0	PUNCT	.	_	1	punct	_	_
@@ -809,7 +809,7 @@
 20	الاسم	{isom_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nsubj	_	_
 21	من	min_1	ADP	IN	_	25	case	_	_
 22	بين	bayona_1	ADP	IN	_	21	fixed	_	_
-23	أكثر	>akovar_2	DET	PDT	Case=Gen	25	det:predet	_	_
+23	أكثر	>akovar_2	DET	PDT	Case=Gen	25	det	_	_
 24	50	50_0	NUM	CD	_	25	nummod	_	_
 25	اسماً	{isom_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	_
 26	رواجاً	rawAj_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	25	advmod	_	SpaceAfter=No
@@ -920,7 +920,7 @@
 # original_text = لكن أحد خبراء السفريات نبه إلى أن الإنترنت خلال رحلات الطيران كان لا يعول عليه وكان من المستبعد أن يؤثر على اختيار المسافرين لشركات الطيران.
 # text_en = But one travel expert warned in-flight internet was often unreliable and was unlikely to influence travellers' airline choices.
 1	لكن	l`kin~a_1	PART	RP	_	5	compound:prt	_	_
-2	أحد	>aHad_1	DET	PDT	Case=Acc	3	det:predet	_	_
+2	أحد	>aHad_1	DET	PDT	Case=Acc	3	det	_	_
 3	خبراء	xabiyr_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
 4	السفريات	safariy~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	_
 5	نبه	nab~ah_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -981,7 +981,7 @@
 25	الاعتماد	{iEotimAd_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	_
 26	علي	EalaY_1	ADP	IN	_	27	case	_	SpaceAfter=No
 27	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	25	nmod	_	_
-28	بعض	baEoD_1	DET	PDT	Case=Nom	29	det:predet	_	_
+28	بعض	baEoD_1	DET	PDT	Case=Nom	29	det	_	_
 29	الشيء	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	advmod	_	SpaceAfter=No
 30	.	._0	PUNCT	.	_	3	punct	_	_
 
@@ -1002,7 +1002,7 @@
 10	تقع	waqaE-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
 11	على	EalaY_1	ADP	IN	_	12	case	_	_
 12	عاتق	EAtiq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	_
-13	كل	kul~_1	DET	PDT	Case=Gen	14	det:predet	_	_
+13	كل	kul~_1	DET	PDT	Case=Gen	14	det	_	_
 14	شركة	$arikap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	_
 15	طيران	TayarAn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	_
 16	ل	l	ADP	IN	_	17	case	_	SpaceAfter=No
@@ -1025,7 +1025,7 @@
 # text_en = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
 1	قد	qado_1	PART	RP	_	2	compound:prt	_	_
 2	يجد	wajad-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-3	أغلب	>agolab_1	DET	PDT	Case=Nom	4	det:predet	_	_
+3	أغلب	>agolab_1	DET	PDT	Case=Nom	4	det	_	_
 4	الناس	nAs_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
 5	أن	>an~a_1	SCONJ	IN	_	13	mark	_	_
 6	"	"_0	PUNCT	``	_	7	punct	_	SpaceAfter=No
@@ -1111,7 +1111,7 @@
 # original_text = لكن بعض خبراء الأمن أثاروا تساؤلات بشأن الحاجة لهذه الدورة والغاية من ورائها.
 # text_en = But some security experts raised questions about the need for the course and the intent behind it.
 1	لكن	l`kin~a_1	PART	RP	_	5	compound:prt	_	_
-2	بعض	baEoD_1	DET	PDT	Case=Acc	3	det:predet	_	_
+2	بعض	baEoD_1	DET	PDT	Case=Acc	3	det	_	_
 3	خبراء	xabiyr_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	_
 4	الأمن	>amon_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 5	أثاروا	>avAr_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -1120,7 +1120,7 @@
 8	شأن	$a>on_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
 9	الحاجة	HAjap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 10	ل	l	ADP	IN	_	12	case	_	SpaceAfter=No
-11	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	12	det:predet	_	_
+11	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	12	det	_	_
 12	الدورة	daworap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 13	و	w	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	الغاية	gAyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	_
@@ -1140,7 +1140,7 @@
 4	من	min_1	ADP	IN	_	2	obl:tmod	_	_
 5	قبل	qabol_1	ADV	RB	_	4	fixed	_	_
 6	سوى	siwaY_1	PART	RP	_	8	compound:prt	_	_
-7	بعض	baEoD_1	DET	PDT	Case=Gen	8	det:predet	_	_
+7	بعض	baEoD_1	DET	PDT	Case=Gen	8	det	_	_
 8	المدونين	mudaw~an_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
 9	.	._0	PUNCT	.	_	2	punct	_	_
 
@@ -1156,7 +1156,7 @@
 5	س	s	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 6	تعرض	EaraD-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	_
 7	الصين	Siyn_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	6	nsubj	_	_
-8	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	9	det:predet	_	_
+8	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	9	det	_	_
 9	الأسبوع	>usobuwE_1	ADV	RB	_	6	obl:tmod	_	_
 10	العديد	Eadiyd_1	NOUN	NN	Case=Acc|Definite=Def	6	obj	_	_
 11	من	min_1	ADP	IN	_	12	case	_	_
@@ -1195,7 +1195,7 @@
 16	المقبل	muqobil_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
 17	,	,_0	PUNCT	,	_	3	punct	_	_
 18	يشكل	$ak~al_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-19	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	20	det:predet	_	_
+19	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	20	det	_	_
 20	المعرض	maEoriD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	_
 21	فرصةً	furoSap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	obj	_	_
 22	ل	l	ADP	IN	_	23	case	_	SpaceAfter=No
@@ -1427,7 +1427,7 @@
 1	ارتفعت	{irotafaE_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 2	الاستثمارات	{isotivomAr_2	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	_
 3	في	fiy_1	ADP	IN	_	5	case	_	_
-4	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	det:predet	_	_
+4	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	det	_	_
 5	المجال	majAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
 6	ارتفعت	{irotafaE_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	_
 7	ب	b	ADP	IN	_	8	case	_	SpaceAfter=No
@@ -1465,7 +1465,7 @@
 14	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	_
 15	الحالي	HAliy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	amod	_	_
 16	بعيدة	baEiyd_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	advcl	_	_
-17	كل	kul~_1	DET	PDT	Case=Gen	18	det:predet	_	_
+17	كل	kul~_1	DET	PDT	Case=Gen	18	det	_	_
 18	البعد	buEod_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
 19	عن	Ean_1	ADP	IN	_	20	case	_	_
 20	هدف	hadaf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	_
@@ -1537,7 +1537,7 @@
 1	من	min_1	ADP	IN	_	0	root	_	_
 2	المرجح	muraj~iH_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 3	أن	>ano_1	ADP	IN	_	7	mark	_	_
-4	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	5	det:predet	_	_
+4	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
 5	المادة	mAd~ap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
 6	النيزكية	nayozakiy~_1	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	_
 7	غنية	ganiy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	csubj	_	_
@@ -1568,7 +1568,7 @@
 15	يوماً	yawom_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 16	,	,_0	PUNCT	,	_	20	punct	_	_
 17	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
-18	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	19	det:predet	_	_
+18	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	19	det	_	_
 19	نسبة	nisobap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	20	nsubj	_	_
 20	أكبر	>akobar_2	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	conj	_	_
 21	قليلاً	qaliyl_1	ADV	RB	_	20	advmod	_	_
@@ -1595,7 +1595,7 @@
 2	النتائج	natiyjap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
 3	المستخلصة	musotaxolaS_1	NOUN	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	_
 4	من	min_1	ADP	IN	_	6	case	_	_
-5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det:predet	_	_
+5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
 6	التجربة	tajoribap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 7	تأكيداً	ta>okiyd_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
 8	إضافياً	<iDAfiy~_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	amod	_	_
@@ -1623,7 +1623,7 @@
 30	يكون	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	xcomp	_	_
 31	ل	l	ADP	IN	_	32	case	_	SpaceAfter=No
 32	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	30	obl	_	_
-33	أي	>ay~_1	DET	WDT	Case=Nom	34	det:predet	_	_
+33	أي	>ay~_1	DET	WDT	Case=Nom	34	det	_	_
 34	تأثيرات	ta>oviyr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	30	nsubj	_	_
 35	كبيرة	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	34	amod	_	_
 36	على	EalaY_1	ADP	IN	_	37	case	_	_
@@ -1708,7 +1708,7 @@
 15	كيميائية	kiymiyA}iy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	amod	_	_
 16	ل	l	ADP	IN	_	17	case	_	SpaceAfter=No
 17	إزالة	<izAlap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	_
-18	أي	>ay~_1	DET	WDT	Case=Gen	19	det:predet	_	_
+18	أي	>ay~_1	DET	WDT	Case=Gen	19	det	_	_
 19	أثرٍ	>avor_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	_
 20	ل	l	ADP	IN	_	21	case	_	SpaceAfter=No
 21	لقشور	qi$or_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	19	nmod	_	_
@@ -1857,7 +1857,7 @@
 7	الحظ	HaZ~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
 8	,	,_0	PUNCT	,	_	6	punct	_	_
 9	قال	qAl-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	ccomp	_	_
-10	أحد	>aHad_1	DET	PDT	Case=Nom	11	det:predet	_	SpaceAfter=No
+10	أحد	>aHad_1	DET	PDT	Case=Nom	11	det	_	SpaceAfter=No
 11	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	9	nsubj	_	_
 12	في	fiy_1	ADP	IN	_	13	case	_	_
 13	سوني	suwniy_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	9	obl	_	_
@@ -1889,7 +1889,7 @@
 7	تحرك	taHar~uk_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
 8	روسيا	ruwsiyA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	7	nmod:gmod	_	_
 9	في	fiy_1	ADP	IN	_	11	case	_	_
-10	شبه	$iboh_1	DET	PDT	Case=Gen	11	det:predet	_	_
+10	شبه	$iboh_1	DET	PDT	Case=Gen	11	det	_	_
 11	جزيرة	jaziyrap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 12	القرم	qarom_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
 13	عندما	Einod_1	ADP	IN	_	14	mark	_	_
@@ -1970,7 +1970,7 @@
 4	وقتٍ	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
 5	سابق	sAbiq_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	_
 6	من	min_1	ADP	IN	_	8	case	_	_
-7	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	8	det:predet	_	_
+7	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	8	det	_	_
 8	العام	EAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 9	على	EalaY_1	ADP	IN	_	10	case	_	_
 10	الجنسية	jinosiy~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
@@ -2038,7 +2038,7 @@
 11	غرافيتي	grAfyty_0	PROPN	NNP	Animacy=Nhum|Number=Sing	7	appos	_	SpaceAfter=No
 12	"	"_0	PUNCT	''	_	11	punct	_	_
 13	ب	b	ADP	IN	_	15	case	_	SpaceAfter=No
-14	عدة	Eid~ap_1	DET	PDT	Case=Gen	15	det:predet	_	_
+14	عدة	Eid~ap_1	DET	PDT	Case=Gen	15	det	_	_
 15	جوائز	jA}izap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	obl	_	_
 16	أوسكار	>uwsokAr_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	15	nmod:gmod	_	SpaceAfter=No
 17	,	,_0	PUNCT	,	_	3	punct	_	_
@@ -2162,7 +2162,7 @@
 14	راسخة	rAsix_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	amod	_	_
 15	و	w	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 16	يعارضون	EAraD_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	11	conj	_	_
-17	أي	>ay~_1	DET	WDT	Case=Acc	18	det:predet	_	_
+17	أي	>ay~_1	DET	WDT	Case=Acc	18	det	_	_
 18	تشريعٍ	ta$oriyE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	16	obj	_	_
 19	جديد	jadiyd_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
 20	.	._0	PUNCT	.	_	3	punct	_	_
@@ -2354,7 +2354,7 @@
 2	سوف	sawofa_1	PART	RP	_	3	compound:prt	_	_
 3	يوجه	waj~ah_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	_
 4	ترودو	trwdw_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	_
-5	تلك	*`lika_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	6	det:predet	_	_
+5	تلك	*`lika_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	6	det	_	_
 6	الدعوة	daEowap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	_
 7	إلى	<ilaY_1	ADP	IN	_	8	case	_	_
 8	الرئيس	ra}iys_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
@@ -2383,7 +2383,7 @@
 3	من	min_1	ADP	IN	_	1	fixed	_	_
 4	نشر	na$or_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	_
 5	صورة	Suwrap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
-6	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	7	det:predet	_	_
+6	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
 7	الصباح	SubAH_2	ADV	RB	_	4	obl:tmod	_	SpaceAfter=No
 8	,	,_0	PUNCT	,	_	4	punct	_	_
 9	تقول	qAl-u_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
@@ -2469,7 +2469,7 @@
 10	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 11	علاقةً	EalAqap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
 12	ب	b	ADP	IN	_	14	case	_	SpaceAfter=No
-13	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	14	det:predet	_	_
+13	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	14	det	_	_
 14	المدرسة	madorasap_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	_
 15	أو	>awo_1	CCONJ	CC	_	17	cc	_	_
 16	ب	b	ADP	IN	_	17	case	_	SpaceAfter=No
@@ -2607,7 +2607,7 @@
 16	يفرض	faraD-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	9	csubj	_	SpaceAfter=No
 17	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	obj	_	_
 18	على	EalaY_1	ADP	IN	_	20	case	_	_
-19	أحد	>aHad_1	DET	PDT	Case=Gen	20	det:predet	_	_
+19	أحد	>aHad_1	DET	PDT	Case=Gen	20	det	_	_
 20	الوكلاء	wakiyl_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	obl	_	_
 21	لا	lA_1	PART	RP	Polarity=Neg	22	advmod	_	_
 22	تزيد	zAd-i_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
@@ -2898,7 +2898,7 @@
 5	لا	lA_1	PART	RP	Polarity=Neg	6	advmod	_	_
 6	يملك	malak-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
 7	الأطباء	Tabiyb_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	_
-8	تلك	*`lika_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	9	det:predet	_	_
+8	تلك	*`lika_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
 9	الأدوات	>adAp_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
 10	,	,_0	PUNCT	,	_	14	punct	_	_
 11	لدي	ladaY_1	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -2930,7 +2930,7 @@
 10	مكنيلي	mknyly_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	9	flat	_	_
 11	تحقيق	taHoqiyq_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
 12	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
-13	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	14	det:predet	_	_
+13	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	14	det	_	_
 14	الأسبوع	>usobuwE_1	ADV	RB	_	1	obl:tmod	_	_
 15	بعد	baEod_1	ADP	IN	_	17	case	_	_
 16	أن	>ano_1	ADP	IN	_	17	mark	_	_
@@ -3071,11 +3071,11 @@
 11	مستويات	musotawaY_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	conj	_	_
 12	المكافآت	mukAfa>ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	_
 13	ل	l	ADP	IN	_	15	case	_	SpaceAfter=No
-14	كل	kul~_1	DET	PDT	Case=Gen	15	det:predet	_	_
+14	كل	kul~_1	DET	PDT	Case=Gen	15	det	_	_
 15	وزارة	wizArap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
 16	,	,_0	PUNCT	,	_	22	punct	_	_
 17	لكن	l`kin~a_1	ADP	IN	_	22	mark	_	_
-18	آخر	|xar_1	DET	PDT	Case=Acc	19	det:predet	_	_
+18	آخر	|xar_1	DET	PDT	Case=Acc	19	det	_	_
 19	منشور	mano$uwr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	22	nsubj	_	_
 20	على	EalaY_1	ADP	IN	_	21	case	_	_
 21	الإنترنت	<inotironit_1	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	_
@@ -3104,7 +3104,7 @@
 7	و	w	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	المكافآت	mukAfa>ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	conj	_	_
 9	ل	l	ADP	IN	_	11	case	_	SpaceAfter=No
-10	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	11	det:predet	_	_
+10	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	11	det	_	_
 11	العام	EAm~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 12	1,5	1,5_0	NUM	CD	_	14	nummod	_	_
 13	مليون	miloyuwn_1	NUM	CD	Case=Gen|Gender=Masc|Number=Plur	12	nummod	_	_
@@ -3210,7 +3210,7 @@
 15	ل	l	ADP	IN	_	16	case	_	SpaceAfter=No
 16	لحكومة	Hukuwmap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
 17	أو	>awo_1	CCONJ	CC	_	19	cc	_	_
-18	أي	>ay~_1	DET	WDT	Case=Gen	19	det:predet	_	_
+18	أي	>ay~_1	DET	WDT	Case=Gen	19	det	_	_
 19	مظهر	maZohar_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	conj	_	_
 20	من	min_1	ADP	IN	_	21	case	_	_
 21	مظاهر	maZohar_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	19	nmod	_	_
@@ -3262,7 +3262,7 @@
 19	المجلس	majolis_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	_
 20	عندما	Einod_1	ADP	IN	_	21	mark	_	_
 21	دفع	dafaE-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	16	advcl	_	_
-22	كل	kul~_1	DET	PDT	Case=Acc	23	det:predet	_	_
+22	كل	kul~_1	DET	PDT	Case=Acc	23	det	_	_
 23	التهم	tuhomap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	21	obj	_	_
 24	عن	Ean_1	ADP	IN	_	25	case	_	_
 25	دافي	dAfy_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
@@ -3281,7 +3281,7 @@
 6	من	min_1	ADP	IN	_	7	case	_	_
 7	مجرد	mujar~ad_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
 8	هواتف	hAtif_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	_
-9	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det:predet	_	_
+9	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det	_	_
 10	الأيام	yawom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 11	.	._0	PUNCT	.	_	5	punct	_	_
 
@@ -3291,7 +3291,7 @@
 # original_text = علقت إحدى مشتركات نظام الإنترنت غير المحدود من شركة ساسكتل قائلة: "هذا مذهل".
 # text_en = "It is amazing," reported SaskTel unlimited data customer Lindsay Gay last month.
 1	علقت	Eal~aq_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	إحدى	>aHad_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	إحدى	>aHad_1	DET	PDT	Case=Nom	3	det	_	_
 3	مشتركات	mu$otarik_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
 4	نظام	niZAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 5	الإنترنت	<inotironit_1	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	4	nmod:gmod	_	_
@@ -3355,7 +3355,7 @@
 # text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
 1	و	w	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 2	تتزامن	tazAman_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-3	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
 4	التقديرات	taqodiyr_2	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
 5	مع	maE_1	ADP	IN	_	6	case	_	_
 6	النسب	nisobap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	obl	_	_
@@ -3414,7 +3414,7 @@
 16	:	:_0	PUNCT	:	_	18	punct	_	_
 17	"	"_0	PUNCT	``	_	18	punct	_	SpaceAfter=No
 18	تساعد	sAEad_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
-19	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	20	det:predet	_	_
+19	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	20	det	_	_
 20	السلالة	sulAlap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	nsubj	_	_
 21	على	EalaY_1	ADP	IN	_	22	case	_	_
 22	التخفيف	taxofiyf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	_
@@ -3432,7 +3432,7 @@
 34	و	w	CCONJ	CC	_	35	cc	_	SpaceAfter=No
 35	يجعل	jaEal-a_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	28	conj	_	SpaceAfter=No
 36	ك	k	PRON	PRP	Case=Acc|Number=Sing|Person=2	35	obj	_	_
-37	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	38	det:predet	_	_
+37	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	38	det	_	_
 38	المنتج	munotaj_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	35	nsubj	_	_
 39	تنام	nAm-a_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	35	xcomp	_	_
 40	في	fiy_1	ADP	IN	_	41	case	_	_
@@ -3653,7 +3653,7 @@
 # original_text = هذا أكثر الأورام شيوعا عند الأجنة, ويظهر في واحد من كل 35000 مولود.
 # text_en = It is the most common tumour found in babies, occurring in one of every 35,000 births.
 1	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	أكثر	>akovar_2	DET	PDT	Case=Nom	3	det:predet	_	_
+2	أكثر	>akovar_2	DET	PDT	Case=Nom	3	det	_	_
 3	الأورام	waram_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
 4	شيوعاً	$uyuwE_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	advmod	_	_
 5	عند	Einod_1	ADP	IN	_	6	case	_	_
@@ -3664,7 +3664,7 @@
 10	في	fiy_1	ADP	IN	_	11	case	_	_
 11	واحدٍ	wAHid_1	NOUN	NN	Case=Gen|Definite=Ind	9	obl	_	_
 12	من	min_1	ADP	IN	_	15	case	_	_
-13	كل	kul~_1	DET	PDT	Case=Gen	15	det:predet	_	_
+13	كل	kul~_1	DET	PDT	Case=Gen	15	det	_	_
 14	35000	35000_0	NUM	CD	_	15	nummod	_	_
 15	مولود	mawoluwd_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 16	.	._0	PUNCT	.	_	3	punct	_	_
@@ -3729,15 +3729,15 @@
 8	مؤخراً	mu&ax~ar_1	ADV	RB	_	1	advmod	_	SpaceAfter=No
 9	:	:_0	PUNCT	:	_	13	punct	_	_
 10	"	"_0	PUNCT	``	_	13	punct	_	SpaceAfter=No
-11	بعض	baEoD_1	DET	PDT	Case=Nom	12	det:predet	_	_
+11	بعض	baEoD_1	DET	PDT	Case=Nom	12	det	_	_
 12	الرجال	rajul_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nsubj	_	_
 13	يتمتعون	tamat~aE_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
 14	ب	b	ADP	IN	_	15	case	_	SpaceAfter=No
 15	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	_
 16	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 17	بونو	bwnw_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	20	nsubj	_	_
-18	أحد	>aHad_1	DET	PDT	Case=Nom	20	det:predet	_	_
-19	أولئك	>uwlA}ika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	20	det:predet	_	_
+18	أحد	>aHad_1	DET	PDT	Case=Nom	20	det	_	_
+19	أولئك	>uwlA}ika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	20	det	_	_
 20	الرجال	rajul_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
 21	"	"_0	PUNCT	''	_	13	punct	_	SpaceAfter=No
 22	.	._0	PUNCT	.	_	1	punct	_	_
@@ -3850,7 +3850,7 @@
 # original_text = هدف هذه الجلسات للجنة الإذاعة والتلفزيون والاتصالات الكندية هو تطويق ردود الجمهور والجهات المعنية في القطاع.
 # text_en = The purpose of these CRTC hearings is to field responses from industry stakeholders and the public.
 1	هدف	hadaf_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	3	det	_	_
 3	الجلسات	jalosap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nmod	_	_
 4	ل	l	ADP	IN	_	5	case	_	SpaceAfter=No
 5	لجنة	lajonap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
@@ -3897,7 +3897,7 @@
 19	و	wa_1	CCONJ	CC	_	23	cc	_	SpaceAfter=No
 20	ـ	__0	SYM	SYM	_	23	dep	_	SpaceAfter=No
 21	ربما	rub~amA_1	ADV	RB	_	23	advmod	_	_
-22	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	23	det:predet	_	_
+22	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	23	det	_	_
 23	الأهم	>aham~_2	ADJ	JJR	Case=Nom|Definite=Def	13	conj	_	SpaceAfter=No
 24	ـ	__0	SYM	SYM	_	23	dep	_	_
 25	على	EalaY_1	ADP	IN	_	26	case	_	_
@@ -3911,7 +3911,7 @@
 # original_text = على كل حال, الإنترنت ليس رفاهية, بل ضرورة.
 # text_en = After all, the internet is not a luxury; it is an essential tool.
 1	على	EalaY_1	ADP	IN	_	3	case	_	_
-2	كل	kul~_1	DET	PDT	Case=Gen	3	det:predet	_	_
+2	كل	kul~_1	DET	PDT	Case=Gen	3	det	_	_
 3	حال	HAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	الإنترنت	<inotironit_1	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -3982,7 +3982,7 @@
 10	هيل	hiyol_1	PROPN	NNP	Animacy=Nhum|Number=Sing	9	flat	_	SpaceAfter=No
 11	,	,_0	PUNCT	,	_	2	punct	_	_
 12	ألقى	>aloqaY_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-13	أحد	>aHad_1	DET	PDT	Case=Nom	14	det:predet	_	SpaceAfter=No
+13	أحد	>aHad_1	DET	PDT	Case=Nom	14	det	_	SpaceAfter=No
 14	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	12	nsubj	_	_
 15	قنبلة	qunobulap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	obj	_	_
 16	حارقة	HAriq_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	amod	_	_
@@ -4088,7 +4088,7 @@
 4	الجمهوريين	jumohuwriy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	_
 5	من	min_1	ADP	IN	_	6	case	_	_
 6	أخذ	>axo*_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det:predet	_	_
+7	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det	_	_
 8	البيانات	bayAn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	_
 9	ك	k	ADP	IN	_	10	case	_	SpaceAfter=No
 10	دليلٍ	daliyl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	_
@@ -4127,7 +4127,7 @@
 19	لتطورات	taTaw~ur_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	_
 20	المؤسسية	mu&as~asiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	_
 21	خلال	xilAl_1	ADP	IN	_	23	case	_	_
-22	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det:predet	_	_
+22	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det	_	_
 23	الفترتين	fatorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Dual	19	nmod	_	_
 24	تأثيراتٌ	ta>oviyr_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	17	nsubj	_	_
 25	طويلة	Tawiyl_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	24	amod	_	_
@@ -4288,7 +4288,7 @@
 12	أكثر	>akovar_2	ADJ	JJR	Case=Acc|Definite=Ind	11	amod	_	_
 13	إزعاجاً	<izoEAj_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	advmod	_	_
 14	من	min_1	ADP	IN	_	16	case	_	_
-15	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	16	det:predet	_	_
+15	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	16	det	_	_
 16	الهراء	hurA'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 17	.	._0	PUNCT	.	_	8	punct	_	_
 
@@ -4303,7 +4303,7 @@
 4	يرغبون	ragib-a_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	3	acl:relcl	_	_
 5	ب	b	ADP	IN	_	6	case	_	SpaceAfter=No
 6	فعل	fiEol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	_
-7	عدة	Eid~ap_1	DET	PDT	Case=Gen	8	det:predet	_	_
+7	عدة	Eid~ap_1	DET	PDT	Case=Gen	8	det	_	_
 8	أشياء	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 9	.	._0	PUNCT	.	_	3	punct	_	_
 
@@ -4626,7 +4626,7 @@
 # text = كل خريطة في المعرض تروي قصتها الخاصة, وليست كلها واقعية.
 # original_text = كل خريطة في المعرض تروي قصتها الخاصة, وليست كلها واقعية.
 # text_en = Each map in the exhibition tells its own story, not all factual.
-1	كل	kul~_1	DET	PDT	Case=Nom	2	det:predet	_	_
+1	كل	kul~_1	DET	PDT	Case=Nom	2	det	_	_
 2	خريطة	xariyTap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	في	fiy_1	ADP	IN	_	4	case	_	_
 4	المعرض	maEoriD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -4637,7 +4637,7 @@
 9	,	,_0	PUNCT	,	_	14	punct	_	_
 10	و	w	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 11	ليست	layosa_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	_
-12	كل	kul~_1	DET	PDT	Case=Nom	13	det:predet	_	SpaceAfter=No
+12	كل	kul~_1	DET	PDT	Case=Nom	13	det	_	SpaceAfter=No
 13	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
 14	واقعية	wAqiEiy~ap_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
 15	.	._0	PUNCT	.	_	5	punct	_	_
@@ -4729,7 +4729,7 @@
 4	وولمار	wlmAr_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	flat	_	_
 5	الذي	Al~a*iy_1	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 6	ألف	>al~af_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	_
-7	عدة	Eid~ap_1	DET	PDT	Case=Acc	8	det:predet	_	_
+7	عدة	Eid~ap_1	DET	PDT	Case=Acc	8	det	_	_
 8	كتب	kitAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	_
 9	عن	Ean_1	ADP	IN	_	10	case	_	_
 10	تاريخ	tAriyx_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
@@ -4953,7 +4953,7 @@
 # original_text = حوى أحد منشوراتهم الفيسبوكية الحزينة على عبارة من شأنها أن تسعد كريس: "لم أعرف شخصا أفريقيا أكثر منك".
 # text_en = One of their many grieving Facebook posts has a line which would have delighted Chris: “More African than you, I have not known.”
 1	حوى	HawaY-i_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	أحد	>aHad_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	أحد	>aHad_1	DET	PDT	Case=Nom	3	det	_	_
 3	منشورات	mano$uwr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
 4	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	3	nmod	_	_
 5	الفيسبوكية	fysbwkyh_0	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	_
@@ -5062,7 +5062,7 @@
 # text_en = He has got that hard edge to his game but also the soft hands.
 1	لدي	ladaY_1	ADP	IN	_	0	root	_	SpaceAfter=No
 2	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	1	obj	_	_
-3	تلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	تلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
 4	الشراسة	$arAsap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 5	في	fiy_1	ADP	IN	_	6	case	_	_
 6	اللعب	luEobap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
@@ -5455,11 +5455,11 @@
 14	إلى	<ilaY_1	ADP	IN	_	15	case	_	_
 15	شخصٍ	$axoS_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	_
 16	ب	b	ADP	IN	_	18	case	_	SpaceAfter=No
-17	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	18	det:predet	_	_
+17	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	18	det	_	_
 18	العنصرية	EunoSuriy~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	_
 19	و	w	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 20	ب	b	ADP	IN	_	22	case	_	SpaceAfter=No
-21	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	22	det:predet	_	_
+21	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	22	det	_	_
 22	التمييز	tamoyiyz_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	conj	_	_
 23	ضد	Did~_1	ADP	IN	_	24	case	_	_
 24	النساء	nisA'_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	_
@@ -5493,13 +5493,13 @@
 13	الممكن	mumokin_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	_
 14	السيطرة	sayoTarap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	_
 15	على	EalaY_1	ADP	IN	_	17	case	_	_
-16	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det:predet	_	_
+16	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det	_	_
 17	الاقتراض	{iqotirAD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	_
 18	الآن	|n_1	ADV	RB	_	14	obl:tmod	_	SpaceAfter=No
 19	,	,_0	PUNCT	,	_	28	punct	_	_
 20	ف	f	PART	RP	_	28	compound:prt	_	SpaceAfter=No
 21	إن	<in~a_1	PART	RP	_	28	compound:prt	_	_
-22	أي	>ay~_1	DET	WDT	Case=Acc	23	det:predet	_	_
+22	أي	>ay~_1	DET	WDT	Case=Acc	23	det	_	_
 23	تغيير	tagoyiyr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	28	nsubj	_	_
 24	مفاجئ	mufAji}_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	23	amod	_	_
 25	في	fiy_1	ADP	IN	_	26	case	_	_
@@ -5547,7 +5547,7 @@
 # original_text = في هذا السياق, فإن شجب التجارة منطقي.
 # text_en = In this context, railing against trade makes sense.
 1	في	fiy_1	ADP	IN	_	3	case	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
 3	السياق	siyAq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	ف	f	PART	RP	_	9	compound:prt	_	SpaceAfter=No
@@ -5719,7 +5719,7 @@
 19	شكلٍ	$akol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	_
 20	طبيعيٍ	TabiyEiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	19	amod	_	_
 21	إلى	<ilaY_1	ADP	IN	_	23	case	_	_
-22	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det:predet	_	_
+22	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det	_	_
 23	المعدن	maEodin_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	_
 24	المهم	muhim~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
 25	.	._0	PUNCT	.	_	2	punct	_	_
@@ -5787,7 +5787,7 @@
 19	يواصل	wASal_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	conj	_	_
 20	الاحتجاج	{iHotijAj_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	_
 21	ضد	Did~_1	ADP	IN	_	23	case	_	_
-22	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det:predet	_	_
+22	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det	_	_
 23	الحقيقة	Haqiyqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 24	.	._0	PUNCT	.	_	4	punct	_	_
 
@@ -5825,7 +5825,7 @@
 1	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	مريعٌ	muriyE_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 3	ب	b	ADP	IN	_	5	case	_	SpaceAfter=No
-4	كل	kul~_1	DET	PDT	Case=Gen	5	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Gen	5	det	_	_
 5	تأكيد	ta>okiyd_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 6	.	._0	PUNCT	.	_	2	punct	_	_
 
@@ -5865,7 +5865,7 @@
 9	و	w	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	الألوان	lawon_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	conj	_	_
 11	ل	l	ADP	IN	_	13	case	_	SpaceAfter=No
-12	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	det:predet	_	_
+12	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	det	_	_
 13	السبب	sabab_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 14	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -6017,7 +6017,7 @@
 9	,	,_0	PUNCT	,	_	7	punct	_	_
 10	ظل	Zal~-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	_
 11	وجه	wajoh_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	_
-12	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	13	det:predet	_	_
+12	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	13	det	_	_
 13	المرأة	maro>ap_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	_
 14	يظهر	>aZohar_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	xcomp	_	_
 15	ل	li-_1	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -6057,7 +6057,7 @@
 13	التي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	14	nsubj	_	_
 14	تفي	wafaY-i_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	acl:relcl	_	_
 15	ب	b	ADP	IN	_	17	case	_	SpaceAfter=No
-16	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det:predet	_	_
+16	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det	_	_
 17	الغرض	garaD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	_
 18	ل	l	ADP	IN	_	14	case	_	SpaceAfter=No
 19	أن	>an~a_1	SCONJ	IN	_	22	mark	_	SpaceAfter=No
@@ -6199,7 +6199,7 @@
 # original_text = بهذا الصدد, ستكون هناك مسألة واحدة في جدول الأعمال يوم السبت, عندما تبدأ الدول المتقدمة بالتشكيك ببعضها البعض علنا بخصوص خططها وطموحاتها.
 # text_en = On this, one diary point in Morocco will be the middle Saturday, when developed countries get to publicly question each other about their plans and ambitions.
 1	ب	b	ADP	IN	_	3	case	_	SpaceAfter=No
-2	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
 3	الصدد	Sadad_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	س	s	PART	RP	_	6	compound:prt	_	SpaceAfter=No
@@ -6220,7 +6220,7 @@
 20	ب	b	ADP	IN	_	21	case	_	SpaceAfter=No
 21	التشكيك	ta$okiyk_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	_
 22	ب	b	ADP	IN	_	24	case	_	SpaceAfter=No
-23	بعض	baEoD_1	DET	PDT	Case=Gen	24	det:predet	_	SpaceAfter=No
+23	بعض	baEoD_1	DET	PDT	Case=Gen	24	det	_	SpaceAfter=No
 24	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	21	nmod	_	_
 25	البعض	baEoD_1	NOUN	NN	Case=Gen|Definite=Def	24	appos	_	_
 26	علناً	Ealan_1	ADV	RB	_	21	advmod	_	_
@@ -6269,7 +6269,7 @@
 29	مكانة	makAnap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	27	nsubj	_	_
 30	فعلية	fiEoliy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	29	amod	_	_
 31	في	fiy_1	ADP	IN	_	33	case	_	_
-32	أي	>ay~_1	DET	WDT	Case=Gen	33	det:predet	_	_
+32	أي	>ay~_1	DET	WDT	Case=Gen	33	det	_	_
 33	مشروع	ma$oruwE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
 34	"	"_0	PUNCT	''	_	10	punct	_	SpaceAfter=No
 35	.	._0	PUNCT	.	_	1	punct	_	_
@@ -6386,7 +6386,7 @@
 22	إلى	<ilaY_1	ADP	IN	_	23	case	_	_
 23	الكثير	kaviyr_2	NOUN	NN	Case=Gen|Definite=Def	19	nmod	_	_
 24	من	min_1	ADP	IN	_	26	case	_	_
-25	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	26	det:predet	_	_
+25	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	26	det	_	_
 26	الأسواق	suwq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	23	nmod	_	_
 27	إذا	<i*A_1	ADP	IN	_	29	mark	_	_
 28	كنت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|Voice=Act	29	aux	_	_
@@ -6529,7 +6529,7 @@
 12	التشويش	ta$owiy$_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
 13	,	,_0	PUNCT	,	_	17	punct	_	_
 14	و	w	CCONJ	CC	_	17	cc	_	SpaceAfter=No
-15	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	16	det:predet	_	_
+15	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	16	det	_	_
 16	مفهومٌ	mafohuwm_2	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	17	nsubj:pass	_	_
 17	يعرف	Earaf-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	2	conj	_	_
 18	ب	b	ADP	IN	_	19	case	_	SpaceAfter=No
@@ -6565,7 +6565,7 @@
 18	جداً	jid~_1	ADV	RB	_	17	advmod	_	_
 19	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	غطت	gaT~aY_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	12	conj	_	_
-21	كل	kul~_1	DET	PDT	Case=Acc	22	det:predet	_	_
+21	كل	kul~_1	DET	PDT	Case=Acc	22	det	_	_
 22	ولايات	wilAyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	20	obj	_	_
 23	الاتحاد	{it~iHAd_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	_
 24	تقريباً	taqoriyb_1	ADV	RB	_	23	advmod	_	Proper=True|SpaceAfter=No
@@ -6635,7 +6635,7 @@
 # original_text = في كل محطة, هناك حارس يرتدي قبعة حمراء ويقف على منصة, وفاحص للعجلات يجول على طول القطار حاملا مطرقة يطرق بها بلطف على عجلات القطار.
 # text_en = At each station, a red-capped guard presides over the platform and a wheel-tapper walks along the train with a hammer, gently knocking the undercarriage.
 1	في	fiy_1	ADP	IN	_	3	case	_	_
-2	كل	kul~_1	DET	PDT	Case=Gen	3	det:predet	_	_
+2	كل	kul~_1	DET	PDT	Case=Gen	3	det	_	_
 3	محطة	maHaT~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	هناك	hunAka_1	ADV	RB	_	0	root	_	_
@@ -6727,7 +6727,7 @@
 # text_en = The intervention is potentially the most far-reaching by Beijing since the 1997 handover of Hong Kong from the UK.
 1	قد	qado_1	PART	RP	_	6	compound:prt	_	_
 2	يكون	kAn-u_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	cop	_	_
-3	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	4	det:predet	_	_
+3	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
 4	التدخل	tadax~ul_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 5	هو	huwa_1	PRON	PRP	Gender=Masc|Number=Sing|Person=3	4	dep	_	_
 6	الأوسع	>awosaE_2	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
@@ -6948,11 +6948,11 @@
 # original_text = كان هذا هو الحال بكل تأكيد بالنسبة إلى آندي عندما لعب ضد بينوا بيير في مونت كارلو في نيسان الماضي.
 # text_en = That was definitely the case for Andy when he played Benoît Paire in Monte Carlo in April.
 1	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	4	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
 3	هو	huwa_1	PRON	PRP	Gender=Masc|Number=Sing|Person=3	4	dep	_	_
 4	الحال	HAl_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 5	ب	b	ADP	IN	_	7	case	_	SpaceAfter=No
-6	كل	kul~_1	DET	PDT	Case=Gen	7	det:predet	_	_
+6	كل	kul~_1	DET	PDT	Case=Gen	7	det	_	_
 7	تأكيد	ta>okiyd_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 8	ب	b	ADP	IN	_	11	case	_	SpaceAfter=No
 9	النسبة	nisobap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	fixed	_	_
@@ -6979,7 +6979,7 @@
 1	لكن	l`kin~a_1	PART	RP	_	3	compound:prt	_	_
 2	الآن	|n_1	ADV	RB	_	3	obl:tmod	_	_
 3	بات	bAt-i_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-4	كل	kul~_1	DET	PDT	Case=Nom	5	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Nom	5	det	_	_
 5	شيء	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
 6	يفتقد	{ifotaqad_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	_	_
 7	إلى	<ilaY_1	ADP	IN	_	8	case	_	_
@@ -7645,7 +7645,7 @@
 1	تعرض	taEar~aD_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 2	أربعة	>arobaE_1	NUM	CD	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
 3	من	min_1	ADP	IN	_	6	case	_	_
-4	كل	kul~_1	DET	PDT	Case=Gen	6	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Gen	6	det	_	_
 5	10	10_0	NUM	CD	_	6	nummod	_	_
 6	أشخاص	$axoS_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	2	nmod	_	_
 7	بالغين	bAlig_2	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	amod	_	_
@@ -7659,7 +7659,7 @@
 15	يستخف	{isotaxaf~_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	_
 16	تسعة	tisoE_1	NUM	CD	Case=Acc|Gender=Fem|Number=Plur	15	nsubj	_	_
 17	من	min_1	ADP	IN	_	20	case	_	_
-18	كل	kul~_1	DET	PDT	Case=Gen	20	det:predet	_	_
+18	كل	kul~_1	DET	PDT	Case=Gen	20	det	_	_
 19	10	10_0	NUM	CD	_	20	nummod	_	_
 20	أشخاص	$axoS_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	nmod	_	_
 21	ب	b	ADP	IN	_	22	case	_	SpaceAfter=No
@@ -7723,7 +7723,7 @@
 8	الستينيات	sit~iyniy~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	_
 9	في	fiy_1	ADP	IN	_	10	case	_	_
 10	دور	dawor_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-11	إحدى	>aHad_1	DET	PDT	Case=Gen	12	det:predet	_	_
+11	إحدى	>aHad_1	DET	PDT	Case=Gen	12	det	_	_
 12	رفقاء	rafiyq_2	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	_
 13	اللجوء	lujuw'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
 14	في	fiy_1	ADP	IN	_	15	case	_	_
@@ -7749,12 +7749,12 @@
 1	من	min_1	ADP	IN	_	3	advmod	_	_
 2	أين	>ayona_1	ADV	WRB	_	1	fixed	_	_
 3	تستمد	{isotamad~_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	_
-4	كل	kul~_1	DET	PDT	Case=Acc	6	det:predet	_	_
-5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Acc	6	det	_	_
+5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
 6	الطاقة	TAqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 7	؟	?_0	PUNCT	.	_	10	punct	_	_
 8	أو	>awo_1	CCONJ	CC	_	10	cc	_	_
-9	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	10	det:predet	_	_
+9	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	10	det	_	_
 10	الصوت	Sawot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	_
 11	الذي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	12	nsubj	_	_
 12	يخرج	xaraj-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	acl:relcl	_	_
@@ -7802,7 +7802,7 @@
 10	كي	kayo_1	ADP	IN	_	11	mark	_	_
 11	تؤدي	>ad~aY_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	advcl	_	_
 12	ب	b	ADP	IN	_	14	case	_	SpaceAfter=No
-13	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	14	det:predet	_	_
+13	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	14	det	_	_
 14	الشكل	$akol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	_
 15	الرائع	rA}iE_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
 16	؟	?_0	PUNCT	.	_	2	punct	_	_
@@ -8004,7 +8004,7 @@
 7	الذي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	9	mark	_	_
 8	لا	lA_1	PART	RP	Polarity=Neg	9	advmod	_	_
 9	يملك	malak-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-10	معظم	muEoZam_1	DET	PDT	Case=Nom	11	det:predet	_	SpaceAfter=No
+10	معظم	muEoZam_1	DET	PDT	Case=Nom	11	det	_	SpaceAfter=No
 11	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
 12	خبرةً	xiborap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	_
 13	ب	b	ADP	IN	_	14	case	_	SpaceAfter=No
@@ -8048,7 +8048,7 @@
 # original_text = كان كل المسعفين مسلحين, إلا أنا.
 # text_en = All the medics were armed, except me.
 1	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
-2	كل	kul~_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	كل	kul~_1	DET	PDT	Case=Nom	3	det	_	_
 3	المسعفين	musoEif_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
 4	مسلحين	musal~aH_2	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	7	punct	_	_
@@ -8156,7 +8156,7 @@
 6	الأول	>aw~al_2	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	amod	_	Proper=True
 7	1832	1832_0	NUM	CD	_	5	obl:tmod	_	_
 8	في	fiy_1	ADP	IN	_	10	case	_	_
-9	إحدى	>aHad_1	DET	PDT	Case=Gen	10	det:predet	_	_
+9	إحدى	>aHad_1	DET	PDT	Case=Gen	10	det	_	_
 10	القرى	qaroyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	obl	_	_
 11	القريبة	qariyb_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	_
 12	من	min_1	ADP	IN	_	13	case	_	_
@@ -8217,7 +8217,7 @@
 5	,	,_0	PUNCT	,	_	9	punct	_	_
 6	و	w	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 7	هو	huwa_1	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
-8	أحد	>aHad_1	DET	PDT	Case=Nom	9	det:predet	_	_
+8	أحد	>aHad_1	DET	PDT	Case=Nom	9	det	_	_
 9	معالم	maEolam_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	advcl	_	_
 10	لندن	lanodan_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	9	nmod:gmod	_	SpaceAfter=No
 11	,	,_0	PUNCT	,	_	9	punct	_	_
@@ -8538,7 +8538,7 @@
 4	حجر	Hajar_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
 5	الأساس	>asAs_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 6	ل	l	ADP	IN	_	8	case	_	SpaceAfter=No
-7	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det:predet	_	_
+7	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det	_	_
 8	الانتخابات	{inotixAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 9	.	._0	PUNCT	.	_	4	punct	_	_
 
@@ -8629,7 +8629,7 @@
 21	وقتٍ	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	_
 22	سابق	sAbiq_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	21	amod	_	_
 23	من	min_1	ADP	IN	_	25	case	_	_
-24	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	25	det:predet	_	_
+24	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	25	det	_	_
 25	الأسبوع	>usobuwE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 26	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -9000,7 +9000,7 @@
 # original_text = كأحد أهم رجال نيغان (جيفري دين مورغان), لديه حرية التصرف في أمور معينة.
 # text_en = As one of Negan's (Jeffrey Dean Morgan) top guys, he's afforded certain freedoms.
 1	ك	k	ADP	IN	_	3	case	_	SpaceAfter=No
-2	أحد	>aHad_1	DET	PDT	Case=Gen	3	det:predet	_	_
+2	أحد	>aHad_1	DET	PDT	Case=Gen	3	det	_	_
 3	أهم	>aham~_2	ADJ	JJR	Case=Gen|Definite=Def	12	nmod	_	_
 4	رجال	rajul_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	obl	_	_
 5	نيغان	nygAn_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	4	nmod:gmod	_	_
@@ -9025,7 +9025,7 @@
 # original_text = نورمان أحد أقرب رفاقي إلي, لذا من السيئ جدا رؤيته في تلك الحالة العاطفية.
 # text_en = "Norman is one of my good buddies, so it totally sucked to see him in that emotional state."
 1	نورمان	nuwromAn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	أحد	>aHad_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	أحد	>aHad_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	أقرب	>aqorab_1	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	_
 4	رفاق	rifoqap_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
 5	ي	y	PRON	PRP	Case=Gen|Number=Sing|Person=1	4	nmod	_	_
@@ -9039,7 +9039,7 @@
 13	رؤيت	ru&oyap_1	NOUN	VBG	Case=Nom|Definite=Def|Gender=Fem	11	nsubj	_	SpaceAfter=No
 14	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	obj	_	_
 15	في	fiy_1	ADP	IN	_	17	case	_	_
-16	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	17	det:predet	_	_
+16	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	17	det	_	_
 17	الحالة	HAlap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	_
 18	العاطفية	EATifiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
 19	.	._0	PUNCT	.	_	3	punct	_	_
@@ -9221,7 +9221,7 @@
 # original_text = أبرزت هذه الخطوة رغبة الشركة بأن يبدأ المستخدمون بالنظر إلى منتجاتها على أنها أكثر من مجرد أدوات إنتاج.
 # text_en = The move highlighted the company's desire for users to start thinking of its products as more than just productivity tools.
 1	أبرزت	>aboraz_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
 3	الخطوة	xaTowap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	رغبة	ragobap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
 5	الشركة	$arikap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
@@ -9511,7 +9511,7 @@
 5	المطاف	maTAf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 6	أن	>an~a_1	SCONJ	IN	_	7	mark	_	_
 7	ينافس	nAfas_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
-8	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	9	det:predet	_	_
+8	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	9	det	_	_
 9	الحدث	Hadav_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	كرنفال	krnfAl_0	PROPN	NNP	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
 11	البرازيل	barAziyl_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
@@ -9529,7 +9529,7 @@
 5	,	,_0	PUNCT	,	_	9	punct	_	_
 6	و	w	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 7	هي	hiya_1	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	_
-8	إحدى	>aHad_1	DET	PDT	Case=Nom	9	det:predet	_	_
+8	إحدى	>aHad_1	DET	PDT	Case=Nom	9	det	_	_
 9	المخرجين	muxorij_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	advcl	_	_
 10	الفنيين	fan~iy~_2	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	amod	_	_
 11	ل	l	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -9680,7 +9680,7 @@
 5	رؤية	ru&oyap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
 6	العاصمة	EASimap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 7	في	fiy_1	ADP	IN	_	9	case	_	_
-8	كامل	kAmil_1	DET	PDT	Case=Gen	9	det:predet	_	Proper=True
+8	كامل	kAmil_1	DET	PDT	Case=Gen	9	det	_	Proper=True
 9	أبهت	>ub~ahap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 10	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	9	nmod	_	SpaceAfter=No
 11	,	,_0	PUNCT	,	_	2	punct	_	_
@@ -9725,7 +9725,7 @@
 # text_en = Not all transformations in the region have been successful.
 1	لم	lamo_1	PART	RP	Polarity=Neg	2	advmod	_	_
 2	تلق	laqiy-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	كل	kul~_1	DET	PDT	Case=Nom	4	det:predet	_	_
+3	كل	kul~_1	DET	PDT	Case=Nom	4	det	_	_
 4	وسائل	wasiylap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	nsubj	_	_
 5	المواصلات	muwASalap_2	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	nmod	_	_
 6	في	fiy_1	ADP	IN	_	7	case	_	_
@@ -9753,7 +9753,7 @@
 13	مترو	mitoruw_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj:pass	_	_
 14	بيونغ	yuwnog_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	13	nmod:gmod	_	_
 15	يانغ	yAng_1	X	GW	_	14	goeswith	_	Proper=True
-16	أحد	>aHad_1	DET	PDT	Case=Gen	17	det:predet	_	_
+16	أحد	>aHad_1	DET	PDT	Case=Gen	17	det	_	_
 17	أكثر	>akovar_2	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	_
 18	أنظمة	niZAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	_
 19	المواصلات	muwASalap_2	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	18	nmod	_	_
@@ -9873,7 +9873,7 @@
 16	ب	b	ADP	IN	_	17	case	_	SpaceAfter=No
 17	التمثال	timovAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	obl	_	_
 18	و	w	CCONJ	CC	_	23	cc	_	SpaceAfter=No
-19	كل	kul~_1	DET	PDT	Case=Nom	20	det:predet	_	_
+19	كل	kul~_1	DET	PDT	Case=Nom	20	det	_	_
 20	تفصيلٍ	tafoSiyl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	23	nsubj	_	_
 21	في	fiy_1	ADP	IN	_	22	case	_	SpaceAfter=No
 22	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	20	nmod	_	_
@@ -10062,7 +10062,7 @@
 3	على	EalaY_1	ADP	IN	_	4	case	_	_
 4	الجزر	jaziyrap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	nmod	_	_
 5	الصحراوية	SaHorAwiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	_
-6	تلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	7	det:predet	_	_
+6	تلك	*`lika_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	7	det	_	_
 7	الجزر	jaziyrap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
 8	الصغيرة	Sagiyr_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	_
 9	الموجودة	mawojuwd_1	ADJ	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	7	ccomp	_	_
@@ -10404,7 +10404,7 @@
 5	قبولاً	qabuwl_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	advmod	_	_
 6	من	min_1	ADP	IN	_	9	case	_	_
 7	بين	bayona_1	ADP	IN	_	6	fixed	_	_
-8	جميع	jamiyE_1	DET	PDT	Case=Gen	9	det:predet	_	_
+8	جميع	jamiyE_1	DET	PDT	Case=Gen	9	det	_	_
 9	تصنيفات	taSoniyf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
 10	الكتل	kutolap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	_
 11	الهوائية	hawA}iy~_2	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
@@ -10440,7 +10440,7 @@
 23	إجمالية	<ijomAliy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	21	amod	_	_
 24	استناداً	{isotinAd_1	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	16	advcl	_	_
 25	إلى	<ilaY_1	ADP	IN	_	27	case	_	_
-26	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	27	det:predet	_	_
+26	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	27	det	_	_
 27	الفكرة	fikorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	24	obl	_	_
 28	عام	EAm_1	ADV	RB	_	16	obl:tmod	_	_
 29	1973	1973_0	NUM	CD	Case=Gen	28	obl	_	SpaceAfter=No
@@ -10461,7 +10461,7 @@
 8	و	w	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	تستمر	{isotamar~_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	conj	_	_
 10	ل	l	ADP	IN	_	12	case	_	SpaceAfter=No
-11	عدة	Eid~ap_1	DET	PDT	Case=Gen	12	det:predet	_	_
+11	عدة	Eid~ap_1	DET	PDT	Case=Gen	12	det	_	_
 12	أشهر	$ahor_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
 13	,	,_0	PUNCT	,	_	14	punct	_	_
 14	معلنةً	muEolin_1	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	9	ccomp	_	_
@@ -10784,7 +10784,7 @@
 13	في	fiy_1	ADP	IN	_	14	case	_	_
 14	جزءٍ	juzo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	_
 15	من	min_1	ADP	IN	_	17	case	_	_
-16	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det:predet	_	_
+16	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det	_	_
 17	النظام	niZAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	_
 18	أن	>ano_1	ADP	IN	_	19	mark	_	_
 19	تكبر	kabur-u_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	csubj	_	_
@@ -10828,7 +10828,7 @@
 # text = أحد الأمثلة الأخيرة على التحكم بالطقس كانت استعدادات الصين من أجل الألعاب الأولمبية الصيفية لعام 2008.
 # original_text = أحد الأمثلة الأخيرة على التحكم بالطقس كانت استعدادات الصين من أجل الألعاب الأولمبية الصيفية لعام 2008.
 # text_en = A recent example of weather control was China's preparation for the 2008 Summer Olympic Games.
-1	أحد	>aHad_1	DET	PDT	Case=Nom	2	det:predet	_	_
+1	أحد	>aHad_1	DET	PDT	Case=Nom	2	det	_	_
 2	الأمثلة	mivAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	nsubj	_	_
 3	الأخيرة	>axiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	_
 4	على	EalaY_1	ADP	IN	_	5	case	_	_
@@ -11354,7 +11354,7 @@
 9	تنتهي	{inotahaY_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 10	ب	b	ADP	IN	_	11	case	_	SpaceAfter=No
 11	موت	mawot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	_
-12	أحد	>aHad_1	DET	PDT	Case=Gen	13	det:predet	_	_
+12	أحد	>aHad_1	DET	PDT	Case=Gen	13	det	_	_
 13	فحلي	Haloy_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Dual	11	nmod	_	_
 14	الخيل	xayol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 15	.	._0	PUNCT	.	_	9	punct	_	_
@@ -11402,7 +11402,7 @@
 # original_text = كان هذا التراجع بمثابة مفاجأة للجيش النمساوي-البروسي, ونجح كل الجيش الدنماركي تقريبا في إتمام الإخلاء.
 # text_en = This retreat came as a surprise to the Austro-Prussian army, and almost all of the Danish army succeeded in completing the evacuation.
 1	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	التراجع	tarAjuE_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	ب	b	ADP	IN	_	5	case	_	SpaceAfter=No
 5	مثابة	mavAbap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	_
@@ -11415,7 +11415,7 @@
 12	,	,_0	PUNCT	,	_	14	punct	_	_
 13	و	w	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	نجح	najaH-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	_
-15	كل	kul~_1	DET	PDT	Case=Nom	16	det:predet	_	_
+15	كل	kul~_1	DET	PDT	Case=Nom	16	det	_	_
 16	الجيش	jayo$_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	_
 17	الدنماركي	danimArokiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	amod	_	_
 18	تقريباً	taqoriyb_1	ADV	RB	_	14	advmod	_	_
@@ -11506,7 +11506,7 @@
 5	حوزة	Hawozap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
 6	الألمان	>alomAniy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	_
 7	منذ	muno*u_1	ADP	IN	_	9	case	_	_
-8	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	9	det:predet	_	_
+8	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	9	det	_	_
 9	الحين	Hiyn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 10	.	._0	PUNCT	.	_	2	punct	_	_
 
@@ -11580,7 +11580,7 @@
 4	ب	b	ADP	IN	_	10	mark	_	SpaceAfter=No
 5	حيث	Hayovu_1	ADP	IN	_	4	fixed	_	_
 6	تعد	Ead~-u_1	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	10	cop	_	_
-7	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	8	det:predet	_	_
+7	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	8	det	_	_
 8	السهول	sahol_2	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
 9	أحياناً	Hiyn_1	ADV	RB	_	10	advmod	_	_
 10	جزءاً	juzo'_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	advcl	_	_
@@ -11778,7 +11778,7 @@
 17	النخيل	naxol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	_
 18	في	fiy_1	ADP	IN	_	19	case	_	_
 19	طقوس	Taqos_2	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
-20	أحد	>aHad_1	DET	PDT	Case=Gen	21	det:predet	_	_
+20	أحد	>aHad_1	DET	PDT	Case=Gen	21	det	_	_
 21	الشعانين	$aEoniynap_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
 22	.	._0	PUNCT	.	_	4	punct	_	_
 
@@ -11922,7 +11922,7 @@
 16	و	w	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	البو	bw_0	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 18	,	,_0	PUNCT	,	_	9	punct	_	_
-19	جميع	jamiyE_1	DET	PDT	Case=Nom	20	det:predet	_	SpaceAfter=No
+19	جميع	jamiyE_1	DET	PDT	Case=Nom	20	det	_	SpaceAfter=No
 20	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	21	nsubj	_	_
 21	تنبع	nabaE-uia_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	parataxis	_	_
 22	من	min_1	ADP	IN	_	23	case	_	_
@@ -12082,7 +12082,7 @@
 2	المحتمل	muHotamal_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 3	أن	>an~a_1	SCONJ	IN	_	7	compound:prt	_	_
 4	مثل	mivol_1	ADP	IN	_	6	case	_	_
-5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det:predet	_	_
+5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
 6	المستوطنات	musotawoTanap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	_
 7	بدأت	bada>-a_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	csubj	_	_
 8	عام	EAm_1	ADV	RB	_	7	obl:tmod	_	_
@@ -12184,7 +12184,7 @@
 15	من	min_1	ADP	IN	_	16	case	_	_
 16	فرص	furoSap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	obl	_	_
 17	وقوع	wuquwE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	_
-18	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	19	det:predet	_	_
+18	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	19	det	_	_
 19	الأحداث	Hadav_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
 20	,	,_0	PUNCT	,	_	23	punct	_	_
 21	أو	>awo_1	CCONJ	CC	_	23	cc	_	_
@@ -12278,7 +12278,7 @@
 8	الطبيعي	TabiyEiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	_
 9	عند	Einod_1	ADP	IN	_	10	case	_	_
 10	تدمير	tadomiyr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
-11	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	12	det:predet	_	_
+11	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	12	det	_	_
 12	الموئل	mawo}il_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	._0	PUNCT	.	_	2	punct	_	_
 
@@ -12316,7 +12316,7 @@
 # text_en = These plant families are still present in Papua New Guinea.
 1	لا	lA_1	PART	RP	_	0	root	_	_
 2	تزال	zAl-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	fixed	_	_
-3	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
 4	السلالات	sulAlap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
 5	النباتية	nabAtiy~_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	_
 6	موجودة	mawojuwd_1	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Voice=Pass	1	ccomp	_	_
@@ -12391,7 +12391,7 @@
 13	من	min_1	ADP	IN	_	14	case	_	_
 14	الطرقات	Tariyq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	_
 15	في	fiy_1	ADP	IN	_	17	case	_	_
-16	أغلب	>agolab_1	DET	PDT	Case=Gen	17	det:predet	_	_
+16	أغلب	>agolab_1	DET	PDT	Case=Gen	17	det	_	_
 17	الأحيان	Hiyn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 18	.	._0	PUNCT	.	_	3	punct	_	_
 
@@ -12403,7 +12403,7 @@
 1	تملك	malak-i_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 2	جهات	jihap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	1	nsubj	_	_
 3	خاصة	xAS~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	_
-4	بقية	baqiy~ap_1	DET	PDT	Case=Acc	5	det:predet	_	_
+4	بقية	baqiy~ap_1	DET	PDT	Case=Acc	5	det	_	_
 5	الأراضي	>aroD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
 6	,	,_0	PUNCT	,	_	9	punct	_	_
 7	و	w	PART	RP	_	9	compound:prt	_	SpaceAfter=No
@@ -12545,7 +12545,7 @@
 17	مدينة	madiynap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	_
 18	بريزبن	bryzbn_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	17	nmod:gmod	_	_
 19	في	fiy_1	ADP	IN	_	21	case	_	_
-20	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	det:predet	_	_
+20	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	det	_	_
 21	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 22	,	,_0	PUNCT	,	_	23	punct	_	_
 23	سالي	sa>al-a_1	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	13	appos	_	SpaceAfter=No
@@ -12647,7 +12647,7 @@
 4	الكبيرة	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	2	punct	_	_
 6	ترتفع	{irotafaE_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-7	بعض	baEoD_1	DET	PDT	Case=Nom	8	det:predet	_	_
+7	بعض	baEoD_1	DET	PDT	Case=Nom	8	det	_	_
 8	الجزيئات	juzayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	_
 9	إلى	<ilaY_1	ADP	IN	_	10	case	_	_
 10	التيار	tay~Ar_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
@@ -12738,7 +12738,7 @@
 9	القاهرة	qAhirap_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 10	يقرب	qarub-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 11	من	min_1	ADP	IN	_	13	case	_	_
-12	نصف	niSof_1	DET	PDT	Case=Gen	13	det:predet	_	_
+12	نصف	niSof_1	DET	PDT	Case=Gen	13	det	_	_
 13	المليون	miloyuwn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 14	,	,_0	PUNCT	,	_	18	punct	_	_
 15	مما	min_1	ADP	IN	_	18	mark	_	_
@@ -12824,7 +12824,7 @@
 7	,	,_0	PUNCT	,	_	11	punct	_	_
 8	و	w	PART	RP	_	11	compound:prt	_	SpaceAfter=No
 9	هم	hum_1	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3	11	nsubj	_	_
-10	إحدى	>aHad_1	DET	PDT	Case=Nom	11	det:predet	_	_
+10	إحدى	>aHad_1	DET	PDT	Case=Nom	11	det	_	_
 11	مجموعات	majomuwEap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	advcl	_	_
 12	الأمريكيين	>amoriykiy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	_
 13	الأصليين	>aSoliy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	amod	_	_
@@ -12886,7 +12886,7 @@
 37	الكاريبي	kAriybiy_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	_	Proper=True|SpaceAfter=No
 38	"	"_0	PUNCT	''	_	36	punct	_	_
 39	في	fiy_1	ADP	IN	_	41	case	_	_
-40	عدة	Eid~ap_1	DET	PDT	Case=Gen	41	det:predet	_	_
+40	عدة	Eid~ap_1	DET	PDT	Case=Gen	41	det	_	_
 41	لغات	lugap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	31	nmod	_	_
 42	أوروبية	>uwrub~iy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	41	amod	_	SpaceAfter=No
 43	.	._0	PUNCT	.	_	11	punct	_	_
@@ -13018,7 +13018,7 @@
 12	على	EalaY_1	ADP	IN	_	13	case	_	_
 13	حجب	Hajob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
 14	الكثير	kaviyr_2	NOUN	NN	Case=Gen|Definite=Def|Number=Sing	13	nmod	_	_
-15	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	16	det:predet	_	_
+15	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	16	det	_	_
 16	النظم	niZAm_2	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nmod	_	_
 17	البيئية	biy}iy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	_
 18	ب	b	ADP	IN	_	19	case	_	SpaceAfter=No
@@ -13108,7 +13108,7 @@
 # text_en = By mid-1962, Brooks and Carson had largely finished the editing, and were laying the groundwork for promoting the book by sending the manuscript out to select individuals for final suggestions.
 1	ب	b	ADP	IN	_	2	case	_	SpaceAfter=No
 2	حلول	Huluwl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	_
-3	منتصف	munotaSaf_1	DET	PDT	Case=Gen	4	det:predet	_	_
+3	منتصف	munotaSaf_1	DET	PDT	Case=Gen	4	det	_	_
 4	عام	EAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl:tmod	_	_
 5	1962	1962_0	NUM	CD	_	4	nmod:gmod	_	SpaceAfter=No
 6	,	,_0	PUNCT	,	_	2	punct	_	_
@@ -13207,7 +13207,7 @@
 # original_text = منذ منتصف ستينيات القرن العشرين, ازدهر الاقتصاد الكوري الجنوبي بشكل هائل وتغير الهيكل الاقتصادي بشكل جذري.
 # text_en = Since the 1960s, the South Korean economy has grown enormously and the economic structure was radically transformed.
 1	منذ	muno*u_1	ADP	IN	_	3	case	_	_
-2	منتصف	munotaSaf_1	DET	PDT	Case=Gen	3	det:predet	_	_
+2	منتصف	munotaSaf_1	DET	PDT	Case=Gen	3	det	_	_
 3	ستينيات	sit~iyniy~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	obl	_	_
 4	القرن	qaron_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 5	العشرين	Ei$oruwn_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
@@ -13286,7 +13286,7 @@
 1	أولاً	>aw~al_2	ADV	RB	_	9	advmod	_	_
 2	و	w	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 3	قبل	qabol_1	ADP	IN	_	5	case	_	_
-4	كل	kul~_1	DET	PDT	Case=Gen	5	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Gen	5	det	_	_
 5	شيء	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 6	,	,_0	PUNCT	,	_	5	punct	_	_
 7	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	cop	_	_
@@ -13581,7 +13581,7 @@
 # original_text = ادعى هذه المرة أنه خاض المعركة من دون حتى أن يتكبد عناء ارتداء درعه حتى بعد بدء القتال بساعتين.
 # text_en = This time he claimed to have fought the battle without even bothering to put on his corslet until two hours after the fighting began.
 1	ادعى	{id~aEaY_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	3	det	_	_
 3	المرة	mar~ap_1	ADV	RB	_	1	advmod	_	_
 4	أن	>an~a_1	SCONJ	IN	_	6	mark	_	SpaceAfter=No
 5	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
@@ -13638,7 +13638,7 @@
 6	في	fiy_1	ADP	IN	_	7	case	_	_
 7	القدس	qudos_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
 8	في	fiy_1	ADP	IN	_	10	case	_	_
-9	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	10	det:predet	_	_
+9	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	10	det	_	_
 10	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 11	,	,_0	PUNCT	,	_	1	punct	_	_
 12	قرر	qar~ar_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -13703,7 +13703,7 @@
 14	شهرٌ	$ahor_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj:pass	_	_
 15	استثنائيٌ	{isotivonA}iy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	14	amod	_	_
 16	إلى	<ilaY_1	ADP	IN	_	18	case	_	_
-17	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	18	det:predet	_	_
+17	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	18	det	_	_
 18	العام	EAm~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 19	,	,_0	PUNCT	,	_	22	punct	_	_
 20	لكن	l`kin~a_1	ADP	IN	_	22	mark	_	_
@@ -13785,7 +13785,7 @@
 14	و	w	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	القضائية	qaDA}iy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	conj	_	_
 16	في	fiy_1	ADP	IN	_	18	case	_	_
-17	كل	kul~_1	DET	PDT	Case=Gen	18	det:predet	_	_
+17	كل	kul~_1	DET	PDT	Case=Gen	18	det	_	_
 18	أرجاء	>arojA'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	_
 19	البحر	baHor_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	_
 20	المتوسط	mutawas~iT_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	amod	_	Proper=True
@@ -13806,7 +13806,7 @@
 # original_text = تروي كل قصيدة جزءا واحدا فقط من الحرب.
 # text_en = Each poem narrates only a part of the war.
 1	تروي	rawaY-i_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	كل	kul~_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	كل	kul~_1	DET	PDT	Case=Nom	3	det	_	_
 3	قصيدة	qaSiydap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	_
 4	جزءاً	juzo'_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	_
 5	واحداً	wAHid_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	_
@@ -13892,7 +13892,7 @@
 5	مقتل	maqotal_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
 6	جوليان	juwliyAn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	5	nmod:gmod	_	_
 7	في	fiy_1	ADP	IN	_	9	case	_	_
-8	إحدى	>aHad_1	DET	PDT	Case=Gen	9	det:predet	_	_
+8	إحدى	>aHad_1	DET	PDT	Case=Gen	9	det	_	_
 9	المعارك	maEorakap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	_
 10	عام	EAm_1	ADV	RB	_	5	obl:tmod	_	_
 11	363	363_0	NUM	CD	Case=Gen	10	obl	_	SpaceAfter=No
@@ -13905,7 +13905,7 @@
 # text_en = The last Olympic Games are believed to have been held in 393.
 1	يعتقد	{iEotaqad_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
 2	أن	>an~a_1	SCONJ	IN	_	7	mark	_	_
-3	آخر	|xir_1	DET	PDT	Case=Acc	4	det:predet	_	_
+3	آخر	|xir_1	DET	PDT	Case=Acc	4	det	_	_
 4	دورة	daworap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 5	ألعابٍ	laEob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
 6	أولمبية	>uwlimobiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	_
@@ -14107,12 +14107,12 @@
 13	يعود	EAd-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	xcomp	_	_
 14	إلى	<ilaY_1	ADP	IN	_	15	case	_	_
 15	روما	ruwmA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	13	obl	_	_
-16	عدة	Eid~ap_1	DET	PDT	Case=Acc	17	det:predet	_	_
+16	عدة	Eid~ap_1	DET	PDT	Case=Acc	17	det	_	_
 17	مرات	mar~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	13	advmod	_	SpaceAfter=No
 18	,	,_0	PUNCT	,	_	25	punct	_	_
 19	لكن	l`kin~a_1	ADP	IN	_	25	mark	_	_
 20	في	fiy_1	ADP	IN	_	22	case	_	_
-21	كل	kul~_1	DET	PDT	Case=Gen	22	det:predet	_	_
+21	كل	kul~_1	DET	PDT	Case=Gen	22	det	_	_
 22	مرة	mar~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	25	obl	_	_
 23	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	aux	_	_
 24	أغسطس	>agusoTus_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	25	nsubj	_	_
@@ -14185,7 +14185,7 @@
 13	كانت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	aux	_	_
 14	تمنح	manaH-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	conj	_	_
 15	ب	b	ADP	IN	_	17	case	_	SpaceAfter=No
-16	كل	kul~_1	DET	PDT	Case=Gen	17	det:predet	_	_
+16	كل	kul~_1	DET	PDT	Case=Gen	17	det	_	_
 17	دقة	diq~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	_
 18	الطقوس	Taqos_2	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	nsubj:pass	_	_
 19	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
@@ -14276,7 +14276,7 @@
 3	الغاية	gAyap_1	AUX	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	cop	_	_
 4	المحددة	muHad~ad_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	_
 5	ل	l	ADP	IN	_	7	case	_	SpaceAfter=No
-6	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	7	det:predet	_	_
+6	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	7	det	_	_
 7	الأحجار	Hajar_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	nmod	_	_
 8	الضخمة	Daxom_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	_
 9	مثار	mavAr_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -14420,7 +14420,7 @@
 24	الحيواني	HayawAniy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	amod	_	_
 25	المطبق	muTab~aq_1	ADJ	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	23	ccomp	_	_
 26	في	fiy_1	ADP	IN	_	28	case	_	_
-27	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	28	det:predet	_	_
+27	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	28	det	_	_
 28	السنة	sanap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
 29	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -14469,7 +14469,7 @@
 16	صور	Suwrap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	nmod	_	_
 17	بوذا	buw*A_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	16	nmod:gmod	_	_
 18	ل	l	ADP	IN	_	20	case	_	SpaceAfter=No
-19	كل	kul~_1	DET	PDT	Case=Gen	20	det:predet	_	_
+19	كل	kul~_1	DET	PDT	Case=Gen	20	det	_	_
 20	يومٍ	yawom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	nmod	_	_
 21	من	min_1	ADP	IN	_	22	case	_	_
 22	أيام	yawom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	nmod	_	_
@@ -14574,7 +14574,7 @@
 5	,	,_0	PUNCT	,	_	4	punct	_	_
 6	يبدو	badA-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 7	أن	>an~a_1	SCONJ	IN	_	10	mark	_	_
-8	كلي	kul~iy~_1	DET	PDT	Case=Acc	9	det:predet	_	SpaceAfter=No
+8	كلي	kul~iy~_1	DET	PDT	Case=Acc	9	det	_	SpaceAfter=No
 9	هما	hmA	PRON	PRP	Case=Gen|Number=Dual|Person=3	10	nsubj	_	_
 10	سيطر	sayoTar_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	csubj	_	_
 11	على	EalaY_1	ADP	IN	_	12	case	_	_
@@ -14902,7 +14902,7 @@
 8	و	w	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	تستند	{isotanad_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	_
 10	أدلة	daliyl_2	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	9	nsubj	_	_
-11	كل	kul~_1	DET	PDT	Case=Gen	12	det:predet	_	_
+11	كل	kul~_1	DET	PDT	Case=Gen	12	det	_	_
 12	التخمينات	taxomiyn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	_
 13	المختلفة	muxotalif_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	_
 14	في	fiy_1	ADP	IN	_	15	case	_	_
@@ -14954,7 +14954,7 @@
 5	الرومنة	rwmnh_0	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
 6	,	,_0	PUNCT	,	_	2	punct	_	_
 7	قسمت	qasam-i_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-8	شبه	$iboh_1	DET	PDT	Case=Nom	9	det:predet	_	Proper=True
+8	شبه	$iboh_1	DET	PDT	Case=Nom	9	det	_	Proper=True
 9	الجزيرة	jaziyrap_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 10	إلى	<ilaY_1	ADP	IN	_	11	case	_	_
 11	قسمين	qisom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Dual	7	obl	_	_
@@ -15115,7 +15115,7 @@
 # text_en = By this time, he had been increasingly thinking about the future.
 1	لكن	l`kin~a_1	PART	RP	_	7	compound:prt	_	_
 2	في	fiy_1	ADP	IN	_	4	case	_	_
-3	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
 4	المرة	mar~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	4	punct	_	_
 6	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	_
@@ -15187,7 +15187,7 @@
 15	النمو	numuw~_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	_
 16	الاقتصادي	{iqotiSAdiy~_2	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
 17	,	,_0	PUNCT	,	_	19	punct	_	_
-18	كل	kul~_1	DET	PDT	Case=Nom	19	det:predet	_	SpaceAfter=No
+18	كل	kul~_1	DET	PDT	Case=Nom	19	det	_	SpaceAfter=No
 19	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	1	appos	_	_
 20	عواملٌ	EAmil_3	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 21	ساهمت	sAham_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	20	acl:relcl	_	_
@@ -15267,7 +15267,7 @@
 # text_en = The study interpreted these three factors as proxies for earnings forgone by rebellion, and therefore that lower forgone earnings encourage rebellion.
 1	فسر	fas~ar_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 2	البحث	baHov_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
 4	العوامل	EAmil_3	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	_
 5	الثلاثة	valAv_1	NUM	CD	Case=Acc|Gender=Fem|Number=Plur	4	nummod	_	_
 6	ك	k	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -15284,7 +15284,7 @@
 17	ب	b	ADP	IN	_	19	advmod	_	SpaceAfter=No
 18	التالي	tAliy_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	fixed	_	_
 19	تشجع	$aj~aE_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	_
-20	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	21	det:predet	_	_
+20	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	21	det	_	_
 21	المكاسب	makosab_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	19	nsubj	_	_
 22	المهدرة	muhodar_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	21	amod	_	_
 23	على	EalaY_1	ADP	IN	_	24	case	_	_
@@ -15307,7 +15307,7 @@
 9	(	(_0	PUNCT	(	_	11	punct	_	SpaceAfter=No
 10	الذين	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	11	nsubj	_	_
 11	يشكلون	$ak~al_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	8	acl:relcl	_	_
-12	غالبية	gAlibiy~ap_1	DET	PDT	Case=Acc	13	det:predet	_	_
+12	غالبية	gAlibiy~ap_1	DET	PDT	Case=Acc	13	det	_	_
 13	المقاتلين	muqAtil_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obj	_	_
 14	في	fiy_1	ADP	IN	_	15	case	_	_
 15	الحروب	Harob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	_
@@ -15486,7 +15486,7 @@
 11	ب	b	ADP	IN	_	13	case	_	SpaceAfter=No
 12	ألا	>an~a_1	SCONJ	IN	_	13	mark	_	_
 13	يصدقوا	Sad~aq_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	xcomp	_	_
-14	كل	kul~_1	DET	PDT	Case=Acc	15	det:predet	_	_
+14	كل	kul~_1	DET	PDT	Case=Acc	15	det	_	_
 15	ما	mA_1	PRON	WP	Case=Gen	13	obj	_	_
 16	ذكر	*akar-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	acl:relcl	_	SpaceAfter=No
 17	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	obj	_	_
@@ -15516,7 +15516,7 @@
 14	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	_
 15	يمكن	>amokan_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	conj	_	_
 16	ل	l	ADP	IN	_	18	case	_	SpaceAfter=No
-17	أي	>ay~_2	DET	WDT	Case=Gen	18	det:predet	_	_
+17	أي	>ay~_2	DET	WDT	Case=Gen	18	det	_	_
 18	شخصٍ	$axoS_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	_
 19	عمد	EimAd_2	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	18	acl:relcl	_	_
 20	قسراً	qasor_1	ADV	RB	_	19	advmod	_	_
@@ -15547,7 +15547,7 @@
 13	غادر	gAdar_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	_
 14	الكثير	kaviyr_2	NOUN	NN	Case=Nom|Definite=Def	13	nsubj	_	_
 15	من	min_1	ADP	IN	_	17	case	_	_
-16	أولئك	>uwlA}ika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	17	det:predet	_	_
+16	أولئك	>uwlA}ika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	17	det	_	_
 17	اليهود	yahuwdiy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	14	nmod	_	_
 18	الإسبان	<isobAniy~_2	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	amod	_	_
 19	إسبانيا	<isobAniyA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	13	obj	_	_
@@ -15620,7 +15620,7 @@
 14	ب	b	ADP	IN	_	15	case	_	SpaceAfter=No
 15	قوة	quw~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	_
 16	على	EalaY_1	ADP	IN	_	18	case	_	_
-17	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	18	det:predet	_	_
+17	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	18	det	_	_
 18	المنطقة	minoTaqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 19	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -15736,7 +15736,7 @@
 # text = هذا التصور المثالي لعائلة رومانوف الملكية أعماه عن رؤية الوضع الحقيقي لبلاده.
 # original_text = هذا التصور المثالي لعائلة رومانوف الملكية أعماه عن رؤية الوضع الحقيقي لبلاده.
 # text_en = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
-1	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	2	det:predet	_	_
+1	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
 2	التصور	taSaw~ur_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
 3	المثالي	mivAliy~_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	_
 4	ل	l	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -15788,7 +15788,7 @@
 # original_text = ازدهرت هذه المدينة-الدولة في ذات فترة مملكة سوكوتاي.
 # text_en = This city-state emerged in the same period as Sukhothai.
 1	ازدهرت	{izodahar_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
 3	المدينة	madiynap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
 4	-	-_0	PUNCT	-	_	5	punct	_	SpaceAfter=No
 5	الدولة	dawolap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	compound	_	_
@@ -15805,7 +15805,7 @@
 # original_text = أدى هذا الاتصال بالغرب خلال القرن السادس عشر إلى فترة من النمو الاقتصادي الكبير مع إنشاء طرق التجارة المربحة.
 # text_en = This contact with the West during the 16th century lead to a period of profound economic growth as lucrative trade routes were established.
 1	أدى	>ad~aY_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	الاتصال	{it~iSAl_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 4	ب	b	ADP	IN	_	5	case	_	SpaceAfter=No
 5	الغرب	garob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -16054,10 +16054,10 @@
 # original_text = تأتي معظم المعلومات عن تلك الفترة من المدافن والأغراض الجنائزية التي تحويها.
 # text_en = Most of the information about the period comes from burial sites and the grave goods contained within them.
 1	تأتي	>ataY-i_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	معظم	muEoZam_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	معظم	muEoZam_1	DET	PDT	Case=Nom	3	det	_	_
 3	المعلومات	maEoluwm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
 4	عن	Ean_1	ADP	IN	_	6	case	_	_
-5	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det:predet	_	_
+5	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
 6	الفترة	fatorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
 7	من	min_1	ADP	IN	_	8	case	_	_
 8	المدافن	madofan_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	_
@@ -16075,7 +16075,7 @@
 # original_text = في ذلك الوقت, لم تكن تعيش هناك سوى أربعين عائلة تقريبا مع الكثير من الأراضي الزراعية الجيدة والمراعي من أجل الماشية.
 # text_en = At this time there were only around forty families living there with plenty of good farming land and grazing for cattle.
 1	في	fiy_1	ADP	IN	_	3	case	_	_
-2	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
 3	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	لم	lamo_1	PART	RP	Polarity=Neg	6	advmod	_	_
@@ -16187,7 +16187,7 @@
 9	,	,_0	PUNCT	,	_	2	punct	_	_
 10	يمكن	>amokan_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 11	ل	l	ADP	IN	_	13	case	_	SpaceAfter=No
-12	بعض	baEoD_1	DET	PDT	Case=Gen	13	det:predet	_	_
+12	بعض	baEoD_1	DET	PDT	Case=Gen	13	det	_	_
 13	الحيوانات	HayawAn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	obl	_	_
 14	أن	>ano_1	ADP	IN	_	15	mark	_	_
 15	توفر	waf~ar_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	csubj	_	_
@@ -16253,12 +16253,12 @@
 11	قوة	quw~ap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	xcomp	_	_
 12	إقليمية	<iqoliymiy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	11	amod	_	_
 13	في	fiy_1	ADP	IN	_	15	case	_	_
-14	شبه	$iboh_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	15	det:predet	_	Proper=True
+14	شبه	$iboh_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	15	det	_	Proper=True
 15	جزيرة	jaziyrap_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	_
 16	بيلوبونيز	bylwbwnyz_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	15	nmod:gmod	_	_
 17	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 18	في	fiy_1	ADP	IN	_	20	case	_	_
-19	سائر	sA}ir_1	DET	PDT	Case=Gen	20	det:predet	_	_
+19	سائر	sA}ir_1	DET	PDT	Case=Gen	20	det	_	_
 20	أراضي	>aroD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	15	conj	_	_
 21	اليونان	yuwnAn_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 22	.	._0	PUNCT	.	_	6	punct	_	_
@@ -16331,7 +16331,7 @@
 # text_en = This convention is only slightly relaxed in modern age and now it is still unadvisable among friends to use the given name, but use of the family name is still common.
 1	لم	lamo_1	PART	RP	Polarity=Neg	2	advmod	_	_
 2	يخف	>axofaY_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	4	det:predet	_	_
+3	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
 4	العرف	Eurof_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	في	fiy_1	ADP	IN	_	6	case	_	_
 6	العصر	EaSor_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
@@ -16350,7 +16350,7 @@
 19	أن	>an~a_1	SCONJ	IN	_	20	mark	_	_
 20	يخاطب	xATab_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	csubj	_	_
 21	الأصدقاء	Sadiyq_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	20	nsubj	_	_
-22	بعض	baEoD_1	DET	PDT	Case=Acc	23	det:predet	_	SpaceAfter=No
+22	بعض	baEoD_1	DET	PDT	Case=Acc	23	det	_	SpaceAfter=No
 23	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	20	obj	_	_
 24	البعض	baEoD_1	NOUN	NN	Case=Gen|Definite=Def	23	appos	_	_
 25	ب	b	ADP	IN	_	26	case	_	SpaceAfter=No
@@ -16402,7 +16402,7 @@
 7	أن	>ano_1	ADP	IN	_	12	mark	_	_
 8	يكون	kAn-u_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	cop	_	_
 9	ل	l	ADP	IN	_	11	case	_	SpaceAfter=No
-10	كل	kul~_1	DET	PDT	Case=Gen	11	det:predet	_	_
+10	كل	kul~_1	DET	PDT	Case=Gen	11	det	_	_
 11	إمبراطور	<imobirATuwr_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
 12	عهدٌ	Eahod_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	ccomp	_	_
 13	خاصٌ	xAS~_1	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	12	ccomp	_	_
@@ -16514,7 +16514,7 @@
 17	ملايين	miloyuwn_1	NUM	CD	Case=Gen|Number=Plur	14	obl	_	_
 18	مدني	madaniy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 19	,	,_0	PUNCT	,	_	22	punct	_	_
-20	غالبيت	gAlibiy~ap_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	21	det:predet	_	SpaceAfter=No
+20	غالبيت	gAlibiy~ap_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	21	det	_	SpaceAfter=No
 21	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	22	nsubj	_	_
 22	من	min_1	ADP	IN	_	12	advcl	_	_
 23	الصينيين	Siyniy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	22	obj	_	_
@@ -16614,7 +16614,7 @@
 # original_text = يؤكد بعض المؤرخين, مثل تشاندلر وويلر, أن فعالية فرقة الخيالة البريطانية الثقيلة أعطبت بعد أول هجوم ملحمي.
 # text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
 1	يؤكد	>ak~ad_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	بعض	baEoD_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	بعض	baEoD_1	DET	PDT	Case=Nom	3	det	_	_
 3	المؤرخين	mu&ar~ix_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	6	punct	_	_
 5	مثل	mivol_1	ADP	IN	_	6	case	_	_
@@ -16704,7 +16704,7 @@
 15	نشاط	na$AT_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	conj	_	_
 16	جامع	jAmiE_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	15	amod	_	_
 17	في	fiy_1	ADP	IN	_	19	case	_	_
-18	أغلب	>agolab_1	DET	PDT	Case=Gen	19	det:predet	_	_
+18	أغلب	>agolab_1	DET	PDT	Case=Gen	19	det	_	_
 19	الأحيان	Hiyn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 20	.	._0	PUNCT	.	_	9	punct	_	_
 
@@ -16956,7 +16956,7 @@
 12	قاد	qAd-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	conj	_	_
 13	مجموعات	majomuwEap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Plur	12	obj	_	_
 14	ميليس	mylys_0	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	13	nmod:gmod	_	_
-15	شبه	$iboh_1	DET	PDT	Case=Acc	16	det:predet	_	_
+15	شبه	$iboh_1	DET	PDT	Case=Acc	16	det	_	_
 16	العسكرية	Easokariy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	_
 17	التي	Al~a*iy_1	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	19	nsubj	_	_
 18	كانت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	aux	_	_
@@ -17242,7 +17242,7 @@
 23	يزال	zAl-a_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	cop	_	_
 24	مستخدماً	musotaxodam_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	_
 25	في	fiy_1	ADP	IN	_	27	case	_	_
-26	بعض	baEoD_1	DET	PDT	Case=Gen	27	det:predet	_	_
+26	بعض	baEoD_1	DET	PDT	Case=Gen	27	det	_	_
 27	الدول	dawolap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	_
 28	خلال	xilAl_1	ADP	IN	_	29	case	_	_
 29	الثمانينيات	vamAniyniy~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	SpaceAfter=No
@@ -17439,7 +17439,7 @@
 # original_text = خلال إحدى الحلقات, ظهر كعازف غيتار بارع.
 # text_en = During one episode, he is shown to be an adept guitar player.
 1	خلال	xilAl_1	ADP	IN	_	3	case	_	_
-2	إحدى	>aHad_1	DET	PDT	Case=Gen	3	det:predet	_	_
+2	إحدى	>aHad_1	DET	PDT	Case=Gen	3	det	_	_
 3	الحلقات	Haloqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	ظهر	Zahar-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -17470,7 +17470,7 @@
 # original_text = في إحدى المناسبات, تم التلميح إلى أنه عميل سري يستهدف هومر.
 # text_en = On one occasion, it is implied he is an undercover agent whose target is Homer.
 1	في	fiy_1	ADP	IN	_	3	case	_	_
-2	إحدى	>aHad_1	DET	PDT	Case=Gen	3	det:predet	_	_
+2	إحدى	>aHad_1	DET	PDT	Case=Gen	3	det	_	_
 3	المناسبات	munAsabap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	تم	tam~-i_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -17525,7 +17525,7 @@
 9	تصوير	taSowiyr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 10	فيلم	fiylom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
 11	"	"_0	PUNCT	``	_	13	punct	_	SpaceAfter=No
-12	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	det:predet	_	Proper=True
+12	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	det	_	Proper=True
 13	الصيف	Sayof_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 14	"	"_0	PUNCT	''	_	13	punct	_	_
 15	عام	EAm_1	ADV	RB	_	1	obl:tmod	_	_
@@ -17918,7 +17918,7 @@
 # original_text = ينتقد بعض علماء المسيحية تول, فيما يثني عليه بعضهم الآخر.
 # text_en = Some Christian scholars criticize Tolle's teachings, while others praise them.
 1	ينتقد	{inotaqad_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	بعض	baEoD_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	بعض	baEoD_1	DET	PDT	Case=Nom	3	det	_	_
 3	علماء	EAlim_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	_
 4	المسيحية	masiyHiy~_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 5	تول	tawal~iy_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
@@ -17927,7 +17927,7 @@
 8	يثني	>avonaY_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	_
 9	علي	EalaY_1	ADP	IN	_	10	case	_	SpaceAfter=No
 10	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
-11	بعض	baEoD_1	DET	PDT	Case=Nom	12	det:predet	_	SpaceAfter=No
+11	بعض	baEoD_1	DET	PDT	Case=Nom	12	det	_	SpaceAfter=No
 12	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
 13	الآخر	|xar_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 14	.	._0	PUNCT	.	_	1	punct	_	_
@@ -17961,7 +17961,7 @@
 # original_text = كان آخر كتبها غير الروائية عن مارغريت دوغلاس, كونتيسة لينوكس.
 # text_en = Her latest non-fiction is about Margaret Douglas, Countess of Lennox.
 1	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	آخر	|xar_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	آخر	|xar_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	كتب	katab-u_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
 4	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	3	nmod	_	_
 5	غير	gayor_1	PART	RP	Polarity=Neg	6	advmod	_	_
@@ -17990,7 +17990,7 @@
 9	:	:_0	PUNCT	:	_	11	punct	_	_
 10	"	"_0	PUNCT	``	_	11	punct	_	SpaceAfter=No
 11	يشكل	$ak~al_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	ccomp	_	_
-12	كل	kul~_1	DET	PDT	Case=Nom	13	det:predet	_	_
+12	كل	kul~_1	DET	PDT	Case=Nom	13	det	_	_
 13	كتابٍ	kitAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	_
 14	منحنى	manaH-a_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	obj	_	_
 15	ل	l	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -18441,7 +18441,7 @@
 7	"	"_0	PUNCT	''	_	6	punct	_	_
 8	عام	EAm_1	ADV	RB	_	11	obl:tmod	_	_
 9	1981	1981_0	NUM	CD	Case=Gen	8	obl	_	_
-10	أحد	>aHad_1	DET	PDT	Case=Acc	11	det:predet	_	_
+10	أحد	>aHad_1	DET	PDT	Case=Acc	11	det	_	_
 11	أكثر	>akovar_2	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	_
 12	ألبومات	>alobuwm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
 13	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
@@ -18455,7 +18455,7 @@
 # text_en = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
 1	ب	b	ADP	IN	_	2	case	_	SpaceAfter=No
 2	حلول	Hal~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
-3	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	det:predet	_	_
+3	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	det	_	_
 4	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	2	punct	_	_
 6	أوصل	>awoSal_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
@@ -18582,7 +18582,7 @@
 8	و	w	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	الصدارة	SadArap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	conj	_	_
 10	في	fiy_1	ADP	IN	_	12	case	_	_
-11	آخر	|xir_1	DET	PDT	Case=Gen	12	det:predet	_	_
+11	آخر	|xir_1	DET	PDT	Case=Gen	12	det	_	_
 12	33	33_0	NUM	CD	_	4	obl	_	_
 13	من	min_1	ADP	IN	_	14	case	_	_
 14	السباقات	sibAq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_
@@ -18598,10 +18598,10 @@
 24	,	,_0	PUNCT	,	_	28	punct	_	_
 25	و	w	CCONJ	CC	_	28	cc	_	SpaceAfter=No
 26	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	28	cop	_	_
-27	آخر	|xir_1	DET	PDT	Case=Acc	28	det:predet	_	_
+27	آخر	|xir_1	DET	PDT	Case=Acc	28	det	_	_
 28	سائق	sA}iq_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	conj	_	_
 29	يحمل	Hamal-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	28	acl:relcl	_	_
-30	ذلك	*`lika_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	31	det:predet	_	_
+30	ذلك	*`lika_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	31	det	_	_
 31	اللقب	laqab_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	29	obj	_	SpaceAfter=No
 32	.	._0	PUNCT	.	_	4	punct	_	_
 
@@ -18661,7 +18661,7 @@
 22	"	"_0	PUNCT	''	_	20	punct	_	_
 23	إيغان	AygAn_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	15	appos	_	_
 24	في	fiy_1	ADP	IN	_	26	case	_	_
-25	عدة	Eid~ap_1	DET	PDT	Case=Gen	26	det:predet	_	_
+25	عدة	Eid~ap_1	DET	PDT	Case=Gen	26	det	_	_
 26	أغانٍ	>ugoniyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	_
 27	في	fiy_1	ADP	IN	_	28	case	_	SpaceAfter=No
 28	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	26	nmod	_	SpaceAfter=No
@@ -18673,7 +18673,7 @@
 # original_text = ضم عدة أغان تم تأليفها بالاشتراك مع جيم شقيق رافيرتي, الذي يعمل أيضا كمغن ومؤلف أغان, والذي وقع مع شركة "ديكا ريكوردز" في السبعينيات.
 # text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
 1	ضم	Dam~-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	عدة	Eid~ap_1	DET	PDT	Case=Acc	3	det:predet	_	_
+2	عدة	Eid~ap_1	DET	PDT	Case=Acc	3	det	_	_
 3	أغانٍ	>ugoniyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	_
 4	تم	tam~-i_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	_
 5	تأليف	ta>oliyf_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
@@ -18728,7 +18728,7 @@
 14	أبو	>ab_1	PROPN	NNP	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
 15	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	14	nmod	_	_
 16	على	EalaY_1	ADP	IN	_	18	case	_	_
-17	أية	>ay~_1	DET	WDT	Case=Gen	18	det:predet	_	_
+17	أية	>ay~_1	DET	WDT	Case=Gen	18	det	_	_
 18	الأحوال	HAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
 19	"	"_0	PUNCT	''	_	13	punct	_	_
 20	في	fiy_1	ADP	IN	_	21	case	_	_
@@ -18749,7 +18749,7 @@
 # text_en = These were the last two records Rafferty produced with Hugh Murphy, who died in 1998.
 1	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
 2	هذان	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Dual	4	nsubj	_	_
-3	آخر	|xar_1	DET	PDT	Case=Acc	4	det:predet	_	_
+3	آخر	|xar_1	DET	PDT	Case=Acc	4	det	_	_
 4	البومين	bwmyn_0	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Dual	0	root	_	_
 5	ينتج	>anotaj_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	SpaceAfter=No
 6	هما	hmA	PRON	PRP	Case=Acc|Number=Dual|Person=3	5	obj	_	_
@@ -18833,7 +18833,7 @@
 11	و	w	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	واكساكتون	wAksAktwn_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	9	conj	_	_
 13	ل	l	ADP	IN	_	15	case	_	SpaceAfter=No
-14	هذين	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Dual	15	det:predet	_	_
+14	هذين	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Dual	15	det	_	_
 15	الموقعين	muwaq~iE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Dual	2	nmod	_	_
 16	أن	>an~a_1	SCONJ	IN	_	17	mark	_	_
 17	يتلاءما	talA'am_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Dual|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	_
@@ -19026,7 +19026,7 @@
 22	في	fiy_1	ADP	IN	_	23	case	_	_
 23	الأسبوع	>usobuwE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	_
 24	طوال	TawAl_1	ADP	IN	_	27	case	_	_
-25	آخر	|xar_1	DET	PDT	Case=Gen	27	det:predet	_	_
+25	آخر	|xar_1	DET	PDT	Case=Gen	27	det	_	_
 26	15	15_0	NUM	CD	_	27	nummod	_	_
 27	عاماً	EAm_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	_
 28	من	min_1	ADP	IN	_	29	case	_	_
@@ -19120,7 +19120,7 @@
 # original_text = في ذلك العام أيضا, ظهرت بشكل وجيز في فيلم ديزني "الدمى المتحركة", كموظفة الاستقبال الخاصة بالآنسة بيغي.
 # text_en = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
 1	في	fiy_1	ADP	IN	_	3	case	_	_
-2	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
 3	العام	EAm~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
 4	أيضاً	>ayoDAF_1	ADV	RB	_	3	advmod	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	3	punct	_	_
@@ -19372,7 +19372,7 @@
 # original_text = خلال هذا الوقت, كانت مارسيل غالبا ما تترك وحدها في الحجرة فيما كانت بياف ومومون تجوبان الشوارع أو في الملهى تغنيان.
 # text_en = During this time, Marcelle was often left alone in the room while Piaf and Mômone were out on the streets or at the club singing.
 1	خلال	xilAl_1	ADP	IN	_	3	case	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
 3	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	كانت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	_
@@ -19418,7 +19418,7 @@
 # text = إحدى أفكار روايات سكايلارك تدور حول أسلاف تكنولوجيا الاتصالات الحديثة.
 # original_text = إحدى أفكار روايات سكايلارك تدور حول أسلاف تكنولوجيا الاتصالات الحديثة.
 # text_en = Another theme of the Skylark novels involves precursors of modern information technology.
-1	إحدى	>aHad_1	DET	PDT	Case=Nom	2	det:predet	_	_
+1	إحدى	>aHad_1	DET	PDT	Case=Nom	2	det	_	_
 2	أفكار	fikor_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	nsubj	_	_
 3	روايات	riwAyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	nmod	_	_
 4	سكايلارك	skAylArk_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nmod:gmod	_	_
@@ -19544,7 +19544,7 @@
 9	,	,_0	PUNCT	,	_	3	punct	_	_
 10	عادت	EAd-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 11	ب	b	ADP	IN	_	13	case	_	SpaceAfter=No
-12	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	13	det:predet	_	_
+12	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	13	det	_	_
 13	المهارات	mahArap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	obl	_	_
 14	إلى	<ilaY_1	ADP	IN	_	15	case	_	_
 15	معهد	maEohad_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	_
@@ -19562,7 +19562,7 @@
 # original_text = أتاح هذا القرص لرونا إنتاج عينات مخبرية من البولونيوم, والتي استخدمت في الكثير من أبحاث المعهد اللاحقة.
 # text_en = This disc allowed Rona to create lab specimens of polonium, which were used in much of the Institute's subsequent research.
 1	أتاح	>atAH_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	القرص	quroS_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	ل	l	ADP	IN	_	5	case	_	SpaceAfter=No
 5	رونا	rwnA_0	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	1	obl	_	_
@@ -20082,7 +20082,7 @@
 # text_en = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
 1	وصلت	waSal-i_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No
 2	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	1	obj	_	_
-3	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
 4	المرة	mar~ap_1	ADV	RB	_	1	advmod	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	8	punct	_	_
 6	لكن	l`kin~a_1	ADP	IN	_	8	mark	_	SpaceAfter=No
@@ -20286,7 +20286,7 @@
 7	العثمانية	EuvomAniy~_1	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	Proper=True
 8	س	s	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 9	تخسر	xasir-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	3	ccomp	_	_
-10	كل	kul~_1	DET	PDT	Case=Acc	11	det:predet	_	_
+10	كل	kul~_1	DET	PDT	Case=Acc	11	det	_	_
 11	منطقة	minoTaqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	_
 12	مقدونيا	maqoduwniyA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	11	nmod:gmod	_	_
 13	و	w	CCONJ	CC	_	16	cc	_	SpaceAfter=No
@@ -20482,7 +20482,7 @@
 19	متقاعداً	mutaqAEid_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	_
 20	يموت	mAt-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	19	acl:relcl	_	_
 21	في	fiy_1	ADP	IN	_	23	case	_	_
-22	أحد	>aHad_1	DET	PDT	Case=Gen	23	det:predet	_	_
+22	أحد	>aHad_1	DET	PDT	Case=Gen	23	det	_	_
 23	فروع	faroE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	obl	_	_
 24	المصرف	maSoraf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
 25	.	._0	PUNCT	.	_	8	punct	_	_
@@ -20572,7 +20572,7 @@
 2	دراسة	dirAsap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	سويدية	suwiydiy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	_
 4	أن	>an~a_1	SCONJ	IN	_	15	mark	_	_
-5	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	6	det:predet	_	_
+5	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	6	det	_	_
 6	الحيوانات	HayawAn_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	15	nsubj	_	_
 7	نادراً	nAdir_1	ADV	RB	_	15	advmod	_	SpaceAfter=No
 8	,	,_0	PUNCT	,	_	11	punct	_	_
@@ -20655,7 +20655,7 @@
 20	المتحدة	mut~aHid_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	Proper=True
 21	الأمريكية	>amoriykiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	Proper=True
 22	سحب	saHob_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	_
-23	كل	kul~_1	DET	PDT	Case=Gen	24	det:predet	_	_
+23	كل	kul~_1	DET	PDT	Case=Gen	24	det	_	_
 24	قوات	quw~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	SpaceAfter=No
 25	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	24	nmod	_	_
 26	من	min_1	ADP	IN	_	27	case	_	_
@@ -20671,7 +20671,7 @@
 36	,	,_0	PUNCT	,	_	38	punct	_	_
 37	و	w	CCONJ	CC	_	38	cc	_	SpaceAfter=No
 38	إلغاء	<ilogA'_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	22	conj	_	_
-39	جميع	jamiyE_1	DET	PDT	Case=Gen	40	det:predet	_	_
+39	جميع	jamiyE_1	DET	PDT	Case=Gen	40	det	_	_
 40	العقوبات	Euquwbap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	38	nmod	_	_
 41	على	EalaY_1	ADP	IN	_	42	case	_	_
 42	روسيا	ruwsiyA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	40	nmod	_	_
@@ -20868,16 +20868,16 @@
 1	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	ل	l	ADP	IN	_	0	root	_	SpaceAfter=No
 3	أن	>an~a_1	SCONJ	IN	_	10	mark	_	_
-4	كل	kul~_1	DET	PDT	Case=Acc	5	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Acc	5	det	_	_
 5	معجزة	muEojizap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	nsubj	_	_
 6	و	w	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-7	كل	kul~_1	DET	PDT	Case=Acc	8	det:predet	_	_
+7	كل	kul~_1	DET	PDT	Case=Acc	8	det	_	_
 8	منطقة	minoTaqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	_
 9	متخصصة	mutaxaS~iS_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	amod	_	_
 10	تحتل	{iHotal~_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	obj	_	_
 11	حقلاً	Haqol_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	10	obj	_	_
 12	ب	b	ADP	IN	_	14	case	_	SpaceAfter=No
-13	أكمل	>akomal_2	DET	PDT	Case=Gen	14	det:predet	_	SpaceAfter=No
+13	أكمل	>akomal_2	DET	PDT	Case=Gen	14	det	_	SpaceAfter=No
 14	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	nmod	_	SpaceAfter=No
 15	.	._0	PUNCT	.	_	2	punct	_	_
 
@@ -21034,7 +21034,7 @@
 3	الواضح	wADiH_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 4	الآن	|n_1	ADV	RB	_	3	obl:tmod	_	_
 5	في	fiy_1	ADP	IN	_	7	case	_	_
-6	أي	>ay~_1	DET	WDT	Case=Gen	7	det:predet	_	SpaceAfter=No
+6	أي	>ay~_1	DET	WDT	Case=Gen	7	det	_	SpaceAfter=No
 7	هما	hmA	PRON	PRP	Case=Gen|Number=Dual|Person=2	3	nmod	_	SpaceAfter=No
 8	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -21161,7 +21161,7 @@
 14	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
 15	مقتنعٌ	muqotaniE_1	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Voice=Act	10	ccomp	_	_
 16	أن	>an~a_1	SCONJ	IN	_	20	mark	_	_
-17	أحد	>aHad_1	DET	PDT	Case=Acc	18	det:predet	_	_
+17	أحد	>aHad_1	DET	PDT	Case=Acc	18	det	_	_
 18	الطيارين	Tay~Ar_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	nsubj	_	_
 19	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	_
 20	ينوي	nawaY-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	ccomp	_	_
@@ -21304,7 +21304,7 @@
 22	أيضاً	>ayoDAF_1	ADV	RB	_	18	advmod	_	SpaceAfter=No
 23	,	,_0	PUNCT	,	_	18	punct	_	_
 24	في	fiy_1	ADP	IN	_	26	case	_	_
-25	آخر	|xir_1	DET	PDT	Case=Gen	26	det:predet	_	_
+25	آخر	|xir_1	DET	PDT	Case=Gen	26	det	_	_
 26	يومٍ	yawom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
 27	من	min_1	ADP	IN	_	28	case	_	_
 28	ولايت	wilAyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
@@ -21564,7 +21564,7 @@
 # text_en = Unlike that of the 28th of October, Mr. Comey's letter has hardly been commented upon.
 1	ب	b	ADP	IN	_	2	case	_	SpaceAfter=No
 2	خلاف	xilAf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	_
-3	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	2	det:predet	_	_
+3	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	2	det	_	_
 4	المؤرخة	mu&ar~ix_1	NOUN	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 5	في	fiy_1	ADP	IN	_	6	case	_	_
 6	الثامن	vAmin_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
@@ -21629,7 +21629,7 @@
 8	يكن	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	20	advcl	_	_
 9	ب	b	ADP	IN	_	10	case	_	SpaceAfter=No
 10	وسع	wusoE_1	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	8	obl	_	_
-11	أحد	>aHad_1	DET	PDT	Case=Gen	12	det:predet	_	SpaceAfter=No
+11	أحد	>aHad_1	DET	PDT	Case=Gen	12	det	_	SpaceAfter=No
 12	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	10	nsubj	_	_
 13	التحكم	taHak~um_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	_
 14	ب	b	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -21722,7 +21722,7 @@
 6	العدالة	EadAlap_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
 7	و	w	CCONJ	CC	_	8	cc	_	Proper=True|SpaceAfter=No
 8	التنمية	tanomiyap_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	conj	_	_
-9	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	10	det:predet	_	_
+9	هذا	h`*A_1	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
 10	الرفض	rafoD_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 11	ك	k	ADP	IN	_	12	case	_	SpaceAfter=No
 12	مبررٍ	mubar~ir_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
@@ -21954,7 +21954,7 @@
 25	"	"_0	PUNCT	``	_	27	punct	_	SpaceAfter=No
 26	لم	lamo_1	PART	RP	Polarity=Neg	27	advmod	_	_
 27	يجر	jaraY-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	21	ccomp	_	_
-28	أي	>ay~_1	DET	WDT	Case=Acc	29	det:predet	_	_
+28	أي	>ay~_1	DET	WDT	Case=Acc	29	det	_	_
 29	تشاور	ta$Awur_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	27	nsubj	_	_
 30	حقيقي	Haqiyqiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	29	amod	_	SpaceAfter=No
 31	"	"_0	PUNCT	''	_	27	punct	_	SpaceAfter=No
@@ -22062,7 +22062,7 @@
 2	العمل	Eamal_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
 3	المبذول	mabo*uwl_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	_
 4	في	fiy_1	ADP	IN	_	6	case	_	_
-5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det:predet	_	_
+5	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
 6	الساعة	sAEap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 7	الأولى	>aw~al_2	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	_
 8	يساوي	sAwaY_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
@@ -22103,7 +22103,7 @@
 5	"	"_0	PUNCT	``	_	11	punct	_	SpaceAfter=No
 6	وجود	wujuwd_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
 7	مثل	mivol_1	ADP	IN	_	9	case	_	_
-8	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	9	det:predet	_	_
+8	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	9	det	_	_
 9	الوثيقة	waviyqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
 10	قد	qado_1	PART	RP	_	11	compound:prt	_	_
 11	يؤدي	>ad~aY_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
@@ -22163,7 +22163,7 @@
 6	,	,_0	PUNCT	,	_	1	punct	_	_
 7	يمكن	>amokan_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 8	ل	l	ADP	IN	_	10	case	_	SpaceAfter=No
-9	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det:predet	_	_
+9	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det	_	_
 10	الخطة	xuT~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	_
 11	الحكومية	Hukuwmiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	_
 12	أن	>ano_1	ADP	IN	_	13	mark	_	_
@@ -22425,7 +22425,7 @@
 11	لن	lano_1	PART	RP	Polarity=Neg	12	advmod	_	_
 12	تكون	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|Voice=Act	1	ccomp	_	_
 13	هناك	hunAka_1	ADV	RB	_	12	advmod	_	_
-14	أي	>ay~_1	DET	WDT	Case=Nom	15	det:predet	_	_
+14	أي	>ay~_1	DET	WDT	Case=Nom	15	det	_	_
 15	زيادة	ziyAdap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	nsubj	_	_
 16	في	fiy_1	ADP	IN	_	17	case	_	_
 17	ضريبة	Dariybap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	_
@@ -22446,7 +22446,7 @@
 # text_en = A level that in both cases is at the top of the EU.
 1	مستوى	musotawaY_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	_
 2	في	fiy_1	ADP	IN	_	4	case	_	_
-3	كلتا	kil~ap_1	DET	PDT	Case=Gen	4	det:predet	_	_
+3	كلتا	kil~ap_1	DET	PDT	Case=Gen	4	det	_	_
 4	الحالتي	HAlap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Dual	1	nmod	_	_
 5	هو	huwa_1	PRON	PRP	Gender=Masc|Number=Sing|Person=3	1	dep	_	_
 6	الأعلى	>aEolaY_2	ADJ	JJR	Case=Nom|Definite=Def	0	root	_	_
@@ -22461,7 +22461,7 @@
 # original_text = تعود آخر الأرقام إلى 24 تشرين الأول من العام الماضي, وتظهر لنا أن الديزل لدينا يكلف 1,335 يورو لليتر, مقارنة بمعدل منطقة اليورو الذي يبلغ 1,165 يورو.
 # text_en = The latest figures relate to the 24th of October last year, and tell us that our diesel costs 1,335 euros per litre, compared with the eurozone average of 1,165 euros.
 1	تعود	EAd-u_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	آخر	|xir_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	آخر	|xir_1	DET	PDT	Case=Nom	3	det	_	_
 3	الأرقام	raqom_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	_
 4	إلى	<ilaY_1	ADP	IN	_	5	case	_	_
 5	24	24_0	NUM	CD	_	1	obl	_	_
@@ -22705,7 +22705,7 @@
 # text = أحد أمثلة بحثٍ مطبقٍ في ظل إجراءات سلامة أنتج أيضاً إنساناً آلياً لمنافسة فالنتينو روسي.
 # original_text = أحد أمثلة بحث مطبق في ظل إجراءات سلامة أنتج أيضا إنسانا آليا لمنافسة فالنتينو روسي.
 # text_en = One of the examples of research applied under safety measures has also produced a humanoid robot to compete with Valentino Rossi.
-1	أحد	>aHad_1	DET	PDT	Case=Nom	2	det:predet	_	_
+1	أحد	>aHad_1	DET	PDT	Case=Nom	2	det	_	_
 2	أمثلة	mivAl_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Number=Plur	9	nsubj	_	_
 3	بحثٍ	baHov_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_
 4	مطبقٍ	muTab~aq_1	ADJ	VBN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	ccomp	_	_
@@ -22760,7 +22760,7 @@
 5	المبادرة	mubAdarap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	_
 6	أكثر	>akovar_2	ADV	RB	_	3	advmod	_	_
 7	من	min_1	ADP	IN	_	9	case	_	_
-8	أي	>ay~_1	DET	WDT	Case=Gen	9	det:predet	_	_
+8	أي	>ay~_1	DET	WDT	Case=Gen	9	det	_	_
 9	وقتٍ	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	_
 10	مضى	maDaY-i_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	_
 11	في	fiy_1	ADP	IN	_	12	case	_	_
@@ -22970,7 +22970,7 @@
 # original_text = يواجه هذا القسم تحديات جديدة الآن.
 # text_en = This department now faces new challenges.
 1	يواجه	wAjah_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	القسم	qisom_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	تحدياتٍ	taHad~iy_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	obj	_	_
 5	جديدةً	jadiyd_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	amod	_	_
@@ -23233,7 +23233,7 @@
 21	تنقير	naqiyr_1	NOUN	VBG	Case=Acc|Definite=Def|Gender=Masc	32	nsubj	_	_
 22	النواب	nA}ib_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	21	nsubj	_	_
 23	على	EalaY_1	ADP	IN	_	25	case	_	_
-24	بعض	baEoD_1	DET	PDT	Case=Gen	25	det:predet	_	SpaceAfter=No
+24	بعض	baEoD_1	DET	PDT	Case=Gen	25	det	_	SpaceAfter=No
 25	هم	hm	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	21	obl	_	_
 26	البعض	baEoD_1	NOUN	NN	Case=Gen|Definite=Def	25	appos	_	_
 27	و	w	CCONJ	CC	_	28	cc	_	SpaceAfter=No
@@ -23267,7 +23267,7 @@
 # text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
 1	ربما	rub~amA_1	ADV	RB	_	5	advmod	_	_
 2	ل	l	ADP	IN	_	4	case	_	SpaceAfter=No
-3	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	det:predet	_	_
+3	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	det	_	_
 4	السبب	sabab_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	_
 5	تغرورق	{igoraworaq_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 6	عينا	Eayon_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Dual	5	nsubj	_	SpaceAfter=No
@@ -23367,7 +23367,7 @@
 21	س	s	PART	RP	_	22	compound:prt	_	SpaceAfter=No
 22	يكون	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	8	advcl	_	_
 23	ل	l	ADP	IN	_	25	case	_	SpaceAfter=No
-24	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	25	det:predet	_	_
+24	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	25	det	_	_
 25	الزيادة	ziyAdap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	_
 26	تأثيرٌ	ta>oviyr_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	22	nsubj	_	SpaceAfter=No
 27	.	._0	PUNCT	.	_	1	punct	_	_
@@ -23398,7 +23398,7 @@
 19	لقد	qado_1	PART	RP	_	20	compound:prt	_	_
 20	خطط	xaT~aT_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	10	parataxis	_	_
 21	ل	l	ADP	IN	_	23	case	_	SpaceAfter=No
-22	كل	kul~_1	DET	PDT	Case=Gen	23	det:predet	_	_
+22	كل	kul~_1	DET	PDT	Case=Gen	23	det	_	_
 23	شيءٍ	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	20	obl	_	_
 24	ب	b	ADP	IN	_	25	case	_	SpaceAfter=No
 25	الفعل	fiEol_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
@@ -23492,7 +23492,7 @@
 24	يستقطب	{isotaqoTab_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	conj	_	_
 25	جمهوراً	jumohuwr_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	24	obj	_	_
 26	من	min_1	ADP	IN	_	28	case	_	_
-27	جميع	jamiyE_1	DET	PDT	Case=Gen	28	det:predet	_	_
+27	جميع	jamiyE_1	DET	PDT	Case=Gen	28	det	_	_
 28	أنحاء	naHow_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	25	nmod	_	_
 29	البلاد	balad_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
 30	.	._0	PUNCT	.	_	1	punct	_	_
@@ -23561,7 +23561,7 @@
 # text_en = This has to do with one of the few buildings in the city center that was spared from destruction by the end of the Second World War.
 1	إن	<in~a_1	PART	RP	_	4	compound:prt	_	SpaceAfter=No
 2	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-3	أحد	>aHad_1	DET	PDT	Case=Nom	4	det:predet	_	_
+3	أحد	>aHad_1	DET	PDT	Case=Nom	4	det	_	_
 4	المباني	mabonaY_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
 5	القليلة	qaliyl_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	_
 6	في	fiy_1	ADP	IN	_	7	case	_	_
@@ -23619,7 +23619,7 @@
 8	الستينيات	sit~iyniy~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nmod	_	_
 9	هاجرت	hAjar_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 10	ب	b	ADP	IN	_	12	case	_	SpaceAfter=No
-11	معظم	muEoZam_1	DET	PDT	Case=Gen	12	det:predet	_	SpaceAfter=No
+11	معظم	muEoZam_1	DET	PDT	Case=Gen	12	det	_	SpaceAfter=No
 12	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	9	obl	_	_
 13	من	min_1	ADP	IN	_	14	case	_	_
 14	تركيا	turokiyA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
@@ -23806,7 +23806,7 @@
 11	من	min_1	ADP	IN	_	12	case	_	_
 12	الفوز	fawoz_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	_
 13	في	fiy_1	ADP	IN	_	15	case	_	_
-14	كل	kul~_1	DET	PDT	Case=Gen	15	det:predet	_	_
+14	كل	kul~_1	DET	PDT	Case=Gen	15	det	_	_
 15	الدوائر	dA}irap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	nmod	_	_
 16	الانتخابية	{inotixAbiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	_
 17	السبع	saboE_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	amod	_	SpaceAfter=No
@@ -23820,7 +23820,7 @@
 1	كلٌ	kul~_1	NOUN	NN	Case=Gen|Definite=Ind	10	nsubj	_	_
 2	من	min_1	ADP	IN	_	3	case	_	_
 3	توقيت	tawoqiyt_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
-4	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	det:predet	_	_
+4	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	det	_	_
 5	الحدث	Hadav_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 6	و	w	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	تسلسل	tasalosul_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
@@ -23914,7 +23914,7 @@
 # original_text = كانت إحدى أكثر الثقافات انتشارا في نطاقها خلال تلك الحقبة, حيث عرفت في العديد من المواقع الأخرى.
 # text_en = In its scope it belongs to the most far-reaching cultures of the time, in which many sites are known.
 1	كانت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	إحدى	>aHad_1	DET	PDT	Case=Nom	3	det:predet	_	_
+2	إحدى	>aHad_1	DET	PDT	Case=Nom	3	det	_	_
 3	أكثر	>akovar_2	ADJ	JJR	Case=Gen|Definite=Def	1	nsubj	_	_
 4	الثقافات	vaqAfap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	_
 5	انتشاراً	{inoti$Ar_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	advmod	_	_
@@ -23922,7 +23922,7 @@
 7	نطاق	niTAq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 8	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	7	nmod	_	_
 9	خلال	xilAl_1	ADP	IN	_	11	case	_	_
-10	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	11	det:predet	_	_
+10	تلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	11	det	_	_
 11	الحقبة	Huqob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
 12	,	,_0	PUNCT	,	_	14	punct	_	_
 13	حيث	Hayovu_1	ADP	IN	_	14	mark	_	_
@@ -23949,7 +23949,7 @@
 8	الميلاد	miylAd_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 9	,	,_0	PUNCT	,	_	12	punct	_	_
 10	مثل	mivol_1	ADP	IN	_	12	case	_	_
-11	معظم	muEoZam_1	DET	PDT	Case=Gen	12	det:predet	_	_
+11	معظم	muEoZam_1	DET	PDT	Case=Gen	12	det	_	_
 12	المواقع	mawoqiE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	_
 13	في	fiy_1	ADP	IN	_	14	case	_	_
 14	جنوب	januwb_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	_
@@ -24087,7 +24087,7 @@
 11	التعرف	taEar~uf_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	_
 12	علي	EalaY_1	ADP	IN	_	13	case	_	SpaceAfter=No
 13	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
-14	عدة	Eid~ap_1	DET	PDT	Case=Acc	15	det:predet	_	_
+14	عدة	Eid~ap_1	DET	PDT	Case=Acc	15	det	_	_
 15	مرات	mar~ap_1	ADV	RB	_	10	advmod	_	_
 16	في	fiy_1	ADP	IN	_	17	case	_	_
 17	أماكن	makAn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	obl	_	_
@@ -24155,7 +24155,7 @@
 5	بريطانيا	briyTAniyA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	1	obl	_	_
 6	العظمى	>aEoZam_2	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	Proper=True
 7	قبل	qabol_1	ADP	IN	_	9	case	_	_
-8	أي	>ay~_1	DET	WDT	Case=Gen	9	det:predet	_	_
+8	أي	>ay~_1	DET	WDT	Case=Gen	9	det	_	_
 9	بلدٍ	balad_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
 10	آخر	|xar_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	amod	_	_
 11	في	fiy_1	ADP	IN	_	12	case	_	_
@@ -24222,7 +24222,7 @@
 5	1917	1917_0	NUM	CD	Case=Gen	4	obl	_	SpaceAfter=No
 6	,	,_0	PUNCT	,	_	2	punct	_	_
 7	نالت	nAl-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-8	بعض	baEoD_1	DET	PDT	Case=Nom	9	det:predet	_	_
+8	بعض	baEoD_1	DET	PDT	Case=Nom	9	det	_	_
 9	الدول	dawolap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nsubj	_	_
 10	استقلال	{isotiqolAl_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
 11	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	10	nmod	_	SpaceAfter=No
@@ -24242,8 +24242,8 @@
 # original_text = كانت إحدى آخر وسائل الضغط لديه على هنغاريا التهديد بإقامة انتخابات عامة وحرة.
 # text_en = One of his last means of placing pressure on Hungary was the threat of imposing general and free elections.
 1	كانت	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
-2	إحدى	>aHad_1	DET	PDT	Case=Acc	4	det:predet	_	_
-3	آخر	|xar_1	DET	PDT	Case=Gen	4	det:predet	_	_
+2	إحدى	>aHad_1	DET	PDT	Case=Acc	4	det	_	_
+3	آخر	|xar_1	DET	PDT	Case=Gen	4	det	_	_
 4	وسائل	wasiylap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
 5	الضغط	DagoT_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 6	لدي	ladaY_1	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -24367,7 +24367,7 @@
 # original_text = بعد هذه النجاحات, وقع عقدا مع فريق تيليكوم وانتقل للإقامة مع حبيبته في مردينغين في جنوب بادن, حيث عاش حتى عام 2002.
 # text_en = After these successes, he signed a contract with Team Telekom and moved in with his girlfriend in Merdingen in Südbaden, where he lived until 2002.
 1	بعد	baEod_1	ADP	IN	_	3	case	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	3	det	_	_
 3	النجاحات	najAH_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 4	,	,_0	PUNCT	,	_	3	punct	_	_
 5	وقع	waq~aE_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -24438,7 +24438,7 @@
 # text_en = The censorship disposed of all undesirable opinions; participation in public life had become practically impossible.
 1	استبعدت	{isotaboEad_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 2	الرقابة	raqAbap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
-3	كل	kul~_1	DET	PDT	Case=Acc	4	det:predet	_	_
+3	كل	kul~_1	DET	PDT	Case=Acc	4	det	_	_
 4	الآراء	ra>oy_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	_
 5	غير	gayor_1	PART	RP	Polarity=Neg	6	advmod	_	_
 6	المرغوب	maroguwb_1	NOUN	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	_
@@ -24451,7 +24451,7 @@
 13	في	fiy_1	ADP	IN	_	14	case	_	_
 14	الحياة	HayAp_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
 15	العامة	EAm~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	_
-16	شبه	$iboh_1	DET	PDT	Case=Acc	17	det:predet	_	_
+16	شبه	$iboh_1	DET	PDT	Case=Acc	17	det	_	_
 17	مستحيلة	musotaHiyl_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
 18	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -24519,7 +24519,7 @@
 13	اليهودي	yahuwdiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	amod	_	_
 14	و	w	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	سافر	sAfir_1	ADJ	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	_	_
-16	عدة	Eid~ap_1	DET	PDT	Case=Acc	17	det:predet	_	_
+16	عدة	Eid~ap_1	DET	PDT	Case=Acc	17	det	_	_
 17	مرات	mar~ap_1	ADV	RB	_	15	advmod	_	_
 18	إلى	<ilaY_1	ADP	IN	_	19	case	_	_
 19	إسرائيل	<isorA}iyl_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
@@ -24575,7 +24575,7 @@
 4	و	w	CCONJ	CC	_	5	cc	_	SpaceAfter=No
 5	لا	lA_1	PROPN	NNP	Animacy=Nhum	3	conj	_	_
 6	كونت	kaw~an_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	5	flat	_	_
-7	غالبية	gAlibiy~ap_1	DET	PDT	Case=Acc	8	det:predet	_	_
+7	غالبية	gAlibiy~ap_1	DET	PDT	Case=Acc	8	det	_	_
 8	المساكن	masokan_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	_
 9	الاجتماعية	{ijotimAEiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	_
 10	في	fiy_1	ADP	IN	_	11	case	_	_
@@ -24626,7 +24626,7 @@
 7	خمسة	xamos_1	NUM	CD	Case=Nom|Gender=Fem|Number=Plur	8	nummod	_	_
 8	أطباء	Tabiyb_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	5	nsubj	_	_
 9	ل	l	ADP	IN	_	12	case	_	SpaceAfter=No
-10	كل	kul~_1	DET	PDT	Case=Gen	12	det:predet	_	_
+10	كل	kul~_1	DET	PDT	Case=Gen	12	det	_	_
 11	100000	100000_0	NUM	CD	_	12	nummod	_	_
 12	نسمة	nasamap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 13	.	._0	PUNCT	.	_	5	punct	_	_
@@ -24744,7 +24744,7 @@
 # original_text = كان هذا المخطوط هو أساس القانون الروماني ومؤسسات الجمهورية الرومانية والموس مايوروم.
 # text_en = This drawing up was the founding act of Roman law, the institutions of the Roman Republic and the mos maiorum.
 1	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	_
-2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	هذا	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	المخطوط	maxoTuwT_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	_
 4	هو	huwa_1	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	dep	_	_
 5	أساس	>asAs_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
@@ -24867,7 +24867,7 @@
 2	اليونان	yuwnAn_1	PROPN	NNP	Animacy=Nhum|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	مقسمة	muqas~am_1	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	_
 4	إلى	<ilaY_1	ADP	IN	_	6	case	_	_
-5	عدة	Eid~ap_1	DET	PDT	Case=Gen	6	det:predet	_	_
+5	عدة	Eid~ap_1	DET	PDT	Case=Gen	6	det	_	_
 6	مجتمعات	mujotamaE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	3	obl	_	_
 7	صغيرة	Sagiyr_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	6	amod	_	_
 8	تتمتع	tamat~aE_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
@@ -24885,7 +24885,7 @@
 20	جغرافيا	jugorAfiy~_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	_
 21	اليونان	yuwnAn_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 22	:	:_0	PUNCT	:	_	29	punct	_	_
-23	كل	kul~_1	DET	PDT	Case=Nom	24	det:predet	_	_
+23	كل	kul~_1	DET	PDT	Case=Nom	24	det	_	_
 24	جزيرة	jaziyrap_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	29	nsubj	_	_
 25	أو	>awo_1	CCONJ	CC	_	26	cc	_	_
 26	وادٍ	wAdiy_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	24	conj	_	_
@@ -24952,7 +24952,7 @@
 6	يكن	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 7	ب	b	ADP	IN	_	8	case	_	SpaceAfter=No
 8	وسع	wusoE_1	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	6	obl	_	_
-9	معظم	muEoZam_1	DET	PDT	Case=Gen	10	det:predet	_	_
+9	معظم	muEoZam_1	DET	PDT	Case=Gen	10	det	_	_
 10	المسيحيين	masiyHiy~_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	_
 11	قراءة	qirA'ap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
 12	الإنجيل	<inojiyl_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
@@ -25009,7 +25009,7 @@
 17	تكن	kAn-u_1	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	18	cop	_	_
 18	متبعة	mut~abaE_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	acl:relcl	_	_
 19	حتى	Hat~aY_1	ADP	IN	_	21	case	_	_
-20	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	det:predet	_	_
+20	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	det	_	_
 21	الحين	Hiyn_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
 22	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -25020,7 +25020,7 @@
 # text_en = This affair can be seen as the starting point for his career as a radical revolutionary.
 1	يمكن	>amokan_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 2	اعتبار	{iEotibAr_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det:predet	_	_
+3	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
 4	القضية	qaDiy~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 5	ب	b	ADP	IN	_	6	case	_	SpaceAfter=No
 6	مثابة	mavAbap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -25060,7 +25060,7 @@
 20	الإرهاب	<irohAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
 21	,	,_0	PUNCT	,	_	16	punct	_	_
 22	اتخذ	{it~axa*_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-23	عدة	Eid~ap_1	DET	PDT	Case=Acc	24	det:predet	_	_
+23	عدة	Eid~ap_1	DET	PDT	Case=Acc	24	det	_	_
 24	تدابير	tadobiyr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	22	obj	_	_
 25	ل	l	ADP	IN	_	26	case	_	SpaceAfter=No
 26	تحرير	taHoriyr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	obl	_	_
@@ -25086,7 +25086,7 @@
 10	الخاصة	xAS~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 11	,	,_0	PUNCT	,	_	4	punct	_	_
 12	أغلقت	>agolaq_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-13	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det:predet	_	_
+13	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det	_	_
 14	المدارس	madorasap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj:pass	_	_
 15	عام	EAm_1	ADV	RB	_	12	obl:tmod	_	_
 16	1994	1994_0	NUM	CD	Case=Gen	15	obl	_	_
@@ -25129,7 +25129,7 @@
 1	ل	l	ADP	IN	_	2	case	_	SpaceAfter=No
 2	لابتعاد	{ibotiEAd_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	_
 3	عن	Ean_1	ADP	IN	_	5	case	_	_
-4	كل	kul~_1	DET	PDT	Case=Gen	5	det:predet	_	_
+4	كل	kul~_1	DET	PDT	Case=Gen	5	det	_	_
 5	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,_0	PUNCT	,	_	2	punct	_	_
 7	أقام	>aqAm_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -25137,7 +25137,7 @@
 9	ريمي	riymiy~_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	flat	_	_
 10	في	fiy_1	ADP	IN	_	11	case	_	_
 11	سويسرا	suwiysorA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	7	obl	_	_
-12	معظم	muEoZam_1	DET	PDT	Case=Acc	13	det:predet	_	_
+12	معظم	muEoZam_1	DET	PDT	Case=Acc	13	det	_	_
 13	صيف	Sayof_1	ADV	RB	_	7	obl:tmod	_	_
 14	1947	1947_0	NUM	CD	Case=Gen	13	obl	_	SpaceAfter=No
 15	.	._0	PUNCT	.	_	7	punct	_	_
@@ -25235,7 +25235,7 @@
 23	و	w	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 24	كانت	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	25	cop	_	_
 25	ابنة	{ibon_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	conj	_	_
-26	إحدى	>aHad_1	DET	PDT	Case=Gen	27	det:predet	_	_
+26	إحدى	>aHad_1	DET	PDT	Case=Gen	27	det	_	_
 27	صديقات	Sadiyq_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	25	nmod	_	_
 28	جيرمين	jyrmyn_0	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	27	nmod:gmod	_	SpaceAfter=No
 29	.	._0	PUNCT	.	_	4	punct	_	_
@@ -25291,7 +25291,7 @@
 17	يكن	kan~-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	acl:relcl	_	SpaceAfter=No
 18	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	17	dep	_	_
 19	أهل	>ahol_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	_
-20	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	21	det:predet	_	_
+20	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	21	det	_	_
 21	الجزيرة	jaziyrap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	nmod	_	_
 22	ل	l	ADP	IN	_	23	case	_	SpaceAfter=No
 23	أرض	>aroD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
@@ -25324,7 +25324,7 @@
 # original_text = تقع هذه الجزر على الفالق الهندي الأسترالي, الفالق الذي نشأ نتيجة اصطدام الصفائح الهندية بالأسترالية.
 # text_en = The islands are located at the Indo-Australian Fault; the Fault arose due to the collision of the Indian and Australian plates.
 1	تقع	waqaE-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
 3	الجزر	jaziyrap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	_
 4	على	EalaY_1	ADP	IN	_	5	case	_	_
 5	الفالق	fAliq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
@@ -25352,7 +25352,7 @@
 3	الأشياء	$ayo'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	_
 4	التي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	_
 5	تدعم	daEam-a_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	acl:relcl	_	_
-6	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	7	det:predet	_	_
+6	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
 7	النظرية	naZariy~ap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	_
 8	وجود	wujuwd_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
 9	قطيع	qaTiyE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -25457,7 +25457,7 @@
 17	ألغا	>alogaY_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	conj	_	SpaceAfter=No
 18	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	17	obj	_	_
 19	من	min_1	ADP	IN	_	21	case	_	_
-20	جميع	jamiyE_1	DET	PDT	Case=Gen	21	det:predet	_	_
+20	جميع	jamiyE_1	DET	PDT	Case=Gen	21	det	_	_
 21	الجرائم	jariymap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	SpaceAfter=No
 22	.	._0	PUNCT	.	_	7	punct	_	_
 
@@ -25576,7 +25576,7 @@
 4	عشر	Ea$ar_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	3	nummod	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	2	punct	_	_
 6	استخدم	{isotaxodam_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-7	بعض	baEoD_1	DET	PDT	Case=Nom	8	det:predet	_	_
+7	بعض	baEoD_1	DET	PDT	Case=Nom	8	det	_	_
 8	الكتاب	kAtib_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	_
 9	اسم	{isom_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
 10	بوليا	bawoliy~_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	9	nmod:gmod	_	_
@@ -25606,7 +25606,7 @@
 8	ترك	tarok_1	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	_
 9	المواجهة	muwAjahap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
 10	في	fiy_1	ADP	IN	_	12	case	_	_
-11	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	12	det:predet	_	_
+11	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	12	det	_	_
 12	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	_
 13	تقريباً	taqoriyb_1	ADV	RB	_	8	advmod	_	_
 14	ل	l	ADP	IN	_	15	mark	_	SpaceAfter=No
@@ -25763,7 +25763,7 @@
 29	الجديد	jadiyd_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	26	amod	_	_
 30	اللورد	luwrod_1	NOUN	NN	Animacy=Hum|Definite=Def|Gender=Masc|Number=Sing	26	appos	_	_
 31	غرينفيل	grynfyl_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	26	appos	_	_
-32	أي	>ay~_1	DET	WDT	Case=Acc	33	det:predet	_	_
+32	أي	>ay~_1	DET	WDT	Case=Acc	33	det	_	_
 33	اتفاق	{it~ifAq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	obj	_	SpaceAfter=No
 34	,	,_0	PUNCT	,	_	36	punct	_	_
 35	كما	mA_4	ADP	IN	_	36	mark	_	_
@@ -25907,13 +25907,13 @@
 17	ميتي	may~it_1	PROPN	NNP	Animacy=Nhum|Number=Sing	16	nmod:gmod	_	SpaceAfter=No
 18	,	,_0	PUNCT	,	_	21	punct	_	_
 19	في	fiy_1	ADP	IN	_	21	case	_	_
-20	إحدى	>aHad_1	DET	PDT	Case=Gen	21	det:predet	_	_
+20	إحدى	>aHad_1	DET	PDT	Case=Gen	21	det	_	_
 21	الأمسيات	>umosiy~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	obl	_	_
 22	خلال	xilAl_1	ADP	IN	_	23	case	_	_
 23	العشاء	Ea$A'_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
 24	,	,_0	PUNCT	,	_	25	punct	_	_
 25	ألفت	>alif-a_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	advcl	_	_
-26	بعض	baEoD_1	DET	PDT	Case=Nom	27	det:predet	_	SpaceAfter=No
+26	بعض	baEoD_1	DET	PDT	Case=Nom	27	det	_	SpaceAfter=No
 27	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	25	nsubj:pass	_	_
 28	من	min_1	ADP	IN	_	30	case	_	_
 29	قبل	qibal_1	ADP	IN	_	28	fixed	_	_
@@ -25965,7 +25965,7 @@
 11	بين	bayona_1	ADP	IN	_	10	fixed	_	SpaceAfter=No
 12	هما	hmA	PRON	PRP	Case=Gen|Number=Dual|Person=3	10	obj	_	_
 13	وضع	waDoE_1	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	_
-14	بعض	baEoD_1	DET	PDT	Case=Acc	15	det:predet	_	_
+14	بعض	baEoD_1	DET	PDT	Case=Acc	15	det	_	_
 15	اللمسات	lamosap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	obj	_	_
 16	في	fiy_1	ADP	IN	_	17	case	_	_
 17	التوزيعات	tawoziyE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	_
@@ -25976,7 +25976,7 @@
 22	لاحقاً	lAHiq_1	ADV	RB	_	21	obl:tmod	_	_
 23	في	fiy_1	ADP	IN	_	24	case	_	_
 24	أسلوب	>usoluwb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	_
-25	كلا	kulowap_1	DET	PDT	Case=Gen	26	det:predet	_	_
+25	كلا	kulowap_1	DET	PDT	Case=Gen	26	det	_	_
 26	الفنانين	fan~An_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
 27	.	._0	PUNCT	.	_	6	punct	_	_
 
@@ -26160,7 +26160,7 @@
 18	و	w	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 19	سمح	samaH-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	conj	_	_
 20	ل	l	ADP	IN	_	22	case	_	SpaceAfter=No
-21	كل	kul~_1	DET	PDT	Case=Gen	22	det:predet	_	_
+21	كل	kul~_1	DET	PDT	Case=Gen	22	det	_	_
 22	المنفيين	manofiy~_2	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	19	obl	_	_
 23	ب	b	ADP	IN	_	24	case	_	SpaceAfter=No
 24	العودة	Eawodap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	obl	_	_
@@ -26208,7 +26208,7 @@
 2	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 3	الجزء	juzo'_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 4	من	min_1	ADP	IN	_	6	case	_	_
-5	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	det:predet	_	_
+5	هذا	h`*A_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
 6	الحد	Had~_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	_
 7	الثاني	vAniy_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
 8	إلى	<ilaY_1	ADP	IN	_	9	case	_	_
@@ -26485,7 +26485,7 @@
 15	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	14	nmod	_	SpaceAfter=No
 16	:	:_0	PUNCT	:	_	17	punct	_	_
 17	غزو	gazow_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	appos	_	_
-18	كامل	kAmil_1	DET	PDT	Case=Gen	19	det:predet	_	_
+18	كامل	kAmil_1	DET	PDT	Case=Gen	19	det	_	_
 19	مملكة	mamolakap_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	_
 20	فرنسا	faranosA_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	19	nmod:gmod	_	SpaceAfter=No
 21	.	._0	PUNCT	.	_	4	punct	_	_
@@ -26624,7 +26624,7 @@
 15	قد	qado_1	PART	RP	_	16	compound:prt	_	_
 16	انتهت	{inotahaY_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	_
 17	في	fiy_1	ADP	IN	_	19	case	_	_
-18	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	19	det:predet	_	_
+18	ذلك	*`lika_1	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	19	det	_	_
 19	الوقت	waqot_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
 20	.	._0	PUNCT	.	_	1	punct	_	_
 
