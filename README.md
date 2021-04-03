@@ -38,6 +38,10 @@ employ ten-fold cross-validation.
 
 * 2021-05-15 v2.8
   * Removed relation subtype det:predet, it is not relevant for Arabic.
+  * Removed relation subtype nmod:gmod, it is undocumented (it probably
+    means genitive modification although it mostly occurs with proper
+    nouns that do not have the Case=Gen feature) and it is not used in the
+    other Arabic treebanks.
 * 2017-11-15 v2.1
   * First official release after it was used as a surprise dataset in the
     CoNLL 2017 shared task.

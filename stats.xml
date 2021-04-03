@@ -64,7 +64,7 @@
     <feat name="Voice" value="Pass" upos="ADJ,AUX,NOUN,VERB">242</feat><!-- تستخدم, يعتقد, أجريت, أطلق, أعيد, أنشئ, الموجودة, تعد, طرحت, موجودة -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="41">
+  <deps unique="40">
     <dep name="acl">34</dep>
     <dep name="acl:relcl">319</dep>
     <dep name="advcl">316</dep>
@@ -92,8 +92,7 @@
     <dep name="goeswith">4</dep>
     <dep name="iobj">10</dep>
     <dep name="mark">490</dep>
-    <dep name="nmod">2761</dep>
-    <dep name="nmod:gmod">437</dep>
+    <dep name="nmod">3198</dep>
     <dep name="nsubj">1369</dep>
     <dep name="nsubj:pass">141</dep>
     <dep name="nummod">153</dep>
