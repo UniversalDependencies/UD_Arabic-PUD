@@ -9750,7 +9750,7 @@
 12	يعد	Ead~-u_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	17	cop	_	_
 13	مترو	mitoruw_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj:pass	_	_
 14	بيونغ	yuwnog_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	13	nmod	_	_
-15	يانغ	yAng_1	X	GW	_	14	goeswith	_	Proper=True
+15	يانغ	yAng_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	14	flat	_	_
 16	أحد	>aHad_1	DET	PDT	Case=Gen	17	det	_	_
 17	أكثر	>akovar_2	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	_
 18	أنظمة	niZAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	_
@@ -9787,7 +9787,7 @@
 1	رأيت	ra>aY-a_1	VERB	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
 2	في	fiy_1	ADP	IN	_	3	case	_	_
 3	بيونغ	yuwnog_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	1	obl	_	_
-4	يانغ	yAng_1	X	GW	_	3	goeswith	_	Proper=True
+4	يانغ	yAng_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	3	flat	_	_
 5	أناساً	<inosAn_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	obj	_	_
 6	يحملون	Hamal-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	_	_
 7	هواتف	hAtif_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -18990,10 +18990,8 @@
 10	من	min_1	ADP	IN	_	11	case	_	_
 11	سلالة	sulAlap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	_
 12	توكوغاوا	twkwgAwA_0	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	11	nmod	_	_
-13	إيه	<iyh_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
-14	-	-_0	PUNCT	-	_	15	punct	_	SpaceAfter=No
-15	ياسو	>asA-u_1	X	GW	_	13	goeswith	_	Proper=True|SpaceAfter=No
-16	.	._0	PUNCT	.	_	8	punct	_	_
+13	إيه-ياسو	<iyh->asA-u_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
+14	.	._0	PUNCT	.	_	8	punct	_	_
 
 # newdoc id = w01134
 # sent_id = w01134062
