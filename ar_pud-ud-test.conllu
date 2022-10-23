@@ -1930,7 +1930,7 @@
 1	قام	qAm-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 2	سيغال	gAlaY_1	PROPN	NNP	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	التي	Al~a*iy_1	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	det	_	_
-4	كانت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	Gloss=was
+4	كانت	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	Gloss=was
 5	جدت	jad~_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	Gloss=grandmother|SpaceAfter=No
 6	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Gloss=his
 7	من	min_1	ADP	IN	_	8	case	_	Gloss=from
@@ -21211,7 +21211,7 @@
 # text_en = The issue might not be over for Barroso.
 1	قد	qado_1	PART	RP	_	4	compound:prt	_	_
 2	لا	lA_1	PART	RP	Polarity=Neg	3	advmod	_	_
-3	تكون	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	cop	_	_
+3	تكون	kAn-u_1	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	cop	_	_
 4	المشكلة	mu$okilap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
 5	قد	qado_1	PART	RP	_	6	compound:prt	_	_
 6	انتهت	{inotahaY_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -26066,7 +26066,7 @@
 3	جبال	jabal_1	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	_
 4	الأنديز	>anodiyz_1	PROPN	NNP	Animacy=Nhum|Gender=Masc	3	nmod	_	SpaceAfter=No
 5	,	,_0	PUNCT	,	_	2	punct	_	_
-6	كانت	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	cop	_	_
+6	كانت	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	cop	_	_
 7	الحافة	HAfap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	_
 8	الغربية	garobiy~_1	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	_
 9	ل	l	ADP	IN	_	10	case	_	SpaceAfter=No
