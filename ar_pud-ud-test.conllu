@@ -11315,27 +11315,27 @@
 # original_text = كانوا يتناولون المشروبات الكحولية مثل الجعة وخمرة العسل والبيور (نبيذ فاكهة قوي), أما الأثرياء فالنبيذ المستورد.
 # text_en = Alcoholic drinks like beer, mead, bjórr (a strong fruit wine) and, for the rich, imported wine, were served.
 1	كانوا	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	2	aux	_	_
-2	يتناولون	tanAwal_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-3	المشروبات	ma$oruwb_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	_
-4	الكحولية	kuHuwliy~_1	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	_
-5	مثل	mivol_1	ADP	IN	_	6	case	_	_
-6	الجعة	jiEap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
-7	و	w	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-8	خمرة	xamorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	conj	_	_
-9	العسل	Easal_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
-10	و	w	CCONJ	CC	_	11	cc	_	SpaceAfter=No
-11	البيور	bywr_0	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	_
+2	يتناولون	tanAwal_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Gloss=take
+3	المشروبات	ma$oruwb_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	Gloss=beverage
+4	الكحولية	kuHuwliy~_1	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	Gloss=alcoholic
+5	مثل	mivol_1	ADP	IN	_	6	case	_	Gloss=like
+6	الجعة	jiEap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	Gloss=beer
+7	و	w	CCONJ	CC	_	8	cc	_	Gloss=and|SpaceAfter=No
+8	خمرة	xamorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	conj	_	Gloss=wine
+9	العسل	Easal_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	Gloss=honey
+10	و	w	CCONJ	CC	_	11	cc	_	Gloss=and|SpaceAfter=No
+11	البيور	bywr_0	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	Gloss=bjórr
 12	(	(_0	PUNCT	(	_	13	punct	_	SpaceAfter=No
-13	نبيذ	nabiy*_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	appos	_	_
-14	فاكهة	fAkihap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	_
-15	قوي	qawiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+13	نبيذ	nabiy*_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	appos	_	Gloss=wine
+14	فاكهة	fAkihap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	Gloss=fruit
+15	قوي	qawiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	Gloss=strong|SpaceAfter=No
 16	)	)_0	PUNCT	)	_	13	punct	_	SpaceAfter=No
 17	,	,_0	PUNCT	,	_	11	punct	_	_
-18	أما	>am~A_1	PART	RP	_	19	compound:prt	_	_
-19	الأثرياء	variy~_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	orphan	_	_
-20	ف	f	PART	RP	_	21	compound:prt	_	SpaceAfter=No
-21	النبيذ	nabiy*_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	orphan	_	_
-22	المستورد	musotaworid_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
+18	أما	>am~A_1	PART	RP	_	19	case	_	Gloss=as-for
+19	الأثرياء	variy~_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	21	orphan	_	Gloss=the-wealthy
+20	ف	f	PART	RP	_	21	case	_	SpaceAfter=No
+21	النبيذ	nabiy*_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	Gloss=the-wine
+22	المستورد	musotaworid_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	amod	_	Gloss=imported|SpaceAfter=No
 23	.	._0	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = w01023
