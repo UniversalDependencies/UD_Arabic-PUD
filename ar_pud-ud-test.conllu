@@ -655,7 +655,7 @@
 8	آمل	>amal-a	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	2	parataxis	_	LId=>amal-a_1
 9	أن	>ano	ADP	IN	_	12	mark	_	LId=>ano_1
 10	الأمر	>amor	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	nsubj	_	LId=>amor_1
-11	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
+11	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
 12	يستحق	{isotaHaq~	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	ccomp	_	LId={isotaHaq~_1|SpaceAfter=No
 13	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
@@ -930,7 +930,7 @@
 9	خلال	xilAl	ADP	IN	_	10	case	_	LId=xilAl_1
 10	رحلات	riHolap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	obl	_	LId=riHolap_1
 11	الطيران	TayarAn	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	LId=TayarAn_1
-12	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	aux	_	LId=kAn-u_1
+12	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	aux	_	LId=kAn-u_1
 13	لا	lA	PART	RP	Polarity=Neg	14	advmod	_	LId=lA_1
 14	يعول	>aEowal	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	xcomp	_	LId=>aEowal_1
 15	علي	EalaY	ADP	IN	_	16	case	_	LId=EalaY_1|SpaceAfter=No
@@ -1009,7 +1009,7 @@
 17	تحديد	taHodiyd	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=taHodiyd_1
 18	ما	mA	PART	RP	_	22	mark	_	LId=mA_4
 19	إذا	<i*A	ADP	IN	_	18	fixed	_	LId=<i*A_1
-20	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	22	aux	_	LId=kAn-u_1
+20	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	22	aux	_	LId=kAn-u_1
 21	س	s	PART	RP	_	22	compound:prt	_	SpaceAfter=No
 22	تتقاضى	taqADaY	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	17	nmod	_	LId=taqADaY_1
 23	رسوماً	rasom	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	22	obj	_	LId=rasom_1
@@ -1298,7 +1298,7 @@
 5	تاريخية	tAriyxiy~	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	amod	_	LId=tAriyxiy~_1
 6	من	min	ADP	IN	_	7	case	_	LId=min_1
 7	البيانات	bayAn	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	LId=bayAn_1
-8	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
+8	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
 9	تستخدم	{isotaxodam	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	1	ccomp	_	LId={isotaxodam_1
 10	ل	l	ADP	IN	_	11	case	_	SpaceAfter=No
 11	إحداث	<iHodAv	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=<iHodAv_1
@@ -1812,7 +1812,7 @@
 3	بعد	baEod	ADP	IN	_	4	case	_	LId=baEod_1
 4	ذلك	*`lika	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=*`lika_1
 5	إن	<ino	ADP	IN	_	7	mark	_	LId=<ino_1
-6	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
+6	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
 7	تفهم	fahim-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	LId=fahim-a_1
 8	السبب	sabab	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	LId=sabab_1
 9	الذي	Al~a*iy	PRON	REL	Case=Acc|Gender=Masc|Number=Sing	11	nsubj	_	LId=Al~a*iy_1
@@ -4609,7 +4609,7 @@
 4	أليس	>aloyas	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	2	appos	_	LId=>aloyas_1|SpaceAfter=No
 5	:	:	PUNCT	:	_	8	punct	_	LId=:_0
 6	"	"	PUNCT	``	_	8	punct	_	LId="_0|SpaceAfter=No
-7	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
+7	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
 8	يهمل	>ahomal	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	LId=>ahomal_1
 9	صحت	SiH~ap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	LId=SiH~ap_1|SpaceAfter=No
 10	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
@@ -4663,7 +4663,7 @@
 16	الباردة	bArid	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	LId=bArid_1
 17	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 18	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	nsubj:pass	_	LId=Al~a*iy_1
-19	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
+19	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
 20	تستخدم	{isotaxodam	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	13	conj	_	LId={isotaxodam_1
 21	في	fiy	ADP	IN	_	22	case	_	LId=fiy_1
 22	امتحانات	{imotiHAn	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	obl	_	LId={imotiHAn_1
@@ -4751,7 +4751,7 @@
 3	الديمقراطيين	diymuqrATiy~	PROPN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=diymuqrATiy~_1
 4	الأحرار	Hur~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	LId=Hur~_1
 5	الذي	Al~a*iy	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	LId=Al~a*iy_1
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
 7	يمثل	mav~al	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl:relcl	_	LId=mav~al_1
 8	الحي	Hay~	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	LId=Hay~_2
 9	الراقي	rAqiy	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=rAqiy_1
@@ -6365,7 +6365,7 @@
 3	لي	liy	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	2	appos	_	LId=liy_1|SpaceAfter=No
 4	:	:	PUNCT	:	_	8	punct	_	LId=:_0
 5	"	"	PUNCT	``	_	8	punct	_	LId="_0|SpaceAfter=No
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
 7	لا	lA	PART	RP	Polarity=Neg	8	advmod	_	LId=lA_1
 8	يمكن	>amokan	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	ccomp	_	LId=>amokan_1
 9	الدخول	duxuwl	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	LId=duxuwl_1
@@ -6387,7 +6387,7 @@
 25	تلك	*`lika	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	26	det	_	LId=*`lika_1
 26	الأسواق	suwq	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	23	nmod	_	LId=suwq_1
 27	إذا	<i*A	ADP	IN	_	29	mark	_	LId=<i*A_1
-28	كنت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|Voice=Act	29	aux	_	LId=kAn-u_1
+28	كنت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|Voice=Act	29	aux	_	LId=kAn-u_1
 29	تعرف	Earaf-i	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	18	advcl	_	LId=Earaf-i_1
 30	كيف	kayofa	ADV	WRB	_	31	advmod	_	LId=kayofa_2
 31	تبحث	baHav-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	29	xcomp	_	LId=baHav-a_1|SpaceAfter=No
@@ -7002,7 +7002,7 @@
 2	أيضاً	>ayoDAF	ADV	RB	_	1	advmod	_	LId=>ayoDAF_1
 3	ما	mA	PART	RP	_	9	mark	_	LId=mA_4
 4	إذا	<i*A	ADP	IN	_	3	fixed	_	LId=<i*A_1
-5	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
+5	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
 6	كأس	ka>os	PROPN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	LId=ka>os_1
 7	ديفيس	diyfiys	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	LId=diyfiys_1
 8	قد	qado	PART	RP	_	9	compound:prt	_	LId=qado_1
@@ -7063,7 +7063,7 @@
 1	خبر	xabar	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	LId=xabar_1
 2	الغش	gi$~	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	LId=gi$~_1
 3	الذي	Al~a*iy	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	LId=Al~a*iy_1
-4	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	5	aux	_	LId=kAn-u_1
+4	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	5	aux	_	LId=kAn-u_1
 5	تقوم	qAm-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	acl:relcl	_	LId=qAm-u_1
 6	ب	bi	ADP	IN	_	7	case	_	LId=bi_1|SpaceAfter=No
 7	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	5	obl	_	_
@@ -8697,7 +8697,7 @@
 5	يقرروا	qar~ar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	1	csubj	_	LId=qar~ar_1
 6	ما	mA	PART	RP	_	10	mark	_	LId=mA_4
 7	إذا	<i*A	ADP	IN	_	6	fixed	_	LId=<i*A_1
-8	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
+8	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
 9	س	s	PART	RP	_	10	compound:prt	_	SpaceAfter=No
 10	يسوقون	saw~aq	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	5	advcl	_	LId=saw~aq_1
 11	دراجت	dar~Ajap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	obj	_	LId=dar~Ajap_1|SpaceAfter=No
@@ -8978,7 +8978,7 @@
 # original_text = لم أكن قد شاهدت الكثير من الحلقات حتى بدأ هاتفي بالوميض.
 # text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
 1	لم	lamo	PART	RP	Polarity=Neg	4	advmod	_	LId=lamo_1
-2	أكن	kAn-u	VERB	VBC	Aspect=Imp|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
+2	أكن	kAn-u	AUX	VBC	Aspect=Imp|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
 3	قد	qado	PART	RP	_	4	compound:prt	_	LId=qado_1
 4	شاهدت	$Ahad	VERB	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	LId=$Ahad_1
 5	الكثير	kaviyr	NOUN	NN	Case=Acc|Definite=Def|Number=Sing	4	obj	_	LId=kaviyr_2
@@ -9399,12 +9399,12 @@
 13	الحدائق	Hadiyqap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	LId=Hadiyqap_1|SpaceAfter=No
 14	,	,	PUNCT	,	_	18	punct	_	LId=,_0
 15	و	w	CCONJ	CC	_	18	cc	_	SpaceAfter=No
-16	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
+16	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
 17	دوما	dawom	ADV	RB	_	18	advmod	_	LId=dawom_1
 18	يعود	EAd-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	LId=EAd-u_1
 19	إلى	<ilaY	ADP	IN	_	22	case	_	LId=<ilaY_1
 20	حيثما	HayovumA	ADP	IN	_	22	mark	_	LId=HayovumA_1
-21	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	22	aux	_	LId=kAn-u_1
+21	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	22	aux	_	LId=kAn-u_1
 22	يشعر	$aEar-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	xcomp	_	LId=$aEar-u_1
 23	أن	>an~a	SCONJ	IN	_	25	mark	_	LId=>an~a_1|SpaceAfter=No
 24	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	25	nsubj	_	_
@@ -9417,7 +9417,7 @@
 # text = كان يصول ويجول داخل إسطبلي فمازحت الرجل قائلاً من الواضح أنه لم يكن يرغب بأن يباع.
 # original_text = كان يصول ويجول داخل إسطبلي فمازحت الرجل قائلا من الواضح أنه لم يكن يرغب بأن يباع.
 # text_en = He kept on turning up at my barn and I joked to the guy that clearly he didn't want to be sold.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
 2	يصول	SAl-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=SAl-u_1
 3	و	w	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 4	يجول	jAl-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	conj	_	LId=jAl-u_1
@@ -9433,7 +9433,7 @@
 14	أن	>an~a	SCONJ	IN	_	18	mark	_	LId=>an~a_1|SpaceAfter=No
 15	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	nsubj	_	_
 16	لم	lamo	PART	RP	Polarity=Neg	17	advmod	_	LId=lamo_1
-17	يكن	kAn-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
+17	يكن	kAn-u	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
 18	يرغب	ragib-a	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	csubj	_	LId=ragib-a_1
 19	ب	b	ADP	IN	_	21	case	_	SpaceAfter=No
 20	أن	>ano	ADP	IN	_	21	mark	_	LId=>ano_1
@@ -10090,7 +10090,7 @@
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 12	و	w	PART	RP	_	15	compound:prt	_	SpaceAfter=No
 13	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	15	nsubj	_	LId=Al~a*iy_1
-14	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+14	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 15	تعتمد	{iEotamad	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	LId={iEotamad_1
 16	على	EalaY	ADP	IN	_	17	case	_	LId=EalaY_1
 17	واردات	wArid	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	obl	_	LId=wArid_1
@@ -10104,7 +10104,7 @@
 25	مع	maE	ADP	IN	_	26	case	_	LId=maE_1
 26	المدن	madiynap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	nmod	_	LId=madiynap_1
 27	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	29	nsubj	_	LId=Al~a*iy_1
-28	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	29	aux	_	LId=kAn-u_1
+28	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	29	aux	_	LId=kAn-u_1
 29	تسيطر	sayoTar	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	26	acl:relcl	_	LId=sayoTar_1
 30	على	EalaY	ADP	IN	_	31	case	_	LId=EalaY_1
 31	المضائق	maDiyq	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	29	obl	_	LId=maDiyq_1
@@ -10119,7 +10119,7 @@
 # text = كان داريوس يرى أن الفضل الأكبر يعود للقائد ميغابازوس في تحقيق الانتصار في البلقان.
 # original_text = كان داريوس يرى أن الفضل الأكبر يعود للقائد ميغابازوس في تحقيق الانتصار في البلقان.
 # text_en = Darius's highly regarded commander Megabazus was responsible to fulfill the conquers in the Balkans.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
 2	داريوس	dAryws	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	LId=dAryws_0
 3	يرى	ra>aY-a	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=ra>aY-a_1
 4	أن	>an~a	SCONJ	IN	_	7	mark	_	LId=>an~a_1
@@ -11223,7 +11223,7 @@
 6	الإمبراطورية	<imobirATuwriy~ap	PROPN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	LId=<imobirATuwriy~ap_1
 7	الرومانية	ruwmAniy~	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=ruwmAniy~_1|Proper=True|SpaceAfter=No
 8	,	,	PUNCT	,	_	4	punct	_	LId=,_0
-9	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
+9	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
 10	الرومان	ruwmAn	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	LId=ruwmAn_1
 11	يشيرون	>a$Ar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=>a$Ar_1
 12	إلى	<ilaY	ADP	IN	_	13	case	_	LId=<ilaY_1
@@ -11312,7 +11312,7 @@
 # text = كانوا يتناولون المشروبات الكحولية مثل الجعة وخمرة العسل والبيور (نبيذ فاكهة قوي), أما الأثرياء فالنبيذ المستورد.
 # original_text = كانوا يتناولون المشروبات الكحولية مثل الجعة وخمرة العسل والبيور (نبيذ فاكهة قوي), أما الأثرياء فالنبيذ المستورد.
 # text_en = Alcoholic drinks like beer, mead, bjórr (a strong fruit wine) and, for the rich, imported wine, were served.
-1	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
+1	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
 2	يتناولون	tanAwal	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	Gloss=take|LId=tanAwal_1
 3	المشروبات	ma$oruwb	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	Gloss=beverage|LId=ma$oruwb_1
 4	الكحولية	kuHuwliy~	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	Gloss=alcoholic|LId=kuHuwliy~_1
@@ -11345,7 +11345,7 @@
 2	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	advcl	_	LId=kAn-u_1
 3	القواعد	qAEidap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	nsubj	_	LId=qAEidap_2|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-5	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
+5	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
 6	المنازلات	munAzalap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	LId=munAzalap_1
 7	عادةً	EAdap	ADV	RB	_	9	advmod	_	LId=EAdap_1
 8	ما	mA	PART	RP	_	9	compound:prt	_	LId=mA_1
@@ -11476,7 +11476,7 @@
 9	العام	EAm~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=EAm~_1
 10	الدنماركي	danimArokiy~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=danimArokiy~_1
 11	الذي	Al~a*iy	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	LId=Al~a*iy_1
-12	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+12	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 13	يعتبر	{iEotabar	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	cop	_	LId={iEotabar_1
 14	الدانيفيركه	dAnyfyrkh	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	LId=dAnyfyrkh_0
 15	منيعة	maniyE	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	acl:relcl	_	LId=maniyE_1|SpaceAfter=No
@@ -11735,7 +11735,7 @@
 # text = كان السكان الأصليون في الأمريكيتين يعتمدون عليه كجزءٍ أساسيٍ من علاجاتهم الطبية.
 # original_text = كان السكان الأصليون في الأمريكيتين يعتمدون عليه كجزء أساسي من علاجاتهم الطبية.
 # text_en = Native Americans across the Americas relied on it as a staple of their medical treatments.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	aux	_	LId=kAn-u_1
 2	السكان	sAkin	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	LId=sAkin_1
 3	الأصليون	>aSoliy~	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	amod	_	LId=>aSoliy~_1
 4	في	fiy	ADP	IN	_	5	case	_	LId=fiy_1
@@ -11759,7 +11759,7 @@
 # text_en = Christian churches in northwestern Europe and Ukraine often used willow branches in place of palms in the ceremonies on Palm Sunday.
 1	غالباً	gAlib	ADV	RB	_	4	advmod	_	LId=gAlib_1
 2	ما	mA	PART	RP	_	4	compound:prt	_	LId=mA_8
-3	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
+3	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
 4	تستخدم	{isotaxodam	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId={isotaxodam_1
 5	الكنائس	kaniysap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	4	nsubj	_	LId=kaniysap_1
 6	في	fiy	ADP	IN	_	7	case	_	LId=fiy_1
@@ -12483,7 +12483,7 @@
 8	سكانٌ	sAkin	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	6	nsubj	_	LId=sAkin_1
 9	أستراليون	>usoturAliy~	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	8	amod	_	LId=>usoturAliy~_1
 10	أصليون	>aSoliy~	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	8	amod	_	LId=>aSoliy~_1
-11	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
+11	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
 12	يعيشون	EA$	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	8	acl:relcl	_	LId=EA$_1
 13	في	fiy	ADP	IN	_	14	case	_	LId=fiy_1
 14	المنطقة	minoTaqap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	obl	_	LId=minoTaqap_1|SpaceAfter=No
@@ -12599,7 +12599,7 @@
 13	ذات	*At	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	appos	_	LId=*At_1|SpaceAfter=No
 14	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
 15	حيث	Hayovu	ADP	IN	_	22	mark	_	LId=Hayovu_1
-16	تكون	kAn-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	22	aux	_	LId=kAn-u_1
+16	تكون	kAn-u	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	22	aux	_	LId=kAn-u_1
 17	الحبيبات	Habiyb	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	22	nsubj	_	LId=Habiyb_1
 18	الأدق	>adaq~	ADJ	JJR	Case=Nom|Definite=Def	17	amod	_	LId=>adaq~_2
 19	حجماً	Hajom	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	obl	_	LId=Hajom_1
@@ -12730,7 +12730,7 @@
 3	عام	EAm	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=EAm_1
 4	1340	1340	NUM	CD	_	3	nmod	_	LId=1340_0|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
 7	عدد	Eadad	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	LId=Eadad_1
 8	سكان	sAkin	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=sAkin_1
 9	القاهرة	qAhirap	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	LId=qAhirap_1
@@ -12827,7 +12827,7 @@
 12	الأمريكيين	>amoriykiy~	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	LId=>amoriykiy~_1
 13	الأصليين	>aSoliy~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	amod	_	LId=>aSoliy~_1
 14	الذين	Al~a*iy	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	16	nsubj	_	LId=Al~a*iy_1
-15	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	16	aux	_	LId=kAn-u_1
+15	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	16	aux	_	LId=kAn-u_1
 16	يسكنون	sakan-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	LId=sakan-u_1
 17	المنطقة	minoTaqap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	obj	_	LId=minoTaqap_1
 18	عند	Einod	ADP	IN	_	19	case	_	LId=Einod_1
@@ -12924,7 +12924,7 @@
 7	عرف	Earaf-i	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=Earaf-i_1
 8	الأوروبيون	>uwrub~iy~	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	7	nsubj	_	LId=>uwrub~iy~_1
 9	الذين	Al~a*iy	PRON	REL	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	LId=Al~a*iy_1
-10	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
+10	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
 11	يزورون	zAr-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	8	acl:relcl	_	LId=zAr-u_1
 12	منطقة	minoTaqap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	11	obj	_	LId=minoTaqap_1
 13	الكاريبي	kAriybiy	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	LId=kAriybiy_1
@@ -13110,7 +13110,7 @@
 4	عام	EAm	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl:tmod	_	LId=EAm_1
 5	1962	1962	NUM	CD	_	4	nmod	_	LId=1962_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-7	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
+7	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
 8	بروكس	bruwks	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	nsubj	_	LId=bruwks_1
 9	و	w	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	كارسون	kArswn	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	conj	_	LId=kArswn_0
@@ -13302,7 +13302,7 @@
 19	في	fiy	ADP	IN	_	20	case	_	LId=fiy_1
 20	المنطقة	minoTaqap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	LId=minoTaqap_1
 21	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	23	obl	_	LId=Al~a*iy_1
-22	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=kAn-u_1
+22	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=kAn-u_1
 23	ترتفع	{irotafaE	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	20	acl:relcl	_	LId={irotafaE_1
 24	في	fiy	ADP	IN	_	21	case	_	LId=fiy_1|SpaceAfter=No
 25	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	21	dep	_	_
@@ -13343,7 +13343,7 @@
 2	جمهورية	jumohuwriy~ap	PROPN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	LId=jumohuwriy~ap_1
 3	الصين	Siyn	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LId=Siyn_1
 4	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	LId=Al~a*iy_1
-5	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
+5	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
 6	قد	qado	PART	RP	_	7	compound:prt	_	LId=qado_1
 7	تأسست	>as~as	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=>as~as_1
 8	حديثاً	Hadiyv	ADV	RB	_	7	advmod	_	LId=Hadiyv_1
@@ -13423,7 +13423,7 @@
 # text = كانت المنطقة التي حكمها بوغد خان هي تقريباً ما كان يدعى سابقاً بمنغوليا الخارجية خلال حكم سلالة تشينغ.
 # original_text = كانت المنطقة التي حكمها بوغد خان هي تقريبا ما كان يدعى سابقا بمنغوليا الخارجية خلال حكم سلالة تشينغ.
 # text_en = The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period.
-1	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
+1	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
 2	المنطقة	minoTaqap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	LId=minoTaqap_1
 3	التي	Al~a*iy	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	LId=Al~a*iy_1
 4	حكم	Hakam	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=Hakam_2|SpaceAfter=No
@@ -13433,7 +13433,7 @@
 8	هي	hiya	PRON	PRP	Gender=Fem|Number=Sing|Person=3	2	dep	_	LId=hiya_1
 9	تقريباً	taqoriyb	ADV	RB	_	10	advmod	_	LId=taqoriyb_1
 10	ما	mA	PRON	WP	Case=Nom	0	root	_	LId=mA_1
-11	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
+11	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
 12	يدعى	daEA-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	10	acl:relcl	_	LId=daEA-u_1
 13	سابقاً	sAbiq	ADV	RB	_	12	advmod	_	LId=sAbiq_1
 14	ب	b	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -13756,7 +13756,7 @@
 10	و	w	PART	RP	_	15	compound:prt	_	SpaceAfter=No
 11	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	15	nsubj:pass	_	LId=Al~a*iy_1
 12	لم	lamo	PART	RP	Polarity=Neg	15	advmod	_	LId=lamo_1
-13	تكن	kAn-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+13	تكن	kAn-u	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 14	قد	qado	PART	RP	_	15	compound:prt	_	LId=qado_1
 15	استوطنت	{isotawoTan	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	8	advcl	_	LId={isotawoTan_1
 16	بعد	baEod	ADV	RB	_	15	obl:tmod	_	LId=baEod_1|SpaceAfter=No
@@ -13775,7 +13775,7 @@
 6	تحقيق	taHoqiyq	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=taHoqiyq_1
 7	التكامل	takAmul	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=takAmul_1
 8	حيث	Hayovu	ADP	IN	_	10	mark	_	LId=Hayovu_1
-9	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
+9	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
 10	يمكن	>amokan	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	advcl	_	LId=>amokan_1
 11	تطبيق	taTobiyq	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	LId=taTobiyq_1
 12	الآليات	|liy~ap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	LId=|liy~ap_2
@@ -14112,7 +14112,7 @@
 20	في	fiy	ADP	IN	_	22	case	_	LId=fiy_1
 21	كل	kul~	DET	PDT	Case=Gen	22	det	_	LId=kul~_1
 22	مرة	mar~ap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	25	obl	_	LId=mar~ap_1
-23	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	aux	_	LId=kAn-u_1
+23	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	aux	_	LId=kAn-u_1
 24	أغسطس	>agusoTus	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	25	nsubj	_	LId=>agusoTus_1
 25	يرفض	rafaD-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	advcl	_	LId=rafaD-u_1
 26	طلب	Talab	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	25	obj	_	LId=Talab_1|SpaceAfter=No
@@ -14147,7 +14147,7 @@
 21	نوعاً	nawoE	ADV	RB	_	20	advmod	_	LId=nawoE_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 23	مما	min	ADP	IN	_	25	mark	_	LId=min_1
-24	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	aux	_	LId=kAn-u_1
+24	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	aux	_	LId=kAn-u_1
 25	يشعل	>a$oEal	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	advcl	_	LId=>a$oEal_1
 26	جدالاتٍ	jad~Al	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	25	obj	_	LId=jad~Al_1
 27	ب	b	ADP	IN	_	28	case	_	SpaceAfter=No
@@ -14157,7 +14157,7 @@
 31	أكثر	>akovar	ADV	RB	_	25	advmod	_	LId=>akovar_1
 32	م	min	ADP	IN	_	33	case	_	LId=min_1|SpaceAfter=No
 33	ما	mA	PRON	WP	Case=Gen	31	obl	_	_
-34	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	35	aux	_	LId=kAn-u_1
+34	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	35	aux	_	LId=kAn-u_1
 35	تمر	mar~-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	33	acl:relcl	_	LId=mar~-u_1
 36	تشريعات	ta$oriyE	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	35	nsubj	_	LId=ta$oriyE_1|SpaceAfter=No
 37	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	36	nmod	_	SpaceAfter=No
@@ -14168,7 +14168,7 @@
 # text = كانت الآلهة تمثل بوضوح الاحتياجات العملية للحياة اليومية, وكانت تمنح بكل دقة الطقوس والقرابين التي كانت تعتبر لائقة.
 # original_text = كانت الآلهة تمثل بوضوح الاحتياجات العملية للحياة اليومية, وكانت تمنح بكل دقة الطقوس والقرابين التي كانت تعتبر لائقة.
 # text_en = The gods represented distinctly the practical needs of daily life, and they were scrupulously accorded the rites and offerings considered proper.
-1	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
+1	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
 2	الآلهة	<il`h	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	LId=<il`h_1
 3	تمثل	mav~al	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=mav~al_1
 4	ب	b	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -14180,7 +14180,7 @@
 10	اليومية	yawomiy~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=yawomiy~_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 12	و	w	CCONJ	CC	_	14	cc	_	SpaceAfter=No
-13	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	aux	_	LId=kAn-u_1
+13	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	aux	_	LId=kAn-u_1
 14	تمنح	manaH-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	conj	_	LId=manaH-a_1
 15	ب	b	ADP	IN	_	17	case	_	SpaceAfter=No
 16	كل	kul~	DET	PDT	Case=Gen	17	det	_	LId=kul~_1
@@ -14189,7 +14189,7 @@
 19	و	w	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	القرابين	qurobAn	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	18	conj	_	LId=qurobAn_1
 21	التي	Al~a*iy	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	24	nsubj:pass	_	LId=Al~a*iy_1
-22	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	LId=kAn-u_1
+22	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	LId=kAn-u_1
 23	تعتبر	{iEotabar	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	24	cop	_	LId={iEotabar_1
 24	لائقة	lA}iq	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	acl:relcl	_	LId=lA}iq_1|SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	LId=._0
@@ -14282,7 +14282,7 @@
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 12	لكن	l`kino	ADP	IN	_	15	mark	_	LId=l`kino_1
 13	ربما	rub~amA	ADV	RB	_	15	advmod	_	LId=rub~amA_1
-14	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+14	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 15	تشكل	$ak~al	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	LId=$ak~al_1
 16	"	"	PUNCT	``	_	17	punct	_	LId="_0|SpaceAfter=No
 17	مكان	makAn	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	LId=makAn_1
@@ -14659,7 +14659,7 @@
 # text = كان ينظر إلى كارلوس بالرغم من أفعاله القاسية على أنه حاكمٌ متعاطفٌ مع حاجات هولندا.
 # original_text = كان ينظر إلى كارلوس بالرغم من أفعاله القاسية على أنه حاكم متعاطف مع حاجات هولندا.
 # text_en = Charles, despite his harsh actions, had been seen as a ruler empathetic to the needs of the Netherlands.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
 2	ينظر	naZar-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=naZar-u_1
 3	إلى	<ilaY	ADP	IN	_	4	case	_	LId=<ilaY_1
 4	كارلوس	kAroluws	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	2	obl	_	LId=kAroluws_1
@@ -14731,7 +14731,7 @@
 14	لقوة	quw~ap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=quw~ap_1
 15	العسكرية	Easokariy~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	LId=Easokariy~_1
 16	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	LId=Al~a*iy_1
-17	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
+17	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
 18	يمكن	>amokan	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	acl:relcl	_	LId=>amokan_1
 19	توجيي	wajiyh	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	LId=wajiyh_1|SpaceAfter=No
 20	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	dep	_	_
@@ -14764,7 +14764,7 @@
 16	يخدم	xadam-iu	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	LId=xadam-iu_1
 17	المجتمع	mujotamaE	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	obj	_	LId=mujotamaE_1
 18	الذي	Al~a*iy	PRON	REL	Case=Acc|Gender=Masc|Number=Sing	20	nsubj	_	LId=Al~a*iy_1
-19	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
+19	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
 20	يعيش	EA$	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	17	acl:relcl	_	LId=EA$_1
 21	هناك	hunAka	ADV	RB	_	20	advmod	_	LId=hunAka_1
 22	ب	b	ADP	IN	_	23	case	_	SpaceAfter=No
@@ -15036,7 +15036,7 @@
 13	فلورانس	luwrAns	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	12	nmod	_	LId=luwrAns_1
 14	غارارد	gArArd	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	13	flat	_	LId=gArArd_0
 15	التي	Al~a*iy	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	LId=Al~a*iy_1
-16	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=kAn-u_1
+16	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=kAn-u_1
 17	ترافق	rAfaq	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	LId=rAfaq_1
 18	تريكس	tryks	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	17	obj	_	LId=tryks_0
 19	في	fiy	ADP	IN	_	20	case	_	LId=fiy_1
@@ -15116,7 +15116,7 @@
 3	هذه	h`*A	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det	_	LId=h`*A_1
 4	المرة	mar~ap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	LId=mar~ap_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
 7	يفكر	fak~ar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=fak~ar_1
 8	على	EalaY	ADP	IN	_	9	case	_	LId=EalaY_1
 9	نحوٍ	naHow	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	LId=naHow_1
@@ -15318,7 +15318,7 @@
 22	إلى	<ilaY	ADP	IN	_	23	case	_	LId=<ilaY_1
 23	تمردٍ	tamar~ud	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	LId=tamar~ud_1
 24	إذا	<i*A	ADP	IN	_	26	mark	_	LId=<i*A_1
-25	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	26	aux	_	LId=kAn-u_1
+25	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	26	aux	_	LId=kAn-u_1
 26	يحصلون	HaSal-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	18	advcl	_	LId=HaSal-u_1
 27	تعليماً	taEoliym	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	26	obj	_	LId=taEoliym_1
 28	أو	>awo	CCONJ	CC	_	29	cc	_	LId=>awo_1
@@ -15498,7 +15498,7 @@
 # text = كان التعميد القسري يتعارض وتعاليم الكنيسة الكاثوليكية, ومن الناحية النظرية كان يمكن لأي شخصٍ عمد قسراً أن يعود قانونياً إلى اليهودية.
 # original_text = كان التعميد القسري يتعارض وتعاليم الكنيسة الكاثوليكية, ومن الناحية النظرية كان يمكن لأي شخص عمد قسرا أن يعود قانونيا إلى اليهودية.
 # text_en = Forced baptism was contrary to the law of the Catholic Church, and theoretically anybody who had been forcibly baptized could legally return to Judaism.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
 2	التعميد	taEomiyd	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=taEomiyd_1
 3	القسري	qasoriy~	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	LId=qasoriy~_1
 4	يتعارض	taEAraD	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=taEAraD_1
@@ -15511,7 +15511,7 @@
 11	من	min	ADP	IN	_	12	case	_	LId=min_1
 12	الناحية	nAHiyap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	LId=nAHiyap_1
 13	النظرية	naZariy~	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=naZariy~_1
-14	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+14	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 15	يمكن	>amokan	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	conj	_	LId=>amokan_1
 16	ل	l	ADP	IN	_	18	case	_	SpaceAfter=No
 17	أي	>ay~	DET	WDT	Case=Gen	18	det	_	LId=>ay~_2
@@ -15757,7 +15757,7 @@
 # text = كانت الإمبراطورية الروسية تشكل تكتلاً يضم أعراقاً متنوعة ويظهر مؤشرات كبيرة من التفكك في السنوات التي سبقت الحرب العالمية الأولى.
 # original_text = كانت الإمبراطورية الروسية تشكل تكتلا يضم أعراقا متنوعة ويظهر مؤشرات كبيرة من التفكك في السنوات التي سبقت الحرب العالمية الأولى.
 # text_en = The Russian Empire was an agglomeration of diverse ethnicities that had shown significant signs of disunity in the years before the First World War.
-1	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
+1	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
 2	الإمبراطورية	<imobirATuwriy~ap	PROPN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	LId=<imobirATuwriy~ap_1
 3	الروسية	ruwsiy~	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=ruwsiy~_1|Proper=True
 4	تشكل	$ak~al	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=$ak~al_1
@@ -15875,7 +15875,7 @@
 # text = كان يعتمد على المتطوعين ووحدات ميليشيا الولاية, والتي واجهت مصاعب لوجستية وتدريبية وغذائية في نقاط الانطلاق في فلوريدا.
 # original_text = كان يعتمد على المتطوعين ووحدات ميليشيا الولاية, والتي واجهت مصاعب لوجستية وتدريبية وغذائية في نقاط الانطلاق في فلوريدا.
 # text_en = It relied on volunteers and state militia units, which faced logistical, training and food problems in the staging areas in Florida.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	aux	_	LId=kAn-u_1
 2	يعتمد	{iEotamad	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId={iEotamad_1
 3	على	EalaY	ADP	IN	_	4	case	_	LId=EalaY_1
 4	المتطوعين	mutaTaw~iE	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	LId=mutaTaw~iE_1
@@ -15973,7 +15973,7 @@
 3	عام	EAm	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=EAm_1
 4	1563	1563	NUM	CD	_	3	nmod	_	LId=1563_0|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
 7	عدد	Eadad	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	LId=Eadad_1
 8	سكان	sAkin	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=sAkin_1
 9	البندقية	bunoduqiy~ap	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	8	nmod	_	LId=bunoduqiy~ap_1
@@ -15991,7 +15991,7 @@
 # text = كان التعليم خلال عصر النهضة يتألف بشكلٍ أساسيٍ من الآداب القديمة والتاريخ حيث كان يعتقد أن الكلاسيكيات تبرز التعاليم الأخلاقية وفهماً كبيراً للسلوك الإنساني.
 # original_text = كان التعليم خلال عصر النهضة يتألف بشكل أساسي من الآداب القديمة والتاريخ حيث كان يعتقد أن الكلاسيكيات تبرز التعاليم الأخلاقية وفهما كبيرا للسلوك الإنساني.
 # text_en = Education during the Renaissance was mainly composed of ancient literature and history as it was thought that the classics provided moral instruction and an intensive understanding of human behavior.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	aux	_	LId=kAn-u_1
 2	التعليم	taEoliym	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	LId=taEoliym_1
 3	خلال	xilAl	ADP	IN	_	4	case	_	LId=xilAl_1
 4	عصر	EaSor	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=EaSor_1
@@ -16006,7 +16006,7 @@
 13	و	w	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	التاريخ	tAriyx	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	LId=tAriyx_1
 15	حيث	Hayovu	ADP	IN	_	17	mark	_	LId=Hayovu_1
-16	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=kAn-u_1
+16	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=kAn-u_1
 17	يعتقد	{iEotaqad	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	6	advcl	_	LId={iEotaqad_1
 18	أن	>an~a	SCONJ	IN	_	20	mark	_	LId=>an~a_1
 19	الكلاسيكيات	klAsiykiy~	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Plur	20	nsubj	_	LId=klAsiykiy~_1
@@ -16077,7 +16077,7 @@
 3	الوقت	waqot	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=waqot_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	لم	lamo	PART	RP	Polarity=Neg	6	advmod	_	LId=lamo_1
-6	تكن	kAn-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
+6	تكن	kAn-u	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
 7	تعيش	EA$	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=EA$_1
 8	هناك	hunAka	ADV	RB	_	7	advmod	_	LId=hunAka_1
 9	سوى	siwaY	PART	RP	_	10	compound:prt	_	LId=siwaY_1
@@ -16300,7 +16300,7 @@
 7	صغيرة	Sagiyr	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	LId=Sagiyr_1
 8	الحجم	Hajom	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=Hajom_1
 9	التي	Al~a*iy	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	11	obj	_	LId=Al~a*iy_1
-10	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
+10	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
 11	تصنع	SanaE-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	_	LId=SanaE-a_1|SpaceAfter=No
 12	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	dep	_	_
 13	شركة	$arikap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	LId=$arikap_1
@@ -16432,7 +16432,7 @@
 2	الإمبراطور	<imobirATuwr	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=<imobirATuwr_1
 3	مييجي	myyjy	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	2	appos	_	LId=myyjy_0|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-5	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
+5	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
 6	أسماء	{isom	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	LId={isom_1
 7	العهود	Eahod	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	LId=Eahod_2
 8	تتغير	tagay~ar	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=tagay~ar_1
@@ -16441,7 +16441,7 @@
 11	أكبر	>akobar	ADJ	JJR	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	amod	_	LId=>akobar_2|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 13	و	w	CCONJ	CC	_	15	cc	_	SpaceAfter=No
-14	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+14	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 15	يتم	tam~-i	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	conj	_	LId=tam~-i_1
 16	اختيار	{ixotiyAr	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	nsubj	_	LId={ixotiyAr_1
 17	أسماء	{isom	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	nmod	_	LId={isom_1
@@ -16868,7 +16868,7 @@
 9	اجتماعات	{ijotimAE	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId={ijotimAE_1
 10	العمل	Eamal	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=Eamal_1
 11	حيث	Hayovu	ADP	IN	_	13	mark	_	LId=Hayovu_1
-12	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	aux	_	LId=kAn-u_1
+12	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	aux	_	LId=kAn-u_1
 13	يجتمع	{ijotamaE	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	LId={ijotamaE_1
 14	مع	maE	ADP	IN	_	15	case	_	LId=maE_1
 15	العلماء	EAlim	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	LId=EAlim_1
@@ -16957,7 +16957,7 @@
 15	شبه	$iboh	DET	PDT	Case=Acc	16	det	_	LId=$iboh_1
 16	العسكرية	Easokariy~	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=Easokariy~_1
 17	التي	Al~a*iy	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	19	nsubj	_	LId=Al~a*iy_1
-18	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=kAn-u_1
+18	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=kAn-u_1
 19	تطارد	TArad	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	LId=TArad_1
 20	عناصر	EunoSur	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	19	obj	_	LId=EunoSur_1
 21	المقاومة	muqAwamap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	nmod	_	LId=muqAwamap_1|SpaceAfter=No
@@ -17073,7 +17073,7 @@
 23	نظام	niZAm	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	LId=niZAm_1
 24	إيغل	Aygl	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	23	nmod	_	LId=Aygl_0
 25	و	w	CCONJ	CC	_	27	cc	_	SpaceAfter=No
-26	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	27	aux	_	LId=kAn-u_1
+26	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	27	aux	_	LId=kAn-u_1
 27	يعمل	Eamil-a	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	20	conj	_	LId=Eamil-a_1
 28	جيداً	jay~id	ADV	RB	_	27	advmod	_	LId=jay~id_1|SpaceAfter=No
 29	,	,	PUNCT	,	_	20	punct	_	LId=,_0
@@ -17235,7 +17235,7 @@
 18	الحرب	Harob	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=Harob_1|SpaceAfter=No
 19	,	,	PUNCT	,	_	24	punct	_	LId=,_0
 20	و	w	CCONJ	CC	_	24	cc	_	SpaceAfter=No
-21	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	LId=kAn-u_1
+21	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	LId=kAn-u_1
 22	لا	lA	PART	RP	Polarity=Neg	24	advmod	_	LId=lA_1
 23	يزال	zAl-a	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	cop	_	LId=zAl-a_1
 24	مستخدماً	musotaxodam	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	LId=musotaxodam_1
@@ -17345,7 +17345,7 @@
 # text = كان هيتشكوك يفضل التعامل مع أكفأ المواهب في زمنه -مصممي الملصقات الإعلانية أمثال بيل غولد وسول باس- الذين كانوا يعدون ملصقاتٍ تعكس أفلامه بدقة.
 # original_text = كان هيتشكوك يفضل التعامل مع أكفأ المواهب في زمنه -مصممي الملصقات الإعلانية أمثال بيل غولد وسول باس- الذين كانوا يعدون ملصقات تعكس أفلامه بدقة.
 # text_en = Hitchcock preferred to work with the best talent of his day—film poster designers such as Bill Gold and Saul Bass—who would produce posters that accurately represented his films.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
 2	هيتشكوك	hyt$kwk	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	LId=hyt$kwk_0
 3	يفضل	>afoDal	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=>afoDal_1
 4	التعامل	taEAmul	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	LId=taEAmul_1
@@ -17366,7 +17366,7 @@
 19	سول	suwl	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	16	conj	_	LId=suwl_1
 20	باس-	As-	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	19	flat	_	LId=As-_0
 21	الذين	Al~a*iy	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	23	nsubj	_	LId=Al~a*iy_1
-22	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=kAn-u_1
+22	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=kAn-u_1
 23	يعدون	>aEad~	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	16	acl:relcl	_	LId=>aEad~_1
 24	ملصقاتٍ	mlSqAt	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	23	obj	_	LId=mlSqAt_0
 25	تعكس	Eakas-i	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	acl:relcl	_	LId=Eakas-i_1
@@ -17776,7 +17776,7 @@
 4	جامعة	jAmiEap	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=jAmiEap_1
 5	إدنبره	>adinbruh	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	4	nmod	_	LId=>adinbruh_1
 6	حيث	Hayovu	ADP	IN	_	8	mark	_	LId=Hayovu_1
-7	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
+7	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
 8	يكتب	katab-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	LId=katab-u_1
 9	في	fiy	ADP	IN	_	10	case	_	LId=fiy_1
 10	نقد	naqod	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=naqod_1
@@ -17941,7 +17941,7 @@
 4	و	wa	CCONJ	CC	_	5	cc	_	LId=wa_1|SpaceAfter=No
 5	1997	1997	NUM	CD	_	3	conj	_	LId=1997_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-7	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
+7	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
 8	تدير	>adAr	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=>adAr_1
 9	مدرسة	madorasap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	obj	_	LId=madorasap_1
 10	ل	l	ADP	IN	_	11	case	_	SpaceAfter=No
@@ -18352,7 +18352,7 @@
 3	عميق	Eamiyq	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	LId=Eamiyq_1|Proper=True
 4	التدين	taday~un	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=taday~un_1
 5	و	w	CCONJ	CC	_	7	cc	_	SpaceAfter=No
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=kAn-u_1
 7	يقضي	qaDaY-i	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	LId=qaDaY-i_1
 8	ساعاتٍ	sAEap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	7	obl:tmod	_	LId=sAEap_1
 9	في	fiy	ADP	IN	_	10	case	_	LId=fiy_1
@@ -18550,7 +18550,7 @@
 # text = كان إليوت يحضر جنازة والده في اليوم الذي أقيم فيه السباق.
 # original_text = كان إليوت يحضر جنازة والده في اليوم الذي أقيم فيه السباق.
 # text_en = Elliott was attending his father's funeral on the day of the race.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
 2	إليوت	<iyliyuwt	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	LId=<iyliyuwt_1
 3	يحضر	HaDar-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=HaDar-u_1
 4	جنازة	jinAzap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	LId=jinAzap_1
@@ -18788,7 +18788,7 @@
 # text = كان ستالين قد بدأ بتشجيع أباكوموف لتشكيل شبكته الخاصة داخل وزارة أمن الدولة لمجابهة هيمنة بيريا على الوزارات السلطوية.
 # original_text = كان ستالين قد بدأ بتشجيع أباكوموف لتشكيل شبكته الخاصة داخل وزارة أمن الدولة لمجابهة هيمنة بيريا على الوزارات السلطوية.
 # text_en = Stalin had begun to encourage Abakumov to form his own network inside the MGB to counter Beria's dominance of the power ministries.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=kAn-u_1
 2	ستالين	stAliyn	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	4	nsubj	_	LId=stAliyn_1
 3	قد	qado	PART	RP	_	4	compound:prt	_	LId=qado_1
 4	بدأ	bada>-a	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=bada>-a_1
@@ -18983,7 +18983,7 @@
 3	جدت	jid~ap	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	LId=jid~ap_1|SpaceAfter=No
 4	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	3	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	LId=,_0
-6	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
+6	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	aux	_	LId=kAn-u_1
 7	ميشيما	my$ymA	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	nsubj	_	LId=my$ymA_0
 8	ينحدر	{inoHadar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId={inoHadar_1
 9	مباشرةً	mubA$arap	ADV	RB	_	8	advmod	_	LId=mubA$arap_1
@@ -19013,7 +19013,7 @@
 13	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
 14	التدريبي	tadoriybiy~	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	amod	_	LId=tadoriybiy~_1
 15	الذي	Al~a*iy	PRON	REL	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	LId=Al~a*iy_1
-16	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=kAn-u_1
+16	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=kAn-u_1
 17	يقوم	qAm-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	acl:relcl	_	LId=qAm-u_1
 18	على	EalaY	ADP	IN	_	20	case	_	LId=EalaY_1
 19	ثلاث	valAv	NUM	CD	Case=Gen|Gender=Masc|Number=Plur	20	nummod	_	LId=valAv_1
@@ -19348,7 +19348,7 @@
 11	ألمانيين	>alomAniy~	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	10	amod	_	LId=>alomAniy~_1
 12	من	min	ADP	IN	_	13	case	_	LId=min_1
 13	سوديت	swdyt	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	10	nmod	_	LId=swdyt_0
-14	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
+14	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=kAn-u_1
 15	يحاولان	HAwal	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Dual|Person=3|Tense=Pres|Voice=Act	10	acl:relcl	_	LId=HAwal_1
 16	عبور	Eubuwr	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	obj	_	LId=Eubuwr_1
 17	الحدود	Had~	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	nmod	_	LId=Had~_2
@@ -19371,7 +19371,7 @@
 2	هذا	h`*A	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	LId=h`*A_1
 3	الوقت	waqot	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=waqot_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
-5	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
+5	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
 6	مارسيل	marosiyl	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	9	nsubj:pass	_	LId=marosiyl_1
 7	غالباً	gAlib	ADV	RB	_	9	advmod	_	LId=gAlib_1
 8	ما	mA	PART	RP	_	9	compound:prt	_	LId=mA_8
@@ -19381,7 +19381,7 @@
 12	في	fiy	ADP	IN	_	13	case	_	LId=fiy_1
 13	الحجرة	Hujorap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	obl	_	LId=Hujorap_1
 14	فيما	fiymA	ADP	IN	_	19	mark	_	LId=fiymA_1
-15	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=kAn-u_1
+15	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=kAn-u_1
 16	بياف	byAf	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	19	nsubj	_	LId=byAf_0
 17	و	w	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	مومون	mwmwn	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	16	conj	_	LId=mwmwn_0
@@ -19718,7 +19718,7 @@
 # text = كان قد تطلق منذ وقتٍ ليس ببعيد من الممثلة غلوريا هولدن, لكنه حمل الراية بعد الانفصال الزوجي.
 # original_text = كان قد تطلق منذ وقت ليس ببعيد من الممثلة غلوريا هولدن, لكنه حمل الراية بعد الانفصال الزوجي.
 # text_en = Not long ago he was divorced from the actress, Gloria Holden, but carried the torch after the marital rift.
-1	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
+1	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=kAn-u_1
 2	قد	qado	PART	RP	_	3	compound:prt	_	LId=qado_1
 3	تطلق	>aTolaq	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=>aTolaq_1
 4	منذ	muno*u	ADP	IN	_	5	case	_	LId=muno*u_1
@@ -20023,7 +20023,7 @@
 24	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 25	المنتج	munotaj	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	appos	_	LId=munotaj_1
 26	الذي	Al~a*iy	PRON	REL	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	LId=Al~a*iy_1
-27	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	28	aux	_	LId=kAn-u_1
+27	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	28	aux	_	LId=kAn-u_1
 28	تكن	kAn-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	22	acl:relcl	_	LId=kAn-u_1
 29	ل	li-	ADP	IN	_	26	case	_	LId=li-_1|SpaceAfter=No
 30	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	26	dep	_	_
@@ -20473,7 +20473,7 @@
 14	مكتوفي	makotuwf	ADJ	VBN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	13	ccomp	_	LId=makotuwf_1
 15	الأيدي	yad	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	obj	_	LId=yad_1
 16	فيما	fiymA	ADP	IN	_	18	mark	_	LId=fiymA_1
-17	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
+17	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=kAn-u_1
 18	يشاهدون	$Ahad	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	advcl	_	LId=$Ahad_1
 19	متقاعداً	mutaqAEid	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	LId=mutaqAEid_1
 20	يموت	mAt-u	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	19	acl:relcl	_	LId=mAt-u_1
@@ -20924,7 +20924,7 @@
 8	ه	h	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	LId=,_0
 10	حيث	Hayovu	ADP	IN	_	12	mark	_	LId=Hayovu_1
-11	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
+11	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=kAn-u_1
 12	أكثر	>akovar	ADJ	JJR	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	advcl	_	LId=>akovar_2
 13	المواقف	mawoqif	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=mawoqif_1
 14	غباء	gabA'	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=gabA'_1
@@ -21122,7 +21122,7 @@
 9	الفريدة	fariyd	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=fariyd_3
 10	ما	mA	PART	RP	_	13	mark	_	LId=mA_4
 11	إذا	<i*A	ADP	IN	_	10	fixed	_	LId=<i*A_1
-12	كنت	kAn-u	VERB	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	13	aux	_	LId=kAn-u_1
+12	كنت	kAn-u	AUX	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	13	aux	_	LId=kAn-u_1
 13	أعرف	Earaf-i	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	advcl	_	LId=Earaf-i_1
 14	الكاتب	kAtib	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	obj	_	LId=kAtib_1
 15	غونتر	gwntr	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	14	appos	_	LId=gwntr_0
@@ -21159,7 +21159,7 @@
 16	أن	>an~a	SCONJ	IN	_	20	mark	_	LId=>an~a_1
 17	أحد	>aHad	DET	PDT	Case=Acc	18	det	_	LId=>aHad_1
 18	الطيارين	Tay~Ar	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	nsubj	_	LId=Tay~Ar_1
-19	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
+19	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
 20	ينوي	nawaY-i	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	ccomp	_	LId=nawaY-i_1
 21	الهبوط	hubuwT	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	obj	_	LId=hubuwT_1
 22	ب	b	ADP	IN	_	23	case	_	SpaceAfter=No
@@ -22926,7 +22926,7 @@
 5	ذلك	*`lika	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	LId=*`lika_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 7	لم	lamo	PART	RP	Polarity=Neg	9	advmod	_	LId=lamo_1
-8	تكن	kAn-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
+8	تكن	kAn-u	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=kAn-u_1
 9	تخلو	xalA-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=xalA-u_1
 10	من	min	ADP	IN	_	11	case	_	LId=min_1
 11	الانتقادات	{inotiqAd	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	LId={inotiqAd_1|SpaceAfter=No
@@ -22946,7 +22946,7 @@
 7	في	fiy	ADP	IN	_	8	case	_	LId=fiy_1
 8	مناسباتٍ	munAsabap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	11	obl	_	LId=munAsabap_1
 9	عدة	Eid~ap	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	amod	_	LId=Eid~ap_1
-10	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
+10	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=kAn-u_1
 11	تدعو	daEA-u	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	LId=daEA-u_1
 12	إلى	<ilaY	ADP	IN	_	13	case	_	LId=<ilaY_1
 13	إلغاء	<ilogA'	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	LId=<ilogA'_1
@@ -25813,7 +25813,7 @@
 8	قادمة	qAdim	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Voice=Act	1	ccomp	_	LId=qAdim_1|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	LId=,_0
 10	و	w	CCONJ	CC	_	13	cc	_	SpaceAfter=No
-11	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	aux	_	LId=kAn-u_1
+11	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	aux	_	LId=kAn-u_1
 12	قد	qado	PART	RP	_	13	compound:prt	_	LId=qado_1
 13	تنبأ	tanab~a>	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=tanab~a>_1
 14	هو	huwa	PRON	PRP	Gender=Masc|Number=Sing|Person=3	13	nsubj	_	LId=huwa_1
@@ -26297,7 +26297,7 @@
 15	ل	l	ADP	IN	_	19	case	_	SpaceAfter=No
 16	أن	>an~a	SCONJ	IN	_	19	mark	_	LId=>an~a_1
 17	المستعمرين	musotaEomir	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	19	nsubj	_	LId=musotaEomir_1
-18	كانوا	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=kAn-u_1
+18	كانوا	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=kAn-u_1
 19	يصادرون	SAdar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	xcomp	_	LId=SAdar_1
 20	المزيد	maziyd	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	LId=maziyd_1
 21	و	w	CCONJ	CC	_	22	cc	_	SpaceAfter=No
@@ -26320,7 +26320,7 @@
 6	جوزيف	juwziyf	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	5	appos	_	LId=juwziyf_1
 7	بيريغوين	byrygwyn	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	flat	_	LId=byrygwyn_0
 8	الذي	Al~a*iy	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	LId=Al~a*iy_1
-9	كان	kAn-u	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
+9	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=kAn-u_1
 10	يهدف	hadaf-i	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	acl:relcl	_	LId=hadaf-i_1
 11	إلى	<ilaY	ADP	IN	_	12	case	_	LId=<ilaY_1
 12	الوصول	wuSuwl	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=wuSuwl_1
@@ -26614,7 +26614,7 @@
 9	كوريو	kuwriy~	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	1	obl	_	LId=kuwriy~_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	LId=,_0
 11	الذي	Al~a*iy	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	LId=Al~a*iy_1
-12	كانت	kAn-u	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	aux	_	LId=kAn-u_1
+12	كانت	kAn-u	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	aux	_	LId=kAn-u_1
 13	ولايت	wilAyap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	LId=wilAyap_1|SpaceAfter=No
 14	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	dep	_	_
 15	قد	qado	PART	RP	_	16	compound:prt	_	LId=qado_1

@@ -18,7 +18,7 @@
     <tag name="ADJ">2026</tag><!-- >aw~al, kabiyr, xAS~, jadiyd, >akovar, vAniy, >akobar, >amoriykiy~, mut~aHid, >uxoraY -->
     <tag name="ADP">3576</tag><!-- fiy, min, b, l, EalaY, <ilaY, >ano, maE, Ean, xilAl -->
     <tag name="ADV">404</tag><!-- EAm, >ayoDAF, hunAka, naHow, faqaT, yawom, jid~, taqoriyb, |n, EAdap -->
-    <tag name="AUX">156</tag><!-- kAn-u, >aSobaH, bAt-i, Ead~-u, jaEal-a, layosa, EAd-u, {iEotabar, Zal~-a, baqiy-a -->
+    <tag name="AUX">247</tag><!-- kAn-u, >aSobaH, bAt-i, Ead~-u, jaEal-a, layosa, EAd-u, {iEotabar, Zal~-a, baqiy-a -->
     <tag name="CCONJ">653</tag><!-- w, >awo, wa, balo, vum~a, Hat~aY, l`kin~a -->
     <tag name="DET">166</tag><!-- kul~, >aHad, baEoD, >ay~, Eid~ap, muEoZam, jamiyE, |xir, $iboh, |xar -->
     <tag name="NOUN">5578</tag><!-- EAm, $akol, minoTaqap, $arikap, waqot, Eamal, {isom, madiynap, >amor, >aroD -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ?, _, ... -->
     <tag name="SCONJ">187</tag><!-- >an~a, ka>an~a -->
     <tag name="SYM">30</tag><!-- %, _ -->
-    <tag name="VERB">1780</tag><!-- kAn-u, qAl-u, >amokan, bada>-a, EAd-u, Zahar-a, tam~-i, Earaf-i, $ak~al, Eamil-a -->
+    <tag name="VERB">1689</tag><!-- kAn-u, qAl-u, >amokan, bada>-a, EAd-u, Zahar-a, tam~-i, Earaf-i, $ak~al, Eamil-a -->
     <tag name="X">1</tag><!-- surEAna -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
