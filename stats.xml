@@ -5,37 +5,37 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1000</sentences><tokens>20751</tokens><words>20751</words><fused>0</fused></total>
+    <total><sentences>1000</sentences><tokens>20747</tokens><words>20747</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>1000</sentences><tokens>20751</tokens><words>20751</words><fused>0</fused></test>
+    <test><sentences>1000</sentences><tokens>20747</tokens><words>20747</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4590" /><!-- ._0, ,_0, w, fiy_1, min_1, b, l, h, "_0, hA, kAn-u_1, EalaY_1, <ilaY_1, >an~a_1, Al~a*iy_1 -->
-  <forms unique="6802" /><!-- ., ,, و, في, من, ب, ل, ه, ", أن, ها, على, إلى, عام, كان -->
+  <lemmas unique="4486" /><!-- ., ,, w, fiy, min, b, l, h, ", hA, kAn-u, EalaY, <ilaY, >an~a, Al~a*iy -->
+  <forms unique="6801" /><!-- ., ,, و, في, من, ب, ل, ه, ", أن, ها, على, إلى, عام, كان -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">2026</tag><!-- >aw~al_2, kabiyr_1, xAS~_1, jadiyd_1, >akovar_2, vAniy_1, >akobar_2, >amoriykiy~_1, mut~aHid_1, >uxoraY_1 -->
-    <tag name="ADP">3576</tag><!-- fiy_1, min_1, b, l, EalaY_1, <ilaY_1, >ano_1, maE_1, Ean_1, xilAl_1 -->
-    <tag name="ADV">404</tag><!-- EAm_1, >ayoDAF_1, hunAka_1, naHow_1, faqaT_1, yawom_1, jid~_1, taqoriyb_1, |n_1, EAdap_1 -->
-    <tag name="AUX">153</tag><!-- kAn-u_1, >aSobaH_1, bAt-i_1, Ead~-u_1, jaEal-a_1, layosa_1, EAd-u_1, {iEotabar_1, Zal~-a_1, baqiy-a_1 -->
-    <tag name="CCONJ">652</tag><!-- w, >awo_1, wa_1, balo_1, vum~a_1, Hat~aY_3, l`kin~a_1 -->
-    <tag name="DET">166</tag><!-- kul~_1, >aHad_1, baEoD_1, >ay~_1, Eid~ap_1, muEoZam_1, jamiyE_1, |xir_1, $iboh_1, |xar_1 -->
-    <tag name="NOUN">5578</tag><!-- EAm_1, $akol_1, minoTaqap_1, $arikap_1, waqot_1, Eamal_1, {isom_1, madiynap_1, >aroD_1, yawom_1 -->
-    <tag name="NUM">371</tag><!-- valAv_1, Ea$ar_1, miloyuwn_1, 10_0, 1_0, >arobaE_1, miloyAr_1, xamos_1, 2014_0, 2015_0 -->
-    <tag name="PART">567</tag><!-- w, s, lamo_1, qado_1, lA_1, gayor_1, f, <in~a_1, l`kin~a_1, mA_1 -->
-    <tag name="PRON">1299</tag><!-- h, hA, Al~a*iy_1, h`*A_1, hm, *`lika_1, huwa_1, mA_1, nA, hiya_1 -->
-    <tag name="PROPN">1726</tag><!-- baHor_1, ti$oriyn_1, Siyn_1, siy_1, wilAyap_1, biy_1, trAmb_0, Harob_1, niysAn_1, diy_1 -->
-    <tag name="PUNCT">2228</tag><!-- ._0, ,_0, "_0, :_0, (_0, )_0, -_0, ?_0, __0, ..._0 -->
-    <tag name="SCONJ">187</tag><!-- >an~a_1, ka>an~a_1 -->
-    <tag name="SYM">30</tag><!-- %_0, __0 -->
-    <tag name="VERB">1783</tag><!-- kAn-u_1, qAl-u_1, >amokan_1, bada>-a_1, EAd-u_1, Zahar-a_1, tam~-i_1, Earaf-i_1, $ak~al_1, Eamil-a_1 -->
-    <tag name="X">5</tag><!-- yAng_1, >asA-u_1, >ay~_1, surEAna_1 -->
+    <tag name="ADJ">2026</tag><!-- >aw~al, kabiyr, xAS~, jadiyd, >akovar, vAniy, >akobar, >amoriykiy~, mut~aHid, >uxoraY -->
+    <tag name="ADP">3576</tag><!-- fiy, min, b, l, EalaY, <ilaY, >ano, maE, Ean, xilAl -->
+    <tag name="ADV">404</tag><!-- EAm, >ayoDAF, hunAka, naHow, faqaT, yawom, jid~, taqoriyb, |n, EAdap -->
+    <tag name="AUX">156</tag><!-- kAn-u, >aSobaH, bAt-i, Ead~-u, jaEal-a, layosa, EAd-u, {iEotabar, Zal~-a, baqiy-a -->
+    <tag name="CCONJ">653</tag><!-- w, >awo, wa, balo, vum~a, Hat~aY, l`kin~a -->
+    <tag name="DET">166</tag><!-- kul~, >aHad, baEoD, >ay~, Eid~ap, muEoZam, jamiyE, |xir, $iboh, |xar -->
+    <tag name="NOUN">5578</tag><!-- EAm, $akol, minoTaqap, $arikap, waqot, Eamal, {isom, madiynap, >amor, >aroD -->
+    <tag name="NUM">371</tag><!-- valAv, Ea$ar, miloyuwn, 10, 1, >arobaE, miloyAr, xamos, 2014, 2015 -->
+    <tag name="PART">566</tag><!-- w, s, lA, lamo, qado, gayor, mA, f, <in~a, l`kin~a -->
+    <tag name="PRON">1299</tag><!-- h, hA, Al~a*iy, h`*A, hm, *`lika, mA, huwa, nA, hiya -->
+    <tag name="PROPN">1728</tag><!-- baHor, ti$oriyn, Siyn, siy, wilAyap, biy, kAnuwn, trAmb, Harob, niysAn -->
+    <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ?, _, ... -->
+    <tag name="SCONJ">187</tag><!-- >an~a, ka>an~a -->
+    <tag name="SYM">30</tag><!-- %, _ -->
+    <tag name="VERB">1780</tag><!-- kAn-u, qAl-u, >amokan, bada>-a, EAd-u, Zahar-a, tam~-i, Earaf-i, $ak~al, Eamil-a -->
+    <tag name="X">1</tag><!-- surEAna -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="29">
     <feat name="Animacy" value="Hum" upos="NOUN,PROPN">1226</feat><!-- الناس, ترامب, رئيس, الإمبراطور, الذكور, الملك, جوزيف, دي, سكان, كلينتون -->
-    <feat name="Animacy" value="Nhum" upos="AUX,NOUN,PROPN">5799</feat><!-- عام, شكلٍ, الوقت, اسم, القرن, الأمر, البحر, أجل, الحرب, تشرين -->
+    <feat name="Animacy" value="Nhum" upos="AUX,NOUN,PROPN">5801</feat><!-- عام, شكلٍ, الوقت, اسم, القرن, الأمر, البحر, أجل, الحرب, تشرين -->
     <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">940</feat><!-- يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, تكن, يعمل, تضم -->
     <feat name="Aspect" value="Perf" upos="ADJ,AUX,NOUN,VERB">1041</feat><!-- كان, كانت, قال, تم, كانوا, بدأت, قالت, بدأ, بات, أصبح -->
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1415</feat><!-- ه, ها, هذا, أكثر, الذي, كبيراً, هم, نا, عاماً, كل -->
@@ -44,15 +44,15 @@
     <feat name="Definite" value="Def" upos="ADJ,AUX,NOUN,PROPN">5863</feat><!-- عام, الأول, الخاصة, الوقت, اسم, العديد, القرن, المتحدة, الأمر, البحر -->
     <feat name="Definite" value="Ind" upos="ADJ,AUX,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">4666</feat><!-- ها, التي, كانت, هذه, الخاصة, هي, المتحدة, كبيرة, الحرب, ذات -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">7340</feat><!-- ه, كان, هم, ذلك, هذا, الذي, عام, يمكن, هو, يكون -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">7342</feat><!-- ه, كان, هم, ذلك, هذا, الذي, عام, يمكن, هو, يكون -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ضع -->
     <feat name="Mood" value="Ind" upos="ADJ,AUX,NOUN,VERB">752</feat><!-- يمكن, يكون, تكون, يقول, تقول, يعمل, تضم, يبدو, تبدأ, تبلغ -->
     <feat name="Mood" value="Jus" upos="AUX,VERB">57</feat><!-- يكن, تكن, تعد, تظهر, تلق, يتخذ, أعجب, أعرف, أكن, تتجاوز -->
     <feat name="Mood" value="Sub" upos="AUX,NOUN,VERB">127</feat><!-- يكون, تكون, تصبح, تبقى, توفر, يبدأ, يصبح, يعود, يعيش, ألعب -->
     <feat name="Number" value="Dual" upos="ADJ,NOUN,NUM,PRON,PROPN,VERB">137</feat><!-- هما, سنتين, عامي, أسبوعين, الاثنين, عينا, قسمين, أستراليان, ألبومين, ألحقا -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">1888</feat><!-- هم, نا, الذين, كانوا, الدول, الناس, الولايات, الأراضي, ثلاث, سنوات -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">10268</feat><!-- ه, ها, كان, التي, ذلك, هذا, كانت, الذي, عام, هذه -->
-    <feat name="NumType" value="Ord" upos="ADJ">6</feat><!-- عشر, الثالث, الرابع, السادس -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">10270</feat><!-- ه, ها, كان, التي, ذلك, هذا, كانت, الذي, عام, هذه -->
+    <feat name="NumType" value="Ord" upos="ADJ">7</feat><!-- عشر, الثالث, الثاني, الرابع, السادس -->
     <feat name="Person" value="1" upos="ADJ,AUX,NOUN,PRON,VERB">134</feat><!-- نا, ي, أنا, أعرف, أحب, كنت, أعتقد, ألعب, بحثت, نحتاج -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">31</feat><!-- ك, تريد, كنت, تستمد, تشاء, تشرع, تعرف, تفعل, تقف, تقول -->
     <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">2643</feat><!-- ه, ها, كان, هم, كانت, يمكن, هو, يكون, هي, قال -->
@@ -65,7 +65,7 @@
     <feat name="Voice" value="Pass" upos="ADJ,AUX,NOUN,VERB">242</feat><!-- تستخدم, يعتقد, أجريت, أطلق, أعيد, أنشئ, الموجودة, تعد, طرحت, موجودة -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="40">
+  <deps unique="39">
     <dep name="acl">34</dep>
     <dep name="acl:relcl">320</dep>
     <dep name="advcl">316</dep>
@@ -73,14 +73,14 @@
     <dep name="amod">1620</dep>
     <dep name="appos">187</dep>
     <dep name="aux">96</dep>
-    <dep name="case">3045</dep>
-    <dep name="cc">651</dep>
+    <dep name="case">3047</dep>
+    <dep name="cc">652</dep>
     <dep name="cc:preconj">2</dep>
     <dep name="ccomp">287</dep>
-    <dep name="compound">5</dep>
-    <dep name="compound:prt">382</dep>
-    <dep name="conj">660</dep>
-    <dep name="cop">156</dep>
+    <dep name="compound">6</dep>
+    <dep name="compound:prt">379</dep>
+    <dep name="conj">661</dep>
+    <dep name="cop">155</dep>
     <dep name="csubj">57</dep>
     <dep name="csubj:pass">7</dep>
     <dep name="dep">123</dep>
@@ -88,23 +88,22 @@
     <dep name="discourse">1</dep>
     <dep name="dislocated">6</dep>
     <dep name="expl">8</dep>
-    <dep name="fixed">200</dep>
-    <dep name="flat">278</dep>
-    <dep name="goeswith">4</dep>
+    <dep name="fixed">199</dep>
+    <dep name="flat">280</dep>
     <dep name="iobj">10</dep>
     <dep name="mark">481</dep>
-    <dep name="nmod">3196</dep>
-    <dep name="nsubj">1371</dep>
+    <dep name="nmod">3197</dep>
+    <dep name="nsubj">1370</dep>
     <dep name="nsubj:pass">141</dep>
     <dep name="nummod">150</dep>
     <dep name="obj">746</dep>
     <dep name="obl">1990</dep>
     <dep name="obl:tmod">143</dep>
-    <dep name="orphan">5</dep>
+    <dep name="orphan">4</dep>
     <dep name="parataxis">24</dep>
-    <dep name="punct">2228</dep>
+    <dep name="punct">2226</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">89</dep>
+    <dep name="xcomp">90</dep>
   </deps>
 </treebank>
