@@ -8937,8 +8937,8 @@
 20	الرائع	rA}iE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	_
 21	رؤيت	ru&oyap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
 22	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	21	nmod	_	_
-23	و	w	PART	RP	_	24	compound:prt	_	SpaceAfter=No
-24	لو	lawo_1	ADP	IN	_	21	mark	_	_
+23	و	w	CCONJ	CC	_	26	cc	_	SpaceAfter=No
+24	لو	lawo_1	ADP	IN	_	26	mark	_	_
 25	ب	b	ADP	IN	_	26	case	_	SpaceAfter=No
 26	اختصار	{ixotiSAr_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 27	.	._0	PUNCT	.	_	1	punct	_	_
@@ -18039,12 +18039,12 @@
 # text = مع وضع اللمسات الأخيرة عليها, باتت ياسمين أول أميرة في ديزني ذات بشرة ملونة بدلاً من كونها من أصولٍ أوروبية.
 # original_text = مع وضع اللمسات الأخيرة عليها, باتت ياسمين أول أميرة في ديزني ذات بشرة ملونة بدلا من كونها من أصول أوروبية.
 # text_en = With her appearance finalized, Jasmine became Disney's first non-white princess as opposed to being of European heritage.
-1	مع	maE_1	ADP	IN	_	2	case	_	_
-2	وضع	waDoE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	_
-3	اللمسات	lamosap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	fixed	_	_
-4	الأخيرة	>axiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	_
-5	علي	EalaY_1	ADP	IN	_	6	case	_	SpaceAfter=No
-6	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	2	nmod	_	SpaceAfter=No
+1	مع	maE_1	ADP	IN	_	2	case	_	Gloss=with
+2	وضع	waDoE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	Gloss=touch-up
+3	اللمسات	lamosap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	compound	_	Gloss=touch-up
+4	الأخيرة	>axiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	Gloss=the-final
+5	علي	EalaY_1	ADP	IN	_	6	case	_	Gloss=on|SpaceAfter=No
+6	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	2	nmod	_	Gloss=her|SpaceAfter=No
 7	,	,_0	PUNCT	,	_	2	punct	_	_
 8	باتت	bAt-i_1	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	cop	_	_
 9	ياسمين	yAsomiyn_1	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -20758,13 +20758,13 @@
 # text = بوسع كون هز رأسه فقط.
 # original_text = بوسع كون هز رأسه فقط.
 # text_en = Kühn can only shake his head.
-1	ب	b	ADP	IN	_	2	case	_	SpaceAfter=No
-2	وسع	wusoE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
-3	كون	kawon_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	هز	haz~_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-5	رأس	ra>os_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
-6	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-7	فقط	faqaT_1	ADV	RB	_	4	advmod	_	SpaceAfter=No
+1	ب	b	ADP	IN	_	2	case	_	Gloss=with|SpaceAfter=No
+2	وسع	wusoE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	0	root	_	Gloss=flare-up
+3	كون	kawon_1	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Gloss=Kühn
+4	هز	haz~_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	Gloss=shake
+5	رأس	ra>os_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	Gloss=head|SpaceAfter=No
+6	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Gloss=his
+7	فقط	faqaT_1	ADV	RB	_	4	advmod	_	Gloss=only|SpaceAfter=No
 8	.	._0	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = n02033
@@ -26717,31 +26717,31 @@
 # text = في 1 كانون الثاني من عام 49 ق.م, قرأ مارك أنطونيو تصريحاً من قيصر يعلن فيه الحاكم نفسه صديقاً للسلام.
 # original_text = في 1 كانون الثاني من عام 49 ق.م, قرأ مارك أنطونيو تصريحا من قيصر يعلن فيه الحاكم نفسه صديقا للسلام.
 # text_en = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
-1	في	fiy_1	ADP	IN	_	2	case	_	_
-2	1	1_0	NUM	CD	_	12	obl	_	_
-3	كانون	kAnuwn_2	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	2	obl:tmod	_	_
-4	الثاني	vAniy_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	Proper=True
-5	من	min_1	ADP	IN	_	6	case	_	_
-6	عام	EAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
-7	49	49_0	NUM	CD	_	6	nmod	_	_
-8	ق	q_1	ADP	IN	_	10	case	_	SpaceAfter=No
+1	في	fiy_1	ADP	IN	_	2	case	_	Gloss=on
+2	1	1_0	NUM	CD	_	12	obl	_	Gloss=1
+3	كانون	kAnuwn_2	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	2	obl:tmod	_	Gloss=January
+4	الثاني	vAniy_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	Gloss=second|Proper=True
+5	من	min_1	ADP	IN	_	6	case	_	Gloss=from
+6	عام	EAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	Gloss=year
+7	49	49_0	NUM	CD	_	6	nmod	_	Gloss=49
+8	ق	q_1	ADP	IN	_	10	case	_	Gloss=before|SpaceAfter=No
 9	.	._0	PUNCT	.	_	8	punct	_	SpaceAfter=No
-10	م	m_1	NOUN	NN	Definite=Def	7	nmod	_	SpaceAfter=No
+10	م	m_1	NOUN	NN	Definite=Def	7	nmod	_	Gloss=Christ|SpaceAfter=No
 11	,	,_0	PUNCT	,	_	2	punct	_	_
-12	قرأ	qara>-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-13	مارك	mArok_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	nsubj	_	_
-14	أنطونيو	>anoTuwniyuw_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	13	flat	_	_
-15	تصريحاً	taSoriyH_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	_
-16	من	min_1	ADP	IN	_	17	case	_	_
-17	قيصر	qayoSar_2	PROPN	NNP	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
-18	يعلن	>aEolan_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	cop	_	_
-19	في	fiy_1	ADP	IN	_	20	case	_	SpaceAfter=No
-20	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	obl	_	_
-21	الحاكم	HAkim_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	_
-22	نفس	nafos_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	obj	_	SpaceAfter=No
-23	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	22	nmod	_	_
-24	صديقاً	Sadiyq_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	acl:relcl	_	_
-25	ل	l	ADP	IN	_	26	case	_	SpaceAfter=No
-26	لسلام	salAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+12	قرأ	qara>-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Gloss=read
+13	مارك	mArok_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	nsubj	_	Gloss=Mark
+14	أنطونيو	>anoTuwniyuw_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	13	flat	_	Gloss=Antony
+15	تصريحاً	taSoriyH_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	Gloss=declaration
+16	من	min_1	ADP	IN	_	17	case	_	Gloss=from
+17	قيصر	qayoSar_2	PROPN	NNP	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	Gloss=Caesar
+18	يعلن	>aEolan_1	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	acl:relcl	_	Gloss=declaring
+19	في	fiy_1	ADP	IN	_	20	case	_	Gloss=in|SpaceAfter=No
+20	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	obl	_	Gloss=it
+21	الحاكم	HAkim_1	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	Gloss=the-ruler
+22	نفس	nafos_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	obj	_	Gloss=self|SpaceAfter=No
+23	ه	h	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	22	nmod	_	Gloss=him
+24	صديقاً	Sadiyq_1	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	xcomp	_	Gloss=friend
+25	ل	l	ADP	IN	_	26	case	_	Gloss=of|SpaceAfter=No
+26	لسلام	salAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	nmod	_	Gloss=peace|SpaceAfter=No
 27	.	._0	PUNCT	.	_	12	punct	_	_
 
