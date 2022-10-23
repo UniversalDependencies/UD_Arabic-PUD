@@ -69,15 +69,15 @@
     <dep name="acl">34</dep>
     <dep name="acl:relcl">320</dep>
     <dep name="advcl">316</dep>
-    <dep name="advmod">446</dep>
+    <dep name="advmod">448</dep>
     <dep name="amod">1620</dep>
     <dep name="appos">187</dep>
-    <dep name="aux">96</dep>
+    <dep name="aux">91</dep>
     <dep name="case">3047</dep>
     <dep name="cc">652</dep>
     <dep name="cc:preconj">2</dep>
     <dep name="ccomp">287</dep>
-    <dep name="compound">6</dep>
+    <dep name="compound">7</dep>
     <dep name="compound:prt">379</dep>
     <dep name="conj">661</dep>
     <dep name="cop">155</dep>
@@ -104,6 +104,6 @@
     <dep name="punct">2226</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">90</dep>
+    <dep name="xcomp">92</dep>
   </deps>
 </treebank>
