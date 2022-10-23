@@ -7253,17 +7253,17 @@
 8	على	EalaY	ADP	IN	_	9	case	_	LId=EalaY_1
 9	الإنفاق	<inofAq	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=<inofAq_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	LId=,_0
-11	حيث	Hayovu	ADP	IN	_	16	mark	_	LId=Hayovu_1
-12	أن	>an~a	SCONJ	IN	_	11	fixed	_	LId=>an~a_1
-13	الحكومة	Hukuwmap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	LId=Hukuwmap_1
-14	لا	lA	PART	RP	_	16	aux	_	LId=lA_1
-15	تزال	zAl-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	fixed	_	LId=zAl-a_1
-16	تعاني	EAnaY	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	LId=EAnaY_1
-17	من	min	ADP	IN	_	18	case	_	LId=min_1
-18	عجزٍ	Eajoz	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	LId=Eajoz_1
-19	كبيرٍ	kabiyr	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	amod	_	LId=kabiyr_1
-20	في	fiy	ADP	IN	_	21	case	_	LId=fiy_1
-21	الميزانية	miyzAniy~ap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	LId=miyzAniy~ap_1|SpaceAfter=No
+11	حيث	Hayovu	ADP	IN	_	16	mark	_	Gloss=where|LId=Hayovu_1
+12	أن	>an~a	SCONJ	IN	_	11	fixed	_	Gloss=that|LId=>an~a_1
+13	الحكومة	Hukuwmap	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	Gloss=the-government|LId=Hukuwmap_1
+14	لا	lA	PART	RP	_	16	advmod	_	Gloss=not|LId=lA_1
+15	تزال	zAl-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	14	fixed	_	Gloss=still|LId=zAl-a_1
+16	تعاني	EAnaY	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	advcl	_	Gloss=suffers|LId=EAnaY_1
+17	من	min	ADP	IN	_	18	case	_	Gloss=from|LId=min_1
+18	عجزٍ	Eajoz	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	Gloss=deficit|LId=Eajoz_1
+19	كبيرٍ	kabiyr	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	amod	_	Gloss=big|LId=kabiyr_1
+20	في	fiy	ADP	IN	_	21	case	_	Gloss=in|LId=fiy_1
+21	الميزانية	miyzAniy~ap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	Gloss=the-budget|LId=miyzAniy~ap_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
 # newdoc id = n01109
@@ -14759,9 +14759,9 @@
 11	.	.	PUNCT	.	_	10	punct	_	LId=._0|SpaceAfter=No
 12	م	m	NOUN	NN	Definite=Def	9	nmod	_	LId=m_1
 13	تقريباً	taqoriyb	ADV	RB	_	9	advmod	_	LId=taqoriyb_1
-14	و	w	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-15	ظل	Zal~-a	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	16	aux	_	LId=Zal~-a_1
-16	يخدم	xadam-iu	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	LId=xadam-iu_1
+14	و	w	CCONJ	CC	_	15	cc	_	Gloss=and|SpaceAfter=No
+15	ظل	Zal~-a	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	Gloss=continued|LId=Zal~-a_1
+16	يخدم	xadam-iu	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	xcomp	_	Gloss=serves|LId=xadam-iu_1
 17	المجتمع	mujotamaE	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	obj	_	LId=mujotamaE_1
 18	الذي	Al~a*iy	PRON	REL	Case=Acc|Gender=Masc|Number=Sing	20	nsubj	_	LId=Al~a*iy_1
 19	كان	kAn-u	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=kAn-u_1
@@ -16468,10 +16468,10 @@
 7	الإمبراطور	<imobirATuwr	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=<imobirATuwr_1
 8	شووا	$awaY-i	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	7	appos	_	LId=$awaY-i_1|SpaceAfter=No
 9	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-10	بات	bAt-i	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=bAt-i_1
-11	يشار	>a$Ar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=>a$Ar_1
-12	إلى	<ilaY	ADP	IN	_	13	case	_	LId=<ilaY_1
-13	الأباطرة	>abATirap	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obl	_	LId=>abATirap_1
+10	بات	bAt-i	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	compound	_	Gloss=has-become|LId=bAt-i_1
+11	يشار	>a$Ar	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	Gloss=referred|LId=>a$Ar_1
+12	إلى	<ilaY	ADP	IN	_	13	case	_	Gloss=to|LId=<ilaY_1
+13	الأباطرة	>abATirap	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obl	_	Gloss=emperors|LId=>abATirap_1
 14	عادةً	EAdap	ADV	RB	_	11	advmod	_	LId=EAdap_1
 15	ب	b	ADP	IN	_	16	case	_	SpaceAfter=No
 16	أسمائ	{isom	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obl	_	LId={isom_1|SpaceAfter=No
@@ -23483,7 +23483,7 @@
 19	سان	sAn	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	18	nmod	_	LId=sAn_1
 20	مايكل	mAyokil	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	19	flat	_	LId=mAyokil_1
 21	و	w	CCONJ	CC	_	24	cc	_	SpaceAfter=No
-22	لا	lA	PART	RP	_	24	aux	_	LId=lA_1
+22	لا	lA	PART	RP	_	24	advmod	_	LId=lA_1
 23	يزال	zAl-a	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	22	fixed	_	LId=zAl-a_1
 24	يستقطب	{isotaqoTab	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	conj	_	LId={isotaqoTab_1
 25	جمهوراً	jumohuwr	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	24	obj	_	LId=jumohuwr_1
@@ -26232,15 +26232,15 @@
 # text = بدأت الأمور تشهد تغييراً في تشرين الأول 1777 استسلمت القوات البريطانية بقيادة الجنرال جون بيرغوين في ساراتوغا شمالي ولاية نيويورك.
 # original_text = بدأت الأمور تشهد تغييرا في تشرين الأول 1777 استسلمت القوات البريطانية بقيادة الجنرال جون بيرغوين في ساراتوغا شمالي ولاية نيويورك.
 # text_en = Things started to change in October 1777 when British forces under the command of General John Burgoyne surrendered in Saratoga in the north of the state of New York.
-1	بدأت	bada>-a	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	LId=bada>-a_1
-2	الأمور	>amor	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	LId=>amor_1
-3	تشهد	$ahid-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=$ahid-a_1
-4	تغييراً	tagoyiyr	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	LId=tagoyiyr_1
+1	بدأت	bada>-a	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Gloss=started|LId=bada>-a_1
+2	الأمور	>amor	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	Gloss=things|LId=>amor_1
+3	تشهد	$ahid-a	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	xcomp	_	Gloss=witness|LId=$ahid-a_1
+4	تغييراً	tagoyiyr	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	Gloss=change|LId=tagoyiyr_1
 5	في	fiy	ADP	IN	_	6	case	_	LId=fiy_1
-6	تشرين	ti$oriyn	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	LId=ti$oriyn_1
+6	تشرين	ti$oriyn	PROPN	NNP	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ti$oriyn_1
 7	الأول	>aw~al	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	LId=>aw~al_2|Proper=True
 8	1777	1777	NUM	CD	_	6	obl:tmod	_	LId=1777_0
-9	استسلمت	{isotasolam	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	parataxis	_	LId={isotasolam_1
+9	استسلمت	{isotasolam	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	LId={isotasolam_1
 10	القوات	quw~ap	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	LId=quw~ap_1
 11	البريطانية	briyTAniy~	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=briyTAniy~_1
 12	ب	b	ADP	IN	_	13	case	_	SpaceAfter=No
@@ -26253,7 +26253,7 @@
 19	شمالي	$amAliy~	ADP	IN	_	20	case	_	LId=$amAliy~_1
 20	ولاية	wilAyap	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	LId=wilAyap_1
 21	نيويورك	niyuwyuwrok	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	20	nmod	_	LId=niyuwyuwrok_1|SpaceAfter=No
-22	.	.	PUNCT	.	_	3	punct	_	LId=._0
+22	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w05005
 # sent_id = w05005084
