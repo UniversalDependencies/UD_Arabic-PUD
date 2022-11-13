@@ -11475,11 +11475,11 @@
 8	الرأي	رَأي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=رَأْي_1
 9	العام	عَامّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=عامّ_1
 10	الدنماركي	دَنِماركِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=دَنِمارْكِيّ_1
-11	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	LId=الَّذِي_1
-12	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=كان-ُ_1
-13	يعتبر	ٱِعتَبَر	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	cop	_	LId=ٱِعْتَبَر_1
-14	الدانيفيركه	دانيفيركه	NOUN	NN	Definite=Def|Gender=Fem|Number=Sing	15	obj	_	LId=دانيفيركه_0
-15	منيعة	مَنِيع	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	8	acl:relcl	_	LId=مَنِيع_1|SpaceAfter=No
+11	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	LId=الَّذِي_1
+12	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	aux	_	LId=كان-ُ_1
+13	يعتبر	ٱِعتَبَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	8	acl:relcl	_	LId=ٱِعْتَبَر_1
+14	الدانيفيركه	دانيفيركه	NOUN	NN	Definite=Def|Gender=Fem|Number=Sing	13	obj	_	LId=دانيفيركه_0
+15	منيعة	مَنِيع	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	13	xcomp	_	LId=مَنِيع_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	18	punct	_	LId=,_0
 17	و	وَ	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	جرد	جَرَّد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	1	conj	_	LId=جَرَّد_1
@@ -14188,10 +14188,10 @@
 18	الطقوس	طَقس	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	nsubj:pass	_	LId=طَقْس_2
 19	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	القرابين	قُربان	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	18	conj	_	LId=قُرْبان_1
-21	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	24	nsubj:pass	_	LId=الَّذِي_1
-22	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	LId=كان-ُ_1
-23	تعتبر	ٱِعتَبَر	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	24	cop	_	LId=ٱِعْتَبَر_1
-24	لائقة	لائِق	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	acl:relcl	_	LId=لائِق_1|SpaceAfter=No
+21	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	23	nsubj:pass	_	LId=الَّذِي_1
+22	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=كان-ُ_1
+23	تعتبر	ٱِعتَبَر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	18	acl:relcl	_	LId=ٱِعْتَبَر_1
+24	لائقة	لائِق	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	23	xcomp	_	LId=لائِق_1|SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 # newdoc id = w01064
@@ -18378,9 +18378,9 @@
 3	مذهولاً	مَذهُول	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مَذْهُول_1
 4	ل	لِ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	ما	ما	PRON	WP	Case=Gen	3	obl	_	LId=ما_1
-6	اعتبر	ٱِعتَبَر	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=ٱِعْتَبَر_1|SpaceAfter=No
-7	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obj	_	_
-8	انحلالاً	ٱِنحِلال	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	acl:relcl	_	LId=ٱِنْحِلال_1
+6	اعتبر	ٱِعتَبَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	LId=ٱِعْتَبَر_1|SpaceAfter=No
+7	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+8	انحلالاً	ٱِنحِلال	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	LId=ٱِنْحِلال_1
 9	أخلاقياً	أَخلاقِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	LId=أَخْلاقِيّ_1
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1|SpaceAfter=No
 11	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	8	nmod	_	SpaceAfter=No
