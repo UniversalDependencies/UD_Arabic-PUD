@@ -20922,18 +20922,18 @@
 6	تطبيقٍ	تَطبِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=تَطْبِيق_1
 7	يستحق	اِستَحَقّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	LId=ٱِسْتَحَقّ_1|SpaceAfter=No
 8	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	12	punct	_	LId=,_0
-10	حيث	حَيثُ	ADP	IN	_	12	mark	_	LId=حَيْثُ_1
-11	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=كان-ُ_1
-12	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	advcl	_	LId=أَكْثَر_2
-13	المواقف	مَوقِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=مَوْقِف_1
-14	غباء	غَباء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=غَباء_1
-15	يحصد	حَصَد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	cop	_	LId=حَصَد-ُِ_1
-16	جمهورٍاً	جُمهُور	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	LId=جُمْهُور_1
+9	,	,	PUNCT	,	_	15	punct	_	LId=,_0
+10	حيث	حَيثُ	ADP	IN	_	15	mark	_	LId=حَيْثُ_1
+11	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=كان-ُ_1
+12	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	xcomp	_	LId=أَكْثَر_2
+13	المواقف	مَوقِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	obl	_	LId=مَوْقِف_1
+14	غباء	غَباء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	LId=غَباء_1
+15	يحصد	حَصَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	LId=حَصَد-ُِ_1
+16	جمهورٍاً	جُمهُور	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	LId=جُمْهُور_1
 17	ب	بِ	ADP	IN	_	18	case	_	SpaceAfter=No
 18	الملايين	الملايين	NUM	CD	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	LId=مِلْيُون_1
 19	في	فِي	ADP	IN	_	20	case	_	LId=فِي_1
-20	أحسن	أَحسَن	ADJ	JJR	Case=Gen|Definite=Def	12	obl	_	LId=أَحْسَن_2
+20	أحسن	أَحسَن	ADJ	JJR	Case=Gen|Definite=Def	15	obl	_	LId=أَحْسَن_2
 21	الأحوال	حَال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	obl	_	LId=حال_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
