@@ -3271,17 +3271,17 @@
 # text = باتت هواتفنا المحمولة أكثر من مجرد هواتف هذه الأيام.
 # original_text = باتت هواتفنا المحمولة أكثر من مجرد هواتف هذه الأيام.
 # text_en = Our cellphones are so much more than phones these days.
-1	باتت	بات	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	LId=بات-ِ_1
-2	هواتف	هَاتِف	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	LId=هاتِف_1|SpaceAfter=No
+1	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=بات-ِ_1
+2	هواتف	هَاتِف	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=هاتِف_1|SpaceAfter=No
 3	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1	2	nmod	_	_
 4	المحمولة	مَحمُول	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=مَحْمُول_1
-5	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=أَكْثَر_2
+5	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	xcomp	_	LId=أَكْثَر_2
 6	من	مِن	ADP	IN	_	7	case	_	LId=مِن_1
-7	مجرد	مُجَرَّد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=مُجَرَّد_1
+7	مجرد	مُجَرَّد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=مُجَرَّد_1
 8	هواتف	هَاتِف	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=هاتِف_1
 9	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det	_	LId=هٰذا_1
 10	الأيام	يَوم	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	LId=يَوْم_1|SpaceAfter=No
-11	.	.	PUNCT	.	_	5	punct	_	LId=._0
+11	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = n01046
 # sent_id = n01046036
@@ -4997,8 +4997,8 @@
 # original_text = هل بات حقهم الإلهي بارتداء عباءة أفضل فريق في العالم غير مضمون؟
 # text_en = Was their divine right to the mantle as the world’s best no longer warranted?
 1	هل	هَل	PART	RP	_	14	compound:prt	_	LId=هَلْ_1
-2	بات	بات	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	LId=بات-ِ_1
-3	حق	حَقّ	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	LId=حَقّ_1|SpaceAfter=No
+2	بات	بات	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=بات-ِ_1
+3	حق	حَقّ	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=حَقّ_1|SpaceAfter=No
 4	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	3	nmod	_	_
 5	الإلهي	إِل`هِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	LId=إِلٰهِيّ_1
 6	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -5008,9 +5008,9 @@
 10	فريقٍ	فَرِيق	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	LId=فَرِيق_1
 11	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1
 12	العالم	عالَم	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=عالَم_1
-13	غير	غَير	PART	RP	Polarity=Neg	14	advmod	_	LId=غَيْر_1
-14	مضمون	مَضمُون	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مَضْمُون_1|SpaceAfter=No
-15	؟	؟	PUNCT	SYM	_	14	punct	_	LId=?_0
+13	غير	غَير	PART	RP	Polarity=Neg	2	advmod	_	LId=غَيْر_1
+14	مضمون	مَضمُون	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	xcomp	_	LId=مَضْمُون_1|SpaceAfter=No
+15	؟	؟	PUNCT	SYM	_	2	punct	_	LId=?_0
 
 # newdoc id = n01074
 # sent_id = n01074011
@@ -13400,22 +13400,22 @@
 15	حكم	حُكم	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=حُكْم_1
 16	سلالة	سُلَالَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	LId=سُلالَة_1
 17	تشينغ	تشينغ	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	16	nmod	_	LId=تشينغ_0|SpaceAfter=No
-18	,	,	PUNCT	,	_	33	punct	_	LId=,_0
-19	و	وَ	CCONJ	CC	_	33	cc	_	SpaceAfter=No
+18	,	,	PUNCT	,	_	27	punct	_	LId=,_0
+19	و	وَ	CCONJ	CC	_	27	cc	_	SpaceAfter=No
 20	بعد	بَعدَ	ADP	IN	_	21	case	_	LId=بَعْد_1
-21	سقوط	سُقُوط	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	33	obl	_	LId=سُقُوط_1
+21	سقوط	سُقُوط	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	obl	_	LId=سُقُوط_1
 22	سلالة	سُلَالَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	LId=سُلالَة_1
 23	تشينغ	تشينغ	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	22	nmod	_	LId=تشينغ_0
 24	عام	عام	ADV	RB	_	21	obl:tmod	_	LId=عام_1
 25	1911	1911	NUM	CD	Case=Gen	24	obl	_	LId=١٩١١_0|SpaceAfter=No
 26	,	,	PUNCT	,	_	21	punct	_	LId=,_0
-27	باتت	بات	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	33	cop	_	LId=بات-ِ_1
-28	وثيقة	وَثِيقَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	33	nsubj	_	LId=وَثِيقَة_1
+27	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	conj	_	LId=بات-ِ_1
+28	وثيقة	وَثِيقَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	27	nsubj	_	LId=وَثِيقَة_1
 29	استسلام	اِستِسلَام	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	LId=ٱِسْتِسْلام_1
 30	المنغوليين	مُنغُولِيّ	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	29	nmod	_	LId=مُنْغُولِيّ_1
 31	إلى	إِلَى	ADP	IN	_	32	case	_	LId=إِلَى_1
 32	المانشو	مانشو	NOUN	NN	Animacy=Hum|Definite=Def|Gender=Masc|Number=Plur	29	nmod	_	LId=مانشو_0
-33	لاغية	لاغِي	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	10	conj	_	LId=لاغِي_1|SpaceAfter=No
+33	لاغية	لاغِي	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	27	xcomp	_	LId=لاغِي_1|SpaceAfter=No
 34	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w01050
@@ -18040,29 +18040,29 @@
 # original_text = مع وضع اللمسات الأخيرة عليها, باتت ياسمين أول أميرة في ديزني ذات بشرة ملونة بدلا من كونها من أصول أوروبية.
 # text_en = With her appearance finalized, Jasmine became Disney's first non-white princess as opposed to being of European heritage.
 1	مع	مَعَ	ADP	IN	_	2	case	_	Gloss=with|LId=مَع_1
-2	وضع	وَضع	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	Gloss=touch-up|LId=وَضْع_1
+2	وضع	وَضع	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	Gloss=touch-up|LId=وَضْع_1
 3	اللمسات	لَمسَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	compound	_	Gloss=touch-up|LId=لَمْسَة_1
 4	الأخيرة	أَخِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	Gloss=the-final|LId=أَخِير_1
 5	علي	عَلَى	ADP	IN	_	6	case	_	Gloss=on|LId=عَلَى_1|SpaceAfter=No
 6	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	2	nmod	_	Gloss=her|SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-8	باتت	بات	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	cop	_	LId=بات-ِ_1
-9	ياسمين	ياسمِين	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	10	nsubj	_	LId=ياسْمِين_1
-10	أول	أَوَّل	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=أَوَّل_2
-11	أميرة	أَمِير	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	obl	_	LId=أَمِير_1
+8	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=بات-ِ_1
+9	ياسمين	ياسمِين	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	8	nsubj	_	LId=ياسْمِين_1
+10	أول	أَوَّل	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	xcomp	_	LId=أَوَّل_2
+11	أميرة	أَمِير	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	obl	_	LId=أَمِير_1
 12	في	فِي	ADP	IN	_	13	case	_	LId=فِي_1
 13	ديزني	دِيزنِي	PROPN	NNP	Animacy=Nhum|Number=Sing	11	nmod	_	LId=دِيزْنِي_1
 14	ذات	ذات	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	amod	_	LId=ذات_1
 15	بشرة	بَشَرَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	LId=شِرَّة_1
 16	ملونة	مُلَوَّن	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	15	amod	_	LId=مُلَوَّن_1
-17	بدلاً	بَدَل	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	10	advcl	_	LId=بَدَل_1
+17	بدلاً	بَدَل	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	8	advcl	_	LId=بَدَل_1
 18	من	مِن	ADP	IN	_	19	case	_	LId=مِن_1
 19	كون	كَون	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	17	obl	_	LId=كَوْن_1|SpaceAfter=No
 20	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	nsubj	_	_
 21	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
 22	أصولٍ	أَصل	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	19	obl	_	LId=أَصْل_1
 23	أوروبية	أُورُوبِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	22	amod	_	LId=أُورُبِّيّ_1|SpaceAfter=No
-24	.	.	PUNCT	.	_	10	punct	_	LId=._0
+24	.	.	PUNCT	.	_	8	punct	_	LId=._0
 
 # newdoc id = w01119
 # sent_id = w01119100
@@ -24291,9 +24291,9 @@
 5	ل	لِ	ADP	IN	_	6	case	_	SpaceAfter=No
 6	حركة	حَرَكَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	LId=حَرَكَة_1
 7	الإصلاح	إِصلَاح	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=إِصْلاح_1
-8	و	وَ	CCONJ	CC	_	10	cc	_	SpaceAfter=No
-9	بات	بات	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	cop	_	LId=بات-ِ_1
-10	أطلالاً	طَلَل	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	conj	_	LId=طَلَل_1|SpaceAfter=No
+8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
+9	بات	بات	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=بات-ِ_1
+10	أطلالاً	طَلَل	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	9	xcomp	_	LId=طَلَل_1|SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w02015
@@ -24440,15 +24440,15 @@
 6	المرغوب	مَرغُوب	NOUN	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	LId=مَرْغُوب_1
 7	ب	بِ	ADP	IN	_	8	case	_	LId=بِ_1|SpaceAfter=No
 8	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	obl	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	17	punct	_	LId=,_0
-10	و	وَ	CCONJ	CC	_	17	cc	_	SpaceAfter=No
-11	باتت	بات	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	17	cop	_	LId=بات-ِ_1
-12	المشاركة	مُشارَكَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	17	nsubj	_	LId=مُشارَكَة_1
+9	,	,	PUNCT	,	_	11	punct	_	LId=,_0
+10	و	وَ	CCONJ	CC	_	11	cc	_	SpaceAfter=No
+11	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=بات-ِ_1
+12	المشاركة	مُشارَكَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	LId=مُشارَكَة_1
 13	في	فِي	ADP	IN	_	14	case	_	LId=فِي_1
 14	الحياة	حَيَاة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=حَياة_1
 15	العامة	عَامّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	LId=عامّ_1
 16	شبه	شِبه	DET	PDT	Case=Acc	17	det	_	LId=شِبْه_1
-17	مستحيلة	مُستَحِيل	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	LId=مُسْتَحِيل_1|SpaceAfter=No
+17	مستحيلة	مُستَحِيل	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	xcomp	_	LId=مُسْتَحِيل_1|SpaceAfter=No
 18	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w02017
@@ -24811,11 +24811,11 @@
 2	القراءة	قِرَاءَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=قِراءَة_1
 3	و	وَ	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 4	الكتابة	كِتَابَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	conj	_	LId=كِتابَة_1
-5	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
-6	باتت	بات	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	cop	_	LId=بات-ِ_1
-7	الكتابة	كِتَابَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	LId=كِتابَة_1
+5	و	وَ	CCONJ	CC	_	6	cc	_	SpaceAfter=No
+6	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=بات-ِ_1
+7	الكتابة	كِتَابَة	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	LId=كِتابَة_1
 8	الموكيانية	موكيانيه	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	LId=موكيانيه_0
-9	طي	طَيّ	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	LId=طَيّ_1
+9	طي	طَيّ	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	xcomp	_	LId=طَيّ_1
 10	النسيان	نِسيان	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=نِسْيان_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 12	غير	غَير	PART	RP	_	15	compound:prt	_	LId=غَيْر_1
