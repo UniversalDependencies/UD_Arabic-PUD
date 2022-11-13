@@ -9898,11 +9898,11 @@
 12	تساهم	سَاهَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	5	advcl	_	LId=ساهَم_1
 13	في	فِي	ADP	IN	_	14	case	_	LId=فِي_1
 14	إبقاء	إِبقَاء	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=إِبْقاء_1
-15	ذكرا	ذِكرَى	AUX	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	cop	_	LId=ذِكْرَى_1|SpaceAfter=No
-16	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	17	obl	_	_
-17	حية	حَيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	LId=حَيّ_2
+15	ذكرا	ذِكرَى	VERB	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	nmod	_	LId=ذِكْرَى_1|SpaceAfter=No
+16	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	15	obl	_	_
+17	حية	حَيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	xcomp	_	LId=حَيّ_2
 18	بين	بَينَ	ADP	IN	_	19	case	_	LId=بَيْنَ_1
-19	الأحياء	حَيّ	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	LId=حَيّ_2|SpaceAfter=No
+19	الأحياء	حَيّ	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	obl	_	LId=حَيّ_2|SpaceAfter=No
 20	"	"	PUNCT	''	_	5	punct	_	LId="_0|SpaceAfter=No
 21	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
