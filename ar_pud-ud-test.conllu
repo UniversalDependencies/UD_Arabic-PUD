@@ -8197,7 +8197,7 @@
 10	تغطية	تَغطِيَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	conj	_	LId=تَغْطِيَة_1
 11	الأسطح	سَطح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	LId=سَطْح_1|SpaceAfter=No
 12	ـ	ـ	PUNCT	-	_	7	punct	_	LId=ـ_0
-13	عاد	عاد	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	LId=عاد-ُ_1
+13	عاد	عَاد	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	LId=عاد-ُ_1
 14	رائجاً	رائِج	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	parataxis	_	LId=رائِج_1
 15	من	مِن	ADP	IN	_	16	case	_	LId=مِن_1
 16	جديد	جَدِيد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	LId=جَدِيد_1|SpaceAfter=No
@@ -9747,7 +9747,7 @@
 9	تحت	تَحتَ	ADP	IN	_	10	case	_	LId=تَحْتَ_1
 10	الأرض	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=أَرْض_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-12	يعد	عَدّ	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	17	cop	_	LId=عَدّ-ُ_1
+12	يعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	17	cop	_	LId=عَدّ-ُ_1
 13	مترو	مِترُو	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj:pass	_	LId=مِتْرُو_1
 14	بيونغ	يُونغ	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	LId=يُونْغ_1
 15	يانغ	يانغ	PROPN	NNP	Gender=Masc|Number=Sing	14	flat	_	LId=يانغ_1
@@ -17099,7 +17099,7 @@
 1	نظام	نِظَام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	nsubj	_	LId=نِظام_1
 2	الرادار	رَادَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	LId=رادار_1
 3	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	LId=الَّذِي_1
-4	يعد	أَعَدّ	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	5	cop	_	LId=أَعَدّ_1
+4	يعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	5	cop	_	LId=أَعَدّ_1
 5	أكثر	أَكثَر	ADJ	JJR	Case=Nom|Definite=Ind	1	acl:relcl	_	LId=أَكْثَر_2
 6	ما	ما	PRON	WP	Case=Gen	5	obl	_	LId=ما_1
 7	يشتهر	ٱِشتَهَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	LId=ٱِشْتَهَر_1
@@ -25403,7 +25403,7 @@
 2	1976	1976	NUM	CD	Case=Gen	1	obl	_	LId=١٩٧٦_0|SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 4	لم	لَم	PART	RP	Polarity=Neg	8	advmod	_	LId=لَمْ_1
-5	يعد	عاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=عاد-ُ_1
+5	يعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=عاد-ُ_1
 6	مضمار	مِضمار	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	LId=مِضْمار_1
 7	السباق	سِبَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=سِباق_1
 8	مستخدماً	مُستَخدَم	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُسْتَخْدَم_1|SpaceAfter=No
