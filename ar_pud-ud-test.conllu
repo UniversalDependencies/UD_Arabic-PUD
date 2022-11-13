@@ -8978,7 +8978,7 @@
 # original_text = لم أكن قد شاهدت الكثير من الحلقات حتى بدأ هاتفي بالوميض.
 # text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
 1	لم	لَم	PART	RP	Polarity=Neg	4	advmod	_	LId=لَمْ_1
-2	أكن	كان	AUX	VBC	Aspect=Imp|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=كان-ُ_1
+2	أكن	كَان	AUX	VBC	Aspect=Imp|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	4	aux	_	LId=كان-ُ_1
 3	قد	قَد	PART	RP	_	4	compound:prt	_	LId=قَدْ_1
 4	شاهدت	شاهَد	VERB	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	LId=شاهَد_1
 5	الكثير	كَثِير	NOUN	NN	Case=Acc|Definite=Def|Number=Sing	4	obj	_	LId=كَثِير_2
@@ -16176,7 +16176,7 @@
 # text_en = Besides being a direct source of food, certain animals could provide leather, wool, hides, and fertilizer.
 1	إلى	إِلَى	ADP	IN	_	2	case	_	LId=إِلَى_1
 2	جانب	جَانِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=جانِب_1
-3	كون	كانَ	AUX	VBG	Case=Gen|Definite=Def|Gender=Masc	5	cop	_	LId=كَوْن_1|SpaceAfter=No
+3	كون	كَان	AUX	VBG	Case=Gen|Definite=Def|Gender=Masc	5	cop	_	LId=كَوْن_1|SpaceAfter=No
 4	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
 5	مصدراً	مَصدَر	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	LId=مَصْدَر_1
 6	مباشراً	مُباشِر	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	amod	_	LId=مُباشِر_1
