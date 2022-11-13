@@ -4219,7 +4219,7 @@
 # text_en = But, as the criticism of Clinton as First Lady became more caustic, Karel became more empathetic.
 1	لكن	ل`كِنَّ	PART	RP	_	16	compound:prt	_	LId=لٰكِنَّ_1
 2	عندما	عِند	PART	RP	_	11	compound:prt	_	LId=عِنْد_1
-3	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	advcl	_	LId=أَصْبَح_1
+3	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	advcl	_	LId=أَصْبَح_1
 4	الانتقادات	اِنتِقَاد	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	LId=ٱِنْتِقاد_1
 5	الموجهة	مُوَجَّه	ADJ	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	ccomp	_	LId=مُوَجَّه_1
 6	إلى	إِلَى	ADP	IN	_	7	case	_	LId=إِلَى_1
@@ -4230,11 +4230,11 @@
 11	لاذعة	لَاذِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	xcomp	_	LId=لاذِعَة_1
 12	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	amod	_	LId=أَكْثَر_2|SpaceAfter=No
 13	,	,	PUNCT	,	_	3	punct	_	LId=,_0
-14	غدت	غَدا	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	cop	_	LId=غَدا-ُ_1
-15	كاريل	أَرِيِيل	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	16	nsubj	_	LId=أَرِيِيل_1
-16	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=أَكْثَر_2
-17	تعاطفاً	تَعاطُف	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	LId=تَعاطُف_1|SpaceAfter=No
-18	.	.	PUNCT	.	_	16	punct	_	LId=._0
+14	غدت	غَدا	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=غَدا-ُ_1
+15	كاريل	أَرِيِيل	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	14	nsubj	_	LId=أَرِيِيل_1
+16	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	xcomp	_	LId=أَكْثَر_2
+17	تعاطفاً	تَعاطُف	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	LId=تَعاطُف_1|SpaceAfter=No
+18	.	.	PUNCT	.	_	14	punct	_	LId=._0
 
 # newdoc id = n01061
 # sent_id = n01061023
