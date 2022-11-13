@@ -10,27 +10,27 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>20747</tokens><words>20747</words><fused>0</fused></test>
   </size>
-  <lemmas unique="4486" /><!-- ., ,, w, fiy, min, b, l, h, ", hA, kAn-u, EalaY, <ilaY, >an~a, Al~a*iy -->
+  <lemmas unique="4787" /><!-- ., هُوَ, ,, فِي, وَ, مِن, بِ, لِ, ", كَان, عَلَى, إِلَى, أَنَّ, الَّذِي, ه`ذا -->
   <forms unique="6801" /><!-- ., ,, و, في, من, ب, ل, ه, ", أن, ها, على, إلى, عام, كان -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">2026</tag><!-- >aw~al, kabiyr, xAS~, jadiyd, >akovar, vAniy, >akobar, >amoriykiy~, mut~aHid, >uxoraY -->
-    <tag name="ADP">3576</tag><!-- fiy, min, b, l, EalaY, <ilaY, >ano, maE, Ean, xilAl -->
-    <tag name="ADV">404</tag><!-- EAm, >ayoDAF, hunAka, naHow, faqaT, yawom, jid~, taqoriyb, |n, EAdap -->
-    <tag name="AUX">247</tag><!-- kAn-u, >aSobaH, bAt-i, Ead~-u, jaEal-a, layosa, EAd-u, {iEotabar, Zal~-a, baqiy-a -->
-    <tag name="CCONJ">653</tag><!-- w, >awo, wa, balo, vum~a, Hat~aY, l`kin~a -->
-    <tag name="DET">166</tag><!-- kul~, >aHad, baEoD, >ay~, Eid~ap, muEoZam, jamiyE, |xir, $iboh, |xar -->
-    <tag name="NOUN">5578</tag><!-- EAm, $akol, minoTaqap, $arikap, waqot, Eamal, {isom, madiynap, >amor, >aroD -->
-    <tag name="NUM">371</tag><!-- valAv, Ea$ar, miloyuwn, 10, 1, >arobaE, miloyAr, xamos, 2014, 2015 -->
-    <tag name="PART">566</tag><!-- w, s, lA, lamo, qado, gayor, mA, f, <in~a, l`kin~a -->
-    <tag name="PRON">1299</tag><!-- h, hA, Al~a*iy, h`*A, hm, *`lika, mA, huwa, nA, hiya -->
-    <tag name="PROPN">1728</tag><!-- baHor, ti$oriyn, Siyn, siy, wilAyap, biy, kAnuwn, trAmb, Harob, niysAn -->
-    <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ?, _, ... -->
-    <tag name="SCONJ">187</tag><!-- >an~a, ka>an~a -->
-    <tag name="SYM">30</tag><!-- %, _ -->
-    <tag name="VERB">1689</tag><!-- kAn-u, qAl-u, >amokan, bada>-a, EAd-u, Zahar-a, tam~-i, Earaf-i, $ak~al, Eamil-a -->
-    <tag name="X">1</tag><!-- surEAna -->
+    <tag name="ADJ">2026</tag><!-- أَوَّل, كَبِير, خَاصّ, جَدِيد, أَكثَر, آخَر, ثَانِي, أَكبَر, أَمرِيكِيّ, مُتَّحِد -->
+    <tag name="ADP">3576</tag><!-- فِي, مِن, بِ, لِ, عَلَى, إِلَى, أَن, مَعَ, عَن, خِلَالَ -->
+    <tag name="ADV">404</tag><!-- عام, أَيضًا, هُنَاكَ, نَحو, فَقَط, يَوم, جِدًّا, آن, تَقرِيب, عادَة -->
+    <tag name="AUX">229</tag><!-- كَان, بات, جَعَل, عَاد, لَيس, ٱِعتَبَر, بَقِي, زال, ظَلّ, عاد -->
+    <tag name="CCONJ">653</tag><!-- وَ, أَو, بَل, ثُمَّ, حَتَّى, ل`كِنَّ -->
+    <tag name="DET">166</tag><!-- كُلّ, أَحَد, بَعض, أَيّ, عِدَّة, مُعظَم, آخِر, جَمِيع, آخَر, شِبه -->
+    <tag name="NOUN">5578</tag><!-- عَام, شَكل, مِنطَقَة, شَرِكَة, وَقت, عَمَل, مَدِينَة, أَرض, أَمر, اِسم -->
+    <tag name="NUM">371</tag><!-- 1, 10, عشر, ثلاث, مليون, 3, 2014, 2015, أربعة, عشرة -->
+    <tag name="PART">566</tag><!-- و, سَ, لَا, لَم, قَد, غَير, مَا, ف, إِنَّ, ل`كِنَّ -->
+    <tag name="PRON">1299</tag><!-- هُوَ, الَّذِي, ه`ذا, ذ`لِكَ, ما, مِن, أُولائِكَ, ماذا, من, آخَر -->
+    <tag name="PROPN">1728</tag><!-- بَحر, تِشرِين, صِين, سِي, وِلايَة, بِي, ترامب, كانُون, حَرب, نِيسان -->
+    <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ؟, ـ, ... -->
+    <tag name="SCONJ">187</tag><!-- أَنَّ, كَأَنَّ -->
+    <tag name="SYM">30</tag><!-- %, ـ -->
+    <tag name="VERB">1707</tag><!-- كَان, قَال, أَمكَن, بَدَأ, أَصبَح, ظَهَر, تَمّ, عاد, عَرَف, بَلَغ -->
+    <tag name="X">1</tag><!-- سُرعانَ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="29">
@@ -80,7 +80,7 @@
     <dep name="compound">7</dep>
     <dep name="compound:prt">379</dep>
     <dep name="conj">661</dep>
-    <dep name="cop">155</dep>
+    <dep name="cop">137</dep>
     <dep name="csubj">57</dep>
     <dep name="csubj:pass">7</dep>
     <dep name="dep">123</dep>
@@ -104,6 +104,6 @@
     <dep name="punct">2226</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">92</dep>
+    <dep name="xcomp">110</dep>
   </deps>
 </treebank>

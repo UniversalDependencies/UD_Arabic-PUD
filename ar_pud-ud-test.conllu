@@ -1434,11 +1434,11 @@
 10	%	%	SYM	SYM	_	9	dep	_	LId=%_0
 11	عام	عام	ADV	RB	_	6	obl:tmod	_	LId=عام_1
 12	2015	2015	NUM	CD	Case=Gen	11	obl	_	LId=٢٠١٥_0
-13	ل	لِ	ADP	IN	_	17	mark	_	SpaceAfter=No
-14	تصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	17	cop	_	LId=أَصْبَح_1
+13	ل	لِ	ADP	IN	_	14	mark	_	SpaceAfter=No
+14	تصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	advcl	_	LId=أَصْبَح_1
 15	221	221	NUM	CD	_	17	nummod	_	LId=٢٢١_0
 16	مليار	مليار	NUM	CD	Case=Gen|Gender=Masc|Number=Plur	15	nummod	_	LId=مِلْيار_1
-17	دولار	دُولَار	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	advcl	_	LId=دُولار_1
+17	دولار	دُولَار	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	xcomp	_	LId=دُولار_1
 18	أمريكي	أَمرِيكِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	amod	_	LId=أَمْرِيكِيّ_1|SpaceAfter=No
 19	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -2310,12 +2310,12 @@
 # text = إذا ما أصبح ترامب رئيساً, سيظل على الحكومة هنا العمل معه لدفع جدول الأعمال المشترك أياً كان لضمان أن الشركات والمصالح الكندية ممثلة في واشنطن.
 # original_text = إذا ما أصبح ترامب رئيسا, سيظل على الحكومة هنا العمل معه لدفع جدول الأعمال المشترك أيا كان لضمان أن الشركات والمصالح الكندية ممثلة في واشنطن.
 # text_en = "If Donald Trump becomes president, the government here will still have to work with him to advance whatever shared agenda there is, to ensure that Canadian businesses and interests are represented in Washington."
-1	إذا	إِذا	ADP	IN	_	5	mark	_	LId=إِذا_1
+1	إذا	إِذا	ADP	IN	_	3	mark	_	LId=إِذا_1
 2	ما	مَا	PART	RP	_	5	compound:prt	_	LId=ما_4
-3	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	LId=أَصْبَح_1
-4	ترامب	ترامب	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	5	nsubj	_	LId=ترامب_0
-5	رئيساً	رَئِيس	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	advcl	_	LId=رَئِيس_1|SpaceAfter=No
-6	,	,	PUNCT	,	_	5	punct	_	LId=,_0
+3	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	advcl	_	LId=أَصْبَح_1
+4	ترامب	ترامب	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	3	nsubj	_	LId=ترامب_0
+5	رئيساً	رَئِيس	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	LId=رَئِيس_1|SpaceAfter=No
+6	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 7	س	سَ	PART	RP	_	8	compound:prt	_	SpaceAfter=No
 8	يظل	ظَلّ	VERB	VBC	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Tense=Fut|Voice=Act	0	root	_	LId=ظَلّ-َ_1
 9	على	عَلَى	ADP	IN	_	10	case	_	LId=عَلَى_1
@@ -4219,17 +4219,17 @@
 # text_en = But, as the criticism of Clinton as First Lady became more caustic, Karel became more empathetic.
 1	لكن	ل`كِنَّ	PART	RP	_	16	compound:prt	_	LId=لٰكِنَّ_1
 2	عندما	عِند	PART	RP	_	11	compound:prt	_	LId=عِنْد_1
-3	أصبحت	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	11	cop	_	LId=أَصْبَح_1
-4	الانتقادات	اِنتِقَاد	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	LId=ٱِنْتِقاد_1
+3	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	advcl	_	LId=أَصْبَح_1
+4	الانتقادات	اِنتِقَاد	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	LId=ٱِنْتِقاد_1
 5	الموجهة	مُوَجَّه	ADJ	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	4	ccomp	_	LId=مُوَجَّه_1
 6	إلى	إِلَى	ADP	IN	_	7	case	_	LId=إِلَى_1
 7	كلينتون	كلِينتُون	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	5	obl	_	LId=كلِينْتُون_1
 8	ك	كَ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	سيدة	سَيِّدَة	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nmod	_	LId=سَيِّدَة_1
 10	أولى	أَوَّل	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	9	amod	_	LId=أَوَّل_2
-11	لاذعة	لَاذِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	16	advcl	_	LId=لاذِعَة_1
+11	لاذعة	لَاذِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	xcomp	_	LId=لاذِعَة_1
 12	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	amod	_	LId=أَكْثَر_2|SpaceAfter=No
-13	,	,	PUNCT	,	_	11	punct	_	LId=,_0
+13	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 14	غدت	غَدا	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	cop	_	LId=غَدا-ُ_1
 15	كاريل	أَرِيِيل	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	16	nsubj	_	LId=أَرِيِيل_1
 16	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=أَكْثَر_2
@@ -5807,12 +5807,12 @@
 11	إلى	إِلَى	ADP	IN	_	12	case	_	LId=إِلَى_1
 12	الضوضاء	ضَوضاء	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=ضَوْضاء_1
 13	التالية	تَالِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	LId=تالِي_1
-14	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-15	تصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	16	cop	_	LId=أَصْبَح_1
-16	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind	1	conj	_	LId=أَكْثَر_2
-17	غضباً	غَضَب	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	obl	_	LId=غَضَب_1
+14	و	وَ	CCONJ	CC	_	15	cc	_	SpaceAfter=No
+15	تصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	conj	_	LId=أَصْبَح_1
+16	أكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Ind	15	xcomp	_	LId=أَكْثَر_2
+17	غضباً	غَضَب	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	LId=غَضَب_1
 18	عندما	عِند	ADP	IN	_	19	mark	_	LId=عِنْد_1
-19	تبدأ	بَدَأ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	16	advcl	_	LId=بَدَأ-َ_1|SpaceAfter=No
+19	تبدأ	بَدَأ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	advcl	_	LId=بَدَأ-َ_1|SpaceAfter=No
 20	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = n01086
@@ -8443,17 +8443,17 @@
 # text = أصبح الاقتراع, في عيون الإرهاب, الهدف السهل الجديد.
 # original_text = أصبح الاقتراع, في عيون الإرهاب, الهدف السهل الجديد.
 # text_en = Voting has, in the vernacular of terror, become the new soft target.
-1	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=أَصْبَح_1
-2	الاقتراع	اِقتِرَاع	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	LId=ٱِقْتِراع_1|SpaceAfter=No
+1	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَصْبَح_1
+2	الاقتراع	اِقتِرَاع	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=ٱِقْتِراع_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 4	في	فِي	ADP	IN	_	5	case	_	LId=فِي_1
 5	عيون	عَين	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	nmod	_	LId=عَيْن_1
 6	الإرهاب	إِرهَاب	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=إِرْهاب_1|SpaceAfter=No
 7	,	,	PUNCT	,	_	5	punct	_	LId=,_0
-8	الهدف	هَدَف	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	LId=هَدَف_1
+8	الهدف	هَدَف	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	1	xcomp	_	LId=هَدَف_1
 9	السهل	سَهل	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=سَهْل_1
 10	الجديد	جَدِيد	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=جَدِيد_1|SpaceAfter=No
-11	.	.	PUNCT	.	_	8	punct	_	LId=._0
+11	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = n01129
 # sent_id = n01129010
@@ -10547,9 +10547,9 @@
 3	833	833	NUM	CD	_	2	nmod	_	LId=٨٣٣_0
 4	م	م	ADJ	JJ	Definite=Def	2	amod	_	LId=م_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-6	أصبحت	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=أَصْبَح_1
-7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	LId=هٰذا_1
-8	دولة	دَولَة	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	root	_	LId=دَوْلَة_1
+6	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَصْبَح_1
+7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=هٰذا_1
+8	دولة	دَولَة	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	xcomp	_	LId=دَوْلَة_1
 9	مورافيا	مورافيا	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	8	nmod	_	LId=مورافيا_0
 10	العظمى	أَعظَم	ADJ	JJR	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=أَعْظَم_2|Proper=True
 11	بعد	بَعدَ	ADP	IN	_	12	case	_	LId=بَعْد_1
@@ -10560,7 +10560,7 @@
 16	سلوفاكيا	سلُوفاكِيا	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	14	appos	_	LId=سلُوفاكِيا_1
 17	المعاصرة	مُعَاصِر	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	LId=مُعاصِر_1|SpaceAfter=No
 18	)	)	PUNCT	)	_	16	punct	_	LId=)_0|SpaceAfter=No
-19	.	.	PUNCT	.	_	8	punct	_	LId=._0
+19	.	.	PUNCT	.	_	6	punct	_	LId=._0
 
 # newdoc id = w01010
 # sent_id = w01010047
@@ -10600,9 +10600,9 @@
 11	أخي	أَخ	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	LId=أَخ_1|SpaceAfter=No
 12	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
 13	راستيز	راستيز	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	11	appos	_	LId=راستيز_0
-14	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	16	nsubj	_	LId=الَّذِي_1
-15	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	16	cop	_	LId=أَصْبَح_1
-16	القديس	قِدِّيس	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	acl:relcl	_	LId=قِدِّيس_1
+14	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	15	nsubj	_	LId=الَّذِي_1
+15	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	acl:relcl	_	LId=أَصْبَح_1
+16	القديس	قِدِّيس	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	xcomp	_	LId=قِدِّيس_1
 17	راستيسلاف	راستيسلاف	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	16	appos	_	LId=راستيسلاف_0|SpaceAfter=No
 18	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -10862,10 +10862,10 @@
 9	الصدع	صَدع	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	LId=صَدْع_1
 10	الشرق	شَرق	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=شَرْق_1
 11	أفريقي	أَفرِيقِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	amod	_	LId=أَفْرِيقِيّ_2|SpaceAfter=No
-12	,	,	PUNCT	,	_	24	punct	_	LId=,_0
-13	ل	لِ	ADP	IN	_	24	mark	_	SpaceAfter=No
-14	تصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	cop	_	LId=أَصْبَح_1
-15	شرق	شَرق	PROPN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	LId=شَرْق_1
+12	,	,	PUNCT	,	_	14	punct	_	LId=,_0
+13	ل	لِ	ADP	IN	_	14	mark	_	SpaceAfter=No
+14	تصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	LId=أَصْبَح_1
+15	شرق	شَرق	PROPN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	LId=شَرْق_1
 16	أفريقيا	أَفرِيقِيا	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	15	nmod	_	LId=أَفْرِيقِيا_1
 17	موطن	مَوطِن	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	appos	_	LId=مَوْطِن_1
 18	جبل	جَبَل	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	LId=جَبَل_2
@@ -10874,8 +10874,8 @@
 21	جبل	جَبَل	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	conj	_	LId=جَبَل_2
 22	كينيا	كِينِيا	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	21	nmod	_	LId=كِينِيا_1|SpaceAfter=No
 23	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-24	أطول	أَطوَل	ADJ	JJR	Case=Acc|Definite=Ind	1	advcl	_	LId=أَطْوَل_1
-25	قمتين	قِمَّة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Dual	24	obl	_	LId=قِمَّة_1
+24	أطول	أَطوَل	ADJ	JJR	Case=Acc|Definite=Ind	14	xcomp	_	LId=أَطْوَل_1
+25	قمتين	قِمَّة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Dual	14	obl	_	LId=قِمَّة_1
 26	في	فِي	ADP	IN	_	27	case	_	LId=فِي_1
 27	أفريقيا	أَفرِيقِيا	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	25	nmod	_	LId=أَفْرِيقِيا_1|SpaceAfter=No
 28	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -12508,9 +12508,9 @@
 12	أسوأ	أَسوَأ	ADJ	JJR	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=أَسْوَأ_1
 13	أحوال	حَال	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=حال_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-15	حين	حِينَ	ADP	IN	_	17	mark	_	LId=حِين_1
-16	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	cop	_	LId=أَصْبَح_1
-17	مجرد	مُجَرَّد	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	10	advcl	_	LId=مُجَرَّد_1
+15	حين	حِينَ	ADP	IN	_	16	mark	_	LId=حِين_1
+16	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	advcl	_	LId=أَصْبَح_1
+17	مجرد	مُجَرَّد	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	xcomp	_	LId=مُجَرَّد_1
 18	مكب	مِكَبّ	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	LId=مِكَبّ_1
 19	ل	لِ	ADP	IN	_	20	case	_	SpaceAfter=No
 20	لصرف	صَرف	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=صَرْف_1
@@ -14635,11 +14635,11 @@
 # text = عام 1519, أصبح حاكم إمبراطورية هابسبورغ, ثم حاز على لقب الإمبراطور الروماني المقدس عام 1530.
 # original_text = عام 1519, أصبح حاكم إمبراطورية هابسبورغ, ثم حاز على لقب الإمبراطور الروماني المقدس عام 1530.
 # text_en = In 1519, he became ruler of the Habsburg empire, and he gained the title Holy Roman Emperor in 1530.
-1	عام	عام	ADV	RB	_	5	obl:tmod	_	LId=عام_1
+1	عام	عام	ADV	RB	_	4	obl:tmod	_	LId=عام_1
 2	1519	1519	NUM	CD	Case=Gen	1	obl	_	LId=١٥١٩_0|SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	LId=,_0
-4	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	LId=أَصْبَح_1
-5	حاكم	حَاكِم	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	LId=حاكِم_1
+4	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَصْبَح_1
+5	حاكم	حَاكِم	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	xcomp	_	LId=حاكِم_1
 6	إمبراطورية	إِمبِراطُورِيَّة	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	LId=إِمْبِراطُورِيَّة_1
 7	هابسبورغ	هابسبورغ	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	6	nmod	_	LId=هابسبورغ_0|SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	LId=,_0
@@ -14652,7 +14652,7 @@
 15	المقدس	مُقَدَّس	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	amod	_	LId=مُقَدَّس_1
 16	عام	عام	ADV	RB	_	10	obl:tmod	_	LId=عام_1
 17	1530	1530	NUM	CD	Case=Gen	16	obl	_	LId=١٥٣٠_0|SpaceAfter=No
-18	.	.	PUNCT	.	_	5	punct	_	LId=._0
+18	.	.	PUNCT	.	_	4	punct	_	LId=._0
 
 # newdoc id = w01069
 # sent_id = w01069040
@@ -15295,11 +15295,11 @@
 # original_text = بعبارة أخرى: يصبح الشباب من الذكور (الذين يشكلون غالبية المقاتلين في الحروب الأهلية) أقل عرضة للانضمام إلى تمرد إذا كانوا يحصلون تعليما أو ينالون دخلا مريحا, ويمكن الافتراض إلى حد كبير أنهم سينجحون في المستقبل.
 # text_en = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
-2	عبارةٍ	عِبارَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	LId=عِبارَة_1
+2	عبارةٍ	عِبارَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	LId=عِبارَة_1
 3	أخرى	آخَر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	LId=أُخْرَى_1|SpaceAfter=No
 4	:	:	PUNCT	:	_	2	punct	_	LId=:_0
-5	يصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	18	cop	_	LId=أَصْبَح_1
-6	الشباب	شَبّ	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	18	nsubj	_	LId=شَبّ_1
+5	يصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=أَصْبَح_1
+6	الشباب	شَبّ	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	LId=شَبّ_1
 7	من	مِن	ADP	IN	_	8	case	_	LId=مِن_1
 8	الذكور	ذَكَر	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	LId=ذَكَر_1
 9	(	(	PUNCT	(	_	11	punct	_	LId=(_0|SpaceAfter=No
@@ -15311,15 +15311,15 @@
 15	الحروب	حَرب	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	LId=حَرْب_1
 16	الأهلية	أَهلِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	LId=أَهْلِيّ_1|SpaceAfter=No
 17	)	)	PUNCT	)	_	11	punct	_	LId=)_0
-18	أقل	أَقَلّ	ADJ	JJR	Case=Acc|Definite=Ind	0	root	_	LId=أَقَلّ_2
-19	عرضةً	عَرضَة	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	LId=عَرْضَة_1
+18	أقل	أَقَلّ	ADJ	JJR	Case=Acc|Definite=Ind	5	xcomp	_	LId=أَقَلّ_2
+19	عرضةً	عَرضَة	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	LId=عَرْضَة_1
 20	ل	لِ	ADP	IN	_	21	case	_	SpaceAfter=No
 21	لانضمام	ٱِنضِمام	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	LId=ٱِنْضِمام_1
 22	إلى	إِلَى	ADP	IN	_	23	case	_	LId=إِلَى_1
 23	تمردٍ	تَمَرُّد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	21	nmod	_	LId=تَمَرُّد_1
 24	إذا	إِذا	ADP	IN	_	26	mark	_	LId=إِذا_1
 25	كانوا	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	26	aux	_	LId=كان-ُ_1
-26	يحصلون	حَصَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	18	advcl	_	LId=حَصَل-ُ_1
+26	يحصلون	حَصَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	advcl	_	LId=حَصَل-ُ_1
 27	تعليماً	تَعلِيم	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	26	obj	_	LId=تَعْلِيم_1
 28	أو	أَو	CCONJ	CC	_	29	cc	_	LId=أَوْ_1
 29	ينالون	نال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	26	conj	_	LId=نال-َ_1
@@ -15338,7 +15338,7 @@
 42	ينجحون	نَجَح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	34	ccomp	_	LId=نَجَح-َ_1
 43	في	فِي	ADP	IN	_	44	case	_	LId=فِي_1
 44	المستقبل	مُستَقبَل	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	42	obl	_	LId=مُسْتَقْبَل_1|SpaceAfter=No
-45	.	.	PUNCT	.	_	18	punct	_	LId=._0
+45	.	.	PUNCT	.	_	5	punct	_	LId=._0
 
 # newdoc id = w01075
 # sent_id = w01075040
@@ -16942,10 +16942,10 @@
 # text_en = Joseph Darnand, who became an SS officer and led the Milice paramilitaries who hunted down members of the Resistance, was executed in October 1945.
 1	جوزيف	جُوزِيف	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	23	nsubj:pass	_	LId=جُوزِيف_1
 2	دارناند	دارناند	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	1	flat	_	LId=دارناند_0|SpaceAfter=No
-3	,	,	PUNCT	,	_	6	punct	_	LId=,_0
-4	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LId=الَّذِي_1
-5	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	cop	_	LId=أَصْبَح_1
-6	ضابطاً	ضابِط	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	acl:relcl	_	LId=ضابِط_1
+3	,	,	PUNCT	,	_	5	punct	_	LId=,_0
+4	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LId=الَّذِي_1
+5	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl:relcl	_	LId=أَصْبَح_1
+6	ضابطاً	ضابِط	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	xcomp	_	LId=ضابِط_1
 7	في	فِي	ADP	IN	_	8	case	_	LId=فِي_1
 8	وحدات	وَحدَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	LId=وَحْدَة_4
 9	إس	إِس	PROPN	NNP	_	8	nmod	_	LId=إِس_1
@@ -16961,7 +16961,7 @@
 19	تطارد	طارَد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	acl:relcl	_	LId=طارَد_1
 20	عناصر	عُنصُر	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Plur	19	obj	_	LId=عُنْصُر_1
 21	المقاومة	مُقَاوَمَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	nmod	_	LId=مُقاوَمَة_1|SpaceAfter=No
-22	,	,	PUNCT	,	_	6	punct	_	LId=,_0
+22	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 23	أعدم	أَعدَم	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=أَعْدَم_1
 24	في	فِي	ADP	IN	_	25	case	_	LId=فِي_1
 25	تشرين	تِشرِين	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	23	obl	_	LId=تِشْرِين_1
@@ -17398,9 +17398,9 @@
 15	بين	بَينَ	ADP	IN	_	16	case	_	LId=بَيْنَ_1
 16	الرغبة	رَغبَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	LId=رَغْبَة_1
 17	في	فِي	ADP	IN	_	20	case	_	LId=فِي_1
-18	أن	أَن	ADP	IN	_	20	mark	_	LId=أَنْ_1
-19	يصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	20	cop	_	LId=أَصْبَح_1
-20	شخصية	شَخصِيَّة	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	16	xcomp	_	LId=شَخْصِيَّة_1
+18	أن	أَن	ADP	IN	_	19	mark	_	LId=أَنْ_1
+19	يصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	16	xcomp	_	LId=أَصْبَح_1
+20	شخصية	شَخصِيَّة	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	19	xcomp	_	LId=شَخْصِيَّة_1
 21	عامة	عَامّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	20	amod	_	LId=عامّ_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -18585,9 +18585,9 @@
 13	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
 14	السباقات	سِباق	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	LId=سِباق_1
 15	الـ36	ال36	ADJ	JJ	Definite=Def	14	amod	_	LId=ال٣٦_0
-16	و	وَ	CCONJ	CC	_	18	cc	_	SpaceAfter=No
-17	أصبح	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	18	cop	_	LId=أَصْبَح_1
-18	بطل	بَطَل	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	conj	_	LId=بَطَل_1
+16	و	وَ	CCONJ	CC	_	17	cc	_	SpaceAfter=No
+17	أصبح	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	LId=أَصْبَح_1
+18	بطل	بَطَل	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	xcomp	_	LId=بَطَل_1
 19	كأس	كَأس	PROPN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=كَأْس_1
 20	وينستون	وينستون	PROPN	NNP	Animacy=Nhum|Number=Sing	19	nmod	_	LId=وينستون_0
 21	ل	لِ	ADP	IN	_	22	case	_	Proper=True|SpaceAfter=No
@@ -19646,7 +19646,7 @@
 # original_text = عندما تزوجت ابنتهما سيسيلي بريتشارد بلانتاغينيت, دوق يورك الثالث, وأنجبا العديد من الأولاد, بما فيهم إدوراد الرابع وريتشارد الثالث, أصبحت جوان جدة ملكي إنجلترا من آل يورك.
 # text_en = When their daughter Cecily married Richard Plantagenet, the 3rd Duke of York, and had several offspring, including Edward IV and Richard III, Joan became the grandmother of two York kings of England.
 1	عندما	عِند	ADP	IN	_	2	mark	_	LId=عِنْد_1
-2	تزوجت	تَزَوَّج	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	32	advcl	_	LId=تَزَوَّج_1
+2	تزوجت	تَزَوَّج	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	30	advcl	_	LId=تَزَوَّج_1
 3	ابنت	ٱِبن	NOUN	NN	Animacy=Hum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=ٱِبْن_1|SpaceAfter=No
 4	هما	هُوَ	PRON	PRP	Case=Gen|Number=Dual|Person=3	3	nmod	_	_
 5	سيسيلي	سيسيلي	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	3	appos	_	LId=سيسيلي_0
@@ -19674,15 +19674,15 @@
 27	ريتشارد	رِيتشارد	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	24	conj	_	LId=رِيتْشارْد_1
 28	الثالث	ثَالِث	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	27	amod	_	LId=ثالِث_1|Proper=True|SpaceAfter=No
 29	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-30	أصبحت	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	32	cop	_	LId=أَصْبَح_1
-31	جوان	جُوان	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	32	nsubj	_	LId=جُوان_1
-32	جدة	جِدَّة	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	0	root	_	LId=جِدَّة_2
+30	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَصْبَح_1
+31	جوان	جُوان	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	30	nsubj	_	LId=جُوان_1
+32	جدة	جِدَّة	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	30	xcomp	_	LId=جِدَّة_2
 33	ملكي	مُلكِيّ	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Dual	32	nmod	_	LId=مُلْكِيّ_1
 34	إنجلترا	إِنجِلتِرا	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	33	nmod	_	LId=إِنْجِلْتِرا_1
 35	من	مِن	ADP	IN	_	36	case	_	LId=مِن_1
 36	آل	آل	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	33	nmod	_	LId=آل_1
 37	يورك	يُورك	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	36	nmod	_	LId=يُورك_1|SpaceAfter=No
-38	.	.	PUNCT	.	_	32	punct	_	LId=._0
+38	.	.	PUNCT	.	_	30	punct	_	LId=._0
 
 # newdoc id = w01142
 # sent_id = w01142031
@@ -21360,14 +21360,14 @@
 23	في	فِي	ADP	IN	_	24	case	_	LId=فِي_1
 24	عرض	عَرض	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	LId=عَرْض_1
 25	البحر	بَحر	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	nmod	_	LId=بَحْر_1
-26	أن	أَن	ADP	IN	_	28	mark	_	LId=أَنْ_1
-27	تصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	28	cop	_	LId=أَصْبَح_1
-28	أهم	أَهَمّ	ADJ	JJR	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	csubj	_	LId=أَهَمّ_2
-29	مولد	مَولِد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	obl	_	LId=مَوْلِد_1
+26	أن	أَن	ADP	IN	_	27	mark	_	LId=أَنْ_1
+27	تصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	19	csubj	_	LId=أَصْبَح_1
+28	أهم	أَهَمّ	ADJ	JJR	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	27	xcomp	_	LId=أَهَمّ_2
+29	مولد	مَولِد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	obl	_	LId=مَوْلِد_1
 30	ل	لِ	ADP	IN	_	31	case	_	SpaceAfter=No
 31	لطاقة	طاقَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	29	nmod	_	LId=طاقَة_1
 32	في	فِي	ADP	IN	_	33	case	_	LId=فِي_1
-33	اقتصادٍ	ٱِقتِصاد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	28	obl	_	LId=ٱِقْتِصاد_1
+33	اقتصادٍ	ٱِقتِصاد	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	27	obl	_	LId=ٱِقْتِصاد_1
 34	عالميٍ	عالَمِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	33	amod	_	LId=عالَمِيّ_1
 35	يخلو	خَلا	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	33	acl:relcl	_	LId=خَلا-ُ_1
 36	من	مِن	ADP	IN	_	37	case	_	LId=مِن_1
@@ -22775,10 +22775,10 @@
 # text = أصبحت أمازون رابع أكبر شركة أمريكية من حيث القيمة السوقية, متجاوزةً إكسون موبيل.
 # original_text = أصبحت أمازون رابع أكبر شركة أمريكية من حيث القيمة السوقية, متجاوزة إكسون موبيل.
 # text_en = Amazon has become the fourth American company with the largest market capitalisation, surpassing ExxonMobil.
-1	أصبحت	أَصبَح	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	LId=أَصْبَح_1
-2	أمازون	أَمازُون	PROPN	NNP	Animacy=Nhum|Number=Sing	3	nsubj	_	LId=أَمازُون_1
-3	رابع	رَابِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=رابِع_1
-4	أكبر	أَكبَر	ADJ	JJR	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	LId=أَكْبَر_2
+1	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَصْبَح_1
+2	أمازون	أَمازُون	PROPN	NNP	Animacy=Nhum|Number=Sing	1	nsubj	_	LId=أَمازُون_1
+3	رابع	رَابِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	xcomp	_	LId=رابِع_1
+4	أكبر	أَكبَر	ADJ	JJR	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=أَكْبَر_2
 5	شركة	شَرِكَة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	LId=شَرِكَة_1
 6	أمريكية	أَمرِيكِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	LId=أَمْرِيكِيّ_1
 7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
@@ -22789,7 +22789,7 @@
 12	متجاوزةً	مُتَجاوِز	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	ccomp	_	LId=مُتَجاوِز_1
 13	إكسون	اكسون	PROPN	NNP	Animacy=Nhum|Number=Sing	12	obj	_	LId=اكسون_0
 14	موبيل	مُوبِيل	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	13	flat	_	LId=مُوبِيل_1|SpaceAfter=No
-15	.	.	PUNCT	.	_	3	punct	_	LId=._0
+15	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = n04010
 # sent_id = n04010021
@@ -26681,10 +26681,10 @@
 22	سحب	سَحب	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	LId=سَحْب_1
 23	قوات	قُوَّة	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	LId=قُوَّة_1|SpaceAfter=No
 24	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	23	nmod	_	_
-25	أو	أَو	CCONJ	CC	_	28	cc	_	LId=أَوْ_1
-26	أن	أَن	ADP	IN	_	28	mark	_	LId=أَنْ_1
-27	يصبح	أَصبَح	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	28	cop	_	LId=أَصْبَح_1
-28	عدواً	عَدُوّ	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	conj	_	LId=عَدُوّ_1
+25	أو	أَو	CCONJ	CC	_	27	cc	_	LId=أَوْ_1
+26	أن	أَن	ADP	IN	_	27	mark	_	LId=أَنْ_1
+27	يصبح	أَصبَح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	19	conj	_	LId=أَصْبَح_1
+28	عدواً	عَدُوّ	NOUN	NN	Animacy=Hum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	27	xcomp	_	LId=عَدُوّ_1
 29	ل	لِ	ADP	IN	_	30	case	_	SpaceAfter=No
 30	لشعب	شَعب	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	LId=شَعْب_1|SpaceAfter=No
 31	,	,	PUNCT	,	_	3	punct	_	LId=,_0
