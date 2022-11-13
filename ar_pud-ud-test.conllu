@@ -16355,16 +16355,16 @@
 26	أسمائ	ٱِسم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	obl	_	LId=ٱِسْم_1|SpaceAfter=No
 27	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	26	nmod	_	_
 28	الأولى	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	26	amod	_	LId=أَوَّل_2|SpaceAfter=No
-29	,	,	PUNCT	,	_	38	punct	_	LId=,_0
-30	إذ	إِذ	ADP	IN	_	38	mark	_	LId=إِذْ_1
-31	ما	مَا	PART	RP	Polarity=Neg	38	advmod	_	LId=ما_1
-32	فتئ	فَتِئ	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	38	cop	_	LId=فَتِئ_1
-33	استخدام	اِستِخدَام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	38	nsubj	_	LId=ٱِسْتِخْدام_1
+29	,	,	PUNCT	,	_	32	punct	_	LId=,_0
+30	إذ	إِذ	ADP	IN	_	32	mark	_	LId=إِذْ_1
+31	ما	مَا	PART	RP	Polarity=Neg	32	advmod	_	LId=ما_1
+32	فتئ	فَتِئ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	advcl	_	LId=فَتِئ_1
+33	استخدام	اِستِخدَام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	32	nsubj	_	LId=ٱِسْتِخْدام_1
 34	اسم	اِسم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	33	nmod	_	LId=ٱِسْم_1
 35	العائلة	عَائِلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	34	nmod	_	LId=عائِلَة_1
 36	في	فِي	ADP	IN	_	37	case	_	LId=فِي_1
 37	التخاطب	تَخَاطُب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	33	nmod	_	LId=تَخاطُب_1
-38	شائعاً	شائِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	20	advcl	_	LId=شائِع_1|SpaceAfter=No
+38	شائعاً	شائِع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	32	xcomp	_	LId=شائِع_1|SpaceAfter=No
 39	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
 # newdoc id = w01095
