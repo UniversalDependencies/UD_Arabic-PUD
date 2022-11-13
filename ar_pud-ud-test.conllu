@@ -14271,13 +14271,13 @@
 # text_en = The exact purpose of these megaliths is still debated, but they may have constituted a Canaanite "high place" from the Middle Bronze Age, ca. 1600 B.C.E.
 1	لا	لَا	PART	RP	Polarity=Neg	2	advmod	_	LId=لا_1
 2	تزال	زال	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=زال-َ_1
-3	الغاية	غايَة	AUX	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	cop	_	LId=غايَة_1
+3	الغاية	غايَة	VERB	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=غايَة_1
 4	المحددة	مُحَدَّد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=مُحَدَّد_1
 5	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
 6	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	7	det	_	LId=هٰذا_1
 7	الأحجار	حَجَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	nmod	_	LId=حَجَر_1
 8	الضخمة	ضَخم	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	LId=ضَخْم_1
-9	مثار	مَثار	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	LId=مَثار_1
+9	مثار	مَثار	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	LId=مَثار_1
 10	جدل	جَدَل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	LId=جَدَل_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 12	لكن	ل`كِن	ADP	IN	_	15	mark	_	LId=لٰكِنْ_1
