@@ -58,7 +58,7 @@ binmode(STDERR, ':utf8');
     ['K', "\x{64D}", 'in'], # kasratan
     ['~', "\x{651}", '~'], # shadda; for Elixir transliteration we would need s/(.)~/$1$1/g but we cannot encode it using this table
     ['o', "\x{652}", ''], # sukun
-    ['p', "\x{629}", 'at'], # teh marbuta
+    ['p', "\x{629}", 'ât'], # teh marbuta
     ['_', "\x{640}", ''], # tatweel
     ['0', "\x{660}", '0'],
     ['1', "\x{661}", '1'],
