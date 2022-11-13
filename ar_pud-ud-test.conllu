@@ -26086,13 +26086,13 @@
 4	الوسطى	أَوسَط	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=وَسَطِيّ_1
 5	إلى	إِلَى	ADP	IN	_	6	case	_	LId=إِلَى_1
 6	ما	ما	PRON	WP	Case=Gen	1	obl	_	LId=ما_1
-7	يدعى	دَعا	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	9	cop	_	LId=دَعا-ُ_1
-8	"	"	PUNCT	``	_	9	punct	_	LId="_0|SpaceAfter=No
-9	أنديز	أَندِيز	PROPN	NNP	Gender=Masc|Number=Sing	6	acl:relcl	_	LId=أَنْدِيز_1
+7	يدعى	دَعا	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	6	acl:relcl	_	LId=دَعا-ُ_1
+8	"	"	PUNCT	``	_	7	punct	_	LId="_0|SpaceAfter=No
+9	أنديز	أَندِيز	PROPN	NNP	Gender=Masc|Number=Sing	7	xcomp	_	LId=أَنْدِيز_1
 10	دي	دِي	PROPN	NNP	Gender=Masc|Number=Sing	9	flat	_	LId=دِي_1
 11	تيبو	تيبو	PROPN	NNP	Gender=Masc|Number=Sing	10	flat	_	LId=تيبو_0
 12	أدينو	ادينو	PROPN	NNP	Gender=Masc|Number=Sing	11	flat	_	LId=ادينو_0|SpaceAfter=No
-13	"	"	PUNCT	''	_	9	punct	_	LId="_0
+13	"	"	PUNCT	''	_	7	punct	_	LId="_0
 14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	LId=الَّذِي_1
 15	تشكلت	تَشَكَّل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=تَشَكَّل_1
 16	من	مِن	ADP	IN	_	18	case	_	LId=مِن_1
