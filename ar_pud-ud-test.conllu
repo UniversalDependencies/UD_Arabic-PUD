@@ -6692,12 +6692,12 @@
 19	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	شرانق	شَرنَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	16	conj	_	LId=شَرْنَقَة_1
 21	الدبابير	دَبُّور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	nmod	_	LId=دَبُّور_1
-22	(	(	PUNCT	(	_	25	punct	_	LId=(_0|SpaceAfter=No
-23	تعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	25	cop	_	LId=عَدّ-ُ_1
-24	الشرانق	شَرنَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	25	nsubj:pass	_	LId=شَرْنَقَة_1
-25	طعاماً	طَعام	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	advcl	_	LId=طَعام_1
+22	(	(	PUNCT	(	_	23	punct	_	LId=(_0|SpaceAfter=No
+23	تعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	16	advcl	_	LId=عَدّ-ُ_1
+24	الشرانق	شَرنَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	23	nsubj:pass	_	LId=شَرْنَقَة_1
+25	طعاماً	طَعام	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	23	xcomp	_	LId=طَعام_1
 26	شهياً	شَهَّى	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	25	amod	_	LId=شَهَّى_1|SpaceAfter=No
-27	)	)	PUNCT	)	_	25	punct	_	LId=)_0|SpaceAfter=No
+27	)	)	PUNCT	)	_	23	punct	_	LId=)_0|SpaceAfter=No
 28	,	,	PUNCT	,	_	30	punct	_	LId=,_0
 29	و	وَ	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 30	رئة	رِئَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	conj	_	LId=رِئَة_1
@@ -8190,17 +8190,17 @@
 3	خاصة	خَاصّ	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	2	ccomp	_	LId=خاصّ_1
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	السبعينيات	سَبعِينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	LId=سَبْعِينِيّ_1|SpaceAfter=No
-6	,	,	PUNCT	,	_	14	punct	_	LId=,_0
-7	الصوف	صُوف	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	LId=صُوف_1
+6	,	,	PUNCT	,	_	13	punct	_	LId=,_0
+7	الصوف	صُوف	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	LId=صُوف_1
 8	ـ	ـ	PUNCT	-	_	10	punct	_	LId=ـ_0|SpaceAfter=No
 9	أو	أَو	CCONJ	CC	_	10	cc	_	LId=أَوْ_1
 10	تغطية	تَغطِيَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	conj	_	LId=تَغْطِيَة_1
 11	الأسطح	سَطح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	LId=سَطْح_1|SpaceAfter=No
 12	ـ	ـ	PUNCT	-	_	7	punct	_	LId=ـ_0
-13	عاد	عَاد	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	LId=عاد-ُ_1
-14	رائجاً	رائِج	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	parataxis	_	LId=رائِج_1
+13	عاد	عَاد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	parataxis	_	LId=عاد-ُ_1
+14	رائجاً	رائِج	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	13	xcomp	_	LId=رائِج_1
 15	من	مِن	ADP	IN	_	16	case	_	LId=مِن_1
-16	جديد	جَدِيد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	obl	_	LId=جَدِيد_1|SpaceAfter=No
+16	جديد	جَدِيد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	obl	_	LId=جَدِيد_1|SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
 # newdoc id = n01125
@@ -9737,7 +9737,7 @@
 # original_text = بعمق 100 متر (328 قدم) تحت الأرض, يعد مترو بيونغ يانغ أحد أكثر أنظمة المواصلات عمقا في العالم.
 # text_en = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
-2	عمق	عُمق	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	LId=عُمْق_1
+2	عمق	عُمق	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=عُمْق_1
 3	100	100	NUM	CD	_	4	nummod	_	LId=١٠٠_0
 4	مترٍ	مِتر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	LId=مِتْر_1
 5	(	(	PUNCT	(	_	7	punct	_	LId=(_0|SpaceAfter=No
@@ -9747,18 +9747,18 @@
 9	تحت	تَحتَ	ADP	IN	_	10	case	_	LId=تَحْتَ_1
 10	الأرض	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=أَرْض_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-12	يعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	17	cop	_	LId=عَدّ-ُ_1
-13	مترو	مِترُو	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj:pass	_	LId=مِتْرُو_1
+12	يعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=عَدّ-ُ_1
+13	مترو	مِترُو	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj:pass	_	LId=مِتْرُو_1
 14	بيونغ	يُونغ	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	LId=يُونْغ_1
 15	يانغ	يانغ	PROPN	NNP	Gender=Masc|Number=Sing	14	flat	_	LId=يانغ_1
 16	أحد	أَحَد	DET	PDT	Case=Gen	17	det	_	LId=أَحَد_1
-17	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	LId=أَكْثَر_2
-18	أنظمة	نِظَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	LId=نِظام_1
+17	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def	12	xcomp	_	LId=أَكْثَر_2
+18	أنظمة	نِظَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=نِظام_1
 19	المواصلات	مُوَاصَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	18	nmod	_	LId=مُواصَلَة_2
-20	عمقاً	عُمق	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	LId=عُمْق_1
+20	عمقاً	عُمق	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=عُمْق_1
 21	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1
-22	العالم	عالَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	LId=عالَم_1|SpaceAfter=No
-23	.	.	PUNCT	.	_	17	punct	_	LId=._0
+22	العالم	عالَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=عالَم_1|SpaceAfter=No
+23	.	.	PUNCT	.	_	12	punct	_	LId=._0
 
 # newdoc id = n01149
 # sent_id = n01149010
@@ -11575,13 +11575,13 @@
 1	المناخ	مُنَاخ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=مُناخ_1
 2	جافٌ	جافّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	LId=جافّ_1
 3	جداً	جِدًّا	ADV	RB	_	2	advmod	_	LId=جِدّ_1
-4	ب	بِ	ADP	IN	_	10	mark	_	SpaceAfter=No
+4	ب	بِ	ADP	IN	_	6	mark	_	SpaceAfter=No
 5	حيث	حَيثُ	ADP	IN	_	4	fixed	_	LId=حَيْثُ_1
-6	تعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	10	cop	_	LId=عَدّ-ُ_1
+6	تعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	2	advcl	_	LId=عَدّ-ُ_1
 7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	8	det	_	LId=هٰذا_1
-8	السهول	سَهل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	10	nsubj:pass	_	LId=سَهْل_2
-9	أحياناً	حِين	ADV	RB	_	10	advmod	_	LId=حِين_1
-10	جزءاً	جُزء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	advcl	_	LId=جُزْء_1
+8	السهول	سَهل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj:pass	_	LId=سَهْل_2
+9	أحياناً	حِين	ADV	RB	_	6	advmod	_	LId=حِين_1
+10	جزءاً	جُزء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	LId=جُزْء_1
 11	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
 12	الصحراء	صَحراء	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	LId=صَحْراء_1
 13	الكبرى	أَكبَر	ADJ	JJR	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	LId=أَكْبَر_2|Proper=True|SpaceAfter=No
@@ -12329,19 +12329,19 @@
 # text = تعد أمريكا الشمالية وأمريكا الجنوبية قارتين منفصلتين في نموذج القارات السبع.
 # original_text = تعد أمريكا الشمالية وأمريكا الجنوبية قارتين منفصلتين في نموذج القارات السبع.
 # text_en = North America and South America are treated as separate continents in the seven-continent model.
-1	تعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	7	cop	_	LId=عَدّ-ُ_1
-2	أمريكا	أَمرِيكا	PROPN	NNP	Gender=Fem|Number=Sing	7	nsubj:pass	_	LId=أَمْرِيكا_1
+1	تعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=عَدّ-ُ_1
+2	أمريكا	أَمرِيكا	PROPN	NNP	Gender=Fem|Number=Sing	1	nsubj:pass	_	LId=أَمْرِيكا_1
 3	الشمالية	شَمَالِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=شَمالِيّ_1|Proper=True
 4	و	وَ	CCONJ	CC	_	5	cc	_	SpaceAfter=No
 5	أمريكا	أَمرِيكا	PROPN	NNP	Gender=Fem|Number=Sing	2	conj	_	LId=أَمْرِيكا_1
 6	الجنوبية	جَنُوبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	LId=جَنُوبِيّ_1|Proper=True
-7	قارتين	قارَّة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Dual	0	root	_	LId=قارَّة_1
+7	قارتين	قارَّة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Dual	1	xcomp	_	LId=قارَّة_1
 8	منفصلتين	مُنفَصِل	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Dual	7	amod	_	LId=مُنْفَصِل_1
 9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
 10	نموذج	نَمُوذَج	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=نَمُوذَج_1
 11	القارات	قَارَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	nmod	_	LId=قارَّة_1
 12	السبع	سَبع	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	amod	_	LId=سَبْع_1|SpaceAfter=No
-13	.	.	PUNCT	.	_	7	punct	_	LId=._0
+13	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w01037
 # sent_id = w01037080
@@ -17098,10 +17098,10 @@
 # text_en = The radar system for which Alvarez is best known and which has played a major role in aviation, most particularly in the post war Berlin airlift, was Ground Controlled Approach (GCA).
 1	نظام	نِظَام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	nsubj	_	LId=نِظام_1
 2	الرادار	رَادَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	LId=رادار_1
-3	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	LId=الَّذِي_1
-4	يعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	5	cop	_	LId=أَعَدّ_1
-5	أكثر	أَكثَر	ADJ	JJR	Case=Nom|Definite=Ind	1	acl:relcl	_	LId=أَكْثَر_2
-6	ما	ما	PRON	WP	Case=Gen	5	obl	_	LId=ما_1
+3	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	LId=الَّذِي_1
+4	يعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	1	acl:relcl	_	LId=أَعَدّ_1
+5	أكثر	أَكثَر	ADJ	JJR	Case=Nom|Definite=Ind	4	xcomp	_	LId=أَكْثَر_2
+6	ما	ما	PRON	WP	Case=Gen	4	obl	_	LId=ما_1
 7	يشتهر	ٱِشتَهَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	LId=ٱِشْتَهَر_1
 8	ب	بِ	ADP	IN	_	9	case	_	LId=بِ_1|SpaceAfter=No
 9	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	7	obl	_	_
@@ -20507,13 +20507,13 @@
 # text_en = Because series 1 is no longer the old one, many users can save 100 euros.
 1	لكن	ل`كِنَّ	PART	RP	_	10	compound:prt	_	LId=لٰكِنَّ_1
 2	ل	لِ	ADP	IN	_	8	case	_	SpaceAfter=No
-3	أن	أَنَّ	SCONJ	IN	_	8	mark	_	LId=أَنَّ_1
-4	سيريس	سيريس	PROPN	NNP	Number=Sing	8	nsubj	_	LId=سيريس_0
+3	أن	أَنَّ	SCONJ	IN	_	7	mark	_	LId=أَنَّ_1
+4	سيريس	سيريس	PROPN	NNP	Number=Sing	7	nsubj	_	LId=سيريس_0
 5	1	1	NUM	CD	_	4	nummod	_	LId=١_0|Proper=True
-6	لم	لَم	PART	RP	Polarity=Neg	8	advmod	_	LId=لَمْ_1
-7	تعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=عاد-ُ_1
-8	القديمة	قَدِيم	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	xcomp	_	LId=قَدِيم_1|SpaceAfter=No
-9	,	,	PUNCT	,	_	8	punct	_	LId=,_0
+6	لم	لَم	PART	RP	Polarity=Neg	7	advmod	_	LId=لَمْ_1
+7	تعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	10	xcomp	_	LId=عاد-ُ_1
+8	القديمة	قَدِيم	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	xcomp	_	LId=قَدِيم_1|SpaceAfter=No
+9	,	,	PUNCT	,	_	7	punct	_	LId=,_0
 10	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=أَمْكَن_1
 11	ل	لِ	ADP	IN	_	12	case	_	SpaceAfter=No
 12	لعديد	عَدِيد	NOUN	NN	Case=Gen|Definite=Def|Number=Sing	10	obl	_	LId=عَدِيد_1
@@ -25399,14 +25399,14 @@
 # text = عام 1976, لم يعد مضمار السباق مستخدماً, وفي عام 1990, دمر حريقٌ ما تبقى من المدرجات الخشبية, والتي هدمت لاحاقاً مع الإسطبلات.
 # original_text = عام 1976, لم يعد مضمار السباق مستخدما, وفي عام 1990, دمر حريق ما تبقى من المدرجات الخشبية, والتي هدمت لاحاقا مع الإسطبلات.
 # text_en = In 1976, the racecourse was no longer used; in 1990, a fire destroyed what remained of the wooden grandstands, which were later demolished along with the stables.
-1	عام	عام	ADV	RB	_	8	obl:tmod	_	LId=عام_1
+1	عام	عام	ADV	RB	_	5	obl:tmod	_	LId=عام_1
 2	1976	1976	NUM	CD	Case=Gen	1	obl	_	LId=١٩٧٦_0|SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	LId=,_0
-4	لم	لَم	PART	RP	Polarity=Neg	8	advmod	_	LId=لَمْ_1
-5	يعد	عَاد	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	8	cop	_	LId=عاد-ُ_1
-6	مضمار	مِضمار	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	LId=مِضْمار_1
+4	لم	لَم	PART	RP	Polarity=Neg	5	advmod	_	LId=لَمْ_1
+5	يعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=عاد-ُ_1
+6	مضمار	مِضمار	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	5	nsubj	_	LId=مِضْمار_1
 7	السباق	سِبَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=سِباق_1
-8	مستخدماً	مُستَخدَم	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُسْتَخْدَم_1|SpaceAfter=No
+8	مستخدماً	مُستَخدَم	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	5	xcomp	_	LId=مُسْتَخْدَم_1|SpaceAfter=No
 9	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 10	و	وَ	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 11	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1
@@ -25427,7 +25427,7 @@
 26	لاحاقاً	أَحاق	ADV	RB	_	25	advmod	_	LId=أَحاق_1
 27	مع	مَعَ	ADP	IN	_	28	case	_	LId=مَع_1
 28	الإسطبلات	إِسطَبل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	25	obl	_	LId=إِسْطَبْل_1|SpaceAfter=No
-29	.	.	PUNCT	.	_	8	punct	_	LId=._0
+29	.	.	PUNCT	.	_	5	punct	_	LId=._0
 
 # newdoc id = w04003
 # sent_id = w04003025
