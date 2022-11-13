@@ -12035,11 +12035,11 @@
 1	تضم	ضَمّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=ضَمّ-ُ_1
 2	هوراً	هَور	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	LId=هَوْر_1
 3	صغيراً	صَغِير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	amod	_	LId=صَغِير_1
-4	لا	لَا	PART	RP	_	2	acl:relcl	_	LId=لا_1
-5	يزال	زال	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	cop	_	LId=زال-َ_1
+4	لا	لَا	PART	RP	_	5	xcomp	_	LId=لا_1
+5	يزال	زال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl:relcl	_	LId=زال-َ_1
 6	مملوءاً	مَملُوء	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	fixed	_	LId=مَمْلُوء_1
 7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
-8	الماء	مَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=ماء_1|SpaceAfter=No
+8	الماء	مَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=ماء_1|SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w01033
@@ -17233,17 +17233,17 @@
 16	عديدة	عَدِيد	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	15	amod	_	LId=عَدِيد_1
 17	بعد	بَعدَ	ADP	IN	_	18	case	_	LId=بَعْد_1
 18	الحرب	حَرب	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=حَرْب_1|SpaceAfter=No
-19	,	,	PUNCT	,	_	24	punct	_	LId=,_0
-20	و	وَ	CCONJ	CC	_	24	cc	_	SpaceAfter=No
-21	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	24	aux	_	LId=كان-ُ_1
-22	لا	لَا	PART	RP	Polarity=Neg	24	advmod	_	LId=لا_1
-23	يزال	زال	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	24	cop	_	LId=زال-َ_1
-24	مستخدماً	مُستَخدَم	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	LId=مُسْتَخْدَم_1
+19	,	,	PUNCT	,	_	23	punct	_	LId=,_0
+20	و	وَ	CCONJ	CC	_	23	cc	_	SpaceAfter=No
+21	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=كان-ُ_1
+22	لا	لَا	PART	RP	Polarity=Neg	23	advmod	_	LId=لا_1
+23	يزال	زال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	LId=زال-َ_1
+24	مستخدماً	مُستَخدَم	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	23	xcomp	_	LId=مُسْتَخْدَم_1
 25	في	فِي	ADP	IN	_	27	case	_	LId=فِي_1
 26	بعض	بَعض	DET	PDT	Case=Gen	27	det	_	LId=بَعْض_1
-27	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	LId=دَوْلَة_1
+27	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	obl	_	LId=دَوْلَة_1
 28	خلال	خِلَالَ	ADP	IN	_	29	case	_	LId=خِلال_1
-29	الثمانينيات	ثَمانِينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	24	obl	_	LId=ثَمانِينِيّ_1|SpaceAfter=No
+29	الثمانينيات	ثَمانِينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	obl	_	LId=ثَمانِينِيّ_1|SpaceAfter=No
 30	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 # newdoc id = w01106
