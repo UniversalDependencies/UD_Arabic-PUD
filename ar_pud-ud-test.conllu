@@ -23432,8 +23432,8 @@
 # text_en = May has received great criticism for avoiding and not responding openly to the media after the judicial ruling on Brexit.
 1	تلقت	تَلَقَّى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=تَلَقَّى_1
 2	ماي	ماي	PROPN	NNP	Gender=Fem|Number=Sing	1	nsubj	_	LId=ماي_1
-3	انتقادات	ٱِنتِقاد	AUX	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	4	cop	_	LId=ٱِنْتِقاد_1
-4	كبيرة	كَبِير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	LId=كَبِير_1
+3	انتقادات	ٱِنتِقاد	VERB	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	obj	_	LId=ٱِنْتِقاد_1
+4	كبيرة	كَبِير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	xcomp	_	LId=كَبِير_1
 5	ل	لِ	ADP	IN	_	6	case	_	SpaceAfter=No
 6	تجنب	تَجَنُّب	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	1	obl	_	LId=تَجَنُّب_1|SpaceAfter=No
 7	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	_

@@ -18,7 +18,7 @@
     <tag name="ADJ">2026</tag><!-- أَوَّل, كَبِير, خَاصّ, جَدِيد, أَكثَر, آخَر, ثَانِي, أَكبَر, أَمرِيكِيّ, مُتَّحِد -->
     <tag name="ADP">3576</tag><!-- فِي, مِن, بِ, لِ, عَلَى, إِلَى, أَن, مَعَ, عَن, خِلَالَ -->
     <tag name="ADV">404</tag><!-- عام, أَيضًا, هُنَاكَ, نَحو, فَقَط, يَوم, جِدًّا, آن, تَقرِيب, عادَة -->
-    <tag name="AUX">197</tag><!-- كَان, عَاد, لَيس, عاد, أَعلَن, أَعَدّ, دَعا, عَدّ, كان, كانَ -->
+    <tag name="AUX">196</tag><!-- كَان, عَاد, لَيس, عاد, أَعلَن, أَعَدّ, دَعا, عَدّ, كان, كانَ -->
     <tag name="CCONJ">653</tag><!-- وَ, أَو, بَل, ثُمَّ, حَتَّى, ل`كِنَّ -->
     <tag name="DET">166</tag><!-- كُلّ, أَحَد, بَعض, أَيّ, عِدَّة, مُعظَم, آخِر, جَمِيع, آخَر, شِبه -->
     <tag name="NOUN">5578</tag><!-- عَام, شَكل, مِنطَقَة, شَرِكَة, وَقت, عَمَل, مَدِينَة, أَرض, أَمر, اِسم -->
@@ -29,18 +29,18 @@
     <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ؟, ـ, ... -->
     <tag name="SCONJ">187</tag><!-- أَنَّ, كَأَنَّ -->
     <tag name="SYM">30</tag><!-- %, ـ -->
-    <tag name="VERB">1739</tag><!-- كَان, قَال, أَمكَن, بَدَأ, أَصبَح, ظَهَر, تَمّ, شَكَّل, عاد, عَرَف -->
+    <tag name="VERB">1740</tag><!-- كَان, قَال, أَمكَن, بَدَأ, أَصبَح, ظَهَر, تَمّ, شَكَّل, عاد, عَرَف -->
     <tag name="X">1</tag><!-- سُرعانَ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="27">
     <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">940</feat><!-- يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, تكن, يعمل, تضم -->
     <feat name="Aspect" value="Perf" upos="ADJ,AUX,NOUN,VERB">1041</feat><!-- كان, كانت, قال, تم, كانوا, بدأت, قالت, بدأ, بات, أصبح -->
-    <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1415</feat><!-- ه, ها, هذا, أكثر, الذي, كبيراً, هم, نا, عاماً, كل -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1415</feat><!-- ه, ها, هذا, أكثر, الذي, كبيراً, هم, نا, عاماً, كل -->
     <feat name="Case" value="Gen" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6550</feat><!-- ه, ها, هم, التي, ذلك, عام, ما, الذي, شكلٍ, كل -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1568</feat><!-- هذا, التي, الذي, هو, هذه, كل, هي, الأمر, أحد, أكثر -->
     <feat name="Definite" value="Def" upos="ADJ,AUX,NOUN,PROPN,VERB">5863</feat><!-- عام, الأول, الخاصة, الوقت, اسم, العديد, القرن, المتحدة, الأمر, البحر -->
-    <feat name="Definite" value="Ind" upos="ADJ,AUX,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
+    <feat name="Definite" value="Ind" upos="ADJ,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">4666</feat><!-- ها, التي, كانت, هذه, الخاصة, هي, المتحدة, كبيرة, الحرب, ذات -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">7342</feat><!-- ه, كان, هم, ذلك, هذا, الذي, عام, يمكن, هو, يكون -->
     <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- ضع -->
@@ -78,7 +78,7 @@
     <dep name="compound">7</dep>
     <dep name="compound:prt">379</dep>
     <dep name="conj">661</dep>
-    <dep name="cop">105</dep>
+    <dep name="cop">104</dep>
     <dep name="csubj">57</dep>
     <dep name="csubj:pass">7</dep>
     <dep name="dep">123</dep>
@@ -102,6 +102,6 @@
     <dep name="punct">2226</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">142</dep>
+    <dep name="xcomp">143</dep>
   </deps>
 </treebank>
