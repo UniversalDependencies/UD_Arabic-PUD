@@ -10904,9 +10904,9 @@
 17	ب	بِ	ADP	IN	_	18	case	_	SpaceAfter=No
 18	الإسلام	إِسلام	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	16	obl	_	LId=إِسْلام_1
 19	قط	قَطّ	ADV	RB	_	16	advmod	_	LId=قَطّ_1
-20	و	وَ	CCONJ	CC	_	22	cc	_	SpaceAfter=No
-21	ظلوا	ظَلّ	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	22	cop	_	LId=ظَلّ-َ_1
-22	أتباعاً	تَبَع	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	16	conj	_	LId=تَبَع_1
+20	و	وَ	CCONJ	CC	_	21	cc	_	SpaceAfter=No
+21	ظلوا	ظَلّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	16	conj	_	LId=ظَلّ-َ_1
+22	أتباعاً	تَبَع	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	21	xcomp	_	LId=تَبَع_1
 23	ل	لِ	ADP	IN	_	24	case	_	SpaceAfter=No
 24	لديانات	دِيانَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	LId=دِيانَة_1
 25	الأفريقية	أَفرِيقِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	24	amod	_	LId=أَفْرِيقِيّ_2
@@ -25786,10 +25786,10 @@
 11	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
 12	الكنيسة	كَنِيسَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	dep	_	LId=كَنِيسَة_1
 13	الأسقفية	أُسقُفِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	LId=أُسْقُفِيّ_1|SpaceAfter=No
-14	,	,	PUNCT	,	_	17	punct	_	LId=,_0
-15	و	وَ	CCONJ	CC	_	17	cc	_	SpaceAfter=No
-16	ظل	ظَلّ	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	cop	_	LId=ظَلّ-َ_1
-17	عضواً	عُضو	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	conj	_	LId=عُضْو_1
+14	,	,	PUNCT	,	_	16	punct	_	LId=,_0
+15	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
+16	ظل	ظَلّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	conj	_	LId=ظَلّ-َ_1
+17	عضواً	عُضو	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	xcomp	_	LId=عُضْو_1
 18	في	فِي	ADP	IN	_	19	case	_	LId=فِي_1
 19	الكنيسة	كَنِيسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	LId=كَنِيسَة_1
 20	البروتستانتية	برُوتِستانتِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=برُوتِسْتانْتِيّ_2
