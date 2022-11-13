@@ -21534,9 +21534,9 @@
 11	الطبيعي	طَبِيعِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	amod	_	LId=طَبِيعِيّ_1
 12	الوطني	وَطَنِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	amod	_	LId=وَطَنِيّ_1
 13	ب	بِ	ADP	IN	_	16	case	_	SpaceAfter=No
-14	اعتبار	ٱِعتِبار	AUX	VBG	Case=Gen|Definite=Def|Gender=Masc	16	cop	_	LId=ٱِعْتِبار_1|SpaceAfter=No
-15	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
-16	مسؤولية	مَسؤُولِيَّة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	LId=مَسْؤُولِيَّة_1
+14	اعتبار	ٱِعتِبار	VERB	VBG	Case=Gen|Definite=Def|Gender=Masc	10	nmod	_	LId=ٱِعْتِبار_1|SpaceAfter=No
+15	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	14	nsubj	_	_
+16	مسؤولية	مَسؤُولِيَّة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	xcomp	_	LId=مَسْؤُولِيَّة_1
 17	مجتمعية	مُجتَمَعِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	16	amod	_	LId=مُجْتَمَعِيّ_1
 18	ذات	ذات	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	16	amod	_	LId=ذات_1
 19	أولوية	أَولَوِيَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	18	obl	_	LId=أَوْلَوِيَّة_1
