@@ -11438,10 +11438,10 @@
 9	من	مِن	ADP	IN	_	10	case	_	LId=مِن_1
 10	المدفعية	مِدفَعِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=مِدْفَعِيَّة_1
 11	الثقيلة	ثَقِيل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=ثَقِيل_1|SpaceAfter=No
-12	,	,	PUNCT	,	_	29	punct	_	LId=,_0
-13	و	وَ	CCONJ	CC	_	29	cc	_	SpaceAfter=No
-14	بقي	بَقِي	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	29	cop	_	LId=بَقِي-َ_1
-15	سبب	سَبَب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	29	nsubj	_	LId=سَبَب_1
+12	,	,	PUNCT	,	_	14	punct	_	LId=,_0
+13	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
+14	بقي	بَقِي	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	conj	_	LId=بَقِي-َ_1
+15	سبب	سَبَب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	LId=سَبَب_1
 16	عدم	عَدَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=عَدَم_1
 17	استخدام	اِستِخدَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	LId=ٱِسْتِخْدام_1
 18	السكة	سِكَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	LId=سِكَّة_1
@@ -11455,7 +11455,7 @@
 26	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
 27	أجل	أَجل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	29	nmod	_	LId=أَجْل_1
 28	الإخلاء	إِخلاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	nmod	_	LId=إِخْلاء_1
-29	مثار	مَثار	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	LId=مَثار_1
+29	مثار	مَثار	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	xcomp	_	LId=مَثار_1
 30	جدلٍ	جَدَل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	29	nmod	_	LId=جَدَل_1
 31	تاريخي	تَارِيخِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	30	amod	_	LId=تارِيخِيّ_1|SpaceAfter=No
 32	.	.	PUNCT	.	_	2	punct	_	LId=._0
@@ -17997,10 +17997,10 @@
 18	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 19	علي	عَلَى	ADP	IN	_	20	case	_	LId=عَلَى_1|SpaceAfter=No
 20	ك	هُوَ	PRON	PRP	Case=Gen|Person=2	11	conj	_	_
-21	أن	أَن	ADP	IN	_	23	mark	_	LId=أَنْ_1
-22	تبقى	بَقِي	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	23	cop	_	LId=بَقِي-َ_1
-23	منفتح	مُنفَتِح	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	20	csubj	_	LId=مُنْفَتِح_1
-24	العقل	عَقل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	obl	_	LId=عَقْل_1|SpaceAfter=No
+21	أن	أَن	ADP	IN	_	22	mark	_	LId=أَنْ_1
+22	تبقى	بَقِي	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	20	csubj	_	LId=بَقِي-َ_1
+23	منفتح	مُنفَتِح	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	22	xcomp	_	LId=مُنْفَتِح_1
+24	العقل	عَقل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	obl	_	LId=عَقْل_1|SpaceAfter=No
 25	"	"	PUNCT	''	_	11	punct	_	LId="_0|SpaceAfter=No
 26	.	.	PUNCT	.	_	6	punct	_	LId=._0
 
