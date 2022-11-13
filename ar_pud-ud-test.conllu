@@ -20976,18 +20976,18 @@
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
 2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-4	شكل	شَكَّل	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	cop	_	LId=شَكَّل_1
-5	نهائي	نِهَائِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	LId=نِهائِيّ_2
+4	شكل	شَكَّل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=شَكَّل_1
+5	نهائي	نِهَائِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=نِهائِيّ_2
 6	الموسم	مَوسِم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=مَوْسِم_1
 7	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
 8	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	fixed	_	LId=نِسْبَة_1
 9	إلى	إِلَى	ADP	IN	_	7	fixed	_	LId=إِلَى_1
 10	كيربر	كيربر	PROPN	NNP	Gender=Masc|Number=Sing	11	nmod	_	LId=كيربر_0
-11	نهاية	نِهَايَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	LId=نِهايَة_1
+11	نهاية	نِهَايَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	xcomp	_	LId=نِهايَة_1
 12	ل	لِ	ADP	IN	_	13	case	_	SpaceAfter=No
 13	عامٍ	عام	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	LId=عام_1
 14	استثنائي	اِستِثنَائِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	LId=ٱِسْتِثْنائِيّ_1|SpaceAfter=No
-15	.	.	PUNCT	.	_	11	punct	_	LId=._0
+15	.	.	PUNCT	.	_	4	punct	_	LId=._0
 
 # newdoc id = n02044
 # sent_id = n02044009
