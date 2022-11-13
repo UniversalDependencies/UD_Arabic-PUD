@@ -26734,7 +26734,7 @@
 15	تصريحاً	تَصرِيح	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	Gloss=declaration|LId=تَصْرِيح_1
 16	من	مِن	ADP	IN	_	17	case	_	Gloss=from|LId=مِن_1
 17	قيصر	قَيصَر	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	Gloss=Caesar|LId=قَيْصَر_2
-18	يعلن	أَعلَن	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	acl:relcl	_	Gloss=declaring|LId=أَعْلَن_1
+18	يعلن	أَعلَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	acl:relcl	_	Gloss=declaring|LId=أَعْلَن_1
 19	في	فِي	ADP	IN	_	20	case	_	Gloss=in|LId=فِي_1|SpaceAfter=No
 20	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	obl	_	Gloss=it
 21	الحاكم	حَاكِم	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	Gloss=the-ruler|LId=حاكِم_1
