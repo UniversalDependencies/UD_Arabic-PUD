@@ -12598,16 +12598,16 @@
 12	الصجاري	صجاري	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	conj	_	LId=صجاري_0
 13	ذات	ذَات	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	appos	_	LId=ذات_1|SpaceAfter=No
 14	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
-15	حيث	حَيثُ	ADP	IN	_	22	mark	_	LId=حَيْثُ_1
-16	تكون	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	22	aux	_	LId=كان-ُ_1
-17	الحبيبات	حَبِيب	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	22	nsubj	_	LId=حَبِيب_1
+15	حيث	حَيثُ	ADP	IN	_	21	mark	_	LId=حَيْثُ_1
+16	تكون	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	21	aux	_	LId=كان-ُ_1
+17	الحبيبات	حَبِيب	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	21	nsubj	_	LId=حَبِيب_1
 18	الأدق	أَدَقّ	ADJ	JJR	Case=Nom|Definite=Def	17	amod	_	LId=أَدَقّ_2
 19	حجماً	حَجم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	obl	_	LId=حَجْم_1
 20	قد	قَد	PART	RP	_	22	compound:prt	_	LId=قَدْ_1
-21	هبت	هَبّ	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	22	cop	_	LId=هَبّ-ُ_1
-22	متطايرةً	مُتَطاير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	advcl	_	LId=مُتَطاير_1
+21	هبت	هَبّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	12	advcl	_	LId=هَبّ-ُ_1
+22	متطايرةً	مُتَطاير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	21	xcomp	_	LId=مُتَطاير_1
 23	ب	بِ	ADP	IN	_	24	case	_	SpaceAfter=No
-24	الفعل	فِعل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	obl	_	LId=فِعْل_1|SpaceAfter=No
+24	الفعل	فِعل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	LId=فِعْل_1|SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 # newdoc id = w01040
