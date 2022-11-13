@@ -33,9 +33,7 @@
     <tag name="X">1</tag><!-- سُرعانَ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="29">
-    <feat name="Animacy" value="Hum" upos="NOUN,PROPN">1226</feat><!-- الناس, ترامب, رئيس, الإمبراطور, الذكور, الملك, جوزيف, دي, سكان, كلينتون -->
-    <feat name="Animacy" value="Nhum" upos="AUX,NOUN,PROPN,VERB">5801</feat><!-- عام, شكلٍ, الوقت, اسم, القرن, الأمر, البحر, أجل, الحرب, تشرين -->
+  <feats unique="27">
     <feat name="Aspect" value="Imp" upos="ADJ,AUX,NOUN,VERB">940</feat><!-- يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, تكن, يعمل, تضم -->
     <feat name="Aspect" value="Perf" upos="ADJ,AUX,NOUN,VERB">1041</feat><!-- كان, كانت, قال, تم, كانوا, بدأت, قالت, بدأ, بات, أصبح -->
     <feat name="Case" value="Acc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1415</feat><!-- ه, ها, هذا, أكثر, الذي, كبيراً, هم, نا, عاماً, كل -->
