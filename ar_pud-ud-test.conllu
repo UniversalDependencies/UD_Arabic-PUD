@@ -10873,7 +10873,7 @@
 20	و	وَ	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 21	جبل	جَبَل	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	conj	_	LId=جَبَل_2
 22	كينيا	كِينِيا	PROPN	NNP	Gender=Fem|Number=Sing	21	nmod	_	LId=كِينِيا_1|SpaceAfter=No
-23	,	,	PUNCT	,	_	15	punct	_	LId=,_0
+23	,	,	PUNCT	,	_	24	punct	_	LId=,_0
 24	أطول	أَطوَل	ADJ	JJR	Case=Acc|Definite=Ind	14	xcomp	_	LId=أَطْوَل_1
 25	قمتين	قِمَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Dual	14	obl	_	LId=قِمَّة_1
 26	في	فِي	ADP	IN	_	27	case	_	LId=فِي_1
@@ -11328,7 +11328,7 @@
 14	فاكهة	فاكِهَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	Gloss=fruit|LId=فاكِهَة_1
 15	قوي	قَوِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	Gloss=strong|LId=قَوِيّ_1|SpaceAfter=No
 16	)	)	PUNCT	)	_	13	punct	_	LId=)_0|SpaceAfter=No
-17	,	,	PUNCT	,	_	11	punct	_	LId=,_0
+17	,	,	PUNCT	,	_	21	punct	_	LId=,_0
 18	أما	أَمَّا	PART	RP	_	19	case	_	Gloss=as-for|LId=أَمّا_1
 19	الأثرياء	ثَرِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	21	orphan	_	Gloss=the-wealthy|LId=ثَرِيّ_1
 20	ف	ف	PART	RP	_	21	case	_	SpaceAfter=No
@@ -26087,12 +26087,12 @@
 5	إلى	إِلَى	ADP	IN	_	6	case	_	LId=إِلَى_1
 6	ما	ما	PRON	WP	Case=Gen	1	obl	_	LId=ما_1
 7	يدعى	دَعا	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	6	acl:relcl	_	LId=دَعا-ُ_1
-8	"	"	PUNCT	``	_	7	punct	_	LId="_0|SpaceAfter=No
+8	"	"	PUNCT	``	_	9	punct	_	LId="_0|SpaceAfter=No
 9	أنديز	أَندِيز	PROPN	NNP	Gender=Masc|Number=Sing	7	xcomp	_	LId=أَنْدِيز_1
 10	دي	دِي	PROPN	NNP	Gender=Masc|Number=Sing	9	flat	_	LId=دِي_1
 11	تيبو	تيبو	PROPN	NNP	Gender=Masc|Number=Sing	10	flat	_	LId=تيبو_0
 12	أدينو	ادينو	PROPN	NNP	Gender=Masc|Number=Sing	11	flat	_	LId=ادينو_0|SpaceAfter=No
-13	"	"	PUNCT	''	_	7	punct	_	LId="_0
+13	"	"	PUNCT	''	_	9	punct	_	LId="_0
 14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	LId=الَّذِي_1
 15	تشكلت	تَشَكَّل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=تَشَكَّل_1
 16	من	مِن	ADP	IN	_	18	case	_	LId=مِن_1
