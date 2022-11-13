@@ -5315,10 +5315,10 @@
 8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	بنطال	بنطال	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	conj	_	LId=بنطال_0
 10	جينز	جينز	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	9	nmod	_	LId=جينز_0
-11	و	وَ	CCONJ	CC	_	13	cc	_	SpaceAfter=No
-12	تبدو	بَدا	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	cop	_	LId=بَدا-ُ_1
-13	شديدة	شَدِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	conj	_	LId=شَدِيد_1
-14	التواضع	تَواضُع	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	LId=تَواضُع_1
+11	و	وَ	CCONJ	CC	_	12	cc	_	SpaceAfter=No
+12	تبدو	بَدا	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	LId=بَدا-ُ_1
+13	شديدة	شَدِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	xcomp	_	LId=شَدِيد_1
+14	التواضع	تَواضُع	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=تَواضُع_1
 15	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 16	أظن	ظَنّ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	3	conj	_	LId=ظَنّ-ُ_1
 17	أن	أَنَّ	SCONJ	IN	_	19	mark	_	LId=أَنَّ_1
