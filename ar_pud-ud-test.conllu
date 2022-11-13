@@ -23153,10 +23153,10 @@
 # text = وقف وحيداً أمام الجمهور ,وفي نهاية المطاف, أخرج أفضل ما فيه كي يثير ضحك الجمهور.
 # original_text = وقف وحيدا أمام الجمهور ,وفي نهاية المطاف, أخرج أفضل ما فيه كي يثير ضحك الجمهور.
 # text_en = He stands alone in front of the audience and, ultimately, he has to bring out the best of himself in order to make the audience laugh.
-1	وقف	وَقف	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	cop	_	LId=وَقْف_1
-2	وحيداً	وَحِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=وَحِيد_2
+1	وقف	وَقف	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=وَقْف_1
+2	وحيداً	وَحِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	xcomp	_	LId=وَحِيد_2
 3	أمام	أَمَامَ	ADP	IN	_	4	case	_	LId=أَمام_1
-4	الجمهور	جُمهُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=جُمْهُور_1
+4	الجمهور	جُمهُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=جُمْهُور_1
 5	,	,	PUNCT	,	_	11	punct	_	LId=,_0|SpaceAfter=No
 6	و	وَ	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 7	في	فِي	ADP	IN	_	8	case	_	LId=فِي_1
@@ -23172,7 +23172,7 @@
 17	يثير	أَثَار	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	advcl	_	LId=أَثار_1
 18	ضحك	ضَحِك	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	obj	_	LId=ضَحِك-َ_1
 19	الجمهور	جُمهُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=جُمْهُور_1|SpaceAfter=No
-20	.	.	PUNCT	.	_	2	punct	_	LId=._0
+20	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = n05006
 # sent_id = n05006002
