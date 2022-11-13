@@ -18,7 +18,7 @@
     <tag name="ADJ">2026</tag><!-- أَوَّل, كَبِير, خَاصّ, جَدِيد, أَكثَر, آخَر, ثَانِي, أَكبَر, أَمرِيكِيّ, مُتَّحِد -->
     <tag name="ADP">3576</tag><!-- فِي, مِن, بِ, لِ, عَلَى, إِلَى, أَن, مَعَ, عَن, خِلَالَ -->
     <tag name="ADV">404</tag><!-- عام, أَيضًا, هُنَاكَ, نَحو, فَقَط, يَوم, جِدًّا, آن, تَقرِيب, عادَة -->
-    <tag name="AUX">216</tag><!-- كَان, عَاد, لَيس, ٱِعتَبَر, بَقِي, زال, ظَلّ, عاد, أَعلَن, أَعَدّ -->
+    <tag name="AUX">215</tag><!-- كَان, عَاد, لَيس, ٱِعتَبَر, بَقِي, زال, ظَلّ, عاد, أَعلَن, أَعَدّ -->
     <tag name="CCONJ">653</tag><!-- وَ, أَو, بَل, ثُمَّ, حَتَّى, ل`كِنَّ -->
     <tag name="DET">166</tag><!-- كُلّ, أَحَد, بَعض, أَيّ, عِدَّة, مُعظَم, آخِر, جَمِيع, آخَر, شِبه -->
     <tag name="NOUN">5578</tag><!-- عَام, شَكل, مِنطَقَة, شَرِكَة, وَقت, عَمَل, مَدِينَة, أَرض, أَمر, اِسم -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ؟, ـ, ... -->
     <tag name="SCONJ">187</tag><!-- أَنَّ, كَأَنَّ -->
     <tag name="SYM">30</tag><!-- %, ـ -->
-    <tag name="VERB">1720</tag><!-- كَان, قَال, أَمكَن, بَدَأ, أَصبَح, ظَهَر, تَمّ, عاد, عَرَف, بَلَغ -->
+    <tag name="VERB">1721</tag><!-- كَان, قَال, أَمكَن, بَدَأ, أَصبَح, ظَهَر, تَمّ, عاد, عَرَف, بَلَغ -->
     <tag name="X">1</tag><!-- سُرعانَ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -80,7 +80,7 @@
     <dep name="compound">7</dep>
     <dep name="compound:prt">379</dep>
     <dep name="conj">661</dep>
-    <dep name="cop">124</dep>
+    <dep name="cop">123</dep>
     <dep name="csubj">57</dep>
     <dep name="csubj:pass">7</dep>
     <dep name="dep">123</dep>
@@ -104,6 +104,6 @@
     <dep name="punct">2226</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">123</dep>
+    <dep name="xcomp">124</dep>
   </deps>
 </treebank>

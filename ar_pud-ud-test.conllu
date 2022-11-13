@@ -9589,10 +9589,10 @@
 5	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
 6	إنقاذ	إِنقَاذ	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=إِنْقاذ_1
 7	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LId=ذٰلِكَ_1
-8	و	وَ	CCONJ	CC	_	11	cc	_	SpaceAfter=No
-9	إلباس	إِلباس	AUX	VBG	Case=Gen|Definite=Def|Gender=Masc	11	cop	_	LId=إِلْباس_1|SpaceAfter=No
-10	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obj	_	_
-11	شكلاً	شَكل	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	conj	_	LId=شَكْل_1
+8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
+9	إلباس	إِلباس	VERB	VBG	Case=Gen|Definite=Def|Gender=Masc	6	conj	_	LId=إِلْباس_1|SpaceAfter=No
+10	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obj	_	_
+11	شكلاً	شَكل	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	9	xcomp	_	LId=شَكْل_1
 12	جديداً	جَدِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	amod	_	LId=جَدِيد_1
 13	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	جعل	جَعَل	VERB	VBG	Case=Gen|Definite=Def|Gender=Masc	6	conj	_	LId=جَعَل-َ_1|SpaceAfter=No
