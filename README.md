@@ -36,6 +36,10 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed some annotation/validation errors.
+  * Lemmas converted to Arabic script, preferably PADT-like.
+    (Thanks to Johannes Heinecke!)
 * 2021-05-15 v2.8
   * Removed relation subtype det:predet, it is not relevant for Arabic.
   * Removed relation subtype nmod:gmod, it is undocumented (it probably
