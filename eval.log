@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Arabic-PUD:
-commit 4cba9c42c72552db13e1e50b247417793f971faf
+commit c528dc2ba5fa10f680b23916f1a41108f0a2e3fa
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 10:03:20 2022 +0100
+Date:   Tue May 9 09:27:49 2023 +0200
 Size: counted 20747 of 20747 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.06480331582201.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,8 @@ Udapi: found 3620 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 20747 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PUD/ar_pud-ud-test.conllu
+[Line 12038 Sent w01033022 Node 4]: [L3 Warning fixed-gap] Gaps in fixed expression [4, 6] 'لا * مملوءاً'
+Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
