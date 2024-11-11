@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Arabic-PUD:
-commit 071fdc59eaca135c41e03ce68eb941e3ee93a65e
+commit 083d0d1b088366b18259cf2ef3ef884647fd8565
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:30:33 2023 +0100
+Date:   Sun May 5 11:53:21 2024 +0200
 Size: counted 20747 of 20747 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.06480331582201.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -26,7 +26,8 @@ Udapi: worst expected case (threshold) is one bug per 10 words. There are 20747 
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ar --max-err=10 UD_Arabic-PUD/ar_pud-ud-test.conllu
 [Line 12038 Sent w01033022 Node 4]: [L3 Warning fixed-gap] Gaps in fixed expression [4, 6] 'لا * مملوءاً'
-Warnings: 1
+[Line 21564 Sent n03001007 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:تلك:det --> 4:المؤرخة:acl)
+Warnings: 2
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
