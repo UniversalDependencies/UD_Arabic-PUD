@@ -5860,7 +5860,7 @@
 # text_en = That 3% rate also applies to Nectar cardholders looking to borrow from £15,001-£19,999 over a period of between two and three years.
 1	تنطبق	اِنطَبَق	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=._0
 2	نسبة	نِسبَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=ٱِنْطَبَق_1
-3	ال	نِسبَة	DET	DT	_	4	det	_	LId=نِسْبَة_1|SpaceAfter=No
+3	ال	نِسبَة	DET	DT	PronType=Dem	4	det	_	LId=نِسْبَة_1|SpaceAfter=No
 4	3	3	NUM	CD	_	2	nmod	_	LId=ال٣_0|SpaceAfter=No
 5	%	%	SYM	SYM	_	4	dep	_	LId=%_0
 6	أيضاً	أَيضًا	ADV	RB	_	1	advmod	_	LId=أَيْضاً_1

@@ -58,7 +58,7 @@
     <feat name="Person" value="2" upos="AUX,PRON,VERB">31</feat><!-- ك, تريد, كنت, تستمد, تشاء, تشرع, تعرف, تفعل, تقف, تقول -->
     <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">2643</feat><!-- ه, ها, كان, هم, كانت, يمكن, هو, يكون, هي, قال -->
     <feat name="Polarity" value="Neg" upos="PART">162</feat><!-- لم, لا, غير, لن, ليس, ما -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">191</feat><!-- ذلك, هذا, هذه, أولئك, ذا -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">192</feat><!-- ذلك, هذا, هذه, أولئك, ذا, ال -->
     <feat name="PronType" value="Ind" upos="DET">106</feat><!-- أحد, بعض, إحدى, أي, عدة, آخر, معظم, شبه, أغلب, أكثر -->
     <feat name="PronType" value="Int" upos="PRON">72</feat><!-- ما, الذين -->
     <feat name="PronType" value="Prs" upos="PRON">835</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
