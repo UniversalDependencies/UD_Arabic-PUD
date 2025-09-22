@@ -131,7 +131,7 @@
 4	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	LId=الَّذِي_1
 5	تجمع	تَجَمَّع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	LId=تَجَمَّع_1
 6	في	فِي	ADP	IN	_	8	case	_	LId=فِي_1
-7	أحد	أَحَد	DET	PDT	Case=Gen	8	det	_	LId=أَحَد_1
+7	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	8	det	_	LId=أَحَد_1
 8	الملاعب	مَلعَب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	obl	_	LId=مَلْعَب_1
 9	الرياضية	رِيَاضِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	LId=رِياضِيّ_1
 10	الخاصة	خَاصّ	ADJ	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	8	ccomp	_	LId=خاصّ_1
@@ -954,7 +954,7 @@
 # original_text = لكن أحد خبراء السفريات نبه إلى أن الإنترنت خلال رحلات الطيران كان لا يعول عليه وكان من المستبعد أن يؤثر على اختيار المسافرين لشركات الطيران.
 # text_en = But one travel expert warned in-flight internet was often unreliable and was unlikely to influence travellers' airline choices.
 1	لكن	ل`كِنَّ	PART	RP	_	5	compound:prt	_	LId=لٰكِنَّ_1
-2	أحد	أَحَد	DET	PDT	Case=Acc	3	det	_	LId=أَحَد_1
+2	أحد	أَحَد	DET	PDT	Case=Acc|PronType=Ind	3	det	_	LId=أَحَد_1
 3	خبراء	خَبِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	LId=خَبِير_1
 4	السفريات	سَفَرِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	LId=سَفَرِيَّة_1
 5	نبه	نَبَّه	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=نَبَّه_1
@@ -1923,7 +1923,7 @@
 7	الحظ	حَظّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=حَظّ_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	6	punct	_	LId=,_0
 9	قال	قَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	ccomp	_	LId=قال-ُ_1
-10	أحد	أَحَد	DET	PDT	Case=Nom	11	det	_	LId=أَحَد_1|SpaceAfter=No
+10	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	11	det	_	LId=أَحَد_1|SpaceAfter=No
 11	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
 12	في	فِي	ADP	IN	_	13	case	_	LId=فِي_1
 13	سوني	سُونِي	PROPN	NNP	Gender=Masc|Number=Sing	9	obl	_	LId=سُونِي_1
@@ -2697,7 +2697,7 @@
 16	يفرض	فَرَض	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	LId=فَرَض-ِ_1|SpaceAfter=No
 17	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 18	على	عَلَى	ADP	IN	_	20	case	_	LId=عَلَى_1
-19	أحد	أَحَد	DET	PDT	Case=Gen	20	det	_	LId=أَحَد_1
+19	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	20	det	_	LId=أَحَد_1
 20	الوكلاء	وَكِيل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	obl	_	LId=وَكِيل_1
 21	لا	لَا	PART	RP	Polarity=Neg	22	advmod	_	LId=لا_1
 22	تزيد	زَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=زاد-ِ_1
@@ -3862,7 +3862,7 @@
 15	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	obl	_	LId=ذٰلِكَ_1
 16	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 17	بونو	بونو	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	LId=بونو_0
-18	أحد	أَحَد	DET	PDT	Case=Nom	20	det	_	LId=أَحَد_1
+18	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	20	det	_	LId=أَحَد_1
 19	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	LId=أُولائِكَ_1
 20	الرجال	رَجُل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	conj	_	LId=رَجُل_1|SpaceAfter=No
 21	"	"	PUNCT	''	_	13	punct	_	LId="_0|SpaceAfter=No
@@ -4118,7 +4118,7 @@
 10	هيل	هِيل	PROPN	NNP	Number=Sing	9	flat	_	LId=هِيْل_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 12	ألقى	أَلقَى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَلْقَى_1
-13	أحد	أَحَد	DET	PDT	Case=Nom	14	det	_	LId=أَحَد_1|SpaceAfter=No
+13	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	14	det	_	LId=أَحَد_1|SpaceAfter=No
 14	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 15	قنبلة	قُنبُلَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	obj	_	LId=قُنْبُلَة_1
 16	حارقة	حارِق	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	amod	_	LId=حارِق_1
@@ -5127,7 +5127,7 @@
 # original_text = حوى أحد منشوراتهم الفيسبوكية الحزينة على عبارة من شأنها أن تسعد كريس: "لم أعرف شخصا أفريقيا أكثر منك".
 # text_en = One of their many grieving Facebook posts has a line which would have delighted Chris: “More African than you, I have not known.”
 1	حوى	حَوَى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=حَوَى-ِ_1
-2	أحد	أَحَد	DET	PDT	Case=Nom	3	det	_	LId=أَحَد_1
+2	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=أَحَد_1
 3	منشورات	مَنشُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=مَنْشُور_1|SpaceAfter=No
 4	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
 5	الفيسبوكية	فيسبوكيه	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	LId=فيسبوكيه_0
@@ -8523,7 +8523,7 @@
 5	,	,	PUNCT	,	_	9	punct	_	LId=,_0
 6	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 7	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LId=هُوَ_1
-8	أحد	أَحَد	DET	PDT	Case=Nom	9	det	_	LId=أَحَد_1
+8	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	9	det	_	LId=أَحَد_1
 9	معالم	مَعلَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	advcl	_	LId=مَعْلَم_1
 10	لندن	لَندَن	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	LId=لَنْدَن_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	LId=,_0
@@ -9337,7 +9337,7 @@
 # original_text = كأحد أهم رجال نيغان (جيفري دين مورغان), لديه حرية التصرف في أمور معينة.
 # text_en = As one of Negan's (Jeffrey Dean Morgan) top guys, he's afforded certain freedoms.
 1	ك	كَ	ADP	IN	_	3	case	_	SpaceAfter=No
-2	أحد	أَحَد	DET	PDT	Case=Gen	3	det	_	LId=أَحَد_1
+2	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	3	det	_	LId=أَحَد_1
 3	أهم	أَهَمّ	ADJ	JJR	Case=Gen|Definite=Def	12	nmod	_	LId=أَهَمّ_2
 4	رجال	رَجُل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	obl	_	LId=رَجُل_1
 5	نيغان	نيغان	PROPN	NNP	Gender=Masc|Number=Sing	4	nmod	_	LId=نيغان_0
@@ -10120,7 +10120,7 @@
 13	مترو	مِترُو	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj:pass	_	LId=مِتْرُو_1
 14	بيونغ	يُونغ	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	LId=يُونْغ_1
 15	يانغ	يانغ	PROPN	NNP	Gender=Masc|Number=Sing	14	flat	_	LId=يانغ_1
-16	أحد	أَحَد	DET	PDT	Case=Gen	17	det	_	LId=أَحَد_1
+16	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	17	det	_	LId=أَحَد_1
 17	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def	12	xcomp	_	LId=أَكْثَر_2
 18	أنظمة	نِظَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=نِظام_1
 19	المواصلات	مُوَاصَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	18	nmod	_	LId=مُواصَلَة_2
@@ -11237,7 +11237,7 @@
 # text = أحد الأمثلة الأخيرة على التحكم بالطقس كانت استعدادات الصين من أجل الألعاب الأولمبية الصيفية لعام 2008.
 # original_text = أحد الأمثلة الأخيرة على التحكم بالطقس كانت استعدادات الصين من أجل الألعاب الأولمبية الصيفية لعام 2008.
 # text_en = A recent example of weather control was China's preparation for the 2008 Summer Olympic Games.
-1	أحد	أَحَد	DET	PDT	Case=Nom	2	det	_	LId=أَحَد_1
+1	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	2	det	_	LId=أَحَد_1
 2	الأمثلة	مِثال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	nsubj	_	LId=مِثال_1
 3	الأخيرة	أَخِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=أَخِير_1
 4	على	عَلَى	ADP	IN	_	5	case	_	LId=عَلَى_1
@@ -11780,7 +11780,7 @@
 9	تنتهي	اِنتَهَى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِنْتَهَى_1
 10	ب	بِ	ADP	IN	_	11	case	_	SpaceAfter=No
 11	موت	مَوت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=مَوْت_1
-12	أحد	أَحَد	DET	PDT	Case=Gen	13	det	_	LId=أَحَد_1
+12	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	13	det	_	LId=أَحَد_1
 13	فحلي	حَلي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	11	nmod	_	LId=حَلْي_1
 14	الخيل	خَيل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=خَيْل_1|SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	_	LId=._0
@@ -12220,7 +12220,7 @@
 17	النخيل	نَخل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	LId=نَخْل_1
 18	في	فِي	ADP	IN	_	19	case	_	LId=فِي_1
 19	طقوس	طَقس	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	LId=طَقْس_2
-20	أحد	أَحَد	DET	PDT	Case=Gen	21	det	_	LId=أَحَد_1
+20	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	21	det	_	LId=أَحَد_1
 21	الشعانين	شَعنِينَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	19	nmod	_	LId=شَعْنِينَة_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	LId=._0
 
@@ -19123,7 +19123,7 @@
 7	"	"	PUNCT	''	_	6	punct	_	LId="_0
 8	عام	عام	ADV	RB	_	11	obl:tmod	_	LId=عام_1
 9	1981	1981	NUM	CD	Case=Gen	8	obl	_	LId=١٩٨١_0
-10	أحد	أَحَد	DET	PDT	Case=Acc	11	det	_	LId=أَحَد_1
+10	أحد	أَحَد	DET	PDT	Case=Acc|PronType=Ind	11	det	_	LId=أَحَد_1
 11	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	LId=أَكْثَر_2
 12	ألبومات	أَلبُوم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obl	_	LId=أَلْبُوم_1|SpaceAfter=No
 13	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
@@ -21233,7 +21233,7 @@
 19	متقاعداً	مُتَقاعِد	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	LId=مُتَقاعِد_1
 20	يموت	مات	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	LId=مات-ُ_1
 21	في	فِي	ADP	IN	_	23	case	_	LId=فِي_1
-22	أحد	أَحَد	DET	PDT	Case=Gen	23	det	_	LId=أَحَد_1
+22	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	23	det	_	LId=أَحَد_1
 23	فروع	فَرع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	obl	_	LId=فَرْع_1
 24	المصرف	مَصرِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	nmod	_	LId=مَصْرَف_1|SpaceAfter=No
 25	.	.	PUNCT	.	_	8	punct	_	LId=._0
@@ -21943,7 +21943,7 @@
 14	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	مقتنعٌ	مُقتَنِع	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Voice=Act	10	ccomp	_	LId=مُقْتَنِع_1
 16	أن	أَنَّ	SCONJ	IN	_	20	mark	_	LId=أَنَّ_1
-17	أحد	أَحَد	DET	PDT	Case=Acc	18	det	_	LId=أَحَد_1
+17	أحد	أَحَد	DET	PDT	Case=Acc|PronType=Ind	18	det	_	LId=أَحَد_1
 18	الطيارين	طَيَّار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	nsubj	_	LId=طَيّار_1
 19	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=كان-ُ_1
 20	ينوي	نَوَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	LId=نَوَى-ِ_1
@@ -22428,7 +22428,7 @@
 8	يكن	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	LId=كان-ُ_1
 9	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
 10	وسع	وُسع	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	8	obl	_	LId=وُسْع_1
-11	أحد	أَحَد	DET	PDT	Case=Gen	12	det	_	LId=أَحَد_1|SpaceAfter=No
+11	أحد	أَحَد	DET	PDT	Case=Gen|PronType=Ind	12	det	_	LId=أَحَد_1|SpaceAfter=No
 12	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 13	التحكم	تَحَكُّم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	obj	_	LId=تَحَكُّم_1
 14	ب	بِ	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -23547,7 +23547,7 @@
 # text = أحد أمثلة بحثٍ مطبقٍ في ظل إجراءات سلامة أنتج أيضاً إنساناً آلياً لمنافسة فالنتينو روسي.
 # original_text = أحد أمثلة بحث مطبق في ظل إجراءات سلامة أنتج أيضا إنسانا آليا لمنافسة فالنتينو روسي.
 # text_en = One of the examples of research applied under safety measures has also produced a humanoid robot to compete with Valentino Rossi.
-1	أحد	أَحَد	DET	PDT	Case=Nom	2	det	_	LId=أَحَد_1
+1	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	2	det	_	LId=أَحَد_1
 2	أمثلة	مِثَال	NOUN	NN	Case=Gen|Definite=Ind|Number=Plur	9	nsubj	_	LId=مِثال_1
 3	بحثٍ	بَحث	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	LId=بَحْث_1
 4	مطبقٍ	مُطَبَّق	ADJ	VBN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	ccomp	_	LId=مُطَبَّق_1
@@ -24437,7 +24437,7 @@
 # text_en = This has to do with one of the few buildings in the city center that was spared from destruction by the end of the Second World War.
 1	إن	إِنَّ	PART	RP	_	4	compound:prt	_	LId=إِنَّ_1|SpaceAfter=No
 2	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-3	أحد	أَحَد	DET	PDT	Case=Nom	4	det	_	LId=أَحَد_1
+3	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	4	det	_	LId=أَحَد_1
 4	المباني	مَبنَى	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	0	root	_	LId=مَبْنَى_1
 5	القليلة	قَلِيل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=قَلِيل_1
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
