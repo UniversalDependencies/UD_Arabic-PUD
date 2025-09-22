@@ -8994,7 +8994,7 @@
 11	الشهيرة	شَهِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=شَهِير_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
-14	اللذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Dual	15	nsubj	_	LId=الَّذِي_1
+14	اللذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Dual|PronType=Int	15	nsubj	_	LId=الَّذِي_1
 15	يحملان	حَمَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	LId=حَمَل-ِ_1
 16	عنوانين	عُنوان	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Dual	15	obj	_	LId=عُنْوان_1
 17	مبدئيين	مَبدَئِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Dual	16	amod	_	LId=مَبْدَئِيّ_1

@@ -62,7 +62,7 @@
     <feat name="PronType" value="Art" upos="DET">1</feat><!-- لو -->
     <feat name="PronType" value="Dem" upos="DET,PRON">193</feat><!-- ذلك, هذا, هذه, أولئك, ذا, ال, هؤلاء -->
     <feat name="PronType" value="Ind" upos="DET">108</feat><!-- أحد, بعض, إحدى, أي, عدة, آخر, معظم, شبه, أغلب, أكثر -->
-    <feat name="PronType" value="Int" upos="PRON">73</feat><!-- ما, الذين, م -->
+    <feat name="PronType" value="Int" upos="PRON">74</feat><!-- ما, الذين, اللذين, م -->
     <feat name="PronType" value="Prs" upos="PRON">835</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
     <feat name="PronType" value="Rel" upos="PRON">190</feat><!-- التي, الذي, تلك, من -->
     <feat name="PronType" value="Tot" upos="DET">54</feat><!-- كل, جميع, كامل, أكمل, كلا, كلتا, كلي -->
