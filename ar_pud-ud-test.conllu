@@ -1062,7 +1062,7 @@
 # text_en = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
 1	قد	قَد	PART	RP	_	2	compound:prt	_	LId=قَدْ_1
 2	يجد	وَجَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=وَجَد-ِ_1
-3	أغلب	أَغلَب	DET	PDT	Case=Nom	4	det	_	LId=أَغْلَب_1
+3	أغلب	أَغلَب	DET	PDT	Case=Nom|PronType=Ind	4	det	_	LId=أَغْلَب_1
 4	الناس	إِنسَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	LId=ناس_1
 5	أن	أَنَّ	SCONJ	IN	_	11	mark	_	LId=أَنَّ_1
 6	"	"	PUNCT	``	_	7	punct	_	LId="_0|SpaceAfter=No
@@ -12857,7 +12857,7 @@
 13	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
 14	الطرقات	طَرِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=طَرِيق_1
 15	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
-16	أغلب	أَغلَب	DET	PDT	Case=Gen	17	det	_	LId=أَغْلَب_1
+16	أغلب	أَغلَب	DET	PDT	Case=Gen|PronType=Ind	17	det	_	LId=أَغْلَب_1
 17	الأحيان	حِين	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	obl	_	LId=حِين_1|SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
@@ -17324,7 +17324,7 @@
 15	نشاط	نَشَاط	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	conj	_	LId=نَشاط_1
 16	جامع	جَامِع	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	15	amod	_	LId=جامِع_1
 17	في	فِي	ADP	IN	_	19	case	_	LId=فِي_1
-18	أغلب	أَغلَب	DET	PDT	Case=Gen	19	det	_	LId=أَغْلَب_1
+18	أغلب	أَغلَب	DET	PDT	Case=Gen|PronType=Ind	19	det	_	LId=أَغْلَب_1
 19	الأحيان	حِين	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	LId=حِين_1|SpaceAfter=No
 20	.	.	PUNCT	.	_	9	punct	_	LId=._0
 
