@@ -42,7 +42,7 @@
     <feat name="Definite" value="Def" upos="ADJ,AUX,NOUN,PROPN,VERB">5863</feat><!-- عام, الأول, الخاصة, الوقت, اسم, العديد, القرن, المتحدة, الأمر, البحر -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
     <feat name="ExtPos" value="ADP" upos="ADP,PART">110</feat><!-- من, ب, حتى, ما, ك, ل -->
-    <feat name="ExtPos" value="ADV" upos="ADP,PART">13</feat><!-- ب, على, لا, من -->
+    <feat name="ExtPos" value="ADV" upos="ADP,PART">15</feat><!-- ب, على, لا, من -->
     <feat name="ExtPos" value="SCONJ" upos="ADP,PART">31</feat><!-- ب, ما, في, كما, إلا, حتى, حيث, غير, بما, لو -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">4666</feat><!-- ها, التي, كانت, هذه, الخاصة, هي, المتحدة, كبيرة, الحرب, ذات -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">7342</feat><!-- ه, كان, هم, ذلك, هذا, الذي, عام, يمكن, هو, يكون -->
@@ -59,7 +59,7 @@
     <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">2643</feat><!-- ه, ها, كان, هم, كانت, يمكن, هو, يكون, هي, قال -->
     <feat name="Polarity" value="Neg" upos="PART">162</feat><!-- لم, لا, غير, لن, ليس, ما -->
     <feat name="PronType" value="Dem" upos="PRON">189</feat><!-- ذلك, هذا, هذه, أولئك -->
-    <feat name="PronType" value="Ind" upos="DET">91</feat><!-- أحد, بعض, إحدى, أي, عدة, معظم, شبه, أغلب, أكثر -->
+    <feat name="PronType" value="Ind" upos="DET">100</feat><!-- أحد, بعض, إحدى, أي, عدة, آخر, معظم, شبه, أغلب, أكثر -->
     <feat name="PronType" value="Int" upos="PRON">72</feat><!-- ما, الذين -->
     <feat name="PronType" value="Prs" upos="PRON">835</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
     <feat name="PronType" value="Rel" upos="PRON">190</feat><!-- التي, الذي, تلك, من -->
@@ -77,22 +77,22 @@
     <dep name="acl">34</dep>
     <dep name="acl:relcl">320</dep>
     <dep name="advcl">316</dep>
-    <dep name="advmod">448</dep>
+    <dep name="advmod">450</dep>
     <dep name="amod">1620</dep>
     <dep name="appos">187</dep>
     <dep name="aux">91</dep>
     <dep name="case">3047</dep>
-    <dep name="cc">652</dep>
+    <dep name="cc">654</dep>
     <dep name="cc:preconj">2</dep>
     <dep name="ccomp">287</dep>
     <dep name="compound">7</dep>
-    <dep name="compound:prt">379</dep>
+    <dep name="compound:prt">377</dep>
     <dep name="conj">661</dep>
     <dep name="cop">95</dep>
     <dep name="csubj">57</dep>
     <dep name="csubj:pass">7</dep>
-    <dep name="dep">123</dep>
-    <dep name="det">285</dep>
+    <dep name="dep">121</dep>
+    <dep name="det">286</dep>
     <dep name="discourse">1</dep>
     <dep name="dislocated">6</dep>
     <dep name="expl">8</dep>
@@ -100,13 +100,13 @@
     <dep name="flat">280</dep>
     <dep name="iobj">10</dep>
     <dep name="mark">481</dep>
-    <dep name="nmod">3197</dep>
+    <dep name="nmod">3198</dep>
     <dep name="nsubj">1370</dep>
     <dep name="nsubj:pass">141</dep>
     <dep name="nummod">150</dep>
     <dep name="obj">746</dep>
-    <dep name="obl">1990</dep>
-    <dep name="obl:tmod">143</dep>
+    <dep name="obl">1989</dep>
+    <dep name="obl:tmod">142</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">24</dep>
     <dep name="punct">2226</dep>
