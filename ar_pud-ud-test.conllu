@@ -1159,7 +1159,7 @@
 8	شأن	شَأن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=شَأْن_1
 9	الحاجة	حَاجَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	LId=حاجَة_1
 10	ل	لِ	ADP	IN	_	12	case	_	SpaceAfter=No
-11	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	12	det	_	LId=هٰذا_1
+11	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	LId=هٰذا_1
 12	الدورة	دَورَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	LId=دَوْرَة_1
 13	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	الغاية	غَايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	LId=غايَة_1
@@ -1590,7 +1590,7 @@
 1	من	مِن	ADP	IN	_	0	root	_	LId=مِن_1
 2	المرجح	مُرَجِّح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	LId=مُرَجِّح_1
 3	أن	أَن	ADP	IN	_	7	mark	_	LId=أَنْ_1
-4	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	5	det	_	LId=هٰذا_1
+4	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	LId=هٰذا_1
 5	المادة	مَادَّة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	LId=مادَّة_1
 6	النيزكية	نَيزَكِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	LId=نَيْزَكِيّ_1
 7	غنية	غَنِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	csubj	_	LId=غَنِيّ_1
@@ -1622,7 +1622,7 @@
 15	يوماً	يَوم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=يَوْم_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	20	punct	_	LId=,_0
 17	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
-18	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	19	det	_	LId=هٰذا_1
+18	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	LId=هٰذا_1
 19	نسبة	نِسبَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	20	nsubj	_	LId=نِسْبَة_1
 20	أكبر	أَكبَر	ADJ	JJR	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	conj	_	LId=أَكْبَر_2
 21	قليلاً	قَلِيل	ADV	RB	_	20	advmod	_	LId=قَلِيل_1
@@ -1650,7 +1650,7 @@
 2	النتائج	نَتِيجَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=نَتِيجَة_1
 3	المستخلصة	مُستَخلَص	NOUN	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	LId=مُسْتَخْلَص_1
 4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
-5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	LId=هٰذا_1
+5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	LId=هٰذا_1
 6	التجربة	تَجرِبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	LId=تَجْرِبَة_1
 7	تأكيداً	تَأكِيد	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	LId=تَأْكِيد_1
 8	إضافياً	إِضافِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	amod	_	LId=إِضافِيّ_1
@@ -2555,7 +2555,7 @@
 10	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 11	علاقةً	عَلاقَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	LId=عَلاقَة_1
 12	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
-13	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	14	det	_	LId=هٰذا_1
+13	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	LId=هٰذا_1
 14	المدرسة	مَدرَسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=مَدْرَسَة_1
 15	أو	أَو	CCONJ	CC	_	17	cc	_	LId=أَوْ_1
 16	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
@@ -2974,7 +2974,7 @@
 13	:	:	PUNCT	:	_	17	punct	_	LId=:_0
 14	"	"	PUNCT	``	_	17	punct	_	LId="_0|SpaceAfter=No
 15	و	و	PART	RP	_	17	compound:prt	_	SpaceAfter=No
-16	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	LId=هٰذا_1
+16	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	17	nsubj	_	LId=هٰذا_1
 17	كارثة	كَارِثَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	ccomp	_	LId=كارِثَة_1
 18	ب	بِ	ADP	IN	_	21	case	_	SpaceAfter=No
 19	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	fixed	_	LId=نِسْبَة_1
@@ -3250,7 +3250,7 @@
 18	أن	أَنَّ	SCONJ	IN	_	22	mark	_	LId=أَنَّ_1
 19	هيئات	هَيئَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	22	nsubj	_	LId=هَيْئَة_1
 20	ك	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	19	nmod	_	SpaceAfter=No
-21	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	20	obj	_	LId=هٰذا_1
+21	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	20	obj	_	LId=هٰذا_1
 22	ضرورية	ضَرُورِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	ccomp	_	LId=ضَرُورِيّ_1
 23	ل	لِ	ADP	IN	_	24	case	_	SpaceAfter=No
 24	لمساعدة	مُساعَدَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	LId=مُساعَدَة_1
@@ -3391,7 +3391,7 @@
 6	من	مِن	ADP	IN	_	7	case	_	LId=مِن_1
 7	مجرد	مُجَرَّد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=مُجَرَّد_1
 8	هواتف	هَاتِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=هاتِف_1
-9	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det	_	LId=هٰذا_1
+9	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	LId=هٰذا_1
 10	الأيام	يَوم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	LId=يَوْم_1|SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -3469,7 +3469,7 @@
 # text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
 1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 2	تتزامن	تَزَامَن	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=تَزامَن_1
-3	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	LId=هٰذا_1
+3	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	التقديرات	تَقدِير	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	LId=تَقْدِير_2
 5	مع	مَعَ	ADP	IN	_	6	case	_	LId=مَع_1
 6	النسب	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	obl	_	LId=نِسْبَة_1
@@ -3529,7 +3529,7 @@
 16	:	:	PUNCT	:	_	18	punct	_	LId=:_0
 17	"	"	PUNCT	``	_	18	punct	_	LId="_0|SpaceAfter=No
 18	تساعد	سَاعَد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=ساعَد_1
-19	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	20	det	_	LId=هٰذا_1
+19	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	LId=هٰذا_1
 20	السلالة	سُلالَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	18	nsubj	_	LId=سُلالَة_1
 21	على	عَلَى	ADP	IN	_	22	case	_	LId=عَلَى_1
 22	التخفيف	تَخفِيف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	LId=تَخْفِيف_1
@@ -3981,7 +3981,7 @@
 # original_text = هدف هذه الجلسات للجنة الإذاعة والتلفزيون والاتصالات الكندية هو تطويق ردود الجمهور والجهات المعنية في القطاع.
 # text_en = The purpose of these CRTC hearings is to field responses from industry stakeholders and the public.
 1	هدف	هَدَف	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	LId=هَدَف_1
-2	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	3	det	_	LId=هٰذا_1
+2	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	LId=هٰذا_1
 3	الجلسات	جَلسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nmod	_	LId=جَلْسَة_1
 4	ل	لِ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	لجنة	لَجنَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	LId=لَجْنَة_1
@@ -4228,7 +4228,7 @@
 4	الجمهوريين	جُمهُورِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=جُمْهُورِيّ_1
 5	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
 6	أخذ	أَخذ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=أَخْذ_1
-7	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det	_	LId=هٰذا_1
+7	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	LId=هٰذا_1
 8	البيانات	بَيَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	LId=بَيان_1
 9	ك	كَ	ADP	IN	_	10	case	_	SpaceAfter=No
 10	دليلٍ	دَلِيل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=دَلِيل_1
@@ -5650,7 +5650,7 @@
 14	إلى	إِلَى	ADP	IN	_	15	case	_	LId=إِلَى_1
 15	شخصٍ	شَخص	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	LId=شَخْص_1
 16	ب	بِ	ADP	IN	_	18	case	_	SpaceAfter=No
-17	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	18	det	_	LId=هٰذا_1
+17	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	LId=هٰذا_1
 18	العنصرية	عُنصُرِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	LId=عُنْصُرِيَّة_1
 19	و	وَ	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 20	ب	بِ	ADP	IN	_	22	case	_	SpaceAfter=No
@@ -8034,7 +8034,7 @@
 2	أين	أَينَ	ADV	WRB	_	1	fixed	_	LId=أَيْنَ_1
 3	تستمد	ٱِستَمَدّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِسْتَمَدّ_1
 4	كل	كُلّ	DET	PDT	Case=Acc	6	det	_	LId=كُلّ_1
-5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	LId=هٰذا_1
+5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	LId=هٰذا_1
 6	الطاقة	طَاقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	LId=طاقَة_1|SpaceAfter=No
 7	؟	؟	PUNCT	.	_	10	punct	_	LId=?_0
 8	أو	أَو	CCONJ	CC	_	10	cc	_	LId=أَوْ_1
@@ -8857,7 +8857,7 @@
 4	حجر	حَجَر	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	LId=حَجَر_1
 5	الأساس	أَسَاس	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=أَساس_1
 6	ل	لِ	ADP	IN	_	8	case	_	SpaceAfter=No
-7	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det	_	LId=هٰذا_1
+7	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	LId=هٰذا_1
 8	الانتخابات	اِنتِخَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	LId=ٱِنْتِخاب_1|SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	LId=._0
 
@@ -9567,7 +9567,7 @@
 # original_text = أبرزت هذه الخطوة رغبة الشركة بأن يبدأ المستخدمون بالنظر إلى منتجاتها على أنها أكثر من مجرد أدوات إنتاج.
 # text_en = The move highlighted the company's desire for users to start thinking of its products as more than just productivity tools.
 1	أبرزت	أَبرَز	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَبْرَز_1
-2	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LId=هٰذا_1
+2	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	LId=هٰذا_1
 3	الخطوة	خَطوَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=خَطْوَة_1
 4	رغبة	رَغبَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	1	obj	_	LId=رَغْبَة_1
 5	الشركة	شَرِكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	LId=شَرِكَة_1
@@ -10835,7 +10835,7 @@
 23	إجمالية	إِجمَالِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	21	amod	_	LId=إِجْمالِيّ_1
 24	استناداً	اِستِنَاد	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	16	advcl	_	LId=ٱِسْتِناد_1
 25	إلى	إِلَى	ADP	IN	_	27	case	_	LId=إِلَى_1
-26	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	27	det	_	LId=هٰذا_1
+26	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	LId=هٰذا_1
 27	الفكرة	فِكرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	24	obl	_	LId=فِكْرَة_1
 28	عام	عام	ADV	RB	_	16	obl:tmod	_	LId=عام_1
 29	1973	1973	NUM	CD	Case=Gen	28	obl	_	LId=١٩٧٣_0|SpaceAfter=No
@@ -10949,7 +10949,7 @@
 4	م	م	ADJ	JJ	Definite=Def	2	amod	_	LId=م_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	أصبحت	أَصبَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَصْبَح_1
-7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=هٰذا_1
+7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	LId=هٰذا_1
 8	دولة	دَولَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	xcomp	_	LId=دَوْلَة_1
 9	مورافيا	مورافيا	PROPN	NNP	Gender=Fem|Number=Sing	8	nmod	_	LId=مورافيا_0
 10	العظمى	أَعظَم	ADJ	JJR	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=أَعْظَم_2|Proper=True
@@ -12014,7 +12014,7 @@
 4	ب	بِ	ADP	IN	_	6	mark	_	SpaceAfter=No
 5	حيث	حَيثُ	ADP	IN	_	4	fixed	_	LId=حَيْثُ_1
 6	تعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	advcl	_	LId=عَدّ-ُ_1
-7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	8	det	_	LId=هٰذا_1
+7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	LId=هٰذا_1
 8	السهول	سَهل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj:pass	_	LId=سَهْل_2
 9	أحياناً	حِين	ADV	RB	_	6	advmod	_	LId=حِين_1
 10	جزءاً	جُزء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	xcomp	_	LId=جُزْء_1
@@ -12537,7 +12537,7 @@
 2	المحتمل	مُحتَمَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	LId=مُحْتَمَل_1
 3	أن	أَنَّ	SCONJ	IN	_	7	compound:prt	_	LId=أَنَّ_1
 4	مثل	مِثلَ	ADP	IN	_	6	case	_	LId=مِثْل_1
-5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	LId=هٰذا_1
+5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	LId=هٰذا_1
 6	المستوطنات	مُستَوطَنَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	LId=مُسْتَوْطَنَة_1
 7	بدأت	بَدَأ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	csubj	_	LId=بَدَأ-َ_1
 8	عام	عام	ADV	RB	_	7	obl:tmod	_	LId=عام_1
@@ -12642,7 +12642,7 @@
 15	من	مِن	ADP	IN	_	16	case	_	LId=مِن_1
 16	فرص	فُرصَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	obl	_	LId=فُرْصَة_1
 17	وقوع	وُقُوع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	LId=وُقُوع_1
-18	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	19	det	_	LId=هٰذا_1
+18	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	LId=هٰذا_1
 19	الأحداث	حَدَث	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	LId=حَدَث_1|SpaceAfter=No
 20	,	,	PUNCT	,	_	23	punct	_	LId=,_0
 21	أو	أَو	CCONJ	CC	_	23	cc	_	LId=أَوْ_1
@@ -12779,7 +12779,7 @@
 # text_en = These plant families are still present in Papua New Guinea.
 1	لا	لَا	PART	RP	_	0	root	_	LId=لا_1
 2	تزال	زال	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	LId=زال-َ_1
-3	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	LId=هٰذا_1
+3	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	السلالات	سُلَالَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=سُلالَة_1
 5	النباتية	نَبَاتِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=نَباتِيّ_1
 6	موجودة	مَوجُود	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Voice=Pass	1	ccomp	_	LId=مَوْجُود_1
@@ -13506,7 +13506,7 @@
 12	على	عَلَى	ADP	IN	_	13	case	_	LId=عَلَى_1
 13	حجب	حَجب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=حَجْب_1
 14	الكثير	كَثِير	NOUN	NN	Case=Gen|Definite=Def|Number=Sing	13	nmod	_	LId=كَثِير_2
-15	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	16	det	_	LId=هٰذا_1
+15	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	LId=هٰذا_1
 16	النظم	نِظَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nmod	_	LId=نِظام_2
 17	البيئية	بِيئِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	LId=بِيئِيّ_1
 18	ب	بِ	ADP	IN	_	19	case	_	SpaceAfter=No
@@ -14089,7 +14089,7 @@
 # original_text = ادعى هذه المرة أنه خاض المعركة من دون حتى أن يتكبد عناء ارتداء درعه حتى بعد بدء القتال بساعتين.
 # text_en = This time he claimed to have fought the battle without even bothering to put on his corslet until two hours after the fighting began.
 1	ادعى	اِدَّعَى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِدَّعَى_1
-2	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	3	det	_	LId=هٰذا_1
+2	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	LId=هٰذا_1
 3	المرة	مَرَّة	ADV	RB	_	1	advmod	_	LId=مَرَّة_1
 4	أن	أَنَّ	SCONJ	IN	_	6	mark	_	LId=أَنَّ_1|SpaceAfter=No
 5	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
@@ -14808,7 +14808,7 @@
 3	الغاية	غايَة	VERB	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=غايَة_1
 4	المحددة	مُحَدَّد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=مُحَدَّد_1
 5	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
-6	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	7	det	_	LId=هٰذا_1
+6	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	LId=هٰذا_1
 7	الأحجار	حَجَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	nmod	_	LId=حَجَر_1
 8	الضخمة	ضَخم	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	LId=ضَخْم_1
 9	مثار	مَثار	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	LId=مَثار_1
@@ -15679,7 +15679,7 @@
 # text_en = By this time, he had been increasingly thinking about the future.
 1	لكن	ل`كِنَّ	PART	RP	_	7	compound:prt	_	LId=لٰكِنَّ_1
 2	في	فِي	ADP	IN	_	4	case	_	LId=فِي_1
-3	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det	_	LId=هٰذا_1
+3	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	المرة	مَرَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	LId=مَرَّة_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 6	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=كان-ُ_1
@@ -15835,7 +15835,7 @@
 # text_en = The study interpreted these three factors as proxies for earnings forgone by rebellion, and therefore that lower forgone earnings encourage rebellion.
 1	فسر	فَسَّر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=فَسَّر_1
 2	البحث	بَحث	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=بَحْث_1
-3	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	4	det	_	LId=هٰذا_1
+3	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	العوامل	عَامِل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	LId=عامِل_3
 5	الثلاثة	الثلاثة	NUM	CD	Case=Acc|Gender=Fem|Number=Plur	4	nummod	_	LId=ثَلاث_1
 6	ك	كَ	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -15852,7 +15852,7 @@
 17	ب	بِ	ADP	IN	_	19	advmod	_	SpaceAfter=No
 18	التالي	تالِي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	fixed	_	LId=تالِي_1
 19	تشجع	شَجَّع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=شَجَّع_1
-20	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	21	det	_	LId=هٰذا_1
+20	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	LId=هٰذا_1
 21	المكاسب	مَكسَب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	19	nsubj	_	LId=مَكْسَب_1
 22	المهدرة	مُهدَر	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	21	amod	_	LId=مُهْدَر_1
 23	على	عَلَى	ADP	IN	_	24	case	_	LId=عَلَى_1
@@ -16200,7 +16200,7 @@
 14	ب	بِ	ADP	IN	_	15	case	_	SpaceAfter=No
 15	قوة	قُوَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	obl	_	LId=قُوَّة_1
 16	على	عَلَى	ADP	IN	_	18	case	_	LId=عَلَى_1
-17	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	18	det	_	LId=هٰذا_1
+17	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	LId=هٰذا_1
 18	المنطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	LId=مِنْطَقَة_1|SpaceAfter=No
 19	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -16375,7 +16375,7 @@
 # original_text = ازدهرت هذه المدينة-الدولة في ذات فترة مملكة سوكوتاي.
 # text_en = This city-state emerged in the same period as Sukhothai.
 1	ازدهرت	ٱِزدَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِزْدَهَر_1
-2	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LId=هٰذا_1
+2	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	LId=هٰذا_1
 3	المدينة	مَدِينَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=مَدِينَة_1|SpaceAfter=No
 4	-	-	PUNCT	-	_	5	punct	_	LId=-_0|SpaceAfter=No
 5	الدولة	دَولَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	compound	_	LId=دَوْلَة_1
@@ -20262,7 +20262,7 @@
 9	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 10	عادت	عَاد	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=عاد-ُ_1
 11	ب	بِ	ADP	IN	_	13	case	_	SpaceAfter=No
-12	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	13	det	_	LId=هٰذا_1
+12	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	LId=هٰذا_1
 13	المهارات	مَهَارَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	obl	_	LId=مَهارَة_1
 14	إلى	إِلَى	ADP	IN	_	15	case	_	LId=إِلَى_1
 15	معهد	مَعهَد	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=مَعْهَد_1
@@ -20820,7 +20820,7 @@
 # text_en = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
 1	وصلت	وَصَل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=وَصَل-ِ_1|SpaceAfter=No
 2	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-3	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	4	det	_	LId=هٰذا_1
+3	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	المرة	مَرَّة	ADV	RB	_	1	advmod	_	LId=مَرَّة_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	LId=,_0
 6	لكن	ل`كِنَّ	ADP	IN	_	8	mark	_	LId=لٰكِنَّ_1|SpaceAfter=No
@@ -21328,7 +21328,7 @@
 2	دراسة	دِرَاسَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	LId=دِراسَة_1
 3	سويدية	سُوِيدِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	LId=سُوِيدِيّ_1
 4	أن	أَنَّ	SCONJ	IN	_	15	mark	_	LId=أَنَّ_1
-5	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	6	det	_	LId=هٰذا_1
+5	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	LId=هٰذا_1
 6	الحيوانات	حَيَوَان	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	15	nsubj	_	LId=حَيَوان_1
 7	نادراً	نادِر	ADV	RB	_	15	advmod	_	LId=نادِر_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	LId=,_0
@@ -21493,7 +21493,7 @@
 1	من	مِن	ADP	IN	_	2	case	_	LId=مِن_1
 2	وجهة	وِجهَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	nmod	_	LId=وِجْهَة_1
 3	النظر	نَظَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=نَظَر_1
-4	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	2	appos	_	LId=هٰذا_1|SpaceAfter=No
+4	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	2	appos	_	LId=هٰذا_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	ف	ف	PART	RP	_	14	compound:prt	_	SpaceAfter=No
 7	إن	إِنَّ	PART	RP	_	14	compound:prt	_	LId=إِنَّ_1
@@ -22878,7 +22878,7 @@
 2	العمل	عَمَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	LId=عَمَل_1
 3	المبذول	مَبذُول	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	LId=مَبْذُول_1
 4	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
-5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	LId=هٰذا_1
+5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	LId=هٰذا_1
 6	الساعة	سَاعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=ساعَة_1
 7	الأولى	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=أَوَّل_2
 8	يساوي	سَاوَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ساوَى_1
@@ -22921,7 +22921,7 @@
 5	"	"	PUNCT	``	_	11	punct	_	LId="_0|SpaceAfter=No
 6	وجود	وُجُود	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	LId=وُجُود_1
 7	مثل	مِثلَ	ADP	IN	_	9	case	_	LId=مِثْل_1
-8	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	9	det	_	LId=هٰذا_1
+8	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	LId=هٰذا_1
 9	الوثيقة	وَثِيقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=وَثِيقَة_1
 10	قد	قَد	PART	RP	_	11	compound:prt	_	LId=قَدْ_1
 11	يؤدي	أَدَّى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	LId=أَدَّى_1
@@ -22983,7 +22983,7 @@
 6	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 7	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَمْكَن_1
 8	ل	لِ	ADP	IN	_	10	case	_	SpaceAfter=No
-9	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	10	det	_	LId=هٰذا_1
+9	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	LId=هٰذا_1
 10	الخطة	خُطَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	LId=خُطَّة_1
 11	الحكومية	حُكُومِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=حُكُومِيّ_1
 12	أن	أَن	ADP	IN	_	13	mark	_	LId=أَنْ_1
@@ -24235,7 +24235,7 @@
 21	س	سَ	PART	RP	_	22	compound:prt	_	SpaceAfter=No
 22	يكون	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	LId=كان-ُ_1
 23	ل	لِ	ADP	IN	_	25	case	_	SpaceAfter=No
-24	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	25	det	_	LId=هٰذا_1
+24	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	LId=هٰذا_1
 25	الزيادة	زِيَادَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	LId=زِيادَة_1
 26	تأثيرٌ	تَأثِير	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	22	nsubj	_	LId=تَأْثِير_1|SpaceAfter=No
 27	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -25281,7 +25281,7 @@
 # original_text = بعد هذه النجاحات, وقع عقدا مع فريق تيليكوم وانتقل للإقامة مع حبيبته في مردينغين في جنوب بادن, حيث عاش حتى عام 2002.
 # text_en = After these successes, he signed a contract with Team Telekom and moved in with his girlfriend in Merdingen in Südbaden, where he lived until 2002.
 1	بعد	بَعدَ	ADP	IN	_	3	case	_	LId=بَعْد_1
-2	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	3	det	_	LId=هٰذا_1
+2	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	LId=هٰذا_1
 3	النجاحات	نَجاح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	obl	_	LId=نَجاح_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	وقع	وَقَّع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=وَقَّع_1
@@ -25958,7 +25958,7 @@
 # text_en = This affair can be seen as the starting point for his career as a radical revolutionary.
 1	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَمْكَن_1
 2	اعتبار	اِعتِبَار	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=ٱِعْتِبار_1
-3	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	4	det	_	LId=هٰذا_1
+3	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	القضية	قَضِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=قَضِيَّة_1
 5	ب	بِ	ADP	IN	_	6	case	_	SpaceAfter=No
 6	مثابة	مَثَابَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=مَثابَة_1
@@ -26026,7 +26026,7 @@
 10	الخاصة	خَاصّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=خاصّ_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 12	أغلقت	أَغلَق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=أَغْلَق_1
-13	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det	_	LId=هٰذا_1
+13	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	LId=هٰذا_1
 14	المدارس	مَدرَسَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj:pass	_	LId=مَدْرَسَة_1
 15	عام	عام	ADV	RB	_	12	obl:tmod	_	LId=عام_1
 16	1994	1994	NUM	CD	Case=Gen	15	obl	_	LId=١٩٩٤_0
@@ -26238,7 +26238,7 @@
 17	يكن	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	LId=كَنّ-ِ_1|SpaceAfter=No
 18	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	dep	_	_
 19	أهل	أَهل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	LId=أَهْل_1
-20	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	21	det	_	LId=هٰذا_1
+20	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	LId=هٰذا_1
 21	الجزيرة	جَزِيرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	nmod	_	LId=جَزِيرَة_1
 22	ل	لِ	ADP	IN	_	23	case	_	SpaceAfter=No
 23	أرض	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	LId=أَرْض_1|SpaceAfter=No
@@ -26273,7 +26273,7 @@
 # original_text = تقع هذه الجزر على الفالق الهندي الأسترالي, الفالق الذي نشأ نتيجة اصطدام الصفائح الهندية بالأسترالية.
 # text_en = The islands are located at the Indo-Australian Fault; the Fault arose due to the collision of the Indian and Australian plates.
 1	تقع	وَقَع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=وَقَع-َ_1
-2	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LId=هٰذا_1
+2	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	LId=هٰذا_1
 3	الجزر	جَزِيرَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=جَزِيرَة_1
 4	على	عَلَى	ADP	IN	_	5	case	_	LId=عَلَى_1
 5	الفالق	فالِق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=فالِق_1
@@ -26302,7 +26302,7 @@
 3	الأشياء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	LId=شَيْء_1
 4	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	LId=الَّذِي_1
 5	تدعم	دَعَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LId=دَعَم-َ_1
-6	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	7	det	_	LId=هٰذا_1
+6	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	LId=هٰذا_1
 7	النظرية	نَظَرِيَّة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	LId=نَظَرِيَّة_1
 8	وجود	وُجُود	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	LId=وُجُود_1
 9	قطيع	قَطِيع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	LId=قَطِيع_1
