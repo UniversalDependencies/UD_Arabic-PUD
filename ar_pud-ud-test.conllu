@@ -1678,7 +1678,7 @@
 30	يكون	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	xcomp	_	LId=كان-ُ_1
 31	ل	لِ	ADP	IN	_	32	case	_	SpaceAfter=No
 32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	30	obl	_	LId=ذٰلِكَ_1
-33	أي	أَيّ	DET	WDT	Case=Nom	34	det	_	LId=أَيّ_1
+33	أي	أَيّ	DET	WDT	Case=Nom|PronType=Ind	34	det	_	LId=أَيّ_1
 34	تأثيرات	تَأثِير	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	30	nsubj	_	LId=تَأْثِير_1
 35	كبيرة	كَبِير	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	34	amod	_	LId=كَبِير_1
 36	على	عَلَى	ADP	IN	_	37	case	_	LId=عَلَى_1
@@ -1766,7 +1766,7 @@
 15	كيميائية	كِيمِيائِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	amod	_	LId=كِيمِيائِيّ_1
 16	ل	لِ	ADP	IN	_	17	case	_	SpaceAfter=No
 17	إزالة	إِزَالَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	LId=إِزالَة_1
-18	أي	أَيّ	DET	WDT	Case=Gen	19	det	_	LId=أَيّ_1
+18	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	19	det	_	LId=أَيّ_1
 19	أثرٍ	أَثر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	LId=أَثْر_1
 20	ل	لِ	ADP	IN	_	21	case	_	SpaceAfter=No
 21	لقشور	قِشر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	19	nmod	_	LId=قِشْر_1
@@ -2238,7 +2238,7 @@
 14	راسخة	راسِخ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	amod	_	LId=راسِخ_1
 15	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 16	يعارضون	عارَض	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	LId=عارَض_1
-17	أي	أَيّ	DET	WDT	Case=Acc	18	det	_	LId=أَيّ_1
+17	أي	أَيّ	DET	WDT	Case=Acc|PronType=Ind	18	det	_	LId=أَيّ_1
 18	تشريعٍ	تَشرِيع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	16	obj	_	LId=تَشْرِيع_1
 19	جديد	جَدِيد	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	amod	_	LId=جَدِيد_1|SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	LId=._0
@@ -3318,7 +3318,7 @@
 15	ل	لِ	ADP	IN	_	16	case	_	SpaceAfter=No
 16	لحكومة	حُكُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	LId=حُكُومَة_1
 17	أو	أَو	CCONJ	CC	_	19	cc	_	LId=أَوْ_1
-18	أي	أَيّ	DET	WDT	Case=Gen	19	det	_	LId=أَيّ_1
+18	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	19	det	_	LId=أَيّ_1
 19	مظهر	مَظهَر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	conj	_	LId=مَظْهَر_1
 20	من	مِن	ADP	IN	_	21	case	_	LId=مِن_1
 21	مظاهر	مَظهَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	19	nmod	_	LId=مَظْهَر_1
@@ -5695,7 +5695,7 @@
 19	,	,	PUNCT	,	_	28	punct	_	LId=,_0
 20	ف	ف	PART	RP	_	28	compound:prt	_	SpaceAfter=No
 21	إن	إِنَّ	PART	RP	_	28	compound:prt	_	LId=إِنَّ_1
-22	أي	أَيّ	DET	WDT	Case=Acc	23	det	_	LId=أَيّ_1
+22	أي	أَيّ	DET	WDT	Case=Acc|PronType=Ind	23	det	_	LId=أَيّ_1
 23	تغيير	تَغيِير	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	28	nsubj	_	LId=تَغْيِير_1
 24	مفاجئ	مُفَاجِئ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	23	amod	_	LId=مُفاجِئ_1
 25	في	فِي	ADP	IN	_	26	case	_	LId=فِي_1
@@ -6494,7 +6494,7 @@
 29	مكانة	مَكَانَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	27	nsubj	_	LId=مَكانَة_1
 30	فعلية	فِعلِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	29	amod	_	LId=فِعْلِيّ_1
 31	في	فِي	ADP	IN	_	33	case	_	LId=فِي_1
-32	أي	أَيّ	DET	WDT	Case=Gen	33	det	_	LId=أَيّ_1
+32	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	33	det	_	LId=أَيّ_1
 33	مشروع	مَشرُوع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	29	nmod	_	LId=مَشْرُوع_1|SpaceAfter=No
 34	"	"	PUNCT	''	_	10	punct	_	LId="_0|SpaceAfter=No
 35	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -16092,7 +16092,7 @@
 14	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=كان-ُ_1
 15	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LId=أَمْكَن_1
 16	ل	لِ	ADP	IN	_	18	case	_	SpaceAfter=No
-17	أي	أَيّ	DET	WDT	Case=Gen	18	det	_	LId=أَيّ_2
+17	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	18	det	_	LId=أَيّ_2
 18	شخصٍ	شَخص	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	15	obl	_	LId=شَخْص_1
 19	عمد	عِماد	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	18	acl:relcl	_	LId=عِماد_2
 20	قسراً	قَسر	ADV	RB	_	19	advmod	_	LId=قَسْر_1
@@ -21810,7 +21810,7 @@
 3	الواضح	واضِح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	LId=واضِح_1
 4	الآن	آن	ADV	RB	_	3	obl:tmod	_	LId=آن_1
 5	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
-6	أي	أَيّ	DET	WDT	Case=Gen	7	det	_	LId=أَيّ_1|SpaceAfter=No
+6	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	7	det	_	LId=أَيّ_1|SpaceAfter=No
 7	هما	هُوَ	PRON	PRP	Case=Gen|Number=Dual|Person=2|PronType=Prs	3	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -22765,7 +22765,7 @@
 25	"	"	PUNCT	``	_	27	punct	_	LId="_0|SpaceAfter=No
 26	لم	لَم	PART	RP	Polarity=Neg	27	advmod	_	LId=لَمْ_1
 27	يجر	جَرَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	ccomp	_	LId=جَرَى-ِ_1
-28	أي	أَيّ	DET	WDT	Case=Acc	29	det	_	LId=أَيّ_1
+28	أي	أَيّ	DET	WDT	Case=Acc|PronType=Ind	29	det	_	LId=أَيّ_1
 29	تشاور	تَشاوُر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	27	nsubj	_	LId=تَشاوُر_1
 30	حقيقي	حَقِيقِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	29	amod	_	LId=حَقِيقِيّ_1|SpaceAfter=No
 31	"	"	PUNCT	''	_	27	punct	_	LId="_0|SpaceAfter=No
@@ -23256,7 +23256,7 @@
 11	لن	لَن	PART	RP	Polarity=Neg	12	advmod	_	LId=لَنْ_1
 12	تكون	كان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=كان-ُ_1
 13	هناك	هُنَاكَ	ADV	RB	_	12	advmod	_	LId=هُناكَ_1
-14	أي	أَيّ	DET	WDT	Case=Nom	15	det	_	LId=أَيّ_1
+14	أي	أَيّ	DET	WDT	Case=Nom|PronType=Ind	15	det	_	LId=أَيّ_1
 15	زيادة	زِيَادَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	nsubj	_	LId=زِيادَة_1
 16	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
 17	ضريبة	ضَرِيبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	LId=ضَرِيبَة_1
@@ -23604,7 +23604,7 @@
 5	المبادرة	مُبَادَرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	LId=مُبادَرَة_1
 6	أكثر	أَكثَر	ADV	RB	_	3	advmod	_	LId=أَكْثَر_2
 7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
-8	أي	أَيّ	DET	WDT	Case=Gen	9	det	_	LId=أَيّ_1
+8	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	9	det	_	LId=أَيّ_1
 9	وقتٍ	وَقت	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	obl	_	LId=وَقْت_1
 10	مضى	مَضَى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=مَضَى-ِ_1
 11	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1
@@ -25058,7 +25058,7 @@
 5	بريطانيا	برِيطانِيا	PROPN	NNP	Gender=Fem|Number=Sing	1	obl	_	LId=برِيطانِيا_1
 6	العظمى	أَعظَم	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	LId=أَعْظَم_2|Proper=True
 7	قبل	قَبلَ	ADP	IN	_	9	case	_	LId=قَبْل_1
-8	أي	أَيّ	DET	WDT	Case=Gen	9	det	_	LId=أَيّ_1
+8	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	9	det	_	LId=أَيّ_1
 9	بلدٍ	بَلَد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=بَلَد_1
 10	آخر	آخَر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	amod	_	LId=آخَر_1
 11	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1
@@ -26727,7 +26727,7 @@
 29	الجديد	جَدِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	26	amod	_	LId=جَدِيد_1
 30	اللورد	لُورد	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	26	appos	_	LId=لُورْد_1
 31	غرينفيل	غرينفيل	PROPN	NNP	Gender=Masc|Number=Sing	26	appos	_	LId=غرينفيل_0
-32	أي	أَيّ	DET	WDT	Case=Acc	33	det	_	LId=أَيّ_1
+32	أي	أَيّ	DET	WDT	Case=Acc|PronType=Ind	33	det	_	LId=أَيّ_1
 33	اتفاق	اِتِّفَاق	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	25	obj	_	LId=ٱِتِّفاق_1|SpaceAfter=No
 34	,	,	PUNCT	,	_	36	punct	_	LId=,_0
 35	كما	ما	ADP	IN	_	36	mark	_	LId=ما_4
