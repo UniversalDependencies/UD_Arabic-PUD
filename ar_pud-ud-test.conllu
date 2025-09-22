@@ -856,7 +856,7 @@
 37	ثلاث	ثلاث	NUM	CD	Case=Gen|Gender=Masc|Number=Plur	38	nummod	_	LId=ثَلاث_1
 38	مرات	مَرَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	35	obl	_	LId=مَرَّة_1
 39	من	مِن	ADP	IN	_	40	case	_	LId=مِن_1|SpaceAfter=No
-40	من	من	PRON	WP	Case=Gen	35	obl	_	_
+40	من	من	PRON	WP	Case=Gen|PronType=Rel	35	obl	_	_
 41	يحملون	حَمَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	acl:relcl	_	LId=حَمَل-ِ_1
 42	اسم	اِسم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	41	obj	_	LId=ٱِسْم_1
 43	Kiera	ٍِeرَ	PROPN	NNP	Gender=Fem|Number=Sing	42	nmod	_	LId=ٍِeرَ_0|SpaceAfter=No
@@ -1844,7 +1844,7 @@
 # text = من يكونون؟
 # original_text = من يكونون؟
 # text_en = Who are they?
-1	من	مِن	PRON	WP	Case=Nom	2	nsubj	_	LId=مِن_1
+1	من	مِن	PRON	WP	Case=Nom|PronType=Rel	2	nsubj	_	LId=مِن_1
 2	يكونون	كان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=كان-ُ_1|SpaceAfter=No
 3	؟	؟	PUNCT	.	_	2	punct	_	LId=?_0
 
@@ -2231,7 +2231,7 @@
 7	الهيئة	هَيئَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=هَيْئَة_1
 8	التشريعية	تَشرِيعِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=تَشْرِيعِيّ_1|Proper=True
 9	م	مِن	ADP	IN	_	10	case	_	LId=مِن_1|SpaceAfter=No
-10	من	من	PRON	WP	Case=Gen	6	nmod	_	_
+10	من	من	PRON	WP	Case=Gen|PronType=Rel	6	nmod	_	_
 11	يحملون	حَمَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	LId=حَمَل-ِ_1
 12	معتقدات	مُعتَقَد	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	11	obj	_	LId=مُعْتَقَد_1
 13	دينية	دِينِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	amod	_	LId=دِينِيّ_1
@@ -2451,7 +2451,7 @@
 16	صرف	صَرف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=صَرْف_1
 17	النظر	نَظَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	LId=نَظَر_1
 18	عن	عَن	ADP	IN	_	19	case	_	LId=عَن_1|SpaceAfter=No
-19	من	من	PRON	WP	Case=Gen	17	nmod	_	_
+19	من	من	PRON	WP	Case=Gen|PronType=Rel	17	nmod	_	_
 20	س	سَ	PART	RP	_	21	compound:prt	_	SpaceAfter=No
 21	يكون	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	acl:relcl	_	LId=كان-ُ_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	LId=._0
@@ -4611,7 +4611,7 @@
 1	مثل	مِثلَ	ADP	IN	_	2	case	_	LId=._0
 2	الكثيرين	مِثل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	obl	_	LId=مِثْل_1
 3	من	مِن	ADP	IN	_	4	case	_	LId=كَثِير_2|SpaceAfter=No
-4	من	مِن	PRON	WP	Case=Gen	2	nmod	_	LId=مِن_1
+4	من	مِن	PRON	WP	Case=Gen|PronType=Rel	2	nmod	_	LId=مِن_1
 5	أعرف	عَرَف	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LId=عَرَف-ِ_1|SpaceAfter=No
 6	هم	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	LId=,_0
@@ -5158,7 +5158,7 @@
 # text = من بوسعه إيقاف منتخب أستراليا هذا؟
 # original_text = من بوسعه إيقاف منتخب أستراليا هذا؟
 # text_en = Who can stop this Australia side?
-1	من	مِن	PRON	WP	Case=Nom	2	nsubj	_	LId=مِن_1
+1	من	مِن	PRON	WP	Case=Nom|PronType=Rel	2	nsubj	_	LId=مِن_1
 2	ب	بِ	ADP	IN	_	0	root	_	SpaceAfter=No
 3	وسع	وُسع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	LId=وُسْع_1|SpaceAfter=No
 4	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
@@ -8076,11 +8076,11 @@
 # text = من يمكن أن يلوم من يتيح المجال لغليندا كي تؤدي بهذا الشكل الرائع؟
 # original_text = من يمكن أن يلوم من يتيح المجال لغليندا كي تؤدي بهذا الشكل الرائع؟
 # text_en = But having allowed Glenda to score such a blinder, who can blame it?
-1	من	مِن	PRON	WP	Case=Nom	2	nsubj	_	LId=مِن_1
+1	من	مِن	PRON	WP	Case=Nom|PronType=Rel	2	nsubj	_	LId=مِن_1
 2	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَمْكَن_1
 3	أن	أَن	ADP	IN	_	4	mark	_	LId=أَنْ_1
 4	يلوم	لام	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	LId=لام-ُ_1
-5	من	مِن	PRON	WP	Case=Acc	4	obj	_	LId=مِن_1
+5	من	مِن	PRON	WP	Case=Acc|PronType=Rel	4	obj	_	LId=مِن_1
 6	يتيح	أَتَاح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=أَتاح_1
 7	المجال	مَجَال	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	LId=مَجال_1
 8	ل	لِ	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -10302,7 +10302,7 @@
 13	فرض	فَرض	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	LId=فَرْض_1
 14	ضريبة	ضَرِيبَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	LId=ضَرِيبَة_1
 15	على	عَلَى	ADP	IN	_	16	case	_	LId=عَلَى_1
-16	من	مَن	PRON	WP	Case=Gen	14	nmod	_	LId=مَنْ_1
+16	من	مَن	PRON	WP	Case=Gen|PronType=Rel	14	nmod	_	LId=مَنْ_1
 17	يمر	مَرّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	LId=مَرّ-ُ_1
 18	من	مِن	ADP	IN	_	19	case	_	LId=مِن_1
 19	منطقت	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	LId=مِنْطَقَة_1|SpaceAfter=No
@@ -26931,7 +26931,7 @@
 6	من	مِن	ADP	IN	_	0	root	_	LId=مِن_1
 7	غير	غَير	PART	RP	Polarity=Neg	8	advmod	_	LId=غَيْر_1
 8	الواضح	وَاضِح	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	LId=واضِح_1
-9	من	مِن	PRON	WP	Case=Nom	6	nsubj	_	LId=مِن_1
+9	من	مِن	PRON	WP	Case=Nom|PronType=Rel	6	nsubj	_	LId=مِن_1
 10	من	مِن	ADP	IN	_	9	obj	_	LId=مِن_1
 11	بين	بَينَ	ADP	IN	_	10	fixed	_	LId=بَيْنَ_1|SpaceAfter=No
 12	هما	هُوَ	PRON	PRP	Case=Gen|Number=Dual|Person=3|PronType=Prs	10	obj	_	_
@@ -27145,7 +27145,7 @@
 25	و	وَ	CCONJ	CC	_	26	cc	_	SpaceAfter=No
 26	أطلق	أَطلَق	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	conj	_	LId=أَطْلَق_1
 27	سراح	سَرَاح	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	26	nsubj:pass	_	LId=سَراح_1
-28	من	مِن	PRON	WP	Case=Gen	27	nmod	_	LId=مِن_1
+28	من	مِن	PRON	WP	Case=Gen|PronType=Rel	27	nmod	_	LId=مِن_1
 29	تبقى	تَبَقَّى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl:relcl	_	LId=تَبَقَّى_1
 30	من	مِن	ADP	IN	_	31	case	_	LId=مِن_1
 31	المعتقلين	مُعتَقَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	29	obl	_	LId=مُعْتَقَل_1
