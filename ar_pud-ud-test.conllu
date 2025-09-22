@@ -1043,7 +1043,7 @@
 15	طيران	طَيَرَان	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	LId=طَيَران_1
 16	ل	لِ	ADP	IN	_	17	case	_	SpaceAfter=No
 17	تحديد	تَحدِيد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=تَحْدِيد_1
-18	ما	مَا	PART	RP	_	22	mark	_	LId=ما_4
+18	ما	مَا	PART	RP	ExtPos=SCONJ	22	mark	_	LId=ما_4
 19	إذا	إِذا	ADP	IN	_	18	fixed	_	LId=إِذا_1
 20	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	22	aux	_	LId=كان-ُ_1
 21	س	سَ	PART	RP	_	22	compound:prt	_	SpaceAfter=No
@@ -1452,7 +1452,7 @@
 24	التغير	تَغَيُّر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	obl	_	LId=تَغَيُّر_1
 25	المناخي	مُناخِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	amod	_	LId=مُناخِيّ_1|SpaceAfter=No
 26	,	,	PUNCT	,	_	32	punct	_	LId=,_0
-27	كما	كَما	ADP	IN	_	32	mark	_	LId=كَما_1
+27	كما	كَما	ADP	IN	ExtPos=SCONJ	32	mark	_	LId=كَما_1
 28	أن	أَنَّ	SCONJ	IN	_	27	fixed	_	LId=أَنَّ_1
 29	تعديل	تَعدِيل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	32	nsubj	_	LId=تَعْدِيل_1
 30	كيغالي	كيغالي	PROPN	NNP	Gender=Masc|Number=Sing	29	nmod	_	LId=كيغالي_0
@@ -3103,7 +3103,7 @@
 13	أو	أَو	CCONJ	CC	_	14	cc	_	LId=أَوْ_1
 14	تجاوز	تَجَاوُز	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	conj	_	LId=تَجاوُز_1
 15	التوقعات	تَوَقُّع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	14	nmod	_	LId=تَوَقُّع_1
-16	ب	بِ	ADP	IN	_	18	mark	_	SpaceAfter=No
+16	ب	بِ	ADP	IN	ExtPos=SCONJ	18	mark	_	SpaceAfter=No
 17	حيث	حَيثُ	ADP	IN	_	16	fixed	_	LId=حَيْثُ_1
 18	يتشاركون	تَشارَك	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LId=تَشارَك_1
 19	في	فِي	ADP	IN	_	20	case	_	SpaceAfter=No
@@ -5314,7 +5314,7 @@
 # original_text = بدا كما لو أنه ينقل الكرة ذهابا وإيابا تحت ثلاثة أكواب مقلوبة.
 # text_en = It was as though he was flicking the ball back and forth underneath three upturned cups.
 1	بدا	بَدَا	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=بَدا-ُ_1
-2	كما	ما	ADP	IN	_	6	mark	_	LId=ما_4
+2	كما	ما	ADP	IN	ExtPos=SCONJ	6	mark	_	LId=ما_4
 3	لو	لَو	ADP	IN	_	2	fixed	_	LId=لَوْ_1
 4	أن	أَنَّ	SCONJ	IN	_	2	fixed	_	LId=أَنَّ_1|SpaceAfter=No
 5	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
@@ -7257,7 +7257,7 @@
 # text_en = I also wonder whether the Davis Cup played a part.
 1	أتساءل	تَساءَل	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=تَساءَل_1
 2	أيضاً	أَيضًا	ADV	RB	_	1	advmod	_	LId=أَيْضاً_1
-3	ما	مَا	PART	RP	_	9	mark	_	LId=ما_4
+3	ما	مَا	PART	RP	ExtPos=SCONJ	9	mark	_	LId=ما_4
 4	إذا	إِذا	ADP	IN	_	3	fixed	_	LId=إِذا_1
 5	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	LId=كان-ُ_1
 6	كأس	كَأس	PROPN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	LId=كَأْس_1
@@ -7519,7 +7519,7 @@
 8	على	عَلَى	ADP	IN	_	9	case	_	LId=عَلَى_1
 9	الإنفاق	إِنفَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=إِنْفاق_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	LId=,_0
-11	حيث	حَيثُ	ADP	IN	_	16	mark	_	Gloss=where|LId=حَيْثُ_1
+11	حيث	حَيثُ	ADP	IN	ExtPos=SCONJ	16	mark	_	Gloss=where|LId=حَيْثُ_1
 12	أن	أَنَّ	SCONJ	IN	_	11	fixed	_	Gloss=that|LId=أَنَّ_1
 13	الحكومة	حُكُومَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	Gloss=the-government|LId=حُكُومَة_1
 14	لا	لَا	PART	RP	ExtPos=ADV	16	advmod	_	Gloss=not|LId=لا_1
@@ -8043,7 +8043,7 @@
 11	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	LId=الَّذِي_1
 12	يخرج	خَرَج	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	LId=خَرَج-ُ_1
 13	قوياً	قَوِيّ	ADV	RB	_	12	advmod	_	LId=قَوِيّ_1
-14	ب	بِ	ADP	IN	_	16	mark	_	SpaceAfter=No
+14	ب	بِ	ADP	IN	ExtPos=SCONJ	16	mark	_	SpaceAfter=No
 15	حيث	حَيثُ	ADP	IN	_	14	fixed	_	LId=حَيْثُ_1
 16	يحدث	حَدَث	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	LId=حَدَث-ُ_1
 17	موجة	مَوجَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	16	obj	_	LId=مَوْجَة_1
@@ -8184,7 +8184,7 @@
 3	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 4	شكلٍ	شَكل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=شَكْل_1
 5	كبير	كَبِير	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	LId=كَبِير_1
-6	ب	بِ	ADP	IN	_	8	mark	_	SpaceAfter=No
+6	ب	بِ	ADP	IN	ExtPos=SCONJ	8	mark	_	SpaceAfter=No
 7	حيث	حَيثُ	ADP	IN	_	6	fixed	_	LId=حَيْثُ_1
 8	تسببت	تَسَبَّب	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	advcl	_	LId=تَسَبَّب_1
 9	هوليوود	هُولِيوُود	PROPN	NNP	Gender=Fem|Number=Sing	8	nsubj	_	LId=هُولِيوُود_1
@@ -8477,7 +8477,7 @@
 3	يكون	كَان	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=كان-ُ_1
 4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	LId=ذٰلِكَ_1
 5	مهماً	مُهِمّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُهِمّ_1
-6	بما	ما	ADP	IN	_	9	mark	_	LId=ما_1
+6	بما	ما	ADP	IN	ExtPos=SCONJ	9	mark	_	LId=ما_1
 7	أن	أَنَّ	SCONJ	IN	_	6	fixed	_	LId=أَنَّ_1|SpaceAfter=No
 8	ني	هُوَ	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	أنزعج	ٱِنزَعَج	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	LId=ٱِنْزَعَج_1
@@ -8882,7 +8882,7 @@
 13	نفس	نَفس	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	iobj	_	LId=نَفْس_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	20	punct	_	LId=,_0
-16	كما	كَما	ADP	IN	_	20	mark	_	LId=كَما_1
+16	كما	كَما	ADP	IN	ExtPos=SCONJ	20	mark	_	LId=كَما_1
 17	أن	أَنَّ	SCONJ	IN	_	16	fixed	_	LId=أَنَّ_1
 18	مزاج	مِزَاج	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	LId=مِزاج_1|SpaceAfter=No
 19	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
@@ -9022,7 +9022,7 @@
 3	الهولنديين	هُولاندِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	amod	_	LId=هُولانْدِيّ_1
 4	أن	أَنَّ	SCONJ	IN	_	5	mark	_	LId=أَنَّ_1
 5	يقرروا	قَرَّر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	LId=قَرَّر_1
-6	ما	مَا	PART	RP	_	10	mark	_	LId=ما_4
+6	ما	مَا	PART	RP	ExtPos=SCONJ	10	mark	_	LId=ما_4
 7	إذا	إِذا	ADP	IN	_	6	fixed	_	LId=إِذا_1
 8	كانوا	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=كان-ُ_1
 9	س	سَ	PART	RP	_	10	compound:prt	_	SpaceAfter=No
@@ -9144,7 +9144,7 @@
 2	لم	لَم	PART	RP	Polarity=Neg	3	advmod	_	LId=لَمْ_1
 3	يظهر	ظَهَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=ظَهَر-َ_1
 4	الأمر	أَمر	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	LId=أَمْر_1
-5	إلا	إِلَّا	PART	RP	_	7	mark	_	LId=إِلّا_1
+5	إلا	إِلَّا	PART	RP	ExtPos=SCONJ	7	mark	_	LId=إِلّا_1
 6	عندما	عِند	ADP	IN	_	5	fixed	_	LId=عِنْد_1
 7	نبهت	نَبَّه	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	advcl	_	LId=نَبَّه_1
 8	وكالة	وِكالَة	PROPN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	LId=وِكالَة_1
@@ -11308,7 +11308,7 @@
 8	الحزام	حِزام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=حِزام_1
 9	الساحلي	ساحِلِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	amod	_	LId=ساحِلِيّ_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	LId=,_0
-11	غير	غَير	PART	RP	_	16	mark	_	LId=غَيْر_1
+11	غير	غَير	PART	RP	ExtPos=SCONJ	16	mark	_	LId=غَيْر_1
 12	أن	أَنَّ	SCONJ	IN	_	11	fixed	_	LId=أَنَّ_1
 13	غالبية	غَالِبِيَّة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	LId=غالِبِيَّة_1
 14	البانتو	بانتو	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=بانتو_0
@@ -11981,7 +11981,7 @@
 11	تولتشيا	تولتشيا	PROPN	NNP	Gender=Fem|Number=Sing	10	nmod	_	LId=تولتشيا_0|SpaceAfter=No
 12	)	)	PUNCT	)	_	10	punct	_	LId=)_0|SpaceAfter=No
 13	,	,	PUNCT	,	_	26	punct	_	LId=,_0
-14	في	فِي	ADP	IN	_	26	mark	_	LId=فِي_1
+14	في	فِي	ADP	IN	ExtPos=SCONJ	26	mark	_	LId=فِي_1
 15	حين	حِينَ	ADP	IN	_	14	fixed	_	LId=حِين_1
 16	أن	أَنَّ	SCONJ	IN	_	26	mark	_	LId=أَنَّ_1
 17	الجزء	جُزء	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	26	nsubj	_	LId=جُزْء_1
@@ -12011,7 +12011,7 @@
 1	المناخ	مُنَاخ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=مُناخ_1
 2	جافٌ	جافّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	LId=جافّ_1
 3	جداً	جِدًّا	ADV	RB	_	2	advmod	_	LId=جِدّ_1
-4	ب	بِ	ADP	IN	_	6	mark	_	SpaceAfter=No
+4	ب	بِ	ADP	IN	ExtPos=SCONJ	6	mark	_	SpaceAfter=No
 5	حيث	حَيثُ	ADP	IN	_	4	fixed	_	LId=حَيْثُ_1
 6	تعد	عَاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	advcl	_	LId=عَدّ-ُ_1
 7	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	LId=هٰذا_1
@@ -12097,7 +12097,7 @@
 3	الصراع	صِرَاع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=صِراع_1
 4	كان	كَان	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كان-ُ_1
 5	السؤال	سُؤَال	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=سُؤال_1
-6	ما	مَا	PART	RP	_	8	mark	_	LId=ما_4
+6	ما	مَا	PART	RP	ExtPos=SCONJ	8	mark	_	LId=ما_4
 7	إذا	إِذا	ADP	IN	_	6	fixed	_	LId=إِذا_1
 8	كانت	كَان	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	_	LId=كان-ُ_1
 9	كانساس	كانساس	PROPN	NNP	Number=Sing	8	nsubj	_	LId=كانساس_0
@@ -14097,7 +14097,7 @@
 7	المعركة	مَعرَكَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	LId=مَعْرَكَة_1
 8	من	مِن	ADP	IN	ExtPos=ADP	12	case	_	LId=مِن_1
 9	دون	دُونَ	ADP	IN	_	8	fixed	_	LId=دُون_1
-10	حتى	حَتَّى	ADP	IN	_	12	mark	_	LId=حَتَّى_1
+10	حتى	حَتَّى	ADP	IN	ExtPos=SCONJ	12	mark	_	LId=حَتَّى_1
 11	أن	أَنَّ	SCONJ	IN	_	10	fixed	_	LId=أَنَّ_1
 12	يتكبد	تَكَبَّد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	LId=تَكَبَّد_1
 13	عناء	عَنَاء	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	LId=عَناء_1
@@ -14204,7 +14204,7 @@
 3	ل	لِ	ADP	IN	_	4	case	_	SpaceAfter=No
 4	لتاريخ	تارِيخ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=تارِيخ_1
 5	الأخير	أَخِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	amod	_	LId=أَخِير_1
-6	إلا	إِلَّا	PART	RP	_	8	mark	_	LId=إِلّا_1
+6	إلا	إِلَّا	PART	RP	ExtPos=SCONJ	8	mark	_	LId=إِلّا_1
 7	أن	أَن	ADP	IN	_	6	fixed	_	LId=أَنْ_1
 8	يوافق	وَافَق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	LId=وافَق_1
 9	يوم	يَوم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	LId=يَوْم_1
@@ -15042,7 +15042,7 @@
 20	التقويمين	تَقوِيم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	18	obl	_	LId=تَقْوِيم_2
 21	معاً	مَعًا	ADV	RB	_	20	advmod	_	LId=مَع_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	26	punct	_	LId=,_0
-23	حيث	حَيثُ	ADP	IN	_	26	mark	_	LId=حَيْثُ_1
+23	حيث	حَيثُ	ADP	IN	ExtPos=SCONJ	26	mark	_	LId=حَيْثُ_1
 24	أن	أَنَّ	SCONJ	IN	_	23	fixed	_	LId=أَنَّ_1|SpaceAfter=No
 25	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nsubj:pass	_	_
 26	تحسب	تَحَسَّب	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	advcl	_	LId=حَسَب-ُ_1
@@ -15630,7 +15630,7 @@
 9	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
 10	جد	جِدّ	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	obl	_	LId=جِدّ_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	19	punct	_	LId=,_0
-12	غير	غَير	PART	RP	_	19	mark	_	LId=غَيْر_1
+12	غير	غَير	PART	RP	ExtPos=SCONJ	19	mark	_	LId=غَيْر_1
 13	أن	أَنَّ	SCONJ	IN	_	12	fixed	_	LId=أَنَّ_1
 14	حاجة	حَاجَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	dislocated	_	LId=حاجَة_1
 15	كيبلينغ	كيبلينغ	PROPN	NNP	Gender=Masc|Number=Sing	14	nmod	_	LId=كيبلينغ_0
@@ -15800,7 +15800,7 @@
 24	3	3	NUM	CD	_	23	nmod	_	LId=٣_0|SpaceAfter=No
 25	%	%	SYM	SYM	_	24	dep	_	LId=%_0|SpaceAfter=No
 26	,	,	PUNCT	,	_	29	punct	_	LId=,_0
-27	في	فِي	ADP	IN	_	29	mark	_	LId=فِي_1
+27	في	فِي	ADP	IN	ExtPos=SCONJ	29	mark	_	LId=فِي_1
 28	حين	حِينَ	ADP	IN	_	27	fixed	_	LId=حِين_1
 29	أسفر	أَسفَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	17	advcl	_	LId=أَسْفَر_1
 30	معدل	مُعَدَّل	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	29	nsubj	_	LId=مُعَدَّل_1
@@ -17717,7 +17717,7 @@
 33	في	فِي	ADP	IN	_	34	case	_	LId=فِي_1
 34	وقتٍ	وَقت	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	32	obl	_	LId=وَقْت_1
 35	متأخرٍ	مُتَأَخِّر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	34	amod	_	LId=مُتَأَخِّر_1
-36	ب	بِ	ADP	IN	_	39	mark	_	SpaceAfter=No
+36	ب	بِ	ADP	IN	ExtPos=SCONJ	39	mark	_	SpaceAfter=No
 37	حيث	حَيثُ	ADP	IN	_	36	fixed	_	LId=حَيْثُ_1
 38	لم	لَم	PART	RP	Polarity=Neg	39	advmod	_	LId=لَمْ_1
 39	يحدث	حَدَث	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	32	advcl	_	LId=حَدَث-ُ_1
@@ -20192,7 +20192,7 @@
 # text = ما أن بات هانز بترسون قادراً على تأمين التمويل لدفع تكاليف رونا, سمحت لها جوليو-كوري بالقدوم ودراسة فصل البولونيوم في معهد كوري في باريس.
 # original_text = ما أن بات هانز بترسون قادرا على تأمين التمويل لدفع تكاليف رونا, سمحت لها جوليو-كوري بالقدوم ودراسة فصل البولونيوم في معهد كوري في باريس.
 # text_en = Once Hans Pettersson was able to secure funds to pay Rona's expenses, Joliot-Curie allowed her to come and study polonium separation at the Curie Institute in Paris.
-1	ما	ما	ADP	IN	_	3	mark	_	LId=ما_1
+1	ما	ما	ADP	IN	ExtPos=SCONJ	3	mark	_	LId=ما_1
 2	أن	أَنَّ	SCONJ	IN	_	1	fixed	_	LId=أَنَّ_1
 3	بات	بَات	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	advcl	_	LId=بات-ِ_1
 4	هانز	هانز	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	LId=هانْز_1
@@ -21905,7 +21905,7 @@
 7	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nmod	_	_
 8	البلهاء	أَبلَه	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=أَبْلَه_1
 9	الفريدة	فَرِيد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=فَرِيد_3
-10	ما	مَا	PART	RP	_	13	mark	_	LId=ما_4
+10	ما	مَا	PART	RP	ExtPos=SCONJ	13	mark	_	LId=ما_4
 11	إذا	إِذا	ADP	IN	_	10	fixed	_	LId=إِذا_1
 12	كنت	كَان	AUX	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	13	aux	_	LId=كان-ُ_1
 13	أعرف	عَرَف	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LId=عَرَف-ِ_1
@@ -21914,7 +21914,7 @@
 16	دي	دِي	PROPN	NNP	Gender=Masc|Number=Sing	15	flat	_	LId=دِي_1
 17	بروين	برُوِين	PROPN	NNP	Gender=Masc|Number=Sing	16	flat	_	LId=برُوِين_1
 18	و	وَ	CCONJ	CC	_	22	cc	_	SpaceAfter=No
-19	ما	مَا	PART	RP	_	22	mark	_	LId=ما_2
+19	ما	مَا	PART	RP	ExtPos=SCONJ	22	mark	_	LId=ما_2
 20	إذا	إِذا	ADP	IN	_	19	fixed	_	LId=إِذا_1
 21	كنا	كَان	AUX	VBC	Aspect=Perf|Number=Plur|Person=1|Tense=Past|Voice=Act	22	cop	_	LId=كان-ُ_1
 22	قريبين	قَرِيب	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	13	conj	_	LId=قَرِيب_1
@@ -22390,7 +22390,7 @@
 # text = لو أن منافسته الديمقراطية فازت بالانتخابات, لكانت "رهن التحقيق لسنوات" حسب تأكيده.
 # original_text = لو أن منافسته الديمقراطية فازت بالانتخابات, لكانت "رهن التحقيق لسنوات" حسب تأكيده.
 # text_en = If his Democrat opponent were to be elected, he assured that she would be 'under investigation for years'.
-1	لو	لَو	ADP	IN	_	6	mark	_	LId=لَوْ_1
+1	لو	لَو	ADP	IN	ExtPos=SCONJ	6	mark	_	LId=لَوْ_1
 2	أن	أَنَّ	SCONJ	IN	_	1	fixed	_	LId=أَنَّ_1
 3	منافست	مُنافَسَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	LId=مُنافَسَة_1|SpaceAfter=No
 4	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
@@ -22556,7 +22556,7 @@
 15	550	550	NUM	CD	_	11	nmod	_	LId=٥٥٠_0|SpaceAfter=No
 16	)	)	PUNCT	)	_	15	punct	_	LId=)_0|SpaceAfter=No
 17	,	,	PUNCT	,	_	9	punct	_	LId=,_0
-18	في	فِي	ADP	IN	_	22	mark	_	LId=فِي_1
+18	في	فِي	ADP	IN	ExtPos=SCONJ	22	mark	_	LId=فِي_1
 19	حين	حِينَ	ADP	IN	_	18	fixed	_	LId=حِين_1
 20	المطلوب	مَطلُوب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nsubj	_	LId=مَطْلُوب_1
 21	330	330	NUM	CD	_	22	nummod	_	LId=٣٣٠_0
@@ -22692,7 +22692,7 @@
 # text = حتى لو كانت الغالبية العظمى من الحالات التي تنشأ في مكانا لعمل يمكن حلها من دون نزاعات.
 # original_text = حتى لو كانت الغالبية العظمى من الحالات التي تنشأ في مكانا لعمل يمكن حلها من دون نزاعات.
 # text_en = Even if the majority of situations that arise in the workplace can be resolved without conflict.
-1	حتى	حَتَّى	PART	RP	_	3	mark	_	LId=حَتَّى_3
+1	حتى	حَتَّى	PART	RP	ExtPos=SCONJ	3	mark	_	LId=حَتَّى_3
 2	لو	لَو	ADP	IN	_	1	fixed	_	LId=لَوْ_1
 3	كانت	كَان	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	advcl	_	LId=كان-ُ_1
 4	الغالبية	غَالِبِيَّة	NOUN	NN	Case=Nom|Definite=Def	3	nsubj	_	LId=غالِبِيَّة_1
@@ -23339,7 +23339,7 @@
 3	أعلى	أَعلَى	ADJ	JJR	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	LId=أَعْلَى_2
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	كثير	كَثِير	NOUN	NN	Case=Gen|Definite=Ind|Number=Sing	2	nmod	_	LId=كَثِير_2
-6	ب	بِ	ADP	IN	_	8	mark	_	SpaceAfter=No
+6	ب	بِ	ADP	IN	ExtPos=SCONJ	8	mark	_	SpaceAfter=No
 7	حيث	حَيثُ	ADP	IN	_	6	fixed	_	LId=حَيْثُ_1
 8	تتجاوز	تَجَاوَز	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	LId=تَجاوَز_1
 9	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -23686,7 +23686,7 @@
 9	الأكثر	أَكثَر	ADJ	JJR	Case=Acc|Definite=Def	1	obj	_	LId=أَكْثَر_2
 10	محافظةً	مُحَافَظَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	obl	_	LId=مُحافِظ_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	26	punct	_	LId=,_0
-12	في	فِي	ADP	IN	_	26	mark	_	LId=فِي_1
+12	في	فِي	ADP	IN	ExtPos=SCONJ	26	mark	_	LId=فِي_1
 13	حين	حِينَ	ADP	IN	_	12	fixed	_	LId=حِين_1
 14	أن	أَنَّ	SCONJ	IN	_	26	mark	_	LId=أَنَّ_1
 15	قادةً	قائِد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	26	nsubj	_	LId=قائِد_1
@@ -26461,7 +26461,7 @@
 8	ب	بِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	التلال	تَلّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	LId=تَلّ_2|SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	LId=,_0
-11	ب	بِ	ADP	IN	_	14	mark	_	SpaceAfter=No
+11	ب	بِ	ADP	IN	ExtPos=SCONJ	14	mark	_	SpaceAfter=No
 12	حيث	حَيثُ	ADP	IN	_	11	fixed	_	LId=حَيْثُ_1
 13	لا	لَا	PART	RP	Polarity=Neg	14	advmod	_	LId=لا_1
 14	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	LId=أَمْكَن_1
