@@ -543,7 +543,7 @@
 6	خنزيراً	خِنزِير	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=خِنْزِير_1
 7	وحيداً	وَحِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	amod	_	LId=وَحِيد_2|SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	_	LId=,_0
-9	غير	غَير	PART	RP	_	13	cc	_	LId=غَيْر_1
+9	غير	غَير	PART	RP	ExtPos=CCONJ	13	cc	_	LId=غَيْر_1
 10	أن	أَنَّ	SCONJ	IN	_	9	fixed	_	LId=أَنَّ_1|SpaceAfter=No
 11	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj:pass	_	_
 12	لا	لَا	PART	RP	Polarity=Neg	13	advmod	_	LId=لا_1
@@ -2222,7 +2222,7 @@
 # text = غير أن هناك العديد من أعضاء الهيئة التشريعية ممن يحملون معتقدات دينية راسخة ويعارضون أي تشريعٍ جديد.
 # original_text = غير أن هناك العديد من أعضاء الهيئة التشريعية ممن يحملون معتقدات دينية راسخة ويعارضون أي تشريع جديد.
 # text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
-1	غير	غَير	PART	RP	_	3	cc	_	LId=غَيْر_1
+1	غير	غَير	PART	RP	ExtPos=CCONJ	3	cc	_	LId=غَيْر_1
 2	أن	أَنَّ	PART	RP	_	1	fixed	_	LId=أَنَّ_1
 3	هناك	هُنَاكَ	ADV	RB	_	0	root	_	LId=هُناكَ_1
 4	العديد	عَدِيد	NOUN	NN	Case=Nom|Definite=Def	3	nsubj	_	LId=عَدِيد_1
@@ -12489,11 +12489,11 @@
 1	تضم	ضَمّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ضَمّ-ُ_1
 2	هوراً	هَور	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	LId=هَوْر_1
 3	صغيراً	صَغِير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	amod	_	LId=صَغِير_1
-4	لا	لَا	PART	RP	_	5	xcomp	_	LId=لا_1
-5	يزال	زال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LId=زال-َ_1
-6	مملوءاً	مَملُوء	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	fixed	_	LId=مَمْلُوء_1
+4	لا	لَا	PART	RP	ExtPos=ADV	6	advmod	_	LId=لا_1
+5	يزال	زال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	fixed	_	LId=زال-َ_1
+6	مملوءاً	مَملُوء	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	acl:relcl	_	LId=مَمْلُوء_1
 7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
-8	الماء	مَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=ماء_1|SpaceAfter=No
+8	الماء	مَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=ماء_1|SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w01033
@@ -25753,7 +25753,7 @@
 9	طي	طَيّ	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	xcomp	_	LId=طَيّ_1
 10	النسيان	نِسيان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=نِسْيان_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-12	غير	غَير	PART	RP	_	15	compound:prt	_	LId=غَيْر_1
+12	غير	غَير	PART	RP	ExtPos=CCONJ	15	cc	_	LId=غَيْر_1
 13	أن	أَنَّ	PART	RP	_	12	fixed	_	LId=أَنَّ_1
 14	الإغريق	إِغرِيقِيّ	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	15	nsubj	_	LId=إِغْرِيقِيّ_1
 15	اعتمدوا	ٱِعتَمَد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	1	advcl	_	LId=ٱِعْتَمَد_1
@@ -26712,7 +26712,7 @@
 14	سلام	سَلَام	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	LId=سَلام_1
 15	شاملة	شَامِل	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	amod	_	LId=شامِل_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	23	punct	_	LId=,_0
-17	غير	غَير	PART	RP	_	23	compound:prt	_	LId=غَيْر_1
+17	غير	غَير	PART	RP	ExtPos=CCONJ	23	cc	_	LId=غَيْر_1
 18	أن	أَنَّ	PART	RP	_	17	fixed	_	LId=أَنَّ_1
 19	آمال	أَمَل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	23	nsubj	_	LId=أَمَل_1|SpaceAfter=No
 20	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	_
