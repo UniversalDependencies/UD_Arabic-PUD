@@ -23278,7 +23278,7 @@
 # text_en = A level that in both cases is at the top of the EU.
 1	مستوى	مُستَوَى	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	6	nsubj	_	LId=مُسْتَوَى_1
 2	في	فِي	ADP	IN	_	4	case	_	LId=فِي_1
-3	كلتا	كِلَّة	DET	PDT	Case=Gen	4	det	_	LId=كِلَّة_1
+3	كلتا	كِلَّة	DET	PDT	Case=Gen|PronType=Tot	4	det	_	LId=كِلَّة_1
 4	الحالتي	حالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Dual	1	nmod	_	LId=حالَة_1
 5	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	dep	_	LId=هُوَ_1
 6	الأعلى	أَعلَى	ADJ	JJR	Case=Nom|Definite=Def	0	root	_	LId=أَعْلَى_2

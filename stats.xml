@@ -63,7 +63,7 @@
     <feat name="PronType" value="Int" upos="PRON">72</feat><!-- ما, الذين -->
     <feat name="PronType" value="Prs" upos="PRON">835</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
     <feat name="PronType" value="Rel" upos="PRON">190</feat><!-- التي, الذي, تلك, من -->
-    <feat name="PronType" value="Tot" upos="DET">53</feat><!-- كل, جميع, كامل, أكمل, كلا, كلي -->
+    <feat name="PronType" value="Tot" upos="DET">54</feat><!-- كل, جميع, كامل, أكمل, كلا, كلتا, كلي -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">71</feat><!-- يكون, تكون, يؤدي, يخفف, يسمح, يموت, أدخل, أصاب, تتحدث, تتغير -->
     <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,VERB">1096</feat><!-- كان, كانت, قال, تم, كانوا, يكن, بدأت, قالت, بدأ, بات -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">814</feat><!-- يمكن, يكون, تكون, يقول, تقول, يعمل, تضم, يعود, تبدأ, تظهر -->
