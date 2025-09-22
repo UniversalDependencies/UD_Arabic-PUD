@@ -26947,7 +26947,7 @@
 22	لاحقاً	لاحِق	ADV	RB	_	21	obl:tmod	_	LId=لاحِق_1
 23	في	فِي	ADP	IN	_	24	case	_	LId=فِي_1
 24	أسلوب	أُسلُوب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	LId=أُسْلُوب_1
-25	كلا	كِلَا	DET	PDT	Case=Gen	26	det	_	LId=كُلْوَة_1
+25	كلا	كِلَا	DET	PDT	Case=Gen|PronType=Tot	26	det	_	LId=كُلْوَة_1
 26	الفنانين	فَنَّان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	24	nmod	_	LId=فَنّان_1|SpaceAfter=No
 27	.	.	PUNCT	.	_	6	punct	_	LId=._0
 
