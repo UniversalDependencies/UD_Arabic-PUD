@@ -10044,7 +10044,7 @@
 5	رؤية	رُؤيَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	LId=رُؤْيَة_1
 6	العاصمة	عَاصِمَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	LId=عاصِمَة_1
 7	في	فِي	ADP	IN	_	9	case	_	LId=فِي_1
-8	كامل	كامِل	DET	PDT	Case=Gen	9	det	_	LId=كامِل_1|Proper=True
+8	كامل	كامِل	DET	PDT	Case=Gen|PronType=Tot	9	det	_	LId=كامِل_1|Proper=True
 9	أبهت	أُبَّهَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	LId=أُبَّهَة_1|SpaceAfter=No
 10	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	2	punct	_	LId=,_0
@@ -27474,7 +27474,7 @@
 15	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	SpaceAfter=No
 16	:	:	PUNCT	:	_	17	punct	_	LId=:_0
 17	غزو	غَزو	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	appos	_	LId=غَزْو_1
-18	كامل	كامِل	DET	PDT	Case=Gen	19	det	_	LId=كامِل_1
+18	كامل	كامِل	DET	PDT	Case=Gen|PronType=Tot	19	det	_	LId=كامِل_1
 19	مملكة	مَملَكَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	LId=مَمْلَكَة_1
 20	فرنسا	فَرَنسا	PROPN	NNP	Gender=Fem|Number=Sing	19	nmod	_	LId=فَرَنْسا_1|SpaceAfter=No
 21	.	.	PUNCT	.	_	4	punct	_	LId=._0
