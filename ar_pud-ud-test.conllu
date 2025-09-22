@@ -698,7 +698,7 @@
 7	ثم	ثُمَّ	CCONJ	CC	_	8	cc	_	LId=ثُمَّ_1
 8	تبعت	تَبِع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=تَبِع-َ_1|SpaceAfter=No
 9	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-10	إحدى	أَحَد	DET	PDT	Case=Nom	11	det	_	LId=أَحَد_1
+10	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	11	det	_	LId=أَحَد_1
 11	صديقات	صَدِيقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	nsubj	_	LId=صَدِيق_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -3402,7 +3402,7 @@
 # original_text = علقت إحدى مشتركات نظام الإنترنت غير المحدود من شركة ساسكتل قائلة: "هذا مذهل".
 # text_en = "It is amazing," reported SaskTel unlimited data customer Lindsay Gay last month.
 1	علقت	عَلَّق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=عَلَّق_1
-2	إحدى	أَحَد	DET	PDT	Case=Nom	3	det	_	LId=أَحَد_1
+2	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=أَحَد_1
 3	مشتركات	مُشتَرِك	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=مُشْتَرِك_1
 4	نظام	نِظَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=نِظام_1
 5	الإنترنت	إِنتِرنِت	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=إِنْتِرْنِت_1
@@ -8005,7 +8005,7 @@
 8	الستينيات	سِتِّينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=سِتِّينِيّ_1
 9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
 10	دور	دَور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=دَوْر_1
-11	إحدى	أَحَد	DET	PDT	Case=Gen	12	det	_	LId=أَحَد_1
+11	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	12	det	_	LId=أَحَد_1
 12	رفقاء	رَفِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	LId=رَفِيق_2
 13	اللجوء	لُجُوء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	LId=لُجُوء_1
 14	في	فِي	ADP	IN	_	15	case	_	LId=فِي_1
@@ -8459,7 +8459,7 @@
 6	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	amod	_	LId=أَوَّل_2|Proper=True
 7	1832	1832	NUM	CD	_	5	obl:tmod	_	LId=١٨٣٢_0
 8	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
-9	إحدى	أَحَد	DET	PDT	Case=Gen	10	det	_	LId=أَحَد_1
+9	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	10	det	_	LId=أَحَد_1
 10	القرى	قَريَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	obl	_	LId=قَرْيَة_1
 11	القريبة	قَرِيب	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=قَرِيب_1
 12	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
@@ -9887,7 +9887,7 @@
 5	,	,	PUNCT	,	_	9	punct	_	LId=,_0
 6	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 7	هي	هُوَ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LId=هِيَ_1
-8	إحدى	أَحَد	DET	PDT	Case=Nom	9	det	_	LId=أَحَد_1
+8	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	9	det	_	LId=أَحَد_1
 9	المخرجين	مُخرِج	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	advcl	_	LId=مُخْرِج_1
 10	الفنيين	فَنِّيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	amod	_	LId=فَنِّيّ_2
 11	ل	لِ	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -13307,7 +13307,7 @@
 7	,	,	PUNCT	,	_	11	punct	_	LId=,_0
 8	و	و	PART	RP	_	11	compound:prt	_	SpaceAfter=No
 9	هم	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	LId=هُم_1
-10	إحدى	أَحَد	DET	PDT	Case=Nom	11	det	_	LId=أَحَد_1
+10	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	11	det	_	LId=أَحَد_1
 11	مجموعات	مَجمُوعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	advcl	_	LId=مَجْمُوعَة_1
 12	الأمريكيين	أَمرِيكِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	LId=أَمْرِيكِيّ_1
 13	الأصليين	أَصلِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	amod	_	LId=أَصْلِيّ_1
@@ -14411,7 +14411,7 @@
 5	مقتل	مَقتَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=مَقْتَل_1
 6	جوليان	جُولِيان	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	LId=جُولِيان_1
 7	في	فِي	ADP	IN	_	9	case	_	LId=فِي_1
-8	إحدى	أَحَد	DET	PDT	Case=Gen	9	det	_	LId=أَحَد_1
+8	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	9	det	_	LId=أَحَد_1
 9	المعارك	مَعرَكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	LId=مَعْرَكَة_1
 10	عام	عام	ADV	RB	_	5	obl:tmod	_	LId=عام_1
 11	363	363	NUM	CD	Case=Gen	10	obl	_	LId=٣٦٣_0|SpaceAfter=No
@@ -18084,7 +18084,7 @@
 # original_text = خلال إحدى الحلقات, ظهر كعازف غيتار بارع.
 # text_en = During one episode, he is shown to be an adept guitar player.
 1	خلال	خِلَالَ	ADP	IN	_	3	case	_	LId=خِلال_1
-2	إحدى	أَحَد	DET	PDT	Case=Gen	3	det	_	LId=أَحَد_1
+2	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	3	det	_	LId=أَحَد_1
 3	الحلقات	حَلقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	obl	_	LId=حَلْقَة_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	ظهر	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ظَهَر-َ_1
@@ -18117,7 +18117,7 @@
 # original_text = في إحدى المناسبات, تم التلميح إلى أنه عميل سري يستهدف هومر.
 # text_en = On one occasion, it is implied he is an undercover agent whose target is Homer.
 1	في	فِي	ADP	IN	_	3	case	_	LId=فِي_1
-2	إحدى	أَحَد	DET	PDT	Case=Gen	3	det	_	LId=أَحَد_1
+2	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	3	det	_	LId=أَحَد_1
 3	المناسبات	مُنَاسَبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	obl	_	LId=مُناسَبَة_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	تم	تَمّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=تَمّ-ِ_1
@@ -20132,7 +20132,7 @@
 # text = إحدى أفكار روايات سكايلارك تدور حول أسلاف تكنولوجيا الاتصالات الحديثة.
 # original_text = إحدى أفكار روايات سكايلارك تدور حول أسلاف تكنولوجيا الاتصالات الحديثة.
 # text_en = Another theme of the Skylark novels involves precursors of modern information technology.
-1	إحدى	أَحَد	DET	PDT	Case=Nom	2	det	_	LId=أَحَد_1
+1	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	2	det	_	LId=أَحَد_1
 2	أفكار	فِكر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	nsubj	_	LId=فِكْر_1
 3	روايات	رِوايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	nmod	_	LId=رِوايَة_1
 4	سكايلارك	سكايلارك	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	LId=سكايلارك_0
@@ -24806,7 +24806,7 @@
 # original_text = كانت إحدى أكثر الثقافات انتشارا في نطاقها خلال تلك الحقبة, حيث عرفت في العديد من المواقع الأخرى.
 # text_en = In its scope it belongs to the most far-reaching cultures of the time, in which many sites are known.
 1	كانت	كَان	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كان-ُ_1
-2	إحدى	أَحَد	DET	PDT	Case=Nom	3	det	_	LId=أَحَد_1
+2	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=أَحَد_1
 3	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Def	1	nsubj	_	LId=أَكْثَر_2
 4	الثقافات	ثَقَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	LId=ثَقافَة_1
 5	انتشاراً	ٱِنتِشار	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	LId=ٱِنْتِشار_1
@@ -25149,7 +25149,7 @@
 # original_text = كانت إحدى آخر وسائل الضغط لديه على هنغاريا التهديد بإقامة انتخابات عامة وحرة.
 # text_en = One of his last means of placing pressure on Hungary was the threat of imposing general and free elections.
 1	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	LId=كان-ُ_1
-2	إحدى	أَحَد	DET	PDT	Case=Acc	4	det	_	LId=أَحَد_1
+2	إحدى	أَحَد	DET	PDT	Case=Acc|PronType=Ind	4	det	_	LId=أَحَد_1
 3	آخر	آخَر	DET	PDT	Case=Gen	4	det	_	LId=آخَر_1
 4	وسائل	وَسِيلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	0	root	_	LId=وَسِيلَة_1
 5	الضغط	ضَغط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=ضَغْط_1
@@ -26180,7 +26180,7 @@
 23	و	وَ	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 24	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	25	cop	_	LId=كان-ُ_1
 25	ابنة	اِبنَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	conj	_	LId=ٱِبْن_1
-26	إحدى	أَحَد	DET	PDT	Case=Gen	27	det	_	LId=أَحَد_1
+26	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	27	det	_	LId=أَحَد_1
 27	صديقات	صَدِيقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	25	nmod	_	LId=صَدِيق_1
 28	جيرمين	جيرمين	PROPN	NNP	Gender=Fem|Number=Sing	27	nmod	_	LId=جيرمين_0|SpaceAfter=No
 29	.	.	PUNCT	.	_	4	punct	_	LId=._0
@@ -26876,7 +26876,7 @@
 17	ميتي	مَيِّت	PROPN	NNP	Number=Sing	16	nmod	_	LId=مَيِّت_1|SpaceAfter=No
 18	,	,	PUNCT	,	_	21	punct	_	LId=,_0
 19	في	فِي	ADP	IN	_	21	case	_	LId=فِي_1
-20	إحدى	أَحَد	DET	PDT	Case=Gen	21	det	_	LId=أَحَد_1
+20	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	21	det	_	LId=أَحَد_1
 21	الأمسيات	أُمسِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	obl	_	LId=أُمْسِيَّة_1
 22	خلال	خِلَالَ	ADP	IN	_	23	case	_	LId=خِلال_1
 23	العشاء	عَشَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=عَشاء_1|SpaceAfter=No
