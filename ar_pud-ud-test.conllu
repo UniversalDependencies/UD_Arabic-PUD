@@ -72,7 +72,7 @@
 18	يكون	كَان	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	20	cop	_	LId=كان-ُ_1
 19	الأمر	أَمر	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	LId=أَمْر_1
 20	مختلفاً	مُختَلِف	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُخْتَلِف_1
-21	بعض	بَعض	DET	PDT	Case=Acc	22	det	_	LId=بَعْض_1
+21	بعض	بَعض	DET	PDT	Case=Acc|PronType=Ind	22	det	_	LId=بَعْض_1
 22	الشيء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	LId=شَيْء_1|SpaceAfter=No
 23	.	.	PUNCT	.	_	20	punct	_	LId=._0
 
@@ -1016,7 +1016,7 @@
 25	الاعتماد	اِعتِمَاد	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	24	nsubj	_	LId=ٱِعْتِماد_1
 26	علي	عَلَى	ADP	IN	_	27	case	_	LId=عَلَى_1|SpaceAfter=No
 27	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
-28	بعض	بَعض	DET	PDT	Case=Nom	29	det	_	LId=بَعْض_1
+28	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	29	det	_	LId=بَعْض_1
 29	الشيء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	obl	_	LId=شَيْء_1|SpaceAfter=No
 30	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
@@ -1150,7 +1150,7 @@
 # original_text = لكن بعض خبراء الأمن أثاروا تساؤلات بشأن الحاجة لهذه الدورة والغاية من ورائها.
 # text_en = But some security experts raised questions about the need for the course and the intent behind it.
 1	لكن	ل`كِنَّ	PART	RP	_	5	compound:prt	_	LId=لٰكِنَّ_1
-2	بعض	بَعض	DET	PDT	Case=Acc	3	det	_	LId=بَعْض_1
+2	بعض	بَعض	DET	PDT	Case=Acc|PronType=Ind	3	det	_	LId=بَعْض_1
 3	خبراء	خَبِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	LId=خَبِير_1
 4	الأمن	أَمن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=أَمْن_1
 5	أثاروا	أَثار	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَثار_1
@@ -1180,7 +1180,7 @@
 4	من	مِن	ADP	IN	_	2	obl:tmod	_	LId=مِن_1
 5	قبل	قَبل	ADV	RB	_	4	fixed	_	LId=قَبْل_1
 6	سوى	سِوَى	PART	RP	_	8	compound:prt	_	LId=سِوَى_1
-7	بعض	بَعض	DET	PDT	Case=Gen	8	det	_	LId=بَعْض_1
+7	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	8	det	_	LId=بَعْض_1
 8	المدونين	مُدَوَّن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	LId=مُدَوَّن_1|SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
@@ -3855,7 +3855,7 @@
 8	مؤخراً	مُؤَخَّر	ADV	RB	_	1	advmod	_	LId=مُؤَخَّر_1|SpaceAfter=No
 9	:	:	PUNCT	:	_	13	punct	_	LId=:_0
 10	"	"	PUNCT	``	_	13	punct	_	LId="_0|SpaceAfter=No
-11	بعض	بَعض	DET	PDT	Case=Nom	12	det	_	LId=بَعْض_1
+11	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	12	det	_	LId=بَعْض_1
 12	الرجال	رَجُل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nsubj	_	LId=رَجُل_1
 13	يتمتعون	تَمَتَّع	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=تَمَتَّع_1
 14	ب	بِ	ADP	IN	_	15	case	_	SpaceAfter=No
@@ -6444,7 +6444,7 @@
 20	ب	بِ	ADP	IN	_	21	case	_	SpaceAfter=No
 21	التشكيك	تَشكِيك	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	LId=تَشْكِيك_1
 22	ب	بِ	ADP	IN	_	24	case	_	SpaceAfter=No
-23	بعض	بَعض	DET	PDT	Case=Gen	24	det	_	LId=بَعْض_1|SpaceAfter=No
+23	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	24	det	_	LId=بَعْض_1|SpaceAfter=No
 24	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nmod	_	_
 25	البعض	بَعض	NOUN	NN	Case=Gen|Definite=Def	24	appos	_	LId=بَعْض_1
 26	علناً	عَلَن	ADV	RB	_	21	advmod	_	LId=عَلَن_1
@@ -13123,7 +13123,7 @@
 4	الكبيرة	كَبِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	LId=كَبِير_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	ترتفع	اِرتَفَع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِرْتَفَع_1
-7	بعض	بَعض	DET	PDT	Case=Nom	8	det	_	LId=بَعْض_1
+7	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	8	det	_	LId=بَعْض_1
 8	الجزيئات	جُزَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	LId=جُزَيْء_1
 9	إلى	إِلَى	ADP	IN	_	10	case	_	LId=إِلَى_1
 10	التيار	تَيَّار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=تَيّار_1
@@ -16789,7 +16789,7 @@
 9	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 10	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَمْكَن_1
 11	ل	لِ	ADP	IN	_	13	case	_	SpaceAfter=No
-12	بعض	بَعض	DET	PDT	Case=Gen	13	det	_	LId=بَعْض_1
+12	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	13	det	_	LId=بَعْض_1
 13	الحيوانات	حَيَوَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	obl	_	LId=حَيَوان_1
 14	أن	أَن	ADP	IN	_	15	mark	_	LId=أَنْ_1
 15	توفر	وَفَّر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	LId=وَفَّر_1
@@ -16958,7 +16958,7 @@
 19	أن	أَنَّ	SCONJ	IN	_	20	mark	_	LId=أَنَّ_1
 20	يخاطب	خاطَب	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	LId=خاطَب_1
 21	الأصدقاء	صَدِيق	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	20	nsubj	_	LId=صَدِيق_1
-22	بعض	بَعض	DET	PDT	Case=Acc	23	det	_	LId=بَعْض_1|SpaceAfter=No
+22	بعض	بَعض	DET	PDT	Case=Acc|PronType=Ind	23	det	_	LId=بَعْض_1|SpaceAfter=No
 23	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	obj	_	_
 24	البعض	بَعض	NOUN	NN	Case=Gen|Definite=Def	23	appos	_	LId=بَعْض_1
 25	ب	بِ	ADP	IN	_	26	case	_	SpaceAfter=No
@@ -17231,7 +17231,7 @@
 # original_text = يؤكد بعض المؤرخين, مثل تشاندلر وويلر, أن فعالية فرقة الخيالة البريطانية الثقيلة أعطبت بعد أول هجوم ملحمي.
 # text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
 1	يؤكد	أَكَّد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَكَّد_1
-2	بعض	بَعض	DET	PDT	Case=Nom	3	det	_	LId=بَعْض_1
+2	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=بَعْض_1
 3	المؤرخين	مُؤَرِّخ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=مُؤَرِّخ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	6	punct	_	LId=,_0
 5	مثل	مِثلَ	ADP	IN	_	6	case	_	LId=مِثْل_1
@@ -17878,7 +17878,7 @@
 23	يزال	زال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	LId=زال-َ_1
 24	مستخدماً	مُستَخدَم	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	23	xcomp	_	LId=مُسْتَخْدَم_1
 25	في	فِي	ADP	IN	_	27	case	_	LId=فِي_1
-26	بعض	بَعض	DET	PDT	Case=Gen	27	det	_	LId=بَعْض_1
+26	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	27	det	_	LId=بَعْض_1
 27	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	obl	_	LId=دَوْلَة_1
 28	خلال	خِلَالَ	ADP	IN	_	29	case	_	LId=خِلال_1
 29	الثمانينيات	ثَمانِينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	obl	_	LId=ثَمانِينِيّ_1|SpaceAfter=No
@@ -18583,7 +18583,7 @@
 # original_text = ينتقد بعض علماء المسيحية تول, فيما يثني عليه بعضهم الآخر.
 # text_en = Some Christian scholars criticize Tolle's teachings, while others praise them.
 1	ينتقد	اِنتَقَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِنْتَقَد_1
-2	بعض	بَعض	DET	PDT	Case=Nom	3	det	_	LId=بَعْض_1
+2	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=بَعْض_1
 3	علماء	عَالِم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=عالِم_1
 4	المسيحية	مَسِيحِيّ	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	LId=مَسِيحِيّ_1
 5	تول	تَوَلِّي	PROPN	NNP	Gender=Masc|Number=Sing	1	obj	_	LId=تَوَلِّي_1|SpaceAfter=No
@@ -18592,7 +18592,7 @@
 8	يثني	أَثنَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LId=أَثْنَى_1
 9	علي	عَلَى	ADP	IN	_	10	case	_	LId=عَلَى_1|SpaceAfter=No
 10	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
-11	بعض	بَعض	DET	PDT	Case=Nom	12	det	_	LId=بَعْض_1|SpaceAfter=No
+11	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	12	det	_	LId=بَعْض_1|SpaceAfter=No
 12	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 13	الآخر	آخَر	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	amod	_	LId=آخَر_1|SpaceAfter=No
 14	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -24096,7 +24096,7 @@
 21	تنقير	نَقِير	NOUN	VBG	Case=Acc|Definite=Def|Gender=Masc	32	nsubj	_	LId=نَقِير_1
 22	النواب	نَائِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	21	nsubj	_	LId=نائِب_1
 23	على	عَلَى	ADP	IN	_	25	case	_	LId=عَلَى_1
-24	بعض	بَعض	DET	PDT	Case=Gen	25	det	_	LId=بَعْض_1|SpaceAfter=No
+24	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	25	det	_	LId=بَعْض_1|SpaceAfter=No
 25	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	obl	_	_
 26	البعض	بَعض	NOUN	NN	Case=Gen|Definite=Def	25	appos	_	LId=بَعْض_1
 27	و	وَ	CCONJ	CC	_	28	cc	_	SpaceAfter=No
@@ -25128,7 +25128,7 @@
 5	1917	1917	NUM	CD	Case=Gen	4	obl	_	LId=١٩١٧_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 7	نالت	نَال	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=نال-ُ_1
-8	بعض	بَعض	DET	PDT	Case=Nom	9	det	_	LId=بَعْض_1
+8	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	9	det	_	LId=بَعْض_1
 9	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nsubj	_	LId=دَوْلَة_1
 10	استقلال	اِستِقلَال	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	LId=ٱِسْتِقْلال_1|SpaceAfter=No
 11	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nmod	_	SpaceAfter=No
@@ -26534,7 +26534,7 @@
 4	عشر	عَشَر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|NumType=Ord	3	flat	_	Gloss=tenth|LId=عَشَر_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	استخدم	اِستَخدَم	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِسْتَخْدَم_1
-7	بعض	بَعض	DET	PDT	Case=Nom	8	det	_	LId=بَعْض_1
+7	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	8	det	_	LId=بَعْض_1
 8	الكتاب	كاتِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	LId=كاتِب_1
 9	اسم	اِسم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	LId=ٱِسْم_1
 10	بوليا	بَولِيّ	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	LId=بَوْلِيّ_1
@@ -26882,7 +26882,7 @@
 23	العشاء	عَشَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=عَشاء_1|SpaceAfter=No
 24	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 25	ألفت	أَلِف	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	advcl	_	LId=أَلِف-َ_1
-26	بعض	بَعض	DET	PDT	Case=Nom	27	det	_	LId=بَعْض_1|SpaceAfter=No
+26	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	27	det	_	LId=بَعْض_1|SpaceAfter=No
 27	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj:pass	_	_
 28	من	مِن	ADP	IN	_	30	case	_	LId=مِن_1
 29	قبل	قَبلَ	ADP	IN	_	28	fixed	_	LId=قِبَل_1
@@ -26936,7 +26936,7 @@
 11	بين	بَينَ	ADP	IN	_	10	fixed	_	LId=بَيْنَ_1|SpaceAfter=No
 12	هما	هُوَ	PRON	PRP	Case=Gen|Number=Dual|Person=3|PronType=Prs	10	obj	_	_
 13	وضع	وَضع	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=وَضْع_1
-14	بعض	بَعض	DET	PDT	Case=Acc	15	det	_	LId=بَعْض_1
+14	بعض	بَعض	DET	PDT	Case=Acc|PronType=Ind	15	det	_	LId=بَعْض_1
 15	اللمسات	لَمسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	obj	_	LId=لَمْسَة_1
 16	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
 17	التوزيعات	تَوزِيع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	LId=تَوْزِيع_1
