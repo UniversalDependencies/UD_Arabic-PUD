@@ -38,6 +38,7 @@ employ ten-fold cross-validation.
 
 * 2025-11-15 v2.17
   * Added VerbForm=Fin to verbs with Mood.
+  * Added PronType=Prs to pronouns and determiners.
 * 2022-11-15 v2.11
   * Fixed some annotation/validation errors.
   * Lemmas converted to Arabic script, preferably PADT-like.
@@ -122,7 +123,7 @@ License: CC BY-SA 3.0
 Includes text: yes
 Parallel: pud
 Genre: news wiki
-Lemmas: not available
+Lemmas: automatic
 UPOS: converted from manual
 XPOS: not available
 Features: converted from manual
