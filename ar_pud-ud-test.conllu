@@ -22978,8 +22978,8 @@
 1	وفقاً	وِفق	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	7	advcl	_	LId=وِفْق_1
 2	ل	لِ	ADP	IN	_	3	case	_	SpaceAfter=No
 3	جريدة	جَرِيدَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=جَرِيدَة_1
-4	لو	لَو	DET	DT	_	5	det	_	LId=لَوْ_1|Proper=True
-5	فيغارو	فِيغارُو	PROPN	NNP	Number=Sing	3	nmod	_	LId=فِيغارُو_1|SpaceAfter=No
+4	لو	لَو	DET	DT	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Lang=fr|LId=لَوْ_1|Proper=True|Translit=law
+5	فيغارو	فِيغارُو	PROPN	NNP	Foreign=Yes|Gender=Masc|Number=Sing	3	nmod	_	Lang=fr|LId=فِيغارُو_1|SpaceAfter=No|Translit=figaru
 6	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 7	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَمْكَن_1
 8	ل	لِ	ADP	IN	_	10	case	_	SpaceAfter=No
