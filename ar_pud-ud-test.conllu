@@ -1677,7 +1677,7 @@
 29	أن	أَن	ADP	IN	_	30	mark	_	LId=أَنْ_1
 30	يكون	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	xcomp	_	LId=كان-ُ_1
 31	ل	لِ	ADP	IN	_	32	case	_	SpaceAfter=No
-32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	30	obl	_	LId=ذٰلِكَ_1
+32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	30	obl	_	LId=ذٰلِكَ_1
 33	أي	أَيّ	DET	WDT	Case=Nom	34	det	_	LId=أَيّ_1
 34	تأثيرات	تَأثِير	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	30	nsubj	_	LId=تَأْثِير_1
 35	كبيرة	كَبِير	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	34	amod	_	LId=كَبِير_1
@@ -1835,7 +1835,7 @@
 8	غير	غَير	PART	RP	Polarity=Neg	9	advmod	_	LId=غَيْر_1
 9	تقليدية	تَقلِيدِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	amod	_	LId=تَقْلِيدِيّ_1
 10	قبل	قَبلَ	ADP	IN	_	11	case	_	LId=قَبْل_1
-11	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+11	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 # newdoc id = n01027
@@ -1876,7 +1876,7 @@
 1	سألت	سَأَل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=سَأَل-َ_1|SpaceAfter=No
 2	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 3	بعد	بَعدَ	ADP	IN	_	4	case	_	LId=بَعْد_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1
 5	إن	إِن	ADP	IN	_	7	mark	_	LId=إِنْ_1
 6	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=كان-ُ_1
 7	تفهم	أَفهَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=فَهِم-َ_1
@@ -2319,7 +2319,7 @@
 # text_en = However, they could not find this same pattern in tissues such as the bladder, which are not directly exposed.
 1	و	و	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	لم	لَم	PART	RP	Polarity=Neg	6	advmod	_	LId=لَمْ_1
 6	يتمكنوا	تَمَكَّن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=تَمَكَّن_1
@@ -3209,7 +3209,7 @@
 7	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	المكافآت	مُكافَأَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	conj	_	LId=مُكافَأَة_1
 9	ل	لِ	ADP	IN	_	11	case	_	SpaceAfter=No
-10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	11	det	_	LId=ذٰلِكَ_1
+10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	LId=ذٰلِكَ_1
 11	العام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=عامّ_1
 12	1,5	1,5	NUM	CD	_	14	nummod	_	LId=١,٥_0
 13	مليون	مليون	NUM	CD	Case=Gen|Gender=Masc|Number=Plur	12	nummod	_	LId=مِلْيُون_1
@@ -3272,7 +3272,7 @@
 1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	أدى	أَدَّى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَدَّى_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=ذٰلِكَ_1
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	LId=ذٰلِكَ_1
 5	خلال	خِلَالَ	ADP	IN	_	6	case	_	LId=خِلال_1
 6	اليومين	يَوم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	3	obl	_	LId=يَوْم_1
 7	الماضيين	مَاضِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	6	amod	_	LId=ماضِي_1
@@ -3859,7 +3859,7 @@
 12	الرجال	رَجُل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nsubj	_	LId=رَجُل_1
 13	يتمتعون	تَمَتَّع	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=تَمَتَّع_1
 14	ب	بِ	ADP	IN	_	15	case	_	SpaceAfter=No
-15	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	LId=ذٰلِكَ_1
+15	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	obl	_	LId=ذٰلِكَ_1
 16	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 17	بونو	بونو	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	LId=بونو_0
 18	أحد	أَحَد	DET	PDT	Case=Nom	20	det	_	LId=أَحَد_1
@@ -4090,7 +4090,7 @@
 # text_en = Still, there are questions left unanswered.
 1	و	و	PART	RP	_	5	compound:prt	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	ظلت	ظَلّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ظَلّ-َ_1
 6	هناك	هُنَاكَ	ADV	RB	_	5	advmod	_	LId=هُناكَ_1
@@ -4571,7 +4571,7 @@
 9	فني	فَنِّيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	LId=فَنِّيّ_1
 10	أو	أَو	CCONJ	CC	_	12	cc	_	LId=أَوْ_1
 11	غير	غَير	PART	RP	Polarity=Neg	12	advmod	_	LId=غَيْر_1
-12	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	LId=ذٰلِكَ_1|SpaceAfter=No
+12	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	conj	_	LId=ذٰلِكَ_1|SpaceAfter=No
 13	:	:	PUNCT	:	_	8	punct	_	LId=:_0
 14	إزعاج	إِزعاج	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	appos	_	LId=إِزْعاج_1
 15	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
@@ -5593,7 +5593,7 @@
 1	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LId=أَمْكَن_1|SpaceAfter=No
 2	ني	هُوَ	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
 3	فعل	فِعل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=فِعْل_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LId=ذٰلِكَ_1
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	LId=ذٰلِكَ_1
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	حيات	حَياة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=حَياة_1|SpaceAfter=No
 7	ي	هُوَ	PRON	PRP	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod	_	_
@@ -6264,7 +6264,7 @@
 2	أن	أَن	ADP	IN	_	3	mark	_	LId=أَنْ_1
 3	ألعب	عَبّ	NOUN	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	LId=عَبّ_1
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
-5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	LId=ذٰلِكَ_1
+5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	LId=ذٰلِكَ_1
 6	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 7	أنا	هُوَ	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LId=أَنا_2
 8	أبحث	بَحَث	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=بَحَث-َ_1
@@ -6275,7 +6275,7 @@
 13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj	_	LId=الَّذِي_1
 14	تفي	وَفَى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	LId=وَفَى-ِ_1
 15	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
-16	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det	_	LId=ذٰلِكَ_1
+16	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	LId=ذٰلِكَ_1
 17	الغرض	غَرَض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	LId=غَرَض_1
 18	ل	لِ	ADP	IN	_	14	case	_	SpaceAfter=No
 19	أن	أَنَّ	SCONJ	IN	_	22	mark	_	LId=أَنَّ_1|SpaceAfter=No
@@ -6343,7 +6343,7 @@
 18	ما	مَا	PART	RP	_	19	compound:prt	_	LId=ما_4
 19	نتج	نَتَج	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	advcl	_	LId=نَتَج-ِ_1
 20	عن	عَن	ADP	IN	_	21	case	_	LId=عَن_1
-21	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	19	obl	_	LId=ذٰلِكَ_1
+21	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	19	obl	_	LId=ذٰلِكَ_1
 22	حظرٌ	حَظر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	19	nsubj	_	LId=حَظْر_1
 23	أو	أَو	CCONJ	CC	_	24	cc	_	LId=أَوْ_1
 24	فرضت	فَرَض	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	19	conj	_	LId=فَرَض-ِ_1
@@ -6917,7 +6917,7 @@
 # original_text = بعد ذلك, جولة في السوق الصباحية (من 6:30 إلى 10:00 صباحا): حلوى الأرز, وشرانق الدبابير (تعد الشرانق طعاما شهيا), ورئة الثور, وقشور وأرواق شجر جوز الأريكا, والضفادع وأسماك السلور.
 # text_en = Afterwards, browse at the morning market (6.30-10am): rice lollipops, wasp cocoons (the pupae are considered a delicacy), buffalo lung, betel-nut bark and leaves, live toads and catfish.
 1	بعد	بَعدَ	ADP	IN	_	0	root	_	LId=بَعْد_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 4	جولة	جَولَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	LId=جَوْلَة_1
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
@@ -7162,7 +7162,7 @@
 12	لكن	ل`كِن	ADP	IN	_	21	mark	_	LId=لٰكِنْ_1
 13	أن	أَنَّ	SCONJ	IN	_	14	mark	_	LId=أَنَّ_1
 14	يحدث	حَدَث	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	LId=حَدَث-ُ_1
-15	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	LId=ذٰلِكَ_1
+15	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	LId=ذٰلِكَ_1
 16	ثلاث	ثلاث	NUM	CD	Case=Acc|Gender=Masc|Number=Plur	17	nummod	_	LId=ثَلاث_1
 17	مرات	مَرَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	14	obj	_	LId=مَرَّة_1
 18	متتالية	مُتَتَالِي	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	17	amod	_	LId=مُتَتالِي_1
@@ -7362,7 +7362,7 @@
 # text_en = It has also opened VW up to huge compensation claims, legal action and has seen it take more than €16bn of provisions.
 1	كما	كَما	PART	RP	_	2	compound:prt	_	LId=كَما_1
 2	عرض	عَرَض	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=عَرَض-ِ_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LId=ذٰلِكَ_1
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	LId=ذٰلِكَ_1
 4	فولكسفاغن	فُولكسفاجِن	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	LId=فُولكسْفاجِن_1
 5	إلى	إِلَى	ADP	IN	_	6	case	_	LId=إِلَى_1
 6	طلبات	طَلَب	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	2	obl	_	LId=طَلَب_2
@@ -7375,7 +7375,7 @@
 13	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	يعتقد	اِعتَقَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	LId=ٱِعْتَقَد_1
 15	أن	أَنَّ	SCONJ	IN	_	18	mark	_	LId=أَنَّ_1
-16	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	18	nsubj	_	LId=ذٰلِكَ_1
+16	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	LId=ذٰلِكَ_1
 17	قد	قَد	PART	RP	_	18	compound:prt	_	LId=قَدْ_1
 18	يفوق	فَاق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	LId=فاق-ُ_1
 19	16	16	NUM	CD	_	21	nummod	_	LId=١٦_0
@@ -7465,7 +7465,7 @@
 18	لكن	ل`كِنَّ	ADP	IN	_	22	mark	_	LId=لٰكِنَّ_1
 19	بدلاً	بَدَل	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	22	advcl	_	LId=بَدَل_1
 20	من	مِن	ADP	IN	_	21	case	_	LId=مِن_1
-21	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	19	obl	_	LId=ذٰلِكَ_1
+21	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	19	obl	_	LId=ذٰلِكَ_1
 22	تمكنت	تَمَكَّن	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	5	advcl	_	LId=تَمَكَّن_1
 23	من	مِن	ADP	IN	_	24	case	_	LId=مِن_1
 24	مواصلة	مُوَاصَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	22	obl	_	LId=مُواصَلَة_1
@@ -7651,7 +7651,7 @@
 # text_en = If they did, Premium Bonds would be indistinguishable from ordinary savings accounts.
 1	إذا	إِذا	ADP	IN	_	2	mark	_	LId=إِذا_1
 2	فعلوا	فَعَل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	6	advcl	_	LId=فَعَل-َ_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 5	لن	لَن	PART	RP	Polarity=Neg	6	advmod	_	LId=لَنْ_1
 6	يكون	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=كان-ُ_1
@@ -8038,7 +8038,7 @@
 6	الطاقة	طَاقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	LId=طاقَة_1|SpaceAfter=No
 7	؟	؟	PUNCT	.	_	10	punct	_	LId=?_0
 8	أو	أَو	CCONJ	CC	_	10	cc	_	LId=أَوْ_1
-9	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	10	det	_	LId=ذٰلِكَ_1
+9	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	LId=ذٰلِكَ_1
 10	الصوت	صَوت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	LId=صَوْت_1
 11	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	LId=الَّذِي_1
 12	يخرج	خَرَج	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	LId=خَرَج-ُ_1
@@ -8475,7 +8475,7 @@
 1	قد	قَد	PART	RP	_	5	compound:prt	_	LId=قَدْ_1
 2	لا	لَا	PART	RP	Polarity=Neg	5	advmod	_	LId=لا_1
 3	يكون	كَان	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	LId=كان-ُ_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LId=ذٰلِكَ_1
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	LId=ذٰلِكَ_1
 5	مهماً	مُهِمّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُهِمّ_1
 6	بما	ما	ADP	IN	_	9	mark	_	LId=ما_1
 7	أن	أَنَّ	SCONJ	IN	_	6	fixed	_	LId=أَنَّ_1|SpaceAfter=No
@@ -8483,7 +8483,7 @@
 9	أنزعج	ٱِنزَعَج	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	LId=ٱِنْزَعَج_1
 10	طويلاً	طَوِيل	ADV	RB	_	9	advmod	_	LId=طَوِيل_1
 11	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
-12	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+12	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	9	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	LId=._0
 
 # newdoc id = n01125
@@ -8564,7 +8564,7 @@
 # original_text = بعد ذلك بسنتين, يحاكم جوتينغ, الذي بلغ الحادية والثلاثين من عمره الآن, أمام المحكمة العليا في هونغ كونغ, بتهمة قتل شخصين وبتهمة منع الدفن بشكل قانوني.
 # text_en = Two years later, Jutting, now 31, is on trial at Hong Kong's High Court, charged with two counts of murder and one of preventing lawful burial.
 1	بعد	بَعدَ	ADP	IN	_	2	case	_	LId=بَعْد_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=ذٰلِكَ_1
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1
 3	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 4	سنتين	سَنَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Dual	2	nmod	_	LId=سَنَة_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
@@ -8676,7 +8676,7 @@
 # text_en = As a result, many people quickly open emails or mindlessly click on links and attachments with nary a thought of its consequences.
 1	نتيجة	نَتِيجَة	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Fem	5	advcl	_	LId=نَتِيجَة_1
 2	ل	لِ	ADP	IN	_	3	case	_	SpaceAfter=No
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 5	فتح	فَتح	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=فَتْح_1
 6	الكثيرون	كَثِير	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	5	nsubj	_	LId=كَثِير_2
@@ -8697,7 +8697,7 @@
 21	التفكير	تَفكِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	LId=تَفْكِير_1
 22	في	فِي	ADP	IN	_	23	case	_	LId=فِي_1
 23	عواقب	عَاقِبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	21	nmod	_	LId=عاقِبَة_1
-24	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	LId=ذٰلِكَ_1|SpaceAfter=No
+24	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	23	appos	_	LId=ذٰلِكَ_1|SpaceAfter=No
 25	.	.	PUNCT	.	_	5	punct	_	LId=._0
 
 # newdoc id = n01128
@@ -9950,7 +9950,7 @@
 4	نتمكن	تَمَكَّن	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	LId=تَمَكَّن_1
 5	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
 6	إنقاذ	إِنقَاذ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=إِنْقاذ_1
-7	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LId=ذٰلِكَ_1
+7	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	nmod	_	LId=ذٰلِكَ_1
 8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	إلباس	إِلباس	VERB	VBG	Case=Gen|Definite=Def|Gender=Masc	6	conj	_	LId=إِلْباس_1|SpaceAfter=No
 10	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
@@ -10213,7 +10213,7 @@
 7	الهند	هِند	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	LId=هِنْد_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 9	يفترض	اِفتَرَض	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=supposed|LId=ٱِفْتَرَض_1
-10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=that|LId=ذٰلِكَ_1
+10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	Gloss=that|LId=ذٰلِكَ_1
 11	أن	أَنَّ	SCONJ	IN	_	13	mark	_	Gloss=that|LId=أَنَّ_1
 12	يكون	كَان	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	Gloss=is|LId=كان-ُ_1
 13	مدعاةً	مَدعاة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	csubj:pass	_	Gloss=pretense|LId=مَدْعاة_1
@@ -10605,7 +10605,7 @@
 # text_en = Moreover, many of the Macedonian and Persian elite intermarried.
 1	علاوةً	عِلاوَة	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Fem	5	advcl	_	LId=عِلاوَة_1
 2	على	عَلَى	ADP	IN	_	3	case	_	LId=عَلَى_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 5	حدثت	حَدَث	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=حَدَث-ُ_1
 6	حالات	حَالَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nsubj	_	LId=حالَة_1
@@ -10767,7 +10767,7 @@
 # original_text = مع ذلك, ثمة اختلافات كبيرة في القوانين والإجراءات بين إيرلندا الشمالية وإنجلترا وويلز.
 # text_en = However, there are important differences in law and procedure between Northern Ireland and England and Wales.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	ثمة	ثَمَّةَ	ADV	RB	_	0	root	_	LId=ثَمَّةَ_1
 5	اختلافات	اِختِلَاف	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	4	nsubj	_	LId=ٱِخْتِلاف_1
@@ -11018,7 +11018,7 @@
 1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 2	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=إِضافَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 6	يحدد	حَدَّد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=حَدَّد_1
 7	النظام	نِظَام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	LId=نِظام_1
@@ -11860,7 +11860,7 @@
 # text_en = It resulted, however, in the abandonment of important pieces of heavy artillery, and it remains a matter of historical debate why the railway to Flensburg was never properly used for the evacuation.
 1	لكن	ل`كِنَّ	PART	RP	_	2	compound:prt	_	LId=لٰكِنَّ_1
 2	أسفر	أَسفَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَسْفَر_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LId=ذٰلِكَ_1
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	LId=ذٰلِكَ_1
 4	عن	عَن	ADP	IN	_	5	case	_	LId=عَن_1
 5	التخلي	تَخَلِّي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=تَخَلِّي_1
 6	عن	عَن	ADP	IN	_	7	case	_	LId=عَن_1
@@ -11937,7 +11937,7 @@
 5	حوزة	حَوزَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	LId=حَوْزَة_1
 6	الألمان	أَلمانِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	LId=أَلْمانِيّ_1
 7	منذ	مُنذُ	ADP	IN	_	9	case	_	LId=مُنْذُ_1
-8	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	9	det	_	LId=ذٰلِكَ_1
+8	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	LId=ذٰلِكَ_1
 9	الحين	حِين	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=حِين_1|SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
@@ -13017,7 +13017,7 @@
 17	مدينة	مَدِينَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	LId=مَدِينَة_1
 18	بريزبن	بريزبن	PROPN	NNP	Gender=Fem|Number=Sing	17	nmod	_	LId=بريزبن_0
 19	في	فِي	ADP	IN	_	21	case	_	LId=فِي_1
-20	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	det	_	LId=ذٰلِكَ_1
+20	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	LId=ذٰلِكَ_1
 21	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=وَقْت_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	23	punct	_	LId=,_0
 23	سالي	سَأَل	PROPN	NNP	Gender=Fem|Number=Sing	13	appos	_	LId=سَأَل-َ_1|SpaceAfter=No
@@ -13239,7 +13239,7 @@
 # text_en = Meanwhile, additional controls of the Nile fostered development within Gezira Island and along the city's waterfront.
 1	في	فِي	ADP	IN	_	2	case	_	LId=فِي_1
 2	غضون	غُضُون	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	obl	_	LId=غُضُون_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 5	شجعت	شَجَّع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=شَجَّع_1
 6	القدرة	قُدرَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	LId=قُدْرَة_1
@@ -13354,7 +13354,7 @@
 21	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 22	و	وَ	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 23	من	مِن	ADP	IN	_	24	case	_	LId=مِن_1
-24	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	LId=ذٰلِكَ_1
+24	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	31	nmod	_	LId=ذٰلِكَ_1
 25	صار	صار	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	conj	_	LId=صار_1
 26	اسم	اِسم	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	25	nsubj	_	LId=ٱِسْم_1
 27	"	"	PUNCT	``	_	28	punct	_	LId="_0|SpaceAfter=No
@@ -14075,7 +14075,7 @@
 26	تحتمس	تُحُتمِس	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	LId=تُحُتْمِس_1
 27	الثالث	ثَالِث	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	26	amod	_	LId=ثالِث_1|Proper=True
 28	قبل	قَبلَ	ADP	IN	_	29	case	_	LId=قَبْل_1
-29	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	obl	_	LId=ذٰلِكَ_1
+29	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	21	obl	_	LId=ذٰلِكَ_1
 30	ب	بِ	ADP	IN	_	33	case	_	SpaceAfter=No
 31	نحو	نَحو	ADV	RB	_	32	advmod	_	LId=نَحْو_1
 32	120	120	NUM	CD	_	33	nummod	_	LId=١٢٠_0
@@ -14148,7 +14148,7 @@
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	القدس	قُدس	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	LId=قُدْس_1
 8	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
-9	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	10	det	_	LId=ذٰلِكَ_1
+9	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	LId=ذٰلِكَ_1
 10	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=وَقْت_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 12	قرر	قَرَّر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قَرَّر_1
@@ -14215,7 +14215,7 @@
 14	شهرٌ	شَهر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj:pass	_	LId=شَهْر_1
 15	استثنائيٌ	ٱِستِثنائِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	14	amod	_	LId=ٱِسْتِثْنائِيّ_1
 16	إلى	إِلَى	ADP	IN	_	18	case	_	LId=إِلَى_1
-17	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	18	det	_	LId=ذٰلِكَ_1
+17	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	LId=ذٰلِكَ_1
 18	العام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	LId=عامّ_1|SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	LId=,_0
 20	لكن	ل`كِنَّ	ADP	IN	_	22	mark	_	LId=لٰكِنَّ_1
@@ -14732,7 +14732,7 @@
 # original_text = كان ذلك عبر القارب من أوروبا القارية.
 # text_en = This was by boat from continental Europe.
 1	كان	كَان	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كان-ُ_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LId=ذٰلِكَ_1
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	LId=ذٰلِكَ_1
 3	عبر	عَبر	ADP	IN	_	4	case	_	LId=عَبْر_1
 4	القارب	قارِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=قارِب_1
 5	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
@@ -15061,7 +15061,7 @@
 1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 2	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=إِضافَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 6	عزز	عَزَّز	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=عَزَّز_1
 7	الدفاعات	دَفّاع	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	6	obj	_	LId=دَفّاع_1
@@ -15094,7 +15094,7 @@
 7	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	يدل	دَلّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=دَلّ-ُ_1
 9	على	عَلَى	ADP	IN	_	10	case	_	LId=عَلَى_1
-10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	LId=ذٰلِكَ_1
+10	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	obl	_	LId=ذٰلِكَ_1
 11	عدم	عَدَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	LId=عَدَم_1
 12	اكتمال	ٱِكتِمال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=ٱِكْتِمال_1
 13	العديد	عَدِيد	NOUN	NN	Case=Gen|Definite=Def|Number=Sing	12	nmod	_	LId=عَدِيد_1
@@ -15112,7 +15112,7 @@
 1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 6	يبدو	بَدَا	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=بَدا-ُ_1
 7	أن	أَنَّ	SCONJ	IN	_	10	mark	_	LId=أَنَّ_1
@@ -16438,7 +16438,7 @@
 # text_en = However, it was too oriented to small posts in the West and not as well-prepared for an overseas conflict.
 1	و	و	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	cop	_	LId=كان-ُ_1
 6	موجهاً	مُوَجَّه	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُوَجَّه_1
@@ -16626,7 +16626,7 @@
 # original_text = مع ذلك كانت هناك دراسات ديمغرافية وسكانية معمقة تتضمن النساء, وخصوصا أدوارهن في الإنجاب.
 # text_en = There has, however, been extensive statistical analysis of demographic and population data which includes women, especially in their childbearing roles.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	LId=ذٰلِكَ_1
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	LId=ذٰلِكَ_1
 3	كانت	كَان	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كان-ُ_1
 4	هناك	هُنَاكَ	ADV	RB	_	3	advmod	_	LId=هُناكَ_1
 5	دراسات	دِرَاسَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	3	nsubj	_	LId=دِراسَة_1
@@ -16674,7 +16674,7 @@
 # original_text = في ذلك الوقت, لم تكن تعيش هناك سوى أربعين عائلة تقريبا مع الكثير من الأراضي الزراعية الجيدة والمراعي من أجل الماشية.
 # text_en = At this time there were only around forty families living there with plenty of good farming land and grazing for cattle.
 1	في	فِي	ADP	IN	_	3	case	_	LId=فِي_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	LId=ذٰلِكَ_1
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	LId=ذٰلِكَ_1
 3	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=وَقْت_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	لم	لَم	PART	RP	Polarity=Neg	6	advmod	_	LId=لَمْ_1
@@ -18174,7 +18174,7 @@
 9	تصوير	تَصوِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=تَصْوِير_1
 10	فيلم	فِيلم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=فِيلْم_1
 11	"	"	PUNCT	``	_	13	punct	_	LId="_0|SpaceAfter=No
-12	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	13	det	_	LId=ذٰلِكَ_1|Proper=True
+12	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	LId=ذٰلِكَ_1|Proper=True
 13	الصيف	صَيف	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	nmod	_	LId=صَيْف_1|SpaceAfter=No
 14	"	"	PUNCT	''	_	13	punct	_	LId="_0
 15	عام	عام	ADV	RB	_	1	obl:tmod	_	LId=عام_1
@@ -18315,7 +18315,7 @@
 # original_text = مع ذلك, أعلن خصمه فرابوو سوبيانتو انتصاره أيضا, مما ترك المواطنين الإندونيسيين في حيرة.
 # text_en = However, his rival Prabowo Subianto also declared victory, leaving Indonesian citizens confused.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	أعلن	أَعلَن	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَعْلَن_1
 5	خصم	خَصم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=خَصْم_1|SpaceAfter=No
@@ -18775,7 +18775,7 @@
 # original_text = مع ذلك, لم تلق المزيد من التقدير العلني لمقاومتها في زمن الحرب ولعملها الإنساني, حتى بعد انتهاء الحكم الشيوعي في بولندا.
 # text_en = However, there was no further public recognition of her wartime resistance and humanitarian work until after the end of communist rule in Poland.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	لم	لَم	PART	RP	Polarity=Neg	5	advmod	_	LId=لَمْ_1
 5	تلق	لَقِي	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=لَقِي-َ_1
@@ -19138,7 +19138,7 @@
 # text_en = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	حلول	حَلّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=حَلّ_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	det	_	LId=ذٰلِكَ_1
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	LId=ذٰلِكَ_1
 4	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=وَقْت_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	أوصل	أَوصَل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَوْصَل_1|SpaceAfter=No
@@ -19289,7 +19289,7 @@
 27	آخر	آخِر	DET	PDT	Case=Acc	28	det	_	LId=آخِر_1
 28	سائق	سَائِق	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	conj	_	LId=سائِق_1
 29	يحمل	حَمَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl:relcl	_	LId=حَمَل-ِ_1
-30	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	31	det	_	LId=ذٰلِكَ_1
+30	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	31	det	_	LId=ذٰلِكَ_1
 31	اللقب	لَقَب	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	29	obj	_	LId=لَقَب_1|SpaceAfter=No
 32	.	.	PUNCT	.	_	4	punct	_	LId=._0
 
@@ -19824,7 +19824,7 @@
 # original_text = في ذلك العام أيضا, ظهرت بشكل وجيز في فيلم ديزني "الدمى المتحركة", كموظفة الاستقبال الخاصة بالآنسة بيغي.
 # text_en = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
 1	في	فِي	ADP	IN	_	3	case	_	LId=فِي_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	3	det	_	LId=ذٰلِكَ_1
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	LId=ذٰلِكَ_1
 3	العام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=عامّ_1
 4	أيضاً	أَيضًا	ADV	RB	_	3	advmod	_	LId=أَيْضاً_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	LId=,_0
@@ -20997,7 +20997,7 @@
 # text_en = Instead, they decided that Albania would be under Ottoman suzerainty but with an autonomous government.
 1	بدلاً	بَدَل	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	5	advcl	_	LId=بَدَل_1
 2	من	مِن	ADP	IN	_	3	case	_	LId=مِن_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 5	قرروا	قَرَّر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قَرَّر_1
 6	أن	أَن	ADP	IN	_	9	mark	_	LId=أَنْ_1
@@ -21752,7 +21752,7 @@
 # original_text = مع ذلك, شكل نهائي الموسم بالنسبة إلى كيربر نهاية لعام استثنائي.
 # text_en = For Kerber, the season finale nevertheless marks the end of an unbelievable year.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	11	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	شكل	شَكَّل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=شَكَّل_1
 5	نهائي	نِهَائِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=نِهائِيّ_2
@@ -22343,7 +22343,7 @@
 20	قصوى	أَقصَى	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	19	amod	_	LId=أَقْصَى_3
 21	و	وَ	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 22	وثقتا	وَثِق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Dual|Person=3|Tense=Past|Voice=Act	9	conj	_	LId=وَثِق-َِ_1
-23	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	LId=ذٰلِكَ_1
+23	ذلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	22	obj	_	LId=ذٰلِكَ_1
 24	بدءاً	بَدء	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Masc	22	advcl	_	LId=بَدْء_1
 25	من	مِن	ADP	IN	_	26	case	_	LId=مِن_1
 26	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	obl	_	LId=عام_1
@@ -23777,7 +23777,7 @@
 2	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 4	مع	مَعَ	ADP	IN	_	5	case	_	LId=مَع_1
-5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	9	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 7	لم	لَم	PART	RP	Polarity=Neg	9	advmod	_	LId=لَمْ_1
 8	تكن	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	LId=كان-ُ_1
@@ -23837,7 +23837,7 @@
 # text_en = Furthermore, the Government will have to deal with another "hot potato".
 1	علاوةً	عِلاوَة	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Fem	6	advcl	_	LId=عِلاوَة_1
 2	على	عَلَى	ADP	IN	_	3	case	_	LId=عَلَى_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 5	س	سَ	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 6	يتحتم	تَحَتَّم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=تَحَتَّم_1
@@ -24190,7 +24190,7 @@
 # text_en = As a result, Trump isn't very worried about the Latin American vote at a national level.
 1	نتيجةً	نَتِيجَة	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Fem	7	advcl	_	LId=نَتِيجَة_1
 2	ل	لِ	ADP	IN	_	3	case	_	SpaceAfter=No
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 5	ترامب	ترامب	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	LId=ترامب_0
 6	ليس	لَيس	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	cop	_	LId=لَيْسَ_1
@@ -25618,7 +25618,7 @@
 29	قيام	قِيَام	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	27	nmod	_	LId=قِيام_1
 30	بالمر	مَرّ	PROPN	NNP	Gender=Masc|Number=Sing	29	nsubj	_	LId=مَرّ_1
 31	ب	بِ	ADP	IN	_	32	case	_	SpaceAfter=No
-32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	29	obl	_	LId=ذٰلِكَ_1
+32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	29	obl	_	LId=ذٰلِكَ_1
 33	في	فِي	ADP	IN	_	34	case	_	LId=فِي_1
 34	تشرين	تِشرِين	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	29	obl	_	LId=تِشْرِين_1
 35	الثاني	ثَانِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	34	amod	_	LId=ثانِي_1|Proper=True
@@ -25694,7 +25694,7 @@
 # original_text = مع ذلك, أجبر بيروس على ترك صقلية من أجل حضور أعمال تجارية في جنوب إيطاليا.
 # text_en = However, Pyrrhus was forced to leave Sicily in order to attend to business in southern Italy.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	أجبر	أَجبَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=أَجْبَر_1
 5	بيروس	بيروس	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj:pass	_	LId=بيروس_0
@@ -25904,7 +25904,7 @@
 # original_text = مع ذلك, لم يتوسعوا إلى أن صنعت سفن كبيرة بما يكفي لعبور البحار.
 # text_en = However, they did not expand until ships big enough to cross seas were built.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	لم	لَم	PART	RP	Polarity=Neg	5	advmod	_	LId=لَمْ_1
 5	يتوسعوا	تَوَسَّع	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=تَوَسَّع_1
@@ -25946,7 +25946,7 @@
 17	تكن	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	LId=كان-ُ_1
 18	متبعة	مُتَّبَع	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	15	acl:relcl	_	LId=مُتَّبَع_1
 19	حتى	حَتَّى	ADP	IN	_	21	case	_	LId=حَتَّى_1
-20	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	21	det	_	LId=ذٰلِكَ_1
+20	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	LId=ذٰلِكَ_1
 21	الحين	حِين	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	LId=حِين_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -26072,7 +26072,7 @@
 2	لابتعاد	ٱِبتِعاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=ٱِبْتِعاد_1
 3	عن	عَن	ADP	IN	_	5	case	_	LId=عَن_1
 4	كل	كُلّ	DET	PDT	Case=Gen	5	det	_	LId=كُلّ_1
-5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
+5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 7	أقام	أَقَام	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَقام_1
 8	آل	آل	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	LId=آل_1
@@ -26207,7 +26207,7 @@
 14	قد	قَد	PART	RP	_	15	compound:prt	_	LId=قَدْ_1
 15	اعترف	اِعتَرَف	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	LId=ٱِعْتَرَف_1
 16	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
-17	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	LId=ذٰلِكَ_1
+17	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	15	obl	_	LId=ذٰلِكَ_1
 18	بعد	بَعدَ	ADP	IN	_	19	case	_	LId=بَعْد_1
 19	فترة	فَترَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	15	obl	_	LId=فَتْرَة_1
 20	وجيزة	وَجِيز	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	19	amod	_	LId=وَجِيز_1|SpaceAfter=No
@@ -26253,7 +26253,7 @@
 # text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
 1	علاوةً	عِلاوَة	NOUN	VBG	Case=Acc|Definite=Ind|Gender=Fem	11	advcl	_	LId=عِلاوَة_1
 2	على	عَلَى	ADP	IN	_	3	case	_	LId=عَلَى_1
-3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	LId=,_0
 5	ف	ف	PART	RP	_	11	compound:prt	_	SpaceAfter=No
 6	إن	إِنَّ	PART	RP	_	11	compound:prt	_	LId=إِنَّ_1
@@ -26565,7 +26565,7 @@
 8	ترك	تَرك	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl	_	LId=تَرْك_1
 9	المواجهة	مُوَاجَهَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	LId=مُواجَهَة_1
 10	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1
-11	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	12	det	_	LId=ذٰلِكَ_1
+11	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	LId=ذٰلِكَ_1
 12	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=وَقْت_1
 13	تقريباً	تَقرِيب	ADV	RB	_	8	advmod	_	LId=تَقْرِيب_1
 14	ل	لِ	ADP	IN	_	15	mark	_	SpaceAfter=No
@@ -26897,7 +26897,7 @@
 # original_text = مع ذلك, انهارت الصداقة بسبب التعاون غير الرسمي بين الاثنين, والذي أدى إلى نزاعات قانونية.
 # text_en = However, the friendship has fallen apart due to unofficial collaborations between the two, which has given rise to legal disputes.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	انهارت	ٱِنهار	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِنْهار_1
 5	الصداقة	صَدَاقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	LId=صَداقَة_1
@@ -27089,7 +27089,7 @@
 # original_text = مع ذلك, أثار الانفصال بينه وبين ليناريس ووقف الخط التقدمي ثورة الحقوق التي أطاحت به عام 1879.
 # text_en = However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	أثار	أَثَار	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَثار_1
 5	الانفصال	اِنفِصَال	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=ٱِنْفِصال_1
@@ -27323,7 +27323,7 @@
 # original_text = مع ذلك, تم اعتراضهم وكان عليهم خوض معركة في فريمان, بالقرب من نهر هدسون.
 # text_en = However, they were intercepted and had to do battle in Freeman, close to the Hudson River.
 1	مع	مَعَ	ADP	IN	_	2	case	_	LId=مَع_1
-2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+2	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	تم	تَمّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=تَمّ-ِ_1
 5	اعتراض	اِعتِرَاض	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=ٱِعْتِراض_1|SpaceAfter=No
@@ -27417,7 +27417,7 @@
 1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
-4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	14	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
+4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 6	لو	لَو	ADP	IN	_	7	mark	_	LId=لَوْ_1
 7	تم	تَمّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	14	advcl	_	LId=تَمّ-ِ_1
@@ -27617,7 +27617,7 @@
 15	قد	قَد	PART	RP	_	16	compound:prt	_	LId=قَدْ_1
 16	انتهت	اِنتَهَى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=ٱِنْتَهَى_1
 17	في	فِي	ADP	IN	_	19	case	_	LId=فِي_1
-18	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	19	det	_	LId=ذٰلِكَ_1
+18	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	LId=ذٰلِكَ_1
 19	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	LId=وَقْت_1|SpaceAfter=No
 20	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
