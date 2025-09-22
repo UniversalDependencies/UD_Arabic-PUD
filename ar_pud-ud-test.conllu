@@ -19420,7 +19420,7 @@
 14	أبو	أَبُو	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	LId=أَب_1|SpaceAfter=No
 15	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 16	على	عَلَى	ADP	IN	_	18	case	_	LId=عَلَى_1
-17	أية	أَيّ	DET	WDT	Case=Gen	18	det	_	LId=أَيّ_1
+17	أية	أَيّ	DET	WDT	Case=Gen|PronType=Ind	18	det	_	LId=أَيّ_1
 18	الأحوال	حَال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	LId=حال_1|SpaceAfter=No
 19	"	"	PUNCT	''	_	13	punct	_	LId="_0
 20	في	فِي	ADP	IN	_	21	case	_	LId=فِي_1
