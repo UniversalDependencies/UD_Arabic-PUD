@@ -6410,7 +6410,7 @@
 # original_text = وماذا عن وضع أستراليا؟
 # text_en = And what about Australia’s position?
 1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
-2	ماذا	ماذا	PRON	WP	Case=Nom	3	nsubj	_	LId=ماذا_1
+2	ماذا	ماذا	PRON	WP	Case=Nom|PronType=Int	3	nsubj	_	LId=ماذا_1
 3	عن	عَن	ADP	IN	_	0	root	_	LId=عَن_1
 4	وضع	وَضع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	LId=وَضْع_1
 5	أستراليا	أُستُرالِيا	PROPN	NNP	Gender=Fem|Number=Sing	4	nmod	_	LId=أُسْتُرالِيا_1|SpaceAfter=No
@@ -23974,11 +23974,11 @@
 # original_text = وماذا عن الأحزاب في ماذا, في الحقوق التاريخية؟
 # text_en = And what about the parties in what, in historical rights?
 1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
-2	ماذا	ماذا	PRON	WP	Case=Nom	0	root	_	LId=ماذا_1
+2	ماذا	ماذا	PRON	WP	Case=Nom|PronType=Int	0	root	_	LId=ماذا_1
 3	عن	عَن	ADP	IN	_	4	case	_	LId=عَن_1
 4	الأحزاب	حِزب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=حِزْب_1
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
-6	ماذا	ماذا	PRON	WP	Case=Gen	4	nmod	_	LId=ماذا_1|SpaceAfter=No
+6	ماذا	ماذا	PRON	WP	Case=Gen|PronType=Int	4	nmod	_	LId=ماذا_1|SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	LId=,_0
 8	في	فِي	ADP	IN	_	9	case	_	LId=فِي_1
 9	الحقوق	حَقّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	LId=حَقّ_1
