@@ -10798,7 +10798,7 @@
 5	قبولاً	قُبُول	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	LId=قَبُول_1
 6	من	مِن	ADP	IN	ExtPos=ADP	9	case	_	LId=مِن_1
 7	بين	بَينَ	ADP	IN	_	6	fixed	_	LId=بَيْنَ_1
-8	جميع	جَمِيع	DET	PDT	Case=Gen	9	det	_	LId=جَمِيع_1
+8	جميع	جَمِيع	DET	PDT	Case=Gen|PronType=Tot	9	det	_	LId=جَمِيع_1
 9	تصنيفات	تَصنِيف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	LId=تَصْنِيف_1
 10	الكتل	كُتلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	LId=كُتْلَة_1
 11	الهوائية	هَوَائِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=هَوائِيّ_2|SpaceAfter=No
@@ -12369,7 +12369,7 @@
 16	و	وَ	CCONJ	CC	_	17	cc	_	SpaceAfter=No
 17	البو	بو	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	LId=بو_0|SpaceAfter=No
 18	,	,	PUNCT	,	_	9	punct	_	LId=,_0
-19	جميع	جَمِيع	DET	PDT	Case=Nom	20	det	_	LId=جَمِيع_1|SpaceAfter=No
+19	جميع	جَمِيع	DET	PDT	Case=Nom|PronType=Tot	20	det	_	LId=جَمِيع_1|SpaceAfter=No
 20	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 21	تنبع	نَبَع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	LId=نَبَع-َُِ_1
 22	من	مِن	ADP	IN	_	23	case	_	LId=مِن_1
@@ -21430,7 +21430,7 @@
 36	,	,	PUNCT	,	_	38	punct	_	LId=,_0
 37	و	وَ	CCONJ	CC	_	38	cc	_	SpaceAfter=No
 38	إلغاء	إِلغَاء	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	22	conj	_	LId=إِلْغاء_1
-39	جميع	جَمِيع	DET	PDT	Case=Gen	40	det	_	LId=جَمِيع_1
+39	جميع	جَمِيع	DET	PDT	Case=Gen|PronType=Tot	40	det	_	LId=جَمِيع_1
 40	العقوبات	عُقُوبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	38	nmod	_	LId=عُقُوبَة_1
 41	على	عَلَى	ADP	IN	_	42	case	_	LId=عَلَى_1
 42	روسيا	رُوسِيا	PROPN	NNP	Gender=Fem|Number=Sing	40	nmod	_	LId=رُوسِيا_1
@@ -24364,7 +24364,7 @@
 24	يستقطب	ٱِستَقطَب	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	LId=ٱِسْتَقْطَب_1
 25	جمهوراً	جُمهُور	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	24	obj	_	LId=جُمْهُور_1
 26	من	مِن	ADP	IN	_	28	case	_	LId=مِن_1
-27	جميع	جَمِيع	DET	PDT	Case=Gen	28	det	_	LId=جَمِيع_1
+27	جميع	جَمِيع	DET	PDT	Case=Gen|PronType=Tot	28	det	_	LId=جَمِيع_1
 28	أنحاء	نَحو	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	25	nmod	_	LId=نَحْو_1
 29	البلاد	بَلَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	28	nmod	_	LId=بَلَد_1|SpaceAfter=No
 30	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -26410,7 +26410,7 @@
 17	ألغا	أَلغَى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	7	conj	_	LId=أَلْغَى_1|SpaceAfter=No
 18	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
 19	من	مِن	ADP	IN	_	21	case	_	LId=مِن_1
-20	جميع	جَمِيع	DET	PDT	Case=Gen	21	det	_	LId=جَمِيع_1
+20	جميع	جَمِيع	DET	PDT	Case=Gen|PronType=Tot	21	det	_	LId=جَمِيع_1
 21	الجرائم	جَرِيمَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	17	obl	_	LId=جَرِيمَة_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	7	punct	_	LId=._0
 
