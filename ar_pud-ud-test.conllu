@@ -5293,7 +5293,7 @@
 7	ذلك	ذ`لِكَ	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	nmod	_	LId=ذٰلِكَ_1
 8	و	وَ	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 9	أنا	هُوَ	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	LId=أَنا_2
-10	أفضل	أَفضَل	ADJ	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=أَفْضَل_2
+10	أفضل	أَفضَل	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=أَفْضَل_2
 11	أن	أَن	ADP	IN	_	12	mark	_	LId=أَنْ_1
 12	يجري	أَجرَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	xcomp	_	LId=أَجْرَى_1
 13	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
@@ -6262,7 +6262,7 @@
 # text_en = I love to play with that and I am always looking for muses that fit that bill because it is so interesting making a collection when I find one.
 1	أحب	أَحَبّ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَحَبّ_1
 2	أن	أَن	ADP	IN	_	3	mark	_	LId=أَنْ_1
-3	ألعب	عَبّ	NOUN	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	LId=عَبّ_1
+3	ألعب	عَبّ	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	LId=عَبّ_1
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	LId=ذٰلِكَ_1
 6	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
@@ -6666,7 +6666,7 @@
 # original_text = لا أسميها وحشا اعتباطا.
 # text_en = I don’t call it a beast lightly.
 1	لا	لَا	PART	RP	Polarity=Neg	2	advmod	_	LId=لا_3
-2	أسمي	ٱِسم	NOUN	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِسْم_1|SpaceAfter=No
+2	أسمي	ٱِسم	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِسْم_1|SpaceAfter=No
 3	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	وحشاً	وَحش	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	iobj	_	LId=وَحْش_2
 5	اعتباطاً	ٱِعتِباط	ADV	RB	_	2	advmod	_	LId=ٱِعْتِباط_1|SpaceAfter=No
@@ -10183,7 +10183,7 @@
 3	ل	لِ	ADP	IN	_	4	case	_	SpaceAfter=No
 4	لعمارة	عِمارَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	LId=عِمارَة_1
 5	أن	أَن	ADP	IN	_	6	mark	_	LId=أَنْ_1
-6	تبني	تَبَنِّي	NOUN	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	LId=تَبَنِّي_1
+6	تبني	تَبَنِّي	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	LId=تَبَنِّي_1
 7	جسراً	جِسر	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	LId=جِسْر_1
 8	بين	بَينَ	ADP	IN	_	9	case	_	LId=بَيْنَ_1
 9	الأحياء	حَيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=حَيّ_2
