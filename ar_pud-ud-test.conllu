@@ -16863,7 +16863,7 @@
 16	بيلوبونيز	بيلوبونيز	PROPN	NNP	Gender=Fem|Number=Sing	15	nmod	_	LId=بيلوبونيز_0
 17	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 18	في	فِي	ADP	IN	_	20	case	_	LId=فِي_1
-19	سائر	سائِر	DET	PDT	Case=Gen	20	det	_	LId=سائِر_1
+19	سائر	سائِر	DET	PDT	Case=Gen|PronType=Ind	20	det	_	LId=سائِر_1
 20	أراضي	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	15	conj	_	LId=أَرْض_1
 21	اليونان	يُونان	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	LId=يُونان_1|SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	_	LId=._0
