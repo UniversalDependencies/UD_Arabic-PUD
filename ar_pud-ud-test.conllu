@@ -15876,7 +15876,7 @@
 9	(	(	PUNCT	(	_	11	punct	_	LId=(_0|SpaceAfter=No
 10	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur|PronType=Int	11	nsubj	_	LId=الَّذِي_1
 11	يشكلون	شَكَّل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	LId=شَكَّل_1
-12	غالبية	غالِبِيَّة	DET	PDT	Case=Acc	13	det	_	LId=غالِبِيَّة_1
+12	غالبية	غالِبِيَّة	DET	PDT	Case=Acc|PronType=Ind	13	det	_	LId=غالِبِيَّة_1
 13	المقاتلين	مُقَاتِل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obj	_	LId=مُقاتِل_1
 14	في	فِي	ADP	IN	_	15	case	_	LId=فِي_1
 15	الحروب	حَرب	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	LId=حَرْب_1
@@ -25497,7 +25497,7 @@
 4	و	وَ	CCONJ	CC	_	5	cc	_	SpaceAfter=No
 5	لا	لا	PROPN	NNP	_	3	conj	_	LId=لا_1
 6	كونت	كَوَّن	PROPN	NNP	Gender=Masc|Number=Sing	5	flat	_	LId=كَوَّن_1
-7	غالبية	غالِبِيَّة	DET	PDT	Case=Acc	8	det	_	LId=غالِبِيَّة_1
+7	غالبية	غالِبِيَّة	DET	PDT	Case=Acc|PronType=Ind	8	det	_	LId=غالِبِيَّة_1
 8	المساكن	مَسكَن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	LId=مَسْكَن_1
 9	الاجتماعية	اِجتِمَاعِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	LId=ٱِجْتِماعِيّ_1
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
