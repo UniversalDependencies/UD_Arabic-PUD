@@ -3883,7 +3883,7 @@
 7	فحسب	فَحَسبُ	ADV	RB	_	5	advmod	_	LId=فَحَسبُ_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	_	LId=,_0
 9	و	وَ	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-10	ها	هُوَ	PRON	PDEM	_	11	dep	_	LId=ها_1
+10	ها	هُوَ	PRON	PDEM	PronType=Prs	11	dep	_	LId=ها_1
 11	هي	هُوَ	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	LId=هِيَ_1
 12	صوتٌ	صَوت	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	conj	_	LId=صَوْت_1
 13	قويٌ	قَوِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	amod	_	LId=قَوِيّ_1

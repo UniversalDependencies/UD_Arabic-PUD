@@ -57,7 +57,7 @@
     <feat name="Polarity" value="Neg" upos="PART">162</feat><!-- لم, لا, غير, لن, ليس, ما -->
     <feat name="PronType" value="Dem" upos="PRON">189</feat><!-- ذلك, هذا, هذه, أولئك -->
     <feat name="PronType" value="Int" upos="PRON">72</feat><!-- ما, الذين -->
-    <feat name="PronType" value="Prs" upos="PRON">834</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
+    <feat name="PronType" value="Prs" upos="PRON">835</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
     <feat name="PronType" value="Rel" upos="PRON">190</feat><!-- التي, الذي, تلك, من -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">71</feat><!-- يكون, تكون, يؤدي, يخفف, يسمح, يموت, أدخل, أصاب, تتحدث, تتغير -->
     <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,VERB">1096</feat><!-- كان, كانت, قال, تم, كانوا, يكن, بدأت, قالت, بدأ, بات -->
