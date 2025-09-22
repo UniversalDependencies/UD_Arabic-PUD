@@ -673,7 +673,7 @@
 2	أدخل	أَدخَل	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=دَخَل-ُ_1
 3	السجن	سِجن	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	LId=سِجْن_1
 4	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
-5	كل	كُلّ	DET	PDT	Case=Gen	6	det	_	LId=كُلّ_1
+5	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	6	det	_	LId=كُلّ_1
 6	الأحوال	حَال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	LId=حال_1|SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	_	LId=,_0
 8	آمل	أَمَل	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	LId=أَمَل-َ_1
@@ -1038,7 +1038,7 @@
 10	تقع	وَقَع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=وَقَع-َ_1
 11	على	عَلَى	ADP	IN	_	12	case	_	LId=عَلَى_1
 12	عاتق	عَاتِق	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	obl	_	LId=عاتِق_1
-13	كل	كُلّ	DET	PDT	Case=Gen	14	det	_	LId=كُلّ_1
+13	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	14	det	_	LId=كُلّ_1
 14	شركة	شَرِكَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	nmod	_	LId=شَرِكَة_1
 15	طيران	طَيَرَان	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	nmod	_	LId=طَيَران_1
 16	ل	لِ	ADP	IN	_	17	case	_	SpaceAfter=No
@@ -1515,7 +1515,7 @@
 14	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=وَقْت_1
 15	الحالي	حَالِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	amod	_	LId=حالِيّ_1
 16	بعيدة	بَعِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	advcl	_	LId=بَعِيد_1
-17	كل	كُلّ	DET	PDT	Case=Gen	18	det	_	LId=كُلّ_1
+17	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	18	det	_	LId=كُلّ_1
 18	البعد	بُعد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	LId=بُعْد_1
 19	عن	عَن	ADP	IN	_	20	case	_	LId=عَن_1
 20	هدف	هَدَف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	LId=هَدَف_1
@@ -3175,7 +3175,7 @@
 11	مستويات	مُستَوَى	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	conj	_	LId=مُسْتَوَى_1
 12	المكافآت	مُكافَأَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	LId=مُكافَأَة_1
 13	ل	لِ	ADP	IN	_	15	case	_	SpaceAfter=No
-14	كل	كُلّ	DET	PDT	Case=Gen	15	det	_	LId=كُلّ_1
+14	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	15	det	_	LId=كُلّ_1
 15	وزارة	وِزَارَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	LId=وِزارَة_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	22	punct	_	LId=,_0
 17	لكن	ل`كِنَّ	ADP	IN	_	22	mark	_	LId=لٰكِنَّ_1
@@ -3371,7 +3371,7 @@
 19	المجلس	مَجلِس	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=مَجْلِس_1
 20	عندما	عِند	ADP	IN	_	21	mark	_	LId=عِنْد_1
 21	دفع	دَفَع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	16	advcl	_	LId=دَفَع-َ_1
-22	كل	كُلّ	DET	PDT	Case=Acc	23	det	_	LId=كُلّ_1
+22	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	23	det	_	LId=كُلّ_1
 23	التهم	تُهمَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	21	obj	_	LId=تُهْمَة_1
 24	عن	عَن	ADP	IN	_	25	case	_	LId=عَن_1
 25	دافي	دافي	PROPN	NNP	Gender=Masc|Number=Sing	21	obl	_	LId=دافي_0|SpaceAfter=No
@@ -3787,7 +3787,7 @@
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	واحدٍ	واحِد	NOUN	NN	Case=Gen|Definite=Ind	9	obl	_	LId=واحِد_1
 12	من	مِن	ADP	IN	_	15	case	_	LId=مِن_1
-13	كل	كُلّ	DET	PDT	Case=Gen	15	det	_	LId=كُلّ_1
+13	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	15	det	_	LId=كُلّ_1
 14	35000	35000	NUM	CD	_	15	nummod	_	LId=٣٥٠٠٠_0
 15	مولود	مَولُود	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	LId=مَوْلُود_1|SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	LId=._0
@@ -4044,7 +4044,7 @@
 # original_text = على كل حال, الإنترنت ليس رفاهية, بل ضرورة.
 # text_en = After all, the internet is not a luxury; it is an essential tool.
 1	على	عَلَى	ADP	IN	_	3	case	_	LId=عَلَى_1
-2	كل	كُلّ	DET	PDT	Case=Gen	3	det	_	LId=كُلّ_1
+2	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	3	det	_	LId=كُلّ_1
 3	حال	حَال	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	LId=حال_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	الإنترنت	إِنتِرنِت	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	LId=إِنْتِرْنِت_1
@@ -4786,7 +4786,7 @@
 # text = كل خريطة في المعرض تروي قصتها الخاصة, وليست كلها واقعية.
 # original_text = كل خريطة في المعرض تروي قصتها الخاصة, وليست كلها واقعية.
 # text_en = Each map in the exhibition tells its own story, not all factual.
-1	كل	كُلّ	DET	PDT	Case=Nom	2	det	_	LId=كُلّ_1
+1	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	2	det	_	LId=كُلّ_1
 2	خريطة	خَرِيطَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	nsubj	_	LId=خَرِيطَة_1
 3	في	فِي	ADP	IN	_	4	case	_	LId=فِي_1
 4	المعرض	مَعرِض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=مَعْرِض_1
@@ -4797,7 +4797,7 @@
 9	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 10	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 11	ليست	لَيس	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	cop	_	LId=لَيْسَ_1
-12	كل	كُلّ	DET	PDT	Case=Nom	13	det	_	LId=كُلّ_1|SpaceAfter=No
+12	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	13	det	_	LId=كُلّ_1|SpaceAfter=No
 13	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 14	واقعية	واقِعِيَّة	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	LId=واقِعِيَّة_1|SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	LId=._0
@@ -6033,7 +6033,7 @@
 1	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	LId=هٰذا_1
 2	مريعٌ	مُرِيع	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=مُرِيع_1
 3	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
-4	كل	كُلّ	DET	PDT	Case=Gen	5	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	5	det	_	LId=كُلّ_1
 5	تأكيد	تَأكِيد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	LId=تَأْكِيد_1|SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
@@ -6802,7 +6802,7 @@
 18	جداً	جِدًّا	ADV	RB	_	17	advmod	_	LId=جِدّ_1
 19	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	غطت	غَطَّى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	12	conj	_	LId=غَطَّى_1
-21	كل	كُلّ	DET	PDT	Case=Acc	22	det	_	LId=كُلّ_1
+21	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	22	det	_	LId=كُلّ_1
 22	ولايات	وِلَايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	20	obj	_	LId=وِلايَة_1
 23	الاتحاد	ٱِتِّحاد	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	LId=ٱِتِّحاد_1
 24	تقريباً	تَقرِيب	ADV	RB	_	23	advmod	_	LId=تَقْرِيب_1|Proper=True|SpaceAfter=No
@@ -6877,7 +6877,7 @@
 # original_text = في كل محطة, هناك حارس يرتدي قبعة حمراء ويقف على منصة, وفاحص للعجلات يجول على طول القطار حاملا مطرقة يطرق بها بلطف على عجلات القطار.
 # text_en = At each station, a red-capped guard presides over the platform and a wheel-tapper walks along the train with a hammer, gently knocking the undercarriage.
 1	في	فِي	ADP	IN	_	3	case	_	LId=فِي_1
-2	كل	كُلّ	DET	PDT	Case=Gen	3	det	_	LId=كُلّ_1
+2	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	3	det	_	LId=كُلّ_1
 3	محطة	مَحَطَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	LId=مَحَطَّة_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
 5	هناك	هُنَاكَ	ADV	RB	_	0	root	_	LId=هُناكَ_1
@@ -7205,7 +7205,7 @@
 3	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dep	_	LId=هُوَ_1
 4	الحال	حَال	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=حال_1
 5	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
-6	كل	كُلّ	DET	PDT	Case=Gen	7	det	_	LId=كُلّ_1
+6	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	7	det	_	LId=كُلّ_1
 7	تأكيد	تَأكِيد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=تَأْكِيد_1
 8	ب	بِ	ADP	IN	_	11	case	_	SpaceAfter=No
 9	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	fixed	_	LId=نِسْبَة_1
@@ -7233,7 +7233,7 @@
 1	لكن	ل`كِنَّ	PART	RP	_	3	compound:prt	_	LId=لٰكِنَّ_1
 2	الآن	آن	ADV	RB	_	3	obl:tmod	_	LId=آن_1
 3	بات	بَات	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=بات-ِ_1
-4	كل	كُلّ	DET	PDT	Case=Nom	5	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	5	det	_	LId=كُلّ_1
 5	شيء	شَيء	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	LId=شَيْء_1
 6	يفتقد	اِفتَقَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=ٱِفْتَقَد_1
 7	إلى	إِلَى	ADP	IN	_	8	case	_	LId=إِلَى_1
@@ -7924,7 +7924,7 @@
 1	تعرض	تَعَرَّض	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=تَعَرَّض_1
 2	أربعة	أربعة	NUM	CD	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LId=أَرْبَع_1
 3	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
-4	كل	كُلّ	DET	PDT	Case=Gen	6	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	6	det	_	LId=كُلّ_1
 5	10	10	NUM	CD	_	6	nummod	_	LId=١٠_0
 6	أشخاص	شَخص	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	2	nmod	_	LId=شَخْص_1
 7	بالغين	بالِغ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	amod	_	LId=بالِغ_2
@@ -7938,7 +7938,7 @@
 15	يستخف	ٱِستَخَفّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LId=ٱِسْتَخَفّ_1
 16	تسعة	تسعة	NUM	CD	Case=Acc|Gender=Fem|Number=Plur	15	nsubj	_	LId=تِسْع_1
 17	من	مِن	ADP	IN	_	20	case	_	LId=مِن_1
-18	كل	كُلّ	DET	PDT	Case=Gen	20	det	_	LId=كُلّ_1
+18	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	20	det	_	LId=كُلّ_1
 19	10	10	NUM	CD	_	20	nummod	_	LId=١٠_0
 20	أشخاص	شَخص	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	nmod	_	LId=شَخْص_1
 21	ب	بِ	ADP	IN	_	22	case	_	SpaceAfter=No
@@ -8033,7 +8033,7 @@
 1	من	مِن	ADP	IN	_	3	advmod	_	LId=مِن_1
 2	أين	أَينَ	ADV	WRB	_	1	fixed	_	LId=أَيْنَ_1
 3	تستمد	ٱِستَمَدّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِسْتَمَدّ_1
-4	كل	كُلّ	DET	PDT	Case=Acc	6	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	6	det	_	LId=كُلّ_1
 5	هذه	ه`ذا	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	LId=هٰذا_1
 6	الطاقة	طَاقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	LId=طاقَة_1|SpaceAfter=No
 7	؟	؟	PUNCT	.	_	10	punct	_	LId=?_0
@@ -8346,7 +8346,7 @@
 # original_text = كان كل المسعفين مسلحين, إلا أنا.
 # text_en = All the medics were armed, except me.
 1	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	LId=كان-ُ_1
-2	كل	كُلّ	DET	PDT	Case=Nom	3	det	_	LId=كُلّ_1
+2	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	3	det	_	LId=كُلّ_1
 3	المسعفين	مُسعِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	LId=مُسْعِف_1
 4	مسلحين	مُسَلَّح	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	LId=مُسَلَّح_2|SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	LId=,_0
@@ -10091,7 +10091,7 @@
 # text_en = Not all transformations in the region have been successful.
 1	لم	لَم	PART	RP	Polarity=Neg	2	advmod	_	LId=لَمْ_1
 2	تلق	لَقِي	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=لَقِي-َ_1
-3	كل	كُلّ	DET	PDT	Case=Nom	4	det	_	LId=كُلّ_1
+3	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	4	det	_	LId=كُلّ_1
 4	وسائل	وَسِيلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	nsubj	_	LId=وَسِيلَة_1
 5	المواصلات	مُوَاصَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	nmod	_	LId=مُواصَلَة_2
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
@@ -10245,7 +10245,7 @@
 16	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
 17	التمثال	تِمثال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	obl	_	LId=تِمْثال_1
 18	و	وَ	CCONJ	CC	_	23	cc	_	SpaceAfter=No
-19	كل	كُلّ	DET	PDT	Case=Nom	20	det	_	LId=كُلّ_1
+19	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	20	det	_	LId=كُلّ_1
 20	تفصيلٍ	تَفصِيل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	23	nsubj	_	LId=تَفْصِيل_1
 21	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1|SpaceAfter=No
 22	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod	_	_
@@ -11843,7 +11843,7 @@
 12	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 13	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	نجح	نَجَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=نَجَح-َ_1
-15	كل	كُلّ	DET	PDT	Case=Nom	16	det	_	LId=كُلّ_1
+15	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	16	det	_	LId=كُلّ_1
 16	الجيش	جَيش	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	LId=جَيْش_1
 17	الدنماركي	دَنِماركِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	amod	_	LId=دَنِمارْكِيّ_1
 18	تقريباً	تَقرِيب	ADV	RB	_	14	advmod	_	LId=تَقْرِيب_1
@@ -13784,7 +13784,7 @@
 1	أولاً	أَوَّل	ADV	RB	_	9	advmod	_	LId=أَوَّل_2
 2	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 3	قبل	قَبلَ	ADP	IN	_	5	case	_	LId=قَبْل_1
-4	كل	كُلّ	DET	PDT	Case=Gen	5	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	5	det	_	LId=كُلّ_1
 5	شيء	شَيء	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	LId=شَيْء_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 7	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	cop	_	LId=كان-ُ_1
@@ -14300,7 +14300,7 @@
 14	و	وَ	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	القضائية	قَضَائِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	conj	_	LId=قَضائِيّ_1
 16	في	فِي	ADP	IN	_	18	case	_	LId=فِي_1
-17	كل	كُلّ	DET	PDT	Case=Gen	18	det	_	LId=كُلّ_1
+17	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	18	det	_	LId=كُلّ_1
 18	أرجاء	أَرجَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	LId=أَرْجاء_1
 19	البحر	بَحر	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=بَحْر_1
 20	المتوسط	مُتَوَسِّط	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	amod	_	LId=مُتَوَسِّط_1|Proper=True
@@ -14322,7 +14322,7 @@
 # original_text = تروي كل قصيدة جزءا واحدا فقط من الحرب.
 # text_en = Each poem narrates only a part of the war.
 1	تروي	رَوَى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=رَوَى-ِ_1
-2	كل	كُلّ	DET	PDT	Case=Nom	3	det	_	LId=كُلّ_1
+2	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	3	det	_	LId=كُلّ_1
 3	قصيدة	قَصِيدَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	nsubj	_	LId=قَصِيدَة_1
 4	جزءاً	جُزء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	LId=جُزْء_1
 5	واحداً	وَاحِد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	LId=واحِد_1
@@ -14639,7 +14639,7 @@
 18	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 19	لكن	ل`كِنَّ	ADP	IN	_	25	mark	_	LId=لٰكِنَّ_1
 20	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1
-21	كل	كُلّ	DET	PDT	Case=Gen	22	det	_	LId=كُلّ_1
+21	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	22	det	_	LId=كُلّ_1
 22	مرة	مَرَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	25	obl	_	LId=مَرَّة_1
 23	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	aux	_	LId=كان-ُ_1
 24	أغسطس	أَغُسطُس	PROPN	NNP	Gender=Masc|Number=Sing	25	nsubj	_	LId=أَغُسْطُس_1
@@ -14714,7 +14714,7 @@
 13	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	14	aux	_	LId=كان-ُ_1
 14	تمنح	مَنَح	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	LId=مَنَح-َ_1
 15	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
-16	كل	كُلّ	DET	PDT	Case=Gen	17	det	_	LId=كُلّ_1
+16	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	17	det	_	LId=كُلّ_1
 17	دقة	دِقَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	obl	_	LId=دِقَّة_1
 18	الطقوس	طَقس	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	nsubj:pass	_	LId=طَقْس_2
 19	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
@@ -15007,7 +15007,7 @@
 16	صور	صُورَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	nmod	_	LId=صُورَة_1
 17	بوذا	بُوذا	PROPN	NNP	Gender=Masc|Number=Sing	16	nmod	_	LId=بُوذا_1
 18	ل	لِ	ADP	IN	_	20	case	_	SpaceAfter=No
-19	كل	كُلّ	DET	PDT	Case=Gen	20	det	_	LId=كُلّ_1
+19	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	20	det	_	LId=كُلّ_1
 20	يومٍ	يَوم	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	14	nmod	_	LId=يَوْم_1
 21	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
 22	أيام	يَوم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	nmod	_	LId=يَوْم_1
@@ -15458,7 +15458,7 @@
 8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	تستند	اِستَنَد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=ٱِسْتَنَد_1
 10	أدلة	دَلِيل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	9	nsubj	_	LId=دَلِيل_2
-11	كل	كُلّ	DET	PDT	Case=Gen	12	det	_	LId=كُلّ_1
+11	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	12	det	_	LId=كُلّ_1
 12	التخمينات	تَخمِين	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	LId=تَخْمِين_1
 13	المختلفة	مُختَلِف	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	LId=مُخْتَلِف_1
 14	في	فِي	ADP	IN	_	15	case	_	LId=فِي_1
@@ -15753,7 +15753,7 @@
 15	النمو	نُمُوّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	LId=نُمُوّ_1
 16	الاقتصادي	اِقتِصَادِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	LId=ٱِقْتِصادِيّ_2|SpaceAfter=No
 17	,	,	PUNCT	,	_	19	punct	_	LId=,_0
-18	كل	كُلّ	DET	PDT	Case=Nom	19	det	_	LId=كُلّ_1|SpaceAfter=No
+18	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	19	det	_	LId=كُلّ_1|SpaceAfter=No
 19	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	appos	_	_
 20	عواملٌ	عامِل	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	0	root	_	LId=عامِل_3
 21	ساهمت	سَاهَم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	20	acl:relcl	_	LId=ساهَم_1
@@ -16061,7 +16061,7 @@
 11	ب	بِ	ADP	IN	_	13	case	_	SpaceAfter=No
 12	ألا	أَنَّ	SCONJ	IN	_	13	mark	_	LId=أَنَّ_1
 13	يصدقوا	صَدَّق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	LId=صَدَّق_1
-14	كل	كُلّ	DET	PDT	Case=Acc	15	det	_	LId=كُلّ_1
+14	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	15	det	_	LId=كُلّ_1
 15	ما	ما	PRON	WP	Case=Gen|PronType=Int	13	obj	_	LId=ما_1
 16	ذكر	ذَكَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	15	acl:relcl	_	LId=ذَكَر-ُ_1|SpaceAfter=No
 17	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
@@ -17012,7 +17012,7 @@
 7	أن	أَن	ADP	IN	_	12	mark	_	LId=أَنْ_1
 8	يكون	كَان	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	LId=كان-ُ_1
 9	ل	لِ	ADP	IN	_	11	case	_	SpaceAfter=No
-10	كل	كُلّ	DET	PDT	Case=Gen	11	det	_	LId=كُلّ_1
+10	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	11	det	_	LId=كُلّ_1
 11	إمبراطور	إِمبِراطُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	LId=إِمْبِراطُور_1
 12	عهدٌ	عَهد	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	ccomp	_	LId=عَهْد_1
 13	خاصٌ	خاصّ	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	12	ccomp	_	LId=خاصّ_1
@@ -18658,7 +18658,7 @@
 9	:	:	PUNCT	:	_	11	punct	_	LId=:_0
 10	"	"	PUNCT	``	_	11	punct	_	LId="_0|SpaceAfter=No
 11	يشكل	شَكَّل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	LId=شَكَّل_1
-12	كل	كُلّ	DET	PDT	Case=Nom	13	det	_	LId=كُلّ_1
+12	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	13	det	_	LId=كُلّ_1
 13	كتابٍ	كِتاب	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nsubj	_	LId=كِتاب_1
 14	منحنى	مَنَح	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	obj	_	LId=مَنَح-َ_1
 15	ل	لِ	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -21031,7 +21031,7 @@
 7	العثمانية	عُثمَانِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=عُثْمانِيّ_1|Proper=True
 8	س	سَ	PART	RP	_	9	compound:prt	_	SpaceAfter=No
 9	تخسر	خَسِر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	_	LId=خَسِر-َ_1
-10	كل	كُلّ	DET	PDT	Case=Acc	11	det	_	LId=كُلّ_1
+10	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	11	det	_	LId=كُلّ_1
 11	منطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	LId=مِنْطَقَة_1
 12	مقدونيا	مَقدُونِيا	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	LId=مَقْدُونِيا_1
 13	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
@@ -21414,7 +21414,7 @@
 20	المتحدة	مُتَّحِد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=مُتَّحِد_1|Proper=True
 21	الأمريكية	أَمرِيكِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=أَمْرِيكِيّ_1|Proper=True
 22	سحب	سَحب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	LId=سَحْب_1
-23	كل	كُلّ	DET	PDT	Case=Gen	24	det	_	LId=كُلّ_1
+23	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	24	det	_	LId=كُلّ_1
 24	قوات	قُوَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	LId=قُوَّة_1|SpaceAfter=No
 25	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	_	_
 26	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
@@ -21636,10 +21636,10 @@
 1	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	LId=هٰذا_1
 2	ل	لِ	ADP	IN	_	0	root	_	SpaceAfter=No
 3	أن	أَنَّ	SCONJ	IN	_	10	mark	_	LId=أَنَّ_1
-4	كل	كُلّ	DET	PDT	Case=Acc	5	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	5	det	_	LId=كُلّ_1
 5	معجزة	مُعجِزَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	nsubj	_	LId=مُعْجِزَة_1
 6	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-7	كل	كُلّ	DET	PDT	Case=Acc	8	det	_	LId=كُلّ_1
+7	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	8	det	_	LId=كُلّ_1
 8	منطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	LId=مِنْطَقَة_1
 9	متخصصة	مُتَخَصِّص	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	amod	_	LId=مُتَخَصِّص_1
 10	تحتل	اِحتَلّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	obj	_	LId=ٱِحْتَلّ_1
@@ -24267,7 +24267,7 @@
 19	لقد	قَد	PART	RP	_	20	compound:prt	_	LId=قَدْ_1
 20	خطط	خَطَّط	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	10	parataxis	_	LId=خَطَّط_1
 21	ل	لِ	ADP	IN	_	23	case	_	SpaceAfter=No
-22	كل	كُلّ	DET	PDT	Case=Gen	23	det	_	LId=كُلّ_1
+22	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	23	det	_	LId=كُلّ_1
 23	شيءٍ	شَيء	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	20	obl	_	LId=شَيْء_1
 24	ب	بِ	ADP	IN	_	25	case	_	SpaceAfter=No
 25	الفعل	فِعل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	LId=فِعْل_1|SpaceAfter=No
@@ -24693,7 +24693,7 @@
 11	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
 12	الفوز	فَوز	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=فَوْز_1
 13	في	فِي	ADP	IN	_	15	case	_	LId=فِي_1
-14	كل	كُلّ	DET	PDT	Case=Gen	15	det	_	LId=كُلّ_1
+14	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	15	det	_	LId=كُلّ_1
 15	الدوائر	دَائِرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	nmod	_	LId=دائِرَة_1
 16	الانتخابية	اِنتِخَابِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	LId=ٱِنْتِخابِيّ_1
 17	السبع	سَبع	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	amod	_	LId=سَبْع_1|SpaceAfter=No
@@ -25354,7 +25354,7 @@
 # text_en = The censorship disposed of all undesirable opinions; participation in public life had become practically impossible.
 1	استبعدت	اِستَبعَد	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِسْتَبْعَد_1
 2	الرقابة	رَقَابَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=رَقابَة_1
-3	كل	كُلّ	DET	PDT	Case=Acc	4	det	_	LId=كُلّ_1
+3	كل	كُلّ	DET	PDT	Case=Acc|PronType=Tot	4	det	_	LId=كُلّ_1
 4	الآراء	رَأي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	LId=رَأْي_1
 5	غير	غَير	PART	RP	Polarity=Neg	6	advmod	_	LId=غَيْر_1
 6	المرغوب	مَرغُوب	NOUN	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	LId=مَرْغُوب_1
@@ -25550,7 +25550,7 @@
 7	خمسة	خمسة	NUM	CD	Case=Nom|Gender=Fem|Number=Plur	8	nummod	_	LId=خَمْس_1
 8	أطباء	طَبِيب	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	5	nsubj	_	LId=طَبِيب_1
 9	ل	لِ	ADP	IN	_	12	case	_	SpaceAfter=No
-10	كل	كُلّ	DET	PDT	Case=Gen	12	det	_	LId=كُلّ_1
+10	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	12	det	_	LId=كُلّ_1
 11	100000	100000	NUM	CD	_	12	nummod	_	LId=١٠٠٠٠٠_0
 12	نسمة	نَسَمَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	LId=نَسَمَة_1|SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	LId=._0
@@ -25818,7 +25818,7 @@
 20	جغرافيا	جُغرافِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	16	nsubj	_	LId=جُغْرافِيّ_1
 21	اليونان	يُونان	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	LId=يُونان_1|SpaceAfter=No
 22	:	:	PUNCT	:	_	29	punct	_	LId=:_0
-23	كل	كُلّ	DET	PDT	Case=Nom	24	det	_	LId=كُلّ_1
+23	كل	كُلّ	DET	PDT	Case=Nom|PronType=Tot	24	det	_	LId=كُلّ_1
 24	جزيرة	جَزِيرَة	PROPN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	29	nsubj	_	LId=جَزِيرَة_1
 25	أو	أَو	CCONJ	CC	_	26	cc	_	LId=أَوْ_1
 26	وادٍ	وادِي	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	24	conj	_	LId=وادِي_1
@@ -26071,7 +26071,7 @@
 1	ل	لِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	لابتعاد	ٱِبتِعاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=ٱِبْتِعاد_1
 3	عن	عَن	ADP	IN	_	5	case	_	LId=عَن_1
-4	كل	كُلّ	DET	PDT	Case=Gen	5	det	_	LId=كُلّ_1
+4	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	5	det	_	LId=كُلّ_1
 5	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	2	nmod	_	LId=ذٰلِكَ_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 7	أقام	أَقَام	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَقام_1
@@ -27138,7 +27138,7 @@
 18	و	وَ	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 19	سمح	سَمَح	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	conj	_	LId=سَمَح-َ_1
 20	ل	لِ	ADP	IN	_	22	case	_	SpaceAfter=No
-21	كل	كُلّ	DET	PDT	Case=Gen	22	det	_	LId=كُلّ_1
+21	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	22	det	_	LId=كُلّ_1
 22	المنفيين	مَنفِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	19	obl	_	LId=مَنْفِيّ_2
 23	ب	بِ	ADP	IN	_	24	case	_	SpaceAfter=No
 24	العودة	عَودَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	obl	_	LId=عَوْدَة_1
