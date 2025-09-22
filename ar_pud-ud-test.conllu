@@ -2110,7 +2110,7 @@
 11	غرافيتي	غرافيتي	PROPN	NNP	Number=Sing	7	appos	_	LId=غرافيتي_0|SpaceAfter=No
 12	"	"	PUNCT	''	_	11	punct	_	LId="_0
 13	ب	بِ	ADP	IN	_	15	case	_	SpaceAfter=No
-14	عدة	عِدَّة	DET	PDT	Case=Gen	15	det	_	LId=عِدَّة_1
+14	عدة	عِدَّة	DET	PDT	Case=Gen|PronType=Ind	15	det	_	LId=عِدَّة_1
 15	جوائز	جَائِزَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	obl	_	LId=جائِزَة_1
 16	أوسكار	أُوسكار	PROPN	NNP	Gender=Masc|Number=Sing	15	nmod	_	LId=أُوسْكار_1|SpaceAfter=No
 17	,	,	PUNCT	,	_	3	punct	_	LId=,_0
@@ -4450,7 +4450,7 @@
 4	يرغبون	رَغِب	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LId=رَغِب-َ_1
 5	ب	بِ	ADP	IN	_	6	case	_	SpaceAfter=No
 6	فعل	فِعل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	LId=فِعْل_1
-7	عدة	عِدَّة	DET	PDT	Case=Gen	8	det	_	LId=عِدَّة_1
+7	عدة	عِدَّة	DET	PDT	Case=Gen|PronType=Ind	8	det	_	LId=عِدَّة_1
 8	أشياء	شَيء	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	nmod	_	LId=شَيْء_1|SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
@@ -4893,7 +4893,7 @@
 4	وولمار	ولمار	PROPN	NNP	Gender=Masc|Number=Sing	3	flat	_	LId=ولمار_0
 5	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	LId=الَّذِي_1
 6	ألف	أَلَّف	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	LId=أَلَّف_1
-7	عدة	عِدَّة	DET	PDT	Case=Acc	8	det	_	LId=عِدَّة_1
+7	عدة	عِدَّة	DET	PDT	Case=Acc|PronType=Ind	8	det	_	LId=عِدَّة_1
 8	كتب	كِتَاب	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	obj	_	LId=كِتاب_1
 9	عن	عَن	ADP	IN	_	10	case	_	LId=عَن_1
 10	تاريخ	تَارِيخ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=تارِيخ_1
@@ -10857,7 +10857,7 @@
 8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	تستمر	اِستَمَرّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	LId=ٱِسْتَمَرّ_1
 10	ل	لِ	ADP	IN	_	12	case	_	SpaceAfter=No
-11	عدة	عِدَّة	DET	PDT	Case=Gen	12	det	_	LId=عِدَّة_1
+11	عدة	عِدَّة	DET	PDT	Case=Gen|PronType=Ind	12	det	_	LId=عِدَّة_1
 12	أشهر	شَهر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	9	obl	_	LId=شَهْر_1|SpaceAfter=No
 13	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 14	معلنةً	مُعلِن	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	9	ccomp	_	LId=مُعْلِن_1
@@ -13370,7 +13370,7 @@
 37	الكاريبي	كَارِيبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	_	LId=كارِيبِي_1|Proper=True|SpaceAfter=No
 38	"	"	PUNCT	''	_	36	punct	_	LId="_0
 39	في	فِي	ADP	IN	_	41	case	_	LId=فِي_1
-40	عدة	عِدَّة	DET	PDT	Case=Gen	41	det	_	LId=عِدَّة_1
+40	عدة	عِدَّة	DET	PDT	Case=Gen|PronType=Ind	41	det	_	LId=عِدَّة_1
 41	لغات	لُغَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	31	nmod	_	LId=لُغَة_1
 42	أوروبية	أُورُوبِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	41	amod	_	LId=أُورُبِّيّ_1|SpaceAfter=No
 43	.	.	PUNCT	.	_	11	punct	_	LId=._0
@@ -14634,7 +14634,7 @@
 13	يعود	عاد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	xcomp	_	LId=عاد-ُ_1
 14	إلى	إِلَى	ADP	IN	_	15	case	_	LId=إِلَى_1
 15	روما	رُوما	PROPN	NNP	Gender=Fem|Number=Sing	13	obl	_	LId=رُوما_1
-16	عدة	عِدَّة	DET	PDT	Case=Acc	17	det	_	LId=عِدَّة_1
+16	عدة	عِدَّة	DET	PDT	Case=Acc|PronType=Ind	17	det	_	LId=عِدَّة_1
 17	مرات	مَرَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	13	obl	_	LId=مَرَّة_1|SpaceAfter=No
 18	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 19	لكن	ل`كِنَّ	ADP	IN	_	25	mark	_	LId=لٰكِنَّ_1
@@ -19351,7 +19351,7 @@
 22	"	"	PUNCT	''	_	20	punct	_	LId="_0
 23	إيغان	ايغان	PROPN	NNP	Gender=Masc|Number=Sing	15	appos	_	LId=ايغان_0
 24	في	فِي	ADP	IN	_	26	case	_	LId=فِي_1
-25	عدة	عِدَّة	DET	PDT	Case=Gen	26	det	_	LId=عِدَّة_1
+25	عدة	عِدَّة	DET	PDT	Case=Gen|PronType=Ind	26	det	_	LId=عِدَّة_1
 26	أغانٍ	أُغنِيَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	12	nmod	_	LId=أُغْنِيَة_1
 27	في	فِي	ADP	IN	_	28	case	_	LId=فِي_1|SpaceAfter=No
 28	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nmod	_	SpaceAfter=No
@@ -19364,7 +19364,7 @@
 # original_text = ضم عدة أغان تم تأليفها بالاشتراك مع جيم شقيق رافيرتي, الذي يعمل أيضا كمغن ومؤلف أغان, والذي وقع مع شركة "ديكا ريكوردز" في السبعينيات.
 # text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
 1	ضم	ضَمّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ضَمّ-ُ_1
-2	عدة	عِدَّة	DET	PDT	Case=Acc	3	det	_	LId=عِدَّة_1
+2	عدة	عِدَّة	DET	PDT	Case=Acc|PronType=Ind	3	det	_	LId=عِدَّة_1
 3	أغانٍ	أُغنِيَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	LId=أُغْنِيَة_1
 4	تم	تَمّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	LId=تَمّ-ِ_1
 5	تأليف	تَألِيف	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=تَأْلِيف_1|SpaceAfter=No
@@ -24986,7 +24986,7 @@
 11	التعرف	تَعَرُّف	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	LId=تَعَرُّف_1
 12	علي	عَلَى	ADP	IN	_	13	case	_	LId=عَلَى_1|SpaceAfter=No
 13	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
-14	عدة	عِدَّة	DET	PDT	Case=Acc	15	det	_	LId=عِدَّة_1
+14	عدة	عِدَّة	DET	PDT	Case=Acc|PronType=Ind	15	det	_	LId=عِدَّة_1
 15	مرات	مَرَّة	ADV	RB	_	10	advmod	_	LId=مَرَّة_1
 16	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
 17	أماكن	مَكَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	obl	_	LId=مَكان_1
@@ -25438,7 +25438,7 @@
 13	اليهودي	يَهُودِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	amod	_	LId=يَهُودِيّ_1
 14	و	وَ	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	سافر	سافِر	ADJ	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	5	conj	_	LId=سافِر_1
-16	عدة	عِدَّة	DET	PDT	Case=Acc	17	det	_	LId=عِدَّة_1
+16	عدة	عِدَّة	DET	PDT	Case=Acc|PronType=Ind	17	det	_	LId=عِدَّة_1
 17	مرات	مَرَّة	ADV	RB	_	15	advmod	_	LId=مَرَّة_1
 18	إلى	إِلَى	ADP	IN	_	19	case	_	LId=إِلَى_1
 19	إسرائيل	إِسرائِيل	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	LId=إِسْرائِيل_1|SpaceAfter=No
@@ -25800,7 +25800,7 @@
 2	اليونان	يُونان	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LId=يُونان_1
 3	مقسمة	مُقَسَّم	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	LId=مُقَسَّم_1
 4	إلى	إِلَى	ADP	IN	_	6	case	_	LId=إِلَى_1
-5	عدة	عِدَّة	DET	PDT	Case=Gen	6	det	_	LId=عِدَّة_1
+5	عدة	عِدَّة	DET	PDT	Case=Gen|PronType=Ind	6	det	_	LId=عِدَّة_1
 6	مجتمعات	مُجتَمَع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	3	obl	_	LId=مُجْتَمَع_1
 7	صغيرة	صَغِير	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	6	amod	_	LId=صَغِير_1
 8	تتمتع	تَمَتَّع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	LId=تَمَتَّع_1
@@ -25999,7 +25999,7 @@
 20	الإرهاب	إِرهَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	LId=إِرْهاب_1|SpaceAfter=No
 21	,	,	PUNCT	,	_	16	punct	_	LId=,_0
 22	اتخذ	اِتَّخَذ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِتَّخَذ_1
-23	عدة	عِدَّة	DET	PDT	Case=Acc	24	det	_	LId=عِدَّة_1
+23	عدة	عِدَّة	DET	PDT	Case=Acc|PronType=Ind	24	det	_	LId=عِدَّة_1
 24	تدابير	تَدبِير	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	22	obj	_	LId=تَدْبِير_1
 25	ل	لِ	ADP	IN	_	26	case	_	SpaceAfter=No
 26	تحرير	تَحرِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	obl	_	LId=تَحْرِير_1
