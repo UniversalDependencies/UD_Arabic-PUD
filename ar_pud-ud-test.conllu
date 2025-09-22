@@ -1401,7 +1401,7 @@
 3	من	مِن	ADP	IN	_	4	case	_	LId=مِن_1
 4	العلماء	عَالِم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=عالِم_1
 5	أن	أَنَّ	SCONJ	IN	_	8	mark	_	LId=أَنَّ_1|SpaceAfter=No
-6	ه	هُوَ	PRON	EX	_	8	expl	_	_
+6	ه	هُوَ	PRON	EX	PronType=Prs	8	expl	_	_
 7	لا	لَا	PART	RP	Polarity=Neg	8	advmod	_	LId=لا_3
 8	ضرورة	ضَرُورَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	ccomp	_	LId=ضَرُورَة_1
 9	إلى	إِلَى	ADP	IN	_	10	case	_	LId=إِلَى_1
@@ -1656,7 +1656,7 @@
 8	إضافياً	إِضافِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	7	amod	_	LId=إِضافِيّ_1
 9	على	عَلَى	ADP	IN	_	12	case	_	LId=عَلَى_1
 10	أن	أَنَّ	SCONJ	IN	_	12	mark	_	LId=أَنَّ_1|SpaceAfter=No
-11	ه	هُوَ	PRON	EX	_	12	expl	_	_
+11	ه	هُوَ	PRON	EX	PronType=Prs	12	expl	_	_
 12	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	xcomp	_	LId=أَمْكَن_1
 13	نقل	نَقل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	nsubj	_	LId=نَقْل_1
 14	البذور	بَذر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	nmod	_	LId=بَذْر_2
@@ -2074,7 +2074,7 @@
 9	أسوشييتد	اسوشييتد	PROPN	NNP	Number=Sing	8	nmod	_	LId=اسوشييتد_0
 10	برس	برِس	PROPN	NNP	Number=Sing	9	flat	_	LId=برِس_1
 11	أن	أَنَّ	SCONJ	IN	_	13	mark	_	LId=أَنَّ_1|SpaceAfter=No
-12	ه	هُوَ	PRON	EX	_	13	expl	_	_
+12	ه	هُوَ	PRON	EX	PronType=Prs	13	expl	_	_
 13	حدث	حَدَث	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	ccomp	_	LId=حَدَث-ُ_1
 14	"	"	PUNCT	``	_	15	punct	_	LId="_0|SpaceAfter=No
 15	تبادل	تَبَادُل	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	LId=تَبادُل_1
@@ -2516,7 +2516,7 @@
 6	وقتٍ	وَقت	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=وَقْت_1
 7	سابق	سَابِق	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	amod	_	LId=سابِق_1
 8	أن	أَنَّ	SCONJ	IN	_	11	mark	_	LId=أَنَّ_1|SpaceAfter=No
-9	ه	هُوَ	PRON	EX	_	11	expl	_	_
+9	ه	هُوَ	PRON	EX	PronType=Prs	11	expl	_	_
 10	لا	لَا	PART	RP	Polarity=Neg	11	advmod	_	LId=لا_1
 11	يبدو	بَدَا	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=بَدا-ُ_1
 12	أن	أَنَّ	SCONJ	IN	_	13	mark	_	LId=أَنَّ_1
@@ -5014,7 +5014,7 @@
 1	أشار	أَشَار	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَشار_1
 2	فيغا	فيغا	PROPN	NNP	Gender=Masc|Number=Sing	1	nsubj	_	LId=فيغا_0
 3	أن	أَنَّ	SCONJ	IN	_	5	mark	_	LId=أَنَّ_1|SpaceAfter=No
-4	ه	هُوَ	PRON	EX	_	5	expl	_	_
+4	ه	هُوَ	PRON	EX	PronType=Prs	5	expl	_	_
 5	ب	بِ	ADP	IN	_	1	ccomp	_	SpaceAfter=No
 6	سبب	سَبَب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	LId=سَبَب_1
 7	أعمار	عُمر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	LId=عُمْر_1|SpaceAfter=No
@@ -6279,7 +6279,7 @@
 17	الغرض	غَرَض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	LId=غَرَض_1
 18	ل	لِ	ADP	IN	_	14	case	_	SpaceAfter=No
 19	أن	أَنَّ	SCONJ	IN	_	22	mark	_	LId=أَنَّ_1|SpaceAfter=No
-20	ه	هُوَ	PRON	EX	_	22	expl	_	_
+20	ه	هُوَ	PRON	EX	PronType=Prs	22	expl	_	_
 21	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
 22	الرائع	رائِع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	LId=رائِع_1
 23	جداً	جِدًّا	ADV	RB	_	22	advmod	_	LId=جِدّ_1
@@ -23252,7 +23252,7 @@
 7	مذكرة	مُذَكِّرَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	obl	_	LId=مُذَكِّرَة_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	_	LId=,_0
 9	أن	أَنَّ	SCONJ	IN	_	12	mark	_	LId=أَنَّ_1|SpaceAfter=No
-10	ه	هُوَ	PRON	EX	_	12	expl	_	_
+10	ه	هُوَ	PRON	EX	PronType=Prs	12	expl	_	_
 11	لن	لَن	PART	RP	Polarity=Neg	12	advmod	_	LId=لَنْ_1
 12	تكون	كان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=كان-ُ_1
 13	هناك	هُنَاكَ	ADV	RB	_	12	advmod	_	LId=هُناكَ_1
@@ -23885,7 +23885,7 @@
 2	مصادر	مَصدَر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	1	nsubj	_	LId=مَصْدَر_1
 3	مطلعة	مُطَّلِع	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	amod	_	LId=مُطَّلِع_1
 4	أن	أَنَّ	SCONJ	IN	_	9	mark	_	LId=أَنَّ_1|SpaceAfter=No
-5	ه	هُوَ	PRON	EX	_	9	expl	_	_
+5	ه	هُوَ	PRON	EX	PronType=Prs	9	expl	_	_
 6	"	"	PUNCT	``	_	9	punct	_	LId="_0
 7	100	100	NUM	CD	_	9	nummod	_	LId=١٠٠_0|SpaceAfter=No
 8	%	%	SYM	SYM	_	7	dep	_	LId=%_0
