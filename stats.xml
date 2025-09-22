@@ -56,7 +56,7 @@
     <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">2643</feat><!-- ه, ها, كان, هم, كانت, يمكن, هو, يكون, هي, قال -->
     <feat name="Polarity" value="Neg" upos="PART">162</feat><!-- لم, لا, غير, لن, ليس, ما -->
     <feat name="PronType" value="Dem" upos="PRON">6</feat><!-- أولئك -->
-    <feat name="PronType" value="Int" upos="PRON">24</feat><!-- الذين -->
+    <feat name="PronType" value="Int" upos="PRON">72</feat><!-- ما, الذين -->
     <feat name="PronType" value="Prs" upos="PRON">826</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
     <feat name="PronType" value="Rel" upos="PRON">65</feat><!-- الذي -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">71</feat><!-- يكون, تكون, يؤدي, يخفف, يسمح, يموت, أدخل, أصاب, تتحدث, تتغير -->
