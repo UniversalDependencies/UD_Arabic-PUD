@@ -15116,7 +15116,7 @@
 5	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 6	يبدو	بَدَا	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=بَدا-ُ_1
 7	أن	أَنَّ	SCONJ	IN	_	10	mark	_	LId=أَنَّ_1
-8	كلي	كُلِّيّ	DET	PDT	Case=Acc	9	det	_	LId=كُلِّيّ_1|SpaceAfter=No
+8	كلي	كُلِّيّ	DET	PDT	Case=Acc|PronType=Tot	9	det	_	LId=كُلِّيّ_1|SpaceAfter=No
 9	هما	هُوَ	PRON	PRP	Case=Gen|Number=Dual|Person=3|PronType=Prs	10	nsubj	_	_
 10	سيطر	سَيطَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	csubj	_	LId=سَيْطَر_1
 11	على	عَلَى	ADP	IN	_	12	case	_	LId=عَلَى_1
