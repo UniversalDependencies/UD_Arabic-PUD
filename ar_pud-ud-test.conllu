@@ -18490,7 +18490,7 @@
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	جريدة	جَرِيدَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	LId=جَرِيدَة_1
 12	"	"	PUNCT	``	_	14	punct	_	LId="_0|SpaceAfter=No
-13	ذا	ذا	DET	DT	_	14	det	_	LId=ذا_2|Proper=True
+13	ذا	ذا	DET	DT	PronType=Dem	14	det	_	LId=ذا_2|Proper=True
 14	سكوتسمان	سكوتسمان	PROPN	NNP	Number=Sing	11	nmod	_	LId=سكوتسمان_0|SpaceAfter=No
 15	"	"	PUNCT	''	_	14	punct	_	LId="_0|SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	LId=,_0
@@ -27523,7 +27523,7 @@
 10	ل	لِ	ADP	IN	_	11	case	_	SpaceAfter=No
 11	لتسجيلات	تَسجِيل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	LId=تَسْجِيل_1
 12	شركة	شَرِكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	appos	_	LId=شَرِكَة_1
-13	ذا	ذا	DET	DT	_	14	det	_	LId=ذا_2|Proper=True
+13	ذا	ذا	DET	DT	PronType=Dem	14	det	_	LId=ذا_2|Proper=True
 14	روكيت	روكيت	PROPN	NNP	Number=Sing	12	nmod	_	LId=روكيت_0
 15	ريكورد	ريكورد	PROPN	NNP	Number=Sing	14	flat	_	LId=ريكورد_0
 16	كومباني	كومباني	PROPN	NNP	Number=Sing	15	nmod	_	LId=كومباني_0|SpaceAfter=No
