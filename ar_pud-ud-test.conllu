@@ -8300,7 +8300,7 @@
 7	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	11	det	_	Gloss=which|LId=الَّذِي_1
 8	لا	لَا	PART	RP	Polarity=Neg	9	advmod	_	Gloss=not|LId=لا_1
 9	يملك	مَلَك	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=have|LId=مَلَك-ِ_1
-10	معظم	مُعظَم	DET	PDT	Case=Nom	11	det	_	Gloss=many|LId=مُعْظَم_1|SpaceAfter=No
+10	معظم	مُعظَم	DET	PDT	Case=Nom|PronType=Ind	11	det	_	Gloss=many|LId=مُعْظَم_1|SpaceAfter=No
 11	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=of-him
 12	خبرةً	خِبرَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	9	obj	_	Gloss=experience|LId=خِبْرَة_1
 13	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
@@ -16652,7 +16652,7 @@
 # original_text = تأتي معظم المعلومات عن تلك الفترة من المدافن والأغراض الجنائزية التي تحويها.
 # text_en = Most of the information about the period comes from burial sites and the grave goods contained within them.
 1	تأتي	أَتَى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَتَى-ِ_1
-2	معظم	مُعظَم	DET	PDT	Case=Nom	3	det	_	LId=مُعْظَم_1
+2	معظم	مُعظَم	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=مُعْظَم_1
 3	المعلومات	مَعلُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=مَعْلُوم_1
 4	عن	عَن	ADP	IN	_	6	case	_	LId=عَن_1
 5	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	6	det	_	LId=ذٰلِكَ_1
@@ -24497,7 +24497,7 @@
 8	الستينيات	سِتِّينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nmod	_	LId=سِتِّينِيّ_1
 9	هاجرت	هاجَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=هاجَر_1
 10	ب	بِ	ADP	IN	_	12	case	_	SpaceAfter=No
-11	معظم	مُعظَم	DET	PDT	Case=Gen	12	det	_	LId=مُعْظَم_1|SpaceAfter=No
+11	معظم	مُعظَم	DET	PDT	Case=Gen|PronType=Ind	12	det	_	LId=مُعْظَم_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 13	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
 14	تركيا	تُركِيا	PROPN	NNP	Gender=Fem|Number=Sing	9	obl	_	LId=تُرْكِيا_1|SpaceAfter=No
@@ -24842,7 +24842,7 @@
 8	الميلاد	مِيلَاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=مِيلاد_1|SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	LId=,_0
 10	مثل	مِثلَ	ADP	IN	_	12	case	_	LId=مِثْل_1
-11	معظم	مُعظَم	DET	PDT	Case=Gen	12	det	_	LId=مُعْظَم_1
+11	معظم	مُعظَم	DET	PDT	Case=Gen|PronType=Ind	12	det	_	LId=مُعْظَم_1
 12	المواقع	مَوقِع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=مَوْقِع_1
 13	في	فِي	ADP	IN	_	14	case	_	LId=فِي_1
 14	جنوب	جَنُوب	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	LId=جَنُوب_1
@@ -25887,7 +25887,7 @@
 6	يكن	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=كان-ُ_1
 7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
 8	وسع	وُسع	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	6	obl	_	LId=وُسْع_1
-9	معظم	مُعظَم	DET	PDT	Case=Gen	10	det	_	LId=مُعْظَم_1
+9	معظم	مُعظَم	DET	PDT	Case=Gen|PronType=Ind	10	det	_	LId=مُعْظَم_1
 10	المسيحيين	مَسِيحِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nsubj	_	LId=مَسِيحِيّ_1
 11	قراءة	قِرَاءَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	LId=قِراءَة_1
 12	الإنجيل	إِنجِيل	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	LId=إِنْجِيل_1
@@ -26079,7 +26079,7 @@
 9	ريمي	رِيمِيّ	PROPN	NNP	Gender=Masc|Number=Sing	8	flat	_	LId=رِيمِيّ_1
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	سويسرا	سُوِيسرا	PROPN	NNP	Gender=Fem|Number=Sing	7	obl	_	LId=سُوِيسْرا_1
-12	معظم	مُعظَم	DET	PDT	Case=Acc	13	det	_	LId=مُعْظَم_1
+12	معظم	مُعظَم	DET	PDT	Case=Acc|PronType=Ind	13	det	_	LId=مُعْظَم_1
 13	صيف	صَيف	ADV	RB	_	7	obl:tmod	_	LId=صَيْف_1
 14	1947	1947	NUM	CD	Case=Gen	13	obl	_	LId=١٩٤٧_0|SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	LId=._0
