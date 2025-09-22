@@ -55,7 +55,7 @@
 1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
 2	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=نِسْبَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
-4	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	20	obl	_	LId=أُولائِكَ_1
+4	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	20	obl	_	LId=أُولائِكَ_1
 5	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	LId=الَّذِي_1
 6	يتابعون	تابَع	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LId=تابَع_1
 7	الانتقال	اِنتِقَال	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	LId=ٱِنْتِقال_1
@@ -3863,7 +3863,7 @@
 16	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 17	بونو	بونو	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	LId=بونو_0
 18	أحد	أَحَد	DET	PDT	Case=Nom	20	det	_	LId=أَحَد_1
-19	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	20	det	_	LId=أُولائِكَ_1
+19	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	LId=أُولائِكَ_1
 20	الرجال	رَجُل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	conj	_	LId=رَجُل_1|SpaceAfter=No
 21	"	"	PUNCT	''	_	13	punct	_	LId="_0|SpaceAfter=No
 22	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -6487,7 +6487,7 @@
 22	تقتصر	اِقتَصَر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	LId=ٱِقْتَصَر_1
 23	فقط	فَقَط	ADV	RB	_	22	advmod	_	LId=فَقَط_1
 24	على	عَلَى	ADP	IN	_	25	case	_	LId=عَلَى_1
-25	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	22	obl	_	LId=أُولائِكَ_1
+25	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	22	obl	_	LId=أُولائِكَ_1
 26	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	27	obj	_	LId=الَّذِي_1
 27	لدي	لَدَى	ADP	IN	_	25	acl:relcl	_	LId=لَدَى_1|SpaceAfter=No
 28	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	nmod	_	_
@@ -16124,7 +16124,7 @@
 13	غادر	غَادَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=غادَر_1
 14	الكثير	كَثِير	NOUN	NN	Case=Nom|Definite=Def	13	nsubj	_	LId=كَثِير_2
 15	من	مِن	ADP	IN	_	17	case	_	LId=مِن_1
-16	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	17	det	_	LId=أُولائِكَ_1
+16	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	LId=أُولائِكَ_1
 17	اليهود	يَهُودِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	14	nmod	_	LId=يَهُودِيّ_1
 18	الإسبان	إِسبانِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	amod	_	LId=إِسْبانِيّ_2
 19	إسبانيا	إِسبانِيا	PROPN	NNP	Gender=Fem|Number=Sing	13	obj	_	LId=إِسْبانِيا_1
@@ -23122,7 +23122,7 @@
 8	نستطيع	ٱِستَطاع	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	LId=ٱِسْتَطاع_1
 9	المواصلة	مُواصَلَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	LId=مُواصَلَة_1
 10	مع	مَعَ	ADP	IN	_	11	case	_	LId=مَع_1
-11	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	LId=أُولائِكَ_1
+11	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	9	nmod	_	LId=أُولائِكَ_1
 12	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	13	nsubj	_	LId=الَّذِي_1
 13	يقفون	وَقَف	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	LId=وَقَف-ِ_1
 14	كلياً	كُلِّيّ	ADV	RB	_	13	advmod	_	LId=كُلِّيّ_1
@@ -23178,7 +23178,7 @@
 7	قبل	قَبلَ	ADP	IN	_	6	fixed	_	LId=قِبَل_1
 8	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	LId=دَوْلَة_1
 9	ل	لِ	ADP	IN	_	10	case	_	SpaceAfter=No
-10	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	LId=أُولائِكَ_1
+10	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	3	nmod	_	LId=أُولائِكَ_1
 11	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	LId=الَّذِي_1
 12	بلغوا	بَلَغ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	10	acl:relcl	_	LId=بَلَغ-ُ_1
 13	السن	سِنّ	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	LId=سِنّ_1|SpaceAfter=No
