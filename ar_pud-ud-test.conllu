@@ -13218,7 +13218,7 @@
 9	القاهرة	قاهِرَة	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	LId=قاهِرَة_1
 10	يقرب	قَرُب	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=قَرُب-ُ_1
 11	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
-12	نصف	نِصف	DET	PDT	Case=Gen	13	det	_	LId=نِصْف_1
+12	نصف	نِصف	DET	PDT	Case=Gen|PronType=Ind	13	det	_	LId=نِصْف_1
 13	المليون	مِليُون	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=مِلْيُون_1|SpaceAfter=No
 14	,	,	PUNCT	,	_	16	punct	_	LId=,_0
 15	مما	مِن	ADP	IN	_	16	mark	_	LId=مِن_1
