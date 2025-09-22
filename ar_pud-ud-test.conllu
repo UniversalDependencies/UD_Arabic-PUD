@@ -543,7 +543,7 @@
 6	خنزيراً	خِنزِير	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=خِنْزِير_1
 7	وحيداً	وَحِيد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	amod	_	LId=وَحِيد_2|SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	_	LId=,_0
-9	غير	غَير	PART	RP	_	13	compound:prt	_	LId=غَيْر_1
+9	غير	غَير	PART	RP	_	13	cc	_	LId=غَيْر_1
 10	أن	أَنَّ	SCONJ	IN	_	9	fixed	_	LId=أَنَّ_1|SpaceAfter=No
 11	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj:pass	_	_
 12	لا	لَا	PART	RP	Polarity=Neg	13	advmod	_	LId=لا_1
@@ -1177,7 +1177,7 @@
 1	لم	لَم	PART	RP	Polarity=Neg	2	advmod	_	LId=لَمْ_1
 2	ير	رَأَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=رَأَى-َ_1
 3	الطائرات	طَائِرَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	2	obj	_	LId=طائِرَة_1
-4	من	مِن	ADP	IN	_	2	obl:tmod	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADV	2	advmod	_	LId=مِن_1
 5	قبل	قَبل	ADV	RB	_	4	fixed	_	LId=قَبْل_1
 6	سوى	سِوَى	PART	RP	_	8	compound:prt	_	LId=سِوَى_1
 7	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	8	det	_	LId=بَعْض_1
@@ -2222,7 +2222,7 @@
 # text = غير أن هناك العديد من أعضاء الهيئة التشريعية ممن يحملون معتقدات دينية راسخة ويعارضون أي تشريعٍ جديد.
 # original_text = غير أن هناك العديد من أعضاء الهيئة التشريعية ممن يحملون معتقدات دينية راسخة ويعارضون أي تشريع جديد.
 # text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
-1	غير	غَير	PART	RP	_	3	compound:prt	_	LId=غَيْر_1
+1	غير	غَير	PART	RP	_	3	cc	_	LId=غَيْر_1
 2	أن	أَنَّ	PART	RP	_	1	fixed	_	LId=أَنَّ_1
 3	هناك	هُنَاكَ	ADV	RB	_	0	root	_	LId=هُناكَ_1
 4	العديد	عَدِيد	NOUN	NN	Case=Nom|Definite=Def	3	nsubj	_	LId=عَدِيد_1
@@ -9411,20 +9411,20 @@
 4	"	"	PUNCT	``	_	23	punct	_	LId="_0|SpaceAfter=No
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	المدن	مَدِينَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	obl	_	LId=مَدِينَة_1
-7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	obl	_	LId=الَّذِي_1
+7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	det	_	LId=الَّذِي_1
 8	انطلقنا	ٱِنطَلَق	VERB	VBC	Aspect=Perf|Number=Plur|Person=1|Tense=Past|Voice=Act	6	acl:relcl	_	LId=ٱِنْطَلَق_1
-9	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1|SpaceAfter=No
-10	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	dep	_	_
-11	أو	أَو	CCONJ	CC	_	13	cc	_	LId=أَوْ_1
-12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	obl	_	LId=الَّذِي_1
-13	لا	لَا	PART	RP	_	8	conj	_	LId=لا_1
+9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1|SpaceAfter=No
+10	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+11	أو	أَو	CCONJ	CC	_	20	cc	_	LId=أَوْ_1
+12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	16	det	_	LId=الَّذِي_1
+13	لا	لَا	PART	RP	ExtPos=ADV	20	advmod	_	LId=لا_1
 14	زال	زَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	fixed	_	LId=زال-ُ_1
-15	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1|SpaceAfter=No
-16	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	dep	_	_
-17	عمل	عَمَل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	LId=عَمَل_1|SpaceAfter=No
+15	في	فِي	ADP	IN	_	16	case	_	LId=فِي_1|SpaceAfter=No
+16	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+17	عمل	عَمَل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	20	nsubj	_	LId=عَمَل_1|SpaceAfter=No
 18	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1|PronType=Prs	17	nmod	_	_
 19	قيد	قَيدَ	ADP	IN	_	20	case	_	LId=قَيْد_1
-20	الإنشاء	إِنشَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	LId=إِنْشاء_1|SpaceAfter=No
+20	الإنشاء	إِنشَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	LId=إِنْشاء_1|SpaceAfter=No
 21	,	,	PUNCT	,	_	6	punct	_	LId=,_0
 22	س	سَ	PART	RP	_	23	compound:prt	_	SpaceAfter=No
 23	يستمر	اِستَمَرّ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=ٱِسْتَمَرّ_1
