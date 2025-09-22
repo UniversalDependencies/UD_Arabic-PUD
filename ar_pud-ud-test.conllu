@@ -21645,7 +21645,7 @@
 10	تحتل	اِحتَلّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	obj	_	LId=ٱِحْتَلّ_1
 11	حقلاً	حَقل	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	10	obj	_	LId=حَقْل_1
 12	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
-13	أكمل	أَكمَل	DET	PDT	Case=Gen	14	det	_	LId=أَكْمَل_2|SpaceAfter=No
+13	أكمل	أَكمَل	DET	PDT	Case=Gen|PronType=Tot	14	det	_	LId=أَكْمَل_2|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
