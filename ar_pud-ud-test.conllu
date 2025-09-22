@@ -839,7 +839,7 @@
 20	الاسم	اِسم	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nsubj	_	LId=ٱِسْم_1
 21	من	مِن	ADP	IN	_	25	case	_	LId=مِن_1
 22	بين	بَينَ	ADP	IN	_	21	fixed	_	LId=بَيْنَ_1
-23	أكثر	أَكثَر	DET	PDT	Case=Gen	25	det	_	LId=أَكْثَر_2
+23	أكثر	أَكثَر	DET	PDT	Case=Gen|PronType=Ind	25	det	_	LId=أَكْثَر_2
 24	50	50	NUM	CD	_	25	nummod	_	LId=٥٠_0
 25	اسماً	اِسم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	LId=ٱِسْم_1
 26	رواجاً	رَواج	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	25	obl	_	LId=رَواج_1|SpaceAfter=No
@@ -3776,7 +3776,7 @@
 # original_text = هذا أكثر الأورام شيوعا عند الأجنة, ويظهر في واحد من كل 35000 مولود.
 # text_en = It is the most common tumour found in babies, occurring in one of every 35,000 births.
 1	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	LId=هٰذا_1
-2	أكثر	أَكثَر	DET	PDT	Case=Nom	3	det	_	LId=أَكْثَر_2
+2	أكثر	أَكثَر	DET	PDT	Case=Nom|PronType=Ind	3	det	_	LId=أَكْثَر_2
 3	الأورام	وَرَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	0	root	_	LId=وَرَم_1
 4	شيوعاً	شُيُوع	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	LId=شُيُوع_1
 5	عند	عِندَ	ADP	IN	_	6	case	_	LId=عِنْد_1
