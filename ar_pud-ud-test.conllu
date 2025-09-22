@@ -8611,7 +8611,7 @@
 1	لا	لَا	PART	RP	Polarity=Neg	2	advmod	_	LId=لا_1
 2	أدري	دَرَى	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=دَرَى-ِ_1
 3	ل	لِ	ADP	IN	_	4	case	_	SpaceAfter=No
-4	م	م	PRON	WP	Case=Gen	5	obl	_	LId=م_2
+4	م	م	PRON	WP	Case=Gen|PronType=Int	5	obl	_	LId=م_2
 5	اخترت	ٱِختار	VERB	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Act	2	ccomp	_	LId=ٱِخْتار_1|SpaceAfter=No
 6	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
 7	...	...	PUNCT	...	_	2	punct	_	LId=..._0
