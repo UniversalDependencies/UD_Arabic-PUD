@@ -39,6 +39,7 @@ employ ten-fold cross-validation.
 * 2025-11-15 v2.17
   * Added VerbForm=Fin to verbs with Mood.
   * Added PronType=Prs to pronouns and determiners.
+  * Relation obl changed to nmod if parent is undoubtedly nominal.
 * 2022-11-15 v2.11
   * Fixed some annotation/validation errors.
   * Lemmas converted to Arabic script, preferably PADT-like.

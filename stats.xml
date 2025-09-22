@@ -102,13 +102,13 @@
     <dep name="flat">280</dep>
     <dep name="iobj">10</dep>
     <dep name="mark">481</dep>
-    <dep name="nmod">3198</dep>
+    <dep name="nmod">3264</dep>
     <dep name="nsubj">1370</dep>
     <dep name="nsubj:pass">141</dep>
     <dep name="nummod">150</dep>
     <dep name="obj">746</dep>
-    <dep name="obl">1989</dep>
-    <dep name="obl:tmod">142</dep>
+    <dep name="obl">1956</dep>
+    <dep name="obl:tmod">109</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">24</dep>
     <dep name="punct">2226</dep>

@@ -783,7 +783,7 @@
 17	استفتاء	اِستِفتَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=ٱِسْتِفْتاء_1
 18	استقلال	اِستِقلَال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	LId=ٱِسْتِقْلال_1
 19	اسكتلندا	إِسكُتلَندا	PROPN	NNP	Gender=Fem|Number=Sing	18	nmod	_	LId=إِسْكُتْلَنْدا_1
-20	عام	عام	ADV	RB	_	17	obl:tmod	_	LId=عام_1
+20	عام	عام	ADV	RB	_	17	nmod	_	LId=عام_1
 21	2014	2014	NUM	CD	Case=Gen	20	obl	_	LId=٢٠١٤_0|SpaceAfter=No
 22	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -842,7 +842,7 @@
 23	أكثر	أَكثَر	DET	PDT	Case=Gen|PronType=Ind	25	det	_	LId=أَكْثَر_2
 24	50	50	NUM	CD	_	25	nummod	_	LId=٥٠_0
 25	اسماً	اِسم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	LId=ٱِسْم_1
-26	رواجاً	رَواج	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	25	obl	_	LId=رَواج_1|SpaceAfter=No
+26	رواجاً	رَواج	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	25	nmod	_	LId=رَواج_1|SpaceAfter=No
 27	,	,	PUNCT	,	_	35	punct	_	LId=,_0
 28	و	وَ	CCONJ	CC	_	35	cc	_	SpaceAfter=No
 29	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	35	cop	_	LId=كان-ُ_1
@@ -1017,7 +1017,7 @@
 26	علي	عَلَى	ADP	IN	_	27	case	_	LId=عَلَى_1|SpaceAfter=No
 27	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
 28	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	29	det	_	LId=بَعْض_1
-29	الشيء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	obl	_	LId=شَيْء_1|SpaceAfter=No
+29	الشيء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	nmod	_	LId=شَيْء_1|SpaceAfter=No
 30	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
 # newdoc id = n01017
@@ -1762,10 +1762,10 @@
 11	وضع	وَضع	NOUN	VBG	Case=Nom|Definite=Def|Gender=Masc	8	nsubj	_	LId=وَضْع_1
 12	الشعر	شَعر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	LId=شِعْر_1
 13	في	فِي	ADP	IN	_	14	case	_	LId=فِي_1
-14	أحواضٍ	حَوض	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	11	obl	_	LId=حَوْض_1
+14	أحواضٍ	حَوض	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	11	nmod	_	LId=حَوْض_1
 15	كيميائية	كِيمِيائِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	14	amod	_	LId=كِيمِيائِيّ_1
 16	ل	لِ	ADP	IN	_	17	case	_	SpaceAfter=No
-17	إزالة	إِزَالَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	obl	_	LId=إِزالَة_1
+17	إزالة	إِزَالَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	nmod	_	LId=إِزالَة_1
 18	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	19	det	_	LId=أَيّ_1
 19	أثرٍ	أَثر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	LId=أَثْر_1
 20	ل	لِ	ADP	IN	_	21	case	_	SpaceAfter=No
@@ -2468,7 +2468,7 @@
 4	نشر	نَشر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=نَشْر_1
 5	صورة	صُورَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	LId=صُورَة_1
 6	هذا	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	LId=هٰذا_1
-7	الصباح	صُباح	ADV	RB	_	4	obl:tmod	_	LId=صُباح_2|SpaceAfter=No
+7	الصباح	صُباح	ADV	RB	_	4	nmod	_	LId=صُباح_2|SpaceAfter=No
 8	,	,	PUNCT	,	_	4	punct	_	LId=,_0
 9	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=قال-ُ_1
 10	شرطة	شُرطَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	LId=شَرْطَة_1
@@ -2963,7 +2963,7 @@
 2	ميليس	ميليس	PROPN	NNP	Gender=Fem|Number=Sing	1	nsubj	_	LId=ميليس_0
 3	خلال	خِلَالَ	ADP	IN	_	4	case	_	LId=خِلال_1
 4	مقابلة	مُقَابَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=مُقابَلَة_1
-5	يوم	يَوم	ADV	RB	_	4	obl:tmod	_	LId=يَوْم_1
+5	يوم	يَوم	ADV	RB	_	4	nmod	_	LId=يَوْم_1
 6	الخميس	خَمِيس	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	LId=خَمِيس_2
 7	مع	مَعَ	ADP	IN	_	8	case	_	LId=مَع_1
 8	قناة	قَنَاة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	LId=قَناة_1
@@ -3098,7 +3098,7 @@
 8	المرتبط	مُرتَبِط	ADJ	VBN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	7	ccomp	_	LId=مُرْتَبِط_1
 9	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
 10	الأداء	أَدَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=أَداء_1
-11	لقاء	لِقَاء	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=لِقاء_1
+11	لقاء	لِقَاء	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=لِقاء_1
 12	النجاح	نَجَاح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=نَجاح_1
 13	أو	أَو	CCONJ	CC	_	14	cc	_	LId=أَوْ_1
 14	تجاوز	تَجَاوُز	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	conj	_	LId=تَجاوُز_1
@@ -3333,7 +3333,7 @@
 30	تقديم	تَقدِيم	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	29	nmod	_	LId=تَقْدِيم_1|SpaceAfter=No
 31	هم	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	_
 32	ل	لِ	ADP	IN	_	33	case	_	SpaceAfter=No
-33	تبرعات	تَبَرُّع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	30	obl	_	LId=تَبَرُّع_1
+33	تبرعات	تَبَرُّع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	30	nmod	_	LId=تَبَرُّع_1
 34	مالية	مَالِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	33	amod	_	LId=مالِيّ_1
 35	ل	لِ	ADP	IN	_	36	case	_	SpaceAfter=No
 36	لسياسيين	سِياسِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	33	nmod	_	LId=سِياسِيّ_2
@@ -5691,7 +5691,7 @@
 15	على	عَلَى	ADP	IN	_	17	case	_	LId=عَلَى_1
 16	هذا	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	LId=هٰذا_1
 17	الاقتراض	اِقتِرَاض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	LId=ٱِقْتِراض_1
-18	الآن	آن	ADV	RB	_	14	obl:tmod	_	LId=آن_1|SpaceAfter=No
+18	الآن	آن	ADV	RB	_	14	nmod	_	LId=آن_1|SpaceAfter=No
 19	,	,	PUNCT	,	_	28	punct	_	LId=,_0
 20	ف	ف	PART	RP	_	28	compound:prt	_	SpaceAfter=No
 21	إن	إِنَّ	PART	RP	_	28	compound:prt	_	LId=إِنَّ_1
@@ -6651,7 +6651,7 @@
 17	رفض	رَفض	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	9	obl	_	LId=رَفْض_1|SpaceAfter=No
 18	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 19	عن	عَن	ADP	IN	_	20	case	_	LId=عَن_1
-20	بغض	بُغض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	obl	_	LId=بُغْض_1|SpaceAfter=No
+20	بغض	بُغض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	LId=بُغْض_1|SpaceAfter=No
 21	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	nmod	_	_
 22	الكبير	كَبِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	amod	_	LId=كَبِير_1
 23	ل	لِ	ADP	IN	_	24	case	_	SpaceAfter=No
@@ -6982,12 +6982,12 @@
 11	تسلم	تَسَلُّم	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	6	obl	_	LId=تَسَلُّم_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 13	ل	لِ	ADP	IN	_	14	case	_	SpaceAfter=No
-14	هونغ	هُونج	PROPN	NNP	Number=Sing	11	obl	_	LId=هُونْج_1
+14	هونغ	هُونج	PROPN	NNP	Number=Sing	11	nmod	_	LId=هُونْج_1
 15	كونع	كونع	PROPN	NNP	Number=Sing	14	flat	_	LId=كونع_0
-16	عام	عام	ADV	RB	_	11	obl:tmod	_	LId=عام_1
+16	عام	عام	ADV	RB	_	11	nmod	_	LId=عام_1
 17	1997	1997	NUM	CD	Case=Gen	16	obl	_	LId=١٩٩٧_0
 18	من	مِن	ADP	IN	_	19	case	_	LId=مِن_1
-19	المملكة	مَملَكَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	LId=مَمْلَكَة_1
+19	المملكة	مَملَكَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=مَمْلَكَة_1
 20	المتحدة	مُتَّحِد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=مُتَّحِد_1|Proper=True|SpaceAfter=No
 21	.	.	PUNCT	.	_	6	punct	_	LId=._0
 
@@ -7517,7 +7517,7 @@
 6	قدرت	قُدرَة	NOUN	VBG	Case=Gen|Definite=Def|Gender=Fem	4	nmod	_	LId=قُدْرَة_1|SpaceAfter=No
 7	ه	ه	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	_
 8	على	عَلَى	ADP	IN	_	9	case	_	LId=عَلَى_1
-9	الإنفاق	إِنفَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=إِنْفاق_1|SpaceAfter=No
+9	الإنفاق	إِنفَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=إِنْفاق_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	LId=,_0
 11	حيث	حَيثُ	ADP	IN	ExtPos=SCONJ	16	mark	_	Gloss=where|LId=حَيْثُ_1
 12	أن	أَنَّ	SCONJ	IN	_	11	fixed	_	Gloss=that|LId=أَنَّ_1
@@ -7661,7 +7661,7 @@
 10	السندات	سَنَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	obj	_	LId=سَنَد_1
 11	الخاصة	خَاصّ	ADJ	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	10	ccomp	_	LId=خاصّ_1
 12	عن	عَن	ADP	IN	_	13	case	_	LId=عَن_1
-13	حسابات	حِسَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	LId=حِساب_2
+13	حسابات	حِسَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	nmod	_	LId=حِساب_2
 14	التوفير	تَوفِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=تَوْفِير_1
 15	العادية	عَادِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=عادِيّ_1|SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	LId=._0
@@ -8457,7 +8457,7 @@
 4	31	31	NUM	CD	_	1	obl	_	LId=٣١_0
 5	تشرين	تِشرِين	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	4	obl:tmod	_	LId=تِشْرِين_1
 6	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	amod	_	LId=أَوَّل_2|Proper=True
-7	1832	1832	NUM	CD	_	5	obl:tmod	_	LId=١٨٣٢_0
+7	1832	1832	NUM	CD	_	5	nmod	_	LId=١٨٣٢_0
 8	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
 9	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	10	det	_	LId=أَحَد_1
 10	القرى	قَريَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	obl	_	LId=قَرْيَة_1
@@ -9378,7 +9378,7 @@
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 15	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
 16	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	det	_	LId=ذٰلِكَ_1
-17	الحالة	حَالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	LId=حالَة_1
+17	الحالة	حَالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	LId=حالَة_1
 18	العاطفية	عَاطِفِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	amod	_	LId=عاطِفِيّ_1|SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
@@ -9553,7 +9553,7 @@
 23	ربط	رَبط	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	5	nmod	_	LId=رَبْط_1|SpaceAfter=No
 24	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	_
 25	ب	بِ	ADP	IN	_	26	case	_	SpaceAfter=No
-26	منشورات	مَنشُور	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	23	obl	_	LId=مَنْشُور_1
+26	منشورات	مَنشُور	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	23	nmod	_	LId=مَنْشُور_1
 27	تويتر	تويتر	PROPN	NNP	Gender=Masc|Number=Sing	26	nmod	_	LId=تويتر_0
 28	الخاصة	خَاصّ	ADJ	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	26	ccomp	_	LId=خاصّ_1
 29	ب	بِ	ADP	IN	_	30	case	_	SpaceAfter=No
@@ -9933,7 +9933,7 @@
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	مكوب	مكوب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=مكوب_0
 12	العرض	عَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=عَرْض_1
-13	وحد	وَحد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	LId=وَحْد_1|SpaceAfter=No
+13	وحد	وَحد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=وَحْد_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
 15	"	"	PUNCT	''	_	6	punct	_	LId="_0|SpaceAfter=No
 16	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -11051,7 +11051,7 @@
 12	تاريخٍ	تارِيخ	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	LId=تارِيخ_1
 13	متقدم	مُتَقَدِّم	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	12	amod	_	LId=مُتَقَدِّم_1
 14	(	(	PUNCT	(	_	15	punct	_	LId=(_0|SpaceAfter=No
-15	1918	1918	NUM	CD	_	12	obl:tmod	_	LId=١٩١٨_0|SpaceAfter=No
+15	1918	1918	NUM	CD	_	12	nmod	_	LId=١٩١٨_0|SpaceAfter=No
 16	)	)	PUNCT	)	_	15	punct	_	LId=)_0|SpaceAfter=No
 17	,	,	PUNCT	,	_	7	punct	_	LId=,_0
 18	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	25	cop	_	LId=كان-ُ_1
@@ -11564,9 +11564,9 @@
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	سبب	سَبَب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	LId=سَبَب_1
 3	اشتراك	اِشتِرَاك	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	2	nmod	_	LId=ٱِشْتِراك_1|SpaceAfter=No
-4	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+4	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
-6	المناخ	مُنَاخ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=مُناخ_1
+6	المناخ	مُنَاخ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=مُناخ_1
 7	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	الجيولوجيا	جِيُولُوجِيا	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	conj	_	LId=جِيُولُوجِيا_1
 9	و	وَ	CCONJ	CC	_	10	cc	_	SpaceAfter=No
@@ -12432,7 +12432,7 @@
 8	احتوائ	ٱِحتِواء	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	7	nmod	_	LId=ٱِحْتِواء_1|SpaceAfter=No
 9	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 10	على	عَلَى	ADP	IN	_	11	case	_	LId=عَلَى_1
-11	كميات	كَمِّيَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	8	obl	_	LId=كَمِّيَّة_1
+11	كميات	كَمِّيَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	8	nmod	_	LId=كَمِّيَّة_1
 12	كبيرة	كَبِير	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	11	amod	_	LId=كَبِير_1
 13	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
 14	السيليكا	سيليكا	NOUN	NN	Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=سيليكا_0|SpaceAfter=No
@@ -12508,7 +12508,7 @@
 4	ك	كَ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	محمية	مَحمِيَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	LId=مَحْمِيّ_1
 6	برية	بَرِّيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	LId=بَرِّيّ_1
-7	عام	عام	ADV	RB	_	2	obl:tmod	_	LId=عام_1
+7	عام	عام	ADV	RB	_	2	nmod	_	LId=عام_1
 8	1975	1975	NUM	CD	Case=Gen	7	obl	_	LId=١٩٧٥_0|SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -12936,7 +12936,7 @@
 12	الشعوب	شَعب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	LId=شَعْب_1
 13	الأوروبية	أُورُوبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	LId=أُورُبِّيّ_1
 14	إلى	إِلَى	ADP	IN	_	15	case	_	LId=إِلَى_1
-15	المنطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	LId=مِنْطَقَة_1|SpaceAfter=No
+15	المنطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=مِنْطَقَة_1|SpaceAfter=No
 16	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w01039
@@ -13338,7 +13338,7 @@
 5	قبل	قَبلَ	ADP	IN	_	4	fixed	_	LId=قِبَل_1
 6	كريستوفر	كرِيستُوفَر	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	LId=كرِيسْتُوفَر_1
 7	كولومبوس	كولومبوس	PROPN	NNP	Gender=Masc|Number=Sing	6	flat	_	LId=كولومبوس_0
-8	عام	عام	ADV	RB	_	2	obl:tmod	_	LId=عام_1
+8	عام	عام	ADV	RB	_	2	nmod	_	LId=عام_1
 9	1492	1492	NUM	CD	Case=Gen	8	obl	_	LId=١٤٩٢_0|SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 11	أخذت	أَخَذ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَخَذ-ُ_1
@@ -13601,7 +13601,7 @@
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	حلول	حُلُول	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=حُلُول_1
 3	منتصف	مُنتَصَف	DET	PDT	Case=Gen|PronType=Ind	4	det	_	LId=مُنْتَصَف_1
-4	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl:tmod	_	LId=عام_1
+4	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=عام_1
 5	1962	1962	NUM	CD	_	4	nmod	_	LId=١٩٦٢_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 7	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	12	aux	_	LId=كان-ُ_1
@@ -13822,7 +13822,7 @@
 2	سقوط	سُقُوط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=سُقُوط_1
 3	سلالة	سُلَالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=سُلالَة_1
 4	تشينغ	تشينغ	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	LId=تشينغ_0
-5	عام	عام	ADV	RB	_	2	obl:tmod	_	LId=عام_1
+5	عام	عام	ADV	RB	_	2	nmod	_	LId=عام_1
 6	1911	1911	NUM	CD	Case=Gen	5	obl	_	LId=١٩١١_0|SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 8	أعلنت	أَعلَن	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَعْلَن_1
@@ -13910,7 +13910,7 @@
 21	سقوط	سُقُوط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	27	obl	_	LId=سُقُوط_1
 22	سلالة	سُلَالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	LId=سُلالَة_1
 23	تشينغ	تشينغ	PROPN	NNP	Gender=Masc|Number=Sing	22	nmod	_	LId=تشينغ_0
-24	عام	عام	ADV	RB	_	21	obl:tmod	_	LId=عام_1
+24	عام	عام	ADV	RB	_	21	nmod	_	LId=عام_1
 25	1911	1911	NUM	CD	Case=Gen	24	obl	_	LId=١٩١١_0|SpaceAfter=No
 26	,	,	PUNCT	,	_	21	punct	_	LId=,_0
 27	باتت	بات	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	conj	_	LId=بات-ِ_1
@@ -14190,7 +14190,7 @@
 20	اعتناق	ٱِعتِناق	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	18	nmod	_	LId=ٱِعْتِناق_1|SpaceAfter=No
 21	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 22	ل	لِ	ADP	IN	_	23	case	_	SpaceAfter=No
-23	لمسيحية	مَسِيحِيّ	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	LId=مَسِيحِيّ_1|SpaceAfter=No
+23	لمسيحية	مَسِيحِيّ	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	LId=مَسِيحِيّ_1|SpaceAfter=No
 24	.	.	PUNCT	.	_	6	punct	_	LId=._0
 
 # newdoc id = w01053
@@ -14413,7 +14413,7 @@
 7	في	فِي	ADP	IN	_	9	case	_	LId=فِي_1
 8	إحدى	أَحَد	DET	PDT	Case=Gen|PronType=Ind	9	det	_	LId=أَحَد_1
 9	المعارك	مَعرَكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	5	nmod	_	LId=مَعْرَكَة_1
-10	عام	عام	ADV	RB	_	5	obl:tmod	_	LId=عام_1
+10	عام	عام	ADV	RB	_	5	nmod	_	LId=عام_1
 11	363	363	NUM	CD	Case=Gen	10	obl	_	LId=٣٦٣_0|SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	LId=._0
 
@@ -14828,7 +14828,7 @@
 23	البرونزي	بُرُونزِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	amod	_	LId=بُرُونْزِيّ_1|Proper=True
 24	الوسيط	وَسِيط	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	amod	_	LId=وَسِيط_1|Proper=True
 25	حوالي	حَوالَي	ADV	RB	_	26	advmod	_	LId=حَوالَي_1
-26	عام	عام	ADV	RB	_	22	obl:tmod	_	LId=عام_1
+26	عام	عام	ADV	RB	_	22	nmod	_	LId=عام_1
 27	1600	1600	NUM	CD	Case=Gen	26	obl	_	LId=١٦٠٠_0
 28	قبل	قَبلَ	ADP	IN	_	29	case	_	LId=قَبْل_1
 29	الميلاد	مِيلَاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	26	obl	_	LId=مِيلاد_1|SpaceAfter=No
@@ -15665,7 +15665,7 @@
 13	بين	بَينَ	ADP	IN	_	14	case	_	LId=بَيْنَ_1
 14	تشرين	تِشرِين	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	LId=تِشْرِين_1
 15	الثاني	ثَانِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	amod	_	LId=ثانِي_1|Proper=True
-16	1886	1886	NUM	CD	_	14	obl:tmod	_	LId=١٨٨٦_0
+16	1886	1886	NUM	CD	_	14	nmod	_	LId=١٨٨٦_0
 17	و	وَ	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	حزيران	حَزِيران	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	14	conj	_	LId=حَزِيران_1
 19	1887	1887	NUM	CD	_	18	obl:tmod	_	LId=١٨٨٧_0|SpaceAfter=No
@@ -16509,7 +16509,7 @@
 8	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 9	من	مِن	ADP	IN	ExtPos=ADP	11	case	_	LId=مِن_1
 10	قبل	قَبلَ	ADP	IN	_	9	fixed	_	LId=قِبَل_1
-11	الجيش	جَيش	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=جَيْش_1
+11	الجيش	جَيش	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=جَيْش_1
 12	الأمريكي	أَمرِيكِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	amod	_	LId=أَمْرِيكِيّ_1|SpaceAfter=No
 13	)	)	PUNCT	)	_	7	punct	_	LId=)_0|SpaceAfter=No
 14	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -18195,13 +18195,13 @@
 6	4	4	NUM	CD	_	1	obl	_	LId=٤_0
 7	تشرين	تِشرِين	PROPN	NNP	Gender=Masc|Number=Sing	6	obl:tmod	_	LId=تِشْرِين_1
 8	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=أَوَّل_2|Proper=True
-9	1988	1988	NUM	CD	_	7	obl:tmod	_	LId=١٩٨٨_0
+9	1988	1988	NUM	CD	_	7	nmod	_	LId=١٩٨٨_0
 10	و	وَ	CCONJ	CC	_	13	cc	_	SpaceAfter=No
 11	مجدداً	مُجَدِّد	ADV	RB	_	13	advmod	_	LId=مُجَدِّد_1
 12	في	فِي	ADP	IN	_	13	case	_	LId=فِي_1
 13	19	19	NUM	CD	_	6	conj	_	LId=١٩_0
 14	آذار	آذار	PROPN	NNP	Gender=Masc|Number=Sing	13	obl:tmod	_	LId=آذار_1
-15	1993	1993	NUM	CD	_	14	obl:tmod	_	LId=١٩٩٣_0|SpaceAfter=No
+15	1993	1993	NUM	CD	_	14	nmod	_	LId=١٩٩٣_0|SpaceAfter=No
 16	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w01112
@@ -18732,7 +18732,7 @@
 19	كون	كَون	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	17	obl	_	LId=كَوْن_1|SpaceAfter=No
 20	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 21	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
-22	أصولٍ	أَصل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	19	obl	_	LId=أَصْل_1
+22	أصولٍ	أَصل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	19	nmod	_	LId=أَصْل_1
 23	أوروبية	أُورُوبِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	22	amod	_	LId=أُورُبِّيّ_1|SpaceAfter=No
 24	.	.	PUNCT	.	_	8	punct	_	LId=._0
 
@@ -19566,7 +19566,7 @@
 16	افتقار	اِفتِقَار	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	14	obl	_	LId=ٱِفْتِقار_1|SpaceAfter=No
 17	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
 18	إلى	إِلَى	ADP	IN	_	19	case	_	LId=إِلَى_1
-19	دفاعاتٍ	دَفّاع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	obl	_	LId=دَفّاع_1
+19	دفاعاتٍ	دَفّاع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	nmod	_	LId=دَفّاع_1
 20	واضحة	وَاضِح	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	19	amod	_	LId=واضِح_1|SpaceAfter=No
 21	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -20496,7 +20496,7 @@
 18	سابرينا	بَرَى	PROPN	NNP	Gender=Fem|Number=Sing	16	appos	_	LId=بَرَى-ِ_1|SpaceAfter=No
 19	"	"	PUNCT	''	_	18	punct	_	LId="_0
 20	(	(	PUNCT	(	_	21	punct	_	LId=(_0|SpaceAfter=No
-21	1954	1954	NUM	CD	_	16	obl:tmod	_	LId=١٩٥٤_0|SpaceAfter=No
+21	1954	1954	NUM	CD	_	16	nmod	_	LId=١٩٥٤_0|SpaceAfter=No
 22	)	)	PUNCT	)	_	21	punct	_	LId=)_0|SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	26	nmod	_	LId=الَّذِي_1
@@ -20794,7 +20794,7 @@
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	حلول	حَلّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=حَلّ_1
 3	آب	آب	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=آب_1
-4	2015	2015	NUM	CD	_	3	obl:tmod	_	LId=٢٠١٥_0|SpaceAfter=No
+4	2015	2015	NUM	CD	_	3	nmod	_	LId=٢٠١٥_0|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 6	نشرت	نَشَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=نَشَر-ُ_1
 7	كيشا	كيشا	PROPN	NNP	Gender=Fem|Number=Sing	6	nsubj	_	LId=كيشا_0
@@ -21069,7 +21069,7 @@
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	30	30	NUM	CD	_	5	obl	_	LId=٣٠_0
 8	أيار	أَيّار	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	7	obl:tmod	_	LId=أَيّار_1
-9	1913	1913	NUM	CD	_	8	obl:tmod	_	LId=١٩١٣_0|SpaceAfter=No
+9	1913	1913	NUM	CD	_	8	nmod	_	LId=١٩١٣_0|SpaceAfter=No
 10	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 11	قسمت	قَسَّم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قَسَم-ِ_1
 12	جزءاً	جُزء	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	11	obj	_	LId=جُزْء_1
@@ -21673,7 +21673,7 @@
 2	يوم	يَوم	ADV	RB	_	1	obl:tmod	_	LId=يَوْم_1
 3	30	30	NUM	CD	Case=Gen	2	obl	_	LId=٣٠_0
 4	آب	آب	PROPN	NNP	Gender=Masc|Number=Sing	3	obl:tmod	_	LId=آب_1
-5	2015	2015	NUM	CD	_	4	obl:tmod	_	LId=٢٠١٥_0|SpaceAfter=No
+5	2015	2015	NUM	CD	_	4	nmod	_	LId=٢٠١٥_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	LId=,_0
 7	عندما	عِند	ADP	IN	_	8	mark	_	LId=عِنْد_1
 8	غزا	غَزا	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	advcl	_	LId=غَزا-ُ_1
@@ -21808,7 +21808,7 @@
 1	من	مِن	ADP	IN	_	0	root	_	LId=مِن_1
 2	غير	غَير	PART	RP	Polarity=Neg	3	advmod	_	LId=غَيْر_1
 3	الواضح	واضِح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	LId=واضِح_1
-4	الآن	آن	ADV	RB	_	3	obl:tmod	_	LId=آن_1
+4	الآن	آن	ADV	RB	_	3	nmod	_	LId=آن_1
 5	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 6	أي	أَيّ	DET	WDT	Case=Gen|PronType=Ind	7	det	_	LId=أَيّ_1|SpaceAfter=No
 7	هما	هُوَ	PRON	PRP	Case=Gen|Number=Dual|Person=2|PronType=Prs	3	nmod	_	SpaceAfter=No
@@ -22102,7 +22102,7 @@
 32	20	20	NUM	CD	_	26	appos	_	LId=٢٠_0
 33	كانون	كانُون	PROPN	NNP	Gender=Masc|Number=Sing	32	obl:tmod	_	LId=كانُون_1
 34	الثاني	ثَانِي	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	amod	_	LId=ثانِي_1|Proper=True
-35	2001	2001	NUM	CD	_	33	obl:tmod	_	LId=٢٠٠١_0|SpaceAfter=No
+35	2001	2001	NUM	CD	_	33	nmod	_	LId=٢٠٠١_0|SpaceAfter=No
 36	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = n02075
@@ -22846,20 +22846,20 @@
 4	وقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	LId=وَقْت_1
 5	الانتقال	اِنتِقَال	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=ٱِنْتِقال_1
 6	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
-7	عين	عَين	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	obl	_	LId=عَيْن_1
+7	عين	عَين	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	LId=عَيْن_1
 8	الاعتبار	اِعتِبَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=ٱِعْتِبار_1
 9	بعد	بَعدَ	ADP	IN	_	10	case	_	LId=بَعْد_1
-10	خصم	خَصم	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	3	obl	_	LId=خَصْم_1
+10	خصم	خَصم	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	3	nmod	_	LId=خَصْم_1
 11	هذا	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	LId=هٰذا_1
 12	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
-13	ساعات	سَاعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	obl	_	LId=ساعَة_1
+13	ساعات	سَاعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	nmod	_	LId=ساعَة_1
 14	العمل	عَمَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=عَمَل_1
 15	المنجزة	منجزه	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=منجزه_0
 16	فعلاً	فِعل	ADV	RB	_	15	advmod	_	LId=فِعْل_1|SpaceAfter=No
 17	,	,	PUNCT	,	_	20	punct	_	LId=,_0
 18	من	مِن	ADP	IN	ExtPos=ADP	20	case	_	LId=مِن_1
 19	دون	دُونَ	ADP	IN	_	18	fixed	_	LId=دُون_1
-20	التمكن	تَمَكُّن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=تَمَكُّن_1
+20	التمكن	تَمَكُّن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=تَمَكُّن_1
 21	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
 22	قياس	قِيَاس	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	LId=قِياس_1
 23	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	LId=وَقْت_1
@@ -23029,7 +23029,7 @@
 5	25	25	NUM	CD	_	1	obl	_	LId=٢٥_0
 6	آذار	آذار	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	5	obl:tmod	_	LId=آذار_1|SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	_	LId=,_0
-8	1927	1927	NUM	CD	_	6	obl:tmod	_	LId=١٩٢٧_0
+8	1927	1927	NUM	CD	_	6	nmod	_	LId=١٩٢٧_0
 9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
 10	كاستلفرانكو	كاستلفرانكو	PROPN	NNP	Gender=Fem|Number=Sing	1	obl	_	LId=كاستلفرانكو_0
 11	فينيتو	فينيتو	PROPN	NNP	Gender=Fem|Number=Sing	10	flat	_	LId=فينيتو_0|SpaceAfter=No
@@ -23190,7 +23190,7 @@
 19	31	31	NUM	CD	_	16	obl	_	LId=٣١_0
 20	كانون	كانُون	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	19	obl:tmod	_	LId=كانُون_2
 21	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	amod	_	LId=أَوَّل_2|Proper=True
-22	2017	2017	NUM	CD	_	20	obl:tmod	_	LId=٢٠١٧_0|SpaceAfter=No
+22	2017	2017	NUM	CD	_	20	nmod	_	LId=٢٠١٧_0|SpaceAfter=No
 23	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
 # newdoc id = n04005
@@ -23205,7 +23205,7 @@
 4	حفظ	حِفظ	NOUN	VBG	Case=Nom|Definite=Def|Gender=Masc	3	nsubj	_	LId=حِفْظ_1|SpaceAfter=No
 5	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
-7	هاتف	هَاتِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=هاتِف_1|SpaceAfter=No
+7	هاتف	هَاتِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=هاتِف_1|SpaceAfter=No
 8	ك	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 9	الذكي	ذَكِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=ذَكِيّ_1
 10	أو	أَو	CCONJ	CC	_	11	cc	_	LId=أَوْ_1
@@ -24097,7 +24097,7 @@
 22	النواب	نَائِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	21	nsubj	_	LId=نائِب_1
 23	على	عَلَى	ADP	IN	_	25	case	_	LId=عَلَى_1
 24	بعض	بَعض	DET	PDT	Case=Gen|PronType=Ind	25	det	_	LId=بَعْض_1|SpaceAfter=No
-25	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	obl	_	_
+25	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nmod	_	_
 26	البعض	بَعض	NOUN	NN	Case=Gen|Definite=Def	25	appos	_	LId=بَعْض_1
 27	و	وَ	CCONJ	CC	_	28	cc	_	SpaceAfter=No
 28	الكوميديا	كُومِيدِيا	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	conj	_	LId=كُومِيدِيا_1
@@ -24328,7 +24328,7 @@
 21	انسحاب	اِنسِحَاب	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	20	nmod	_	LId=ٱِنْسِحاب_1
 22	بريطانيا	برِيطانِيا	PROPN	NNP	Gender=Fem|Number=Sing	21	nsubj	_	LId=برِيطانِيا_1
 23	من	مِن	ADP	IN	_	24	case	_	LId=مِن_1
-24	الاتحاد	ٱِتِّحاد	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	LId=ٱِتِّحاد_1
+24	الاتحاد	ٱِتِّحاد	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	LId=ٱِتِّحاد_1
 25	الأوروبي	أُورُوبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	amod	_	LId=أُورُبِّيّ_1|Proper=True|SpaceAfter=No
 26	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -24381,7 +24381,7 @@
 4	في	فِي	ADP	IN	_	5	case	_	LId=فِي_1
 5	30	30	NUM	CD	_	1	obl	_	LId=٣٠_0
 6	نيسان	نِيسان	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	5	obl:tmod	_	LId=نِيسان_1
-7	1955	1955	NUM	CD	_	6	obl:tmod	_	LId=١٩٥٥_0|SpaceAfter=No
+7	1955	1955	NUM	CD	_	6	nmod	_	LId=١٩٥٥_0|SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w02002
@@ -24776,7 +24776,7 @@
 12	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
 13	الشديدة	شَدِيد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	amod	_	LId=شَدِيد_1
 14	إلي	إِلَى	ADP	IN	_	15	case	_	LId=إِلَى_1|SpaceAfter=No
-15	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	SpaceAfter=No
+15	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	_	LId=._0
 
 # newdoc id = w02007
@@ -25100,7 +25100,7 @@
 3	النازية	نَازِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=نازِيّ_1
 4	على	عَلَى	ADP	IN	_	5	case	_	LId=عَلَى_1
 5	السلطة	سُلطَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=سُلْطَة_1
-6	عام	عام	ADV	RB	_	2	obl:tmod	_	LId=عام_1
+6	عام	عام	ADV	RB	_	2	nmod	_	LId=عام_1
 7	1933	1933	NUM	CD	Case=Gen	6	obl	_	LId=١٩٣٣_0|SpaceAfter=No
 8	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 9	ظهرت	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ظَهَر-َ_1
@@ -25124,7 +25124,7 @@
 1	بعد	بَعدَ	ADP	IN	_	2	case	_	LId=بَعْد_1
 2	الثورة	ثَورَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	LId=ثَوْرَة_1
 3	الروسية	رُوسِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=رُوسِيّ_1|Proper=True
-4	عام	عام	ADV	RB	_	2	obl:tmod	_	LId=عام_1
+4	عام	عام	ADV	RB	_	2	nmod	_	LId=عام_1
 5	1917	1917	NUM	CD	Case=Gen	4	obl	_	LId=١٩١٧_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 7	نالت	نَال	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=نال-ُ_1
@@ -25321,7 +25321,7 @@
 4	الأولمبية	أُولِمبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	amod	_	LId=أُولِمْبِيّ_1|Proper=True
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	آثينا	أَثِينا	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	LId=أَثِينا_1
-7	عام	عام	ADV	RB	_	6	obl:tmod	_	LId=عام_1
+7	عام	عام	ADV	RB	_	6	nmod	_	LId=عام_1
 8	2004	2004	NUM	CD	Case=Gen	7	obl	_	LId=٢٠٠٤_0|SpaceAfter=No
 9	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 10	دخل	دَخَل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=دَخَل-ُ_1
@@ -25599,7 +25599,7 @@
 10	27	27	NUM	CD	_	1	obl	_	LId=٢٧_0
 11	كانون	كانُون	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	10	obl:tmod	_	LId=كانُون_1
 12	الثاني	ثَانِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	amod	_	LId=ثانِي_1|Proper=True
-13	1820	1820	NUM	CD	_	11	obl:tmod	_	LId=١٨٢٠_0|SpaceAfter=No
+13	1820	1820	NUM	CD	_	11	nmod	_	LId=١٨٢٠_0|SpaceAfter=No
 14	,	,	PUNCT	,	_	17	punct	_	LId=,_0
 15	قبل	قَبلَ	ADP	IN	_	17	case	_	LId=قَبْل_1
 16	ثلاثة	ثلاثة	NUM	CD	Case=Gen|Gender=Fem|Number=Plur	17	nummod	_	LId=ثَلاث_1
@@ -25618,11 +25618,11 @@
 29	قيام	قِيَام	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	27	nmod	_	LId=قِيام_1
 30	بالمر	مَرّ	PROPN	NNP	Gender=Masc|Number=Sing	29	nsubj	_	LId=مَرّ_1
 31	ب	بِ	ADP	IN	_	32	case	_	SpaceAfter=No
-32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	29	obl	_	LId=ذٰلِكَ_1
+32	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	29	nmod	_	LId=ذٰلِكَ_1
 33	في	فِي	ADP	IN	_	34	case	_	LId=فِي_1
-34	تشرين	تِشرِين	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	29	obl	_	LId=تِشْرِين_1
+34	تشرين	تِشرِين	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	LId=تِشْرِين_1
 35	الثاني	ثَانِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	34	amod	_	LId=ثانِي_1|Proper=True
-36	1820	1820	NUM	CD	_	34	obl:tmod	_	LId=١٨٢٠_0|SpaceAfter=No
+36	1820	1820	NUM	CD	_	34	nmod	_	LId=١٨٢٠_0|SpaceAfter=No
 37	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 # newdoc id = w03003
@@ -25635,7 +25635,7 @@
 2	بعثة	بَعثَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	LId=بَعْثَة_1
 3	إنديورنس	انديورنس	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	LId=انديورنس_0
 4	الاستكشافية	ٱِستِكشافِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=ٱِسْتِكْشافِيّ_1
-5	عام	عام	ADV	RB	_	2	obl:tmod	_	LId=عام_1
+5	عام	عام	ADV	RB	_	2	nmod	_	LId=عام_1
 6	1914	1914	NUM	CD	Case=Gen	5	obl	_	LId=١٩١٤_0|SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 8	أبحرت	أَبحَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَبْحَر_1
@@ -26130,7 +26130,7 @@
 9	تحويل	تَحوِيل	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	7	obl	_	LId=تَحْوِيل_1
 10	تانتان	أَنَّة	PROPN	NNP	Gender=Masc|Number=Sing	9	obj	_	LId=أَنَّة_1
 11	إلى	إِلَى	ADP	IN	_	12	case	_	LId=إِلَى_1
-12	عملٍ	عَمَل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	LId=عَمَل_1
+12	عملٍ	عَمَل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	LId=عَمَل_1
 13	سينمائي	سِينَمَائِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	amod	_	LId=سِينَمائِيّ_1|SpaceAfter=No
 14	,	,	PUNCT	,	_	7	punct	_	LId=,_0
 15	كتب	كَتَب	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كَتَب-ُ_1
@@ -27224,7 +27224,7 @@
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	تشرين	تِشرِين	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	LId=تِشْرِين_1
 7	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	LId=أَوَّل_2|Proper=True
-8	1777	1777	NUM	CD	_	6	obl:tmod	_	LId=١٧٧٧_0
+8	1777	1777	NUM	CD	_	6	nmod	_	LId=١٧٧٧_0
 9	استسلمت	ٱِستَسلَم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	LId=ٱِسْتَسْلَم_1
 10	القوات	قُوَّة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	9	nsubj	_	LId=قُوَّة_1
 11	البريطانية	برِيطَانِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=برِيطانِيّ_1
