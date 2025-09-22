@@ -16741,7 +16741,7 @@
 3	موز	مَوز	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	conj	_	LId=مَوْز_1
 4	الجنة	جَنَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	LId=جَنَّة_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	LId=,_0
-6	اللذان	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Dual	7	nsubj:pass	_	Gloss=who|LId=الَّذِي_1
+6	اللذان	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Dual|PronType=Rel	7	nsubj:pass	_	Gloss=who|LId=الَّذِي_1
 7	زرعا	زَرَع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Dual|Person=2|Tense=Past|Voice=Pass	1	acl:relcl	_	Gloss=planted|LId=زَرَع-َ_1
 8	من	مِن	ADP	IN	ExtPos=ADP	10	case	_	LId=مِن_1
 9	قبل	قَبلَ	ADP	IN	_	8	fixed	_	LId=قِبَل_1
