@@ -492,7 +492,7 @@
 # text_en = That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau  -- and seems likely to jump again this year.
 1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 2	ارتفعت	اِرتَفَع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِرْتَفَع_1
-3	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	LId=ذٰلِكَ_1
+3	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	det	_	LId=ذٰلِكَ_1
 4	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=نِسْبَة_1
 5	ب	بِ	ADP	IN	_	6	case	_	SpaceAfter=No
 6	اطراد	ٱِطِّراد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=ٱِطِّراد_1
@@ -2437,7 +2437,7 @@
 2	سوف	سَوفَ	PART	RP	_	3	compound:prt	_	LId=سَوْفَ_1
 3	يوجه	وَجَّه	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=وَجَّه_1
 4	ترودو	ترودو	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	LId=ترودو_0
-5	تلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	6	det	_	LId=ذٰلِكَ_1
+5	تلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	6	det	_	LId=ذٰلِكَ_1
 6	الدعوة	دَعوَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	LId=دَعْوَة_1
 7	إلى	إِلَى	ADP	IN	_	8	case	_	LId=إِلَى_1
 8	الرئيس	رَئِيس	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=رَئِيس_1
@@ -2997,7 +2997,7 @@
 5	لا	لَا	PART	RP	Polarity=Neg	6	advmod	_	LId=لا_1
 6	يملك	مَلَك	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=مَلَك-ِ_1
 7	الأطباء	طَبِيب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	6	nsubj	_	LId=طَبِيب_1
-8	تلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	9	det	_	LId=ذٰلِكَ_1
+8	تلك	ذ`لِكَ	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	9	det	_	LId=ذٰلِكَ_1
 9	الأدوات	أَدَاة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	6	obj	_	LId=أَداة_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 11	لدي	لَدَى	ADP	IN	_	12	case	_	LId=لَدَى_1|SpaceAfter=No
@@ -4268,7 +4268,7 @@
 19	لتطورات	تَطَوُّر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	LId=تَطَوُّر_1
 20	المؤسسية	مُؤَسَّسِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=مُؤَسَّسِيّ_1
 21	خلال	خِلَالَ	ADP	IN	_	23	case	_	LId=خِلال_1
-22	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det	_	LId=ذٰلِكَ_1
+22	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	det	_	LId=ذٰلِكَ_1
 23	الفترتين	فَترَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Dual	19	nmod	_	LId=فَتْرَة_1
 24	تأثيراتٌ	تَأثِير	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	17	nsubj	_	LId=تَأْثِير_1
 25	طويلة	طَوِيل	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	24	amod	_	LId=طَوِيل_1
@@ -5241,7 +5241,7 @@
 # text_en = He has got that hard edge to his game but also the soft hands.
 1	لدي	لَدَى	ADP	IN	_	0	root	_	LId=لَدَى_1|SpaceAfter=No
 2	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-3	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	4	det	_	LId=ذٰلِكَ_1
+3	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	det	_	LId=ذٰلِكَ_1
 4	الشراسة	شَراسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=شَراسَة_1
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	اللعب	لَعب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=لُعْبَة_1|SpaceAfter=No
@@ -5993,7 +5993,7 @@
 19	يواصل	وَاصَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	LId=واصَل_1
 20	الاحتجاج	اِحتِجَاج	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	LId=ٱِحْتِجاج_1
 21	ضد	ضِدَّ	ADP	IN	_	23	case	_	LId=ضِدّ_1
-22	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	23	det	_	LId=ذٰلِكَ_1
+22	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	det	_	LId=ذٰلِكَ_1
 23	الحقيقة	حَقِيقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	nmod	_	LId=حَقِيقَة_1|SpaceAfter=No
 24	.	.	PUNCT	.	_	4	punct	_	LId=._0
 
@@ -6234,7 +6234,7 @@
 9	,	,	PUNCT	,	_	7	punct	_	LId=,_0
 10	ظل	ظَلّ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=ظَلّ-َ_1
 11	وجه	وَجه	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	LId=وَجْه_1
-12	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	13	det	_	LId=ذٰلِكَ_1
+12	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	det	_	LId=ذٰلِكَ_1
 13	المرأة	اِمرَأَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=مَرْأَة_1
 14	يظهر	أَظهَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	xcomp	_	LId=أَظْهَر_1
 15	ل	لِ	ADP	IN	_	16	case	_	LId=لِ-_1|SpaceAfter=No
@@ -6616,7 +6616,7 @@
 22	إلى	إِلَى	ADP	IN	_	23	case	_	LId=إِلَى_1
 23	الكثير	كَثِير	NOUN	NN	Case=Gen|Definite=Def	19	nmod	_	LId=كَثِير_2
 24	من	مِن	ADP	IN	_	26	case	_	LId=مِن_1
-25	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	26	det	_	LId=ذٰلِكَ_1
+25	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	26	det	_	LId=ذٰلِكَ_1
 26	الأسواق	سُوق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	23	nmod	_	LId=سُوق_1
 27	إذا	إِذا	ADP	IN	_	29	mark	_	LId=إِذا_1
 28	كنت	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|Voice=Act	29	aux	_	LId=كان-ُ_1
@@ -9377,7 +9377,7 @@
 13	رؤيت	رُؤيَة	NOUN	VBG	Case=Nom|Definite=Def|Gender=Fem	11	nsubj	_	LId=رُؤْيَة_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 15	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
-16	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	17	det	_	LId=ذٰلِكَ_1
+16	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	det	_	LId=ذٰلِكَ_1
 17	الحالة	حَالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	LId=حالَة_1
 18	العاطفية	عَاطِفِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	amod	_	LId=عاطِفِيّ_1|SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	_	LId=._0
@@ -10442,7 +10442,7 @@
 3	على	عَلَى	ADP	IN	_	4	case	_	LId=عَلَى_1
 4	الجزر	جَزِيرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	2	nmod	_	LId=جَزِيرَة_1
 5	الصحراوية	صَحراوِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=صَحْراوِيّ_1
-6	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	7	det	_	LId=ذٰلِكَ_1
+6	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	det	_	LId=ذٰلِكَ_1
 7	الجزر	جَزِيرَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=جَزِيرَة_1
 8	الصغيرة	صَغِير	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	LId=صَغِير_1
 9	الموجودة	مَوجُود	ADJ	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	7	ccomp	_	LId=مَوْجُود_1
@@ -14956,7 +14956,7 @@
 24	الحيواني	حَيَوانِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	amod	_	LId=حَيَوانِيّ_1
 25	المطبق	مُطَبَّق	ADJ	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	23	ccomp	_	LId=مُطَبَّق_1
 26	في	فِي	ADP	IN	_	28	case	_	LId=فِي_1
-27	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	28	det	_	LId=ذٰلِكَ_1
+27	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	28	det	_	LId=ذٰلِكَ_1
 28	السنة	سَنَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	25	obl	_	LId=سَنَة_1|SpaceAfter=No
 29	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
@@ -16655,7 +16655,7 @@
 2	معظم	مُعظَم	DET	PDT	Case=Nom	3	det	_	LId=مُعْظَم_1
 3	المعلومات	مَعلُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	nsubj	_	LId=مَعْلُوم_1
 4	عن	عَن	ADP	IN	_	6	case	_	LId=عَن_1
-5	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	6	det	_	LId=ذٰلِكَ_1
+5	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	6	det	_	LId=ذٰلِكَ_1
 6	الفترة	فَترَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=فَتْرَة_1
 7	من	مِن	ADP	IN	_	8	case	_	LId=مِن_1
 8	المدافن	مَدفَن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=مَدْفَن_1
@@ -20116,7 +20116,7 @@
 # original_text = كانت تلك منسية تقريبا إلى ما بعد وفاة سميث.
 # text_en = These were almost completely forgotten until after Smith's death.
 1	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	3	cop	_	LId=كان-ُ_1
-2	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	LId=ذٰلِكَ_1
+2	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	3	nsubj	_	LId=ذٰلِكَ_1
 3	منسية	مَنسِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	LId=مَنْسِيّ_1
 4	تقريباً	تَقرِيب	ADV	RB	_	3	advmod	_	LId=تَقْرِيب_1
 5	إلى	إِلَى	ADP	IN	_	6	case	_	LId=إِلَى_1
@@ -22361,7 +22361,7 @@
 # text_en = Unlike that of the 28th of October, Mr. Comey's letter has hardly been commented upon.
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	خلاف	خِلَاف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	LId=خِلاف_1
-3	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	2	det	_	LId=ذٰلِكَ_1
+3	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	2	det	_	LId=ذٰلِكَ_1
 4	المؤرخة	مُؤَرِّخ	NOUN	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	LId=مُؤَرِّخ_1
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	الثامن	ثَامِن	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=ثامِن_1
@@ -24814,7 +24814,7 @@
 7	نطاق	نِطَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=نِطاق_1|SpaceAfter=No
 8	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 9	خلال	خِلَالَ	ADP	IN	_	11	case	_	LId=خِلال_1
-10	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	11	det	_	LId=ذٰلِكَ_1
+10	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	det	_	LId=ذٰلِكَ_1
 11	الحقبة	حِقبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=حُقْب_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 13	حيث	حَيثُ	ADP	IN	_	14	mark	_	LId=حَيْثُ_1
