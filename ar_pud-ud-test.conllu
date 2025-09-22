@@ -8828,7 +8828,7 @@
 1	عددٌ	عَدَد	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	13	nsubj	_	LId=عَدَد_1
 2	كبيرٌ	كَبِير	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	amod	_	LId=كَبِير_1
 3	من	مِن	ADP	IN	_	4	case	_	LId=مِن_1
-4	هؤلاء	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur	2	obl	_	LId=هٰذا_1|SpaceAfter=No
+4	هؤلاء	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	2	obl	_	LId=هٰذا_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	LId=,_0
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	منطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	LId=مِنْطَقَة_1
