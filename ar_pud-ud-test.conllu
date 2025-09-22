@@ -22361,7 +22361,7 @@
 # text_en = Unlike that of the 28th of October, Mr. Comey's letter has hardly been commented upon.
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	خلاف	خِلَاف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	LId=خِلاف_1
-3	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	2	det	_	LId=ذٰلِكَ_1
+3	تلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	2	nmod	_	LId=ذٰلِكَ_1
 4	المؤرخة	مُؤَرِّخ	NOUN	VBN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	LId=مُؤَرِّخ_1
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	الثامن	ثَامِن	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	obl	_	LId=ثامِن_1
