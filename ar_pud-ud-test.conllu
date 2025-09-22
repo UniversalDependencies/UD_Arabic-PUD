@@ -377,7 +377,7 @@
 16	نوما	نَوم	PROPN	NNP	Gender=Fem|Number=Sing	14	nmod	_	LId=نَوْم_1|SpaceAfter=No
 17	"	"	PUNCT	''	_	16	punct	_	LId="_0
 18	البينية	بَينِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=بَيْنِيّ_1
-19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	nsubj:pass	_	LId=الَّذِي_1
+19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj:pass	_	LId=الَّذِي_1
 20	افتتحت	اِفتَتَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	13	acl:relcl	_	LId=ٱِفْتَتَح_1
 21	عام	عام	ADV	RB	_	20	obl:tmod	_	LId=عام_1
 22	2004	2004	NUM	CD	Case=Gen	21	obl	_	LId=٢٠٠٤_0|SpaceAfter=No
@@ -1123,7 +1123,7 @@
 1	س	سَ	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 2	تكون	كان	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=كان-ُ_1
 3	الدورة	دَورَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=دَوْرَة_1
-4	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=الَّذِي_1
+4	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	LId=الَّذِي_1
 5	س	سَ	PART	RP	_	6	compound:prt	_	SpaceAfter=No
 6	تستمر	اِستَمَرّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LId=ٱِسْتَمَرّ_1
 7	مدة	مُدَّة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	obj	_	LId=مُدَّة_1
@@ -1310,7 +1310,7 @@
 11	تشرين	تِشرِين	PROPN	NNP	Gender=Masc|Number=Sing	10	obl:tmod	_	LId=تِشْرِين_1
 12	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	amod	_	LId=أَوَّل_2|Proper=True
 13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
-14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	LId=الَّذِي_1
+14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 15	أوقفت	أَوقَف	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	advcl	_	LId=أَوْقَف_1
 16	عمل	عَمَل	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	LId=عَمَل_1
 17	مواقع	مَوقِع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	nmod	_	LId=مَوْقِع_1
@@ -1563,7 +1563,7 @@
 7	طبيعة	طَبِيعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	nmod	_	LId=طَبِيعَة_1
 8	التغيرات	تَغَيُّر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	LId=تَغَيُّر_1
 9	المناخية	مُناخِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	LId=مُناخِيّ_1
-10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	11	nsubj	_	LId=الَّذِي_1
+10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	LId=الَّذِي_1
 11	ضربت	ضَرَب	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	acl:relcl	_	LId=ضَرَب_1
 12	كوكب	كَوكَب	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	LId=كَوْكَب_1
 13	الأرض	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	LId=أَرْض_1
@@ -1610,7 +1610,7 @@
 3	%	%	SYM	SYM	_	2	dep	_	LId=%_0
 4	من	مِن	ADP	IN	_	5	case	_	LId=مِن_1
 5	النباتات	نَبَات	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=نَبات_1
-6	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	7	nsubj:pass	_	LId=الَّذِي_1
+6	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj:pass	_	LId=الَّذِي_1
 7	زرعت	زَرَع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	acl:relcl	_	LId=زَرَع-َ_1
 8	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
 9	البذور	بَذر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	obl	_	LId=بَذْر_2
@@ -1628,13 +1628,13 @@
 21	قليلاً	قَلِيل	ADV	RB	_	20	advmod	_	LId=قَلِيل_1
 22	من	مِن	ADP	IN	_	23	case	_	LId=مِن_1
 23	النباتات	نَبَات	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	20	obl	_	LId=نَبات_1
-24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	25	nsubj:pass	_	LId=الَّذِي_1
+24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj:pass	_	LId=الَّذِي_1
 25	زرعت	زَرَع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	23	acl:relcl	_	LId=زَرَع-َ_1
 26	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
 27	البذور	بَذر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	25	obl	_	LId=بَذْر_2
 28	الفضائية	فَضَائِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	amod	_	LId=فَضائِيّ_1
 29	و	و	PART	RP	_	31	compound:prt	_	SpaceAfter=No
-30	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	31	nsubj	_	LId=الَّذِي_1
+30	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	31	nsubj	_	LId=الَّذِي_1
 31	بلغت	بَلَغ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	25	advcl	_	LId=بَلَغ-ُ_1
 32	66	66	NUM	CD	_	31	obj	_	LId=٦٦_0|SpaceAfter=No
 33	%	%	SYM	SYM	_	32	dep	_	LId=%_0|SpaceAfter=No
@@ -2289,7 +2289,7 @@
 7	بين	بَينَ	ADP	IN	_	8	case	_	LId=بَيْنَ_1
 8	عدد	عَدَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=عَدَد_1
 9	السجائر	سِيجَارَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	nmod	_	LId=سِيجارَة_1
-10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	11	obj	_	LId=الَّذِي_1
+10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	obj	_	LId=الَّذِي_1
 11	يدخن	دَخَّن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	LId=دَخَّن_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	dep	_	_
 13	المرء	مَرء	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	LId=مَرْء_1
@@ -2299,7 +2299,7 @@
 17	و	وَ	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	عدد	عَدَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	LId=عَدَد_1
 19	الطفرات	طَفرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	18	nmod	_	LId=طَفْرَة_1
-20	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	21	nsubj	_	LId=الَّذِي_1
+20	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	21	nsubj	_	LId=الَّذِي_1
 21	أصابت	أَصَاب	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	acl:relcl	_	LId=أَصاب_1
 22	الحمض	حَمض	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	obj	_	LId=حَمْض_1
 23	النووي	نَوَوِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	amod	_	LId=نَوَوِيّ_1
@@ -2334,7 +2334,7 @@
 15	المثانة	مَثانَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	LId=مَثانَة_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	20	punct	_	LId=,_0
 17	و	و	PART	RP	_	20	compound:prt	_	SpaceAfter=No
-18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	nsubj	_	LId=الَّذِي_1
+18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	LId=الَّذِي_1
 19	لم	لَم	PART	RP	Polarity=Neg	20	advmod	_	LId=لَمْ_1
 20	تتعرض	تَعَرَّض	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	LId=تَعَرَّض_1
 21	ب	بِ	ADP	IN	_	22	case	_	SpaceAfter=No
@@ -2611,7 +2611,7 @@
 # text_en = The association that represents real estate agents in Ontario says more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour.
 1	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=قال-ُ_1
 2	الجمعية	جَمعِيَّة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=جَمْعِيَّة_1
-3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=الَّذِي_1
+3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	nsubj	_	LId=الَّذِي_1
 4	تمثل	مَثَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LId=مَثَّل_1
 5	وكلاء	وَكِيل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	4	obj	_	LId=وَكِيل_1
 6	العقارات	عَقَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	5	nmod	_	LId=عَقار_1
@@ -2740,7 +2740,7 @@
 26	بكين	بِكِين	PROPN	NNP	Gender=Masc|Number=Sing	24	nmod	_	LId=بِكِين_1|SpaceAfter=No
 27	,	,	PUNCT	,	_	30	punct	_	LId=,_0
 28	و	و	PART	RP	_	30	compound:prt	_	SpaceAfter=No
-29	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	30	nsubj	_	LId=الَّذِي_1
+29	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	30	nsubj	_	LId=الَّذِي_1
 30	تبرز	بَرَز	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	LId=بَرَز-ُ_1
 31	يوماً	يَوم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	30	obj	_	LId=يَوْم_1
 32	بعد	بَعدَ	ADP	IN	_	33	case	_	LId=بَعْد_1
@@ -2855,7 +2855,7 @@
 19	على	عَلَى	ADP	IN	_	20	case	_	LId=عَلَى_1
 20	تصريحات	تَصرِيح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	conj	_	LId=تَصْرِيح_1|SpaceAfter=No
 21	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod	_	_
-22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	23	nsubj	_	LId=الَّذِي_1
+22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	LId=الَّذِي_1
 23	تحط	حَطّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	LId=حَطّ-ُ_1
 24	من	مِن	ADP	IN	_	25	case	_	LId=مِن_1
 25	قدر	قَدر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	obl	_	LId=قَدْر_1
@@ -2866,7 +2866,7 @@
 30	و	وَ	CCONJ	CC	_	31	cc	_	SpaceAfter=No
 31	شخصيت	شَخصِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	conj	_	LId=شَخْصِيَّة_1|SpaceAfter=No
 32	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
-33	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	34	nsubj	_	LId=الَّذِي_1
+33	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	34	nsubj	_	LId=الَّذِي_1
 34	تجعل	جَعَل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	acl:relcl	_	LId=جَعَل-َ_1|SpaceAfter=No
 35	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	_
 36	غير	غَير	PART	RP	Polarity=Neg	37	advmod	_	LId=غَيْر_1
@@ -3067,7 +3067,7 @@
 10	شهر	شَهر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=شَهْر_1
 11	أيلول	أَيلُول	PROPN	NNP	Gender=Masc|Number=Sing	10	nmod	_	LId=أَيْلُول_1
 12	و	و	PART	RP	_	14	compound:prt	_	SpaceAfter=No
-13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	14	nsubj:pass	_	LId=الَّذِي_1
+13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj:pass	_	LId=الَّذِي_1
 14	يزعم	زَعَم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	LId=زَعَم-ُ_1
 15	أن	أَنَّ	SCONJ	IN	_	17	mark	_	LId=أَنَّ_1|SpaceAfter=No
 16	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
@@ -3477,7 +3477,7 @@
 8	ل	لِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	لشقق	شَقَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	LId=شَقَّة_1
 10	الجديدة	جَدِيد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=جَدِيد_1
-11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	12	nsubj	_	LId=الَّذِي_1
+11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	LId=الَّذِي_1
 12	تدخل	دَخَل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	LId=دَخَل-ُ_1
 13	سوق	سُوق	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	LId=سُوق_1
 14	الإيجارات	إِيجار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nmod	_	LId=إِيجار_1
@@ -3942,7 +3942,7 @@
 13	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
 14	التعليقات	تَعلِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	LId=تَعْلِيق_1|SpaceAfter=No
 15	,	,	PUNCT	,	_	19	punct	_	LId=,_0
-16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	19	nsubj	_	LId=الَّذِي_1
+16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	19	nsubj	_	LId=الَّذِي_1
 17	لم	لَم	PART	RP	Polarity=Neg	19	advmod	_	LId=لَمْ_1
 18	تكن	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	LId=كان-ُ_1
 19	إيجابية	إِيجَابِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	14	acl:relcl	_	LId=إِيجابِيّ_1|SpaceAfter=No
@@ -4161,7 +4161,7 @@
 23	التعامل	تَعَامُل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	LId=تَعامُل_1
 24	مع	مَعَ	ADP	IN	_	25	case	_	LId=مَع_1
 25	الصعوبات	صُعُوبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	nmod	_	LId=صُعُوبَة_1
-26	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	27	nsubj	_	LId=الَّذِي_1
+26	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	27	nsubj	_	LId=الَّذِي_1
 27	تواجه	وَاجَه	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	LId=واجَه_1
 28	تسجيل	تَسجِيل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	27	obj	_	LId=تَسْجِيل_1|SpaceAfter=No
 29	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	nmod	_	SpaceAfter=No
@@ -4533,7 +4533,7 @@
 3	,	,	PUNCT	,	_	5	punct	_	LId=,_0
 4	و	وَ	CCONJ	CC	_	5	cc	_	SpaceAfter=No
 5	الأغاني	أُغنِيَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	2	conj	_	LId=أُغْنِيَة_1
-6	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	LId=الَّذِي_1
+6	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	7	obj	_	LId=الَّذِي_1
 7	تحدث	أَحدَث	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=أَحْدَث_1|SpaceAfter=No
 8	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	dep	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	2	punct	_	LId=,_0
@@ -4819,13 +4819,13 @@
 9	وزارة	وِزارَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	LId=وِزارَة_1
 10	الدفاع	دِفاع	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=دِفاع_1
 11	البريطانية	برِيطَانِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=برِيطانِيّ_1
-12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	13	nsubj	_	LId=الَّذِي_1
+12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	LId=الَّذِي_1
 13	تخيلت	تَخَيَّل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=تَخَيَّل_1
 14	معارك	مَعرَكَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	13	obj	_	LId=مَعْرَكَة_1
 15	الحرب	حَرب	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	nmod	_	LId=حَرْب_1
 16	الباردة	بَارِد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	LId=بارِد_1
 17	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
-18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	nsubj:pass	_	LId=الَّذِي_1
+18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj:pass	_	LId=الَّذِي_1
 19	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	20	aux	_	LId=كان-ُ_1
 20	تستخدم	اِستَخدَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	conj	_	LId=ٱِسْتَخْدَم_1
 21	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1
@@ -5053,7 +5053,7 @@
 2	تتوقف	تَوَقَّف	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=تَوَقَّف_1
 3	محطة	مَحَطَّة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=مَحَطَّة_1
 4	الكهرباء	كَهرَبَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	LId=كَهْرَباء_1
-5	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=الَّذِي_1
+5	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	LId=الَّذِي_1
 6	تعمل	عَمِل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LId=عَمِل-َ_1
 7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
 8	الفحم	فَحم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=فَحْم_1
@@ -5072,7 +5072,7 @@
 21	إلى	إِلَى	ADP	IN	_	22	case	_	LId=إِلَى_1
 22	جانب	جَانِب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=جانِب_1
 23	المولدات	مُوَلِّد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	22	nmod	_	LId=مُوَلِّد_1
-24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	25	nsubj	_	LId=الَّذِي_1
+24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj	_	LId=الَّذِي_1
 25	تعمل	عَمِل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	LId=عَمِل-َ_1
 26	ب	بِ	ADP	IN	_	27	case	_	SpaceAfter=No
 27	الديزل	دِيزِل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	25	obl	_	LId=دِيزِل_1
@@ -5460,7 +5460,7 @@
 13	الصور	صُورَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	LId=صُورَة_1
 14	ذات	ذات	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	amod	_	LId=ذات_1
 15	المغزى	مَغزَى	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	LId=مَغْزَى_1
-16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	LId=الَّذِي_1
+16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	LId=الَّذِي_1
 17	تضم	ضَمّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	LId=ضَمّ-ُ_1
 18	نصوصاً	نَصّ	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	17	obj	_	LId=نَصّ_1
 19	متحركة	مُتَحَرِّك	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	18	amod	_	LId=مُتَحَرِّك_1
@@ -5538,7 +5538,7 @@
 10	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	المرة	مَرَّة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	advcl	_	LId=مَرَّة_1
 12	الوحيدة	وَحِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	amod	_	LId=وَحِيد_2
-13	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	14	obj	_	LId=الَّذِي_1
+13	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	obj	_	LId=الَّذِي_1
 14	نلتقي	اِلتَقَى	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	LId=ٱِلْتَقَى_1
 15	في	فِي	ADP	IN	_	16	case	_	LId=فِي_1|SpaceAfter=No
 16	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
@@ -5810,7 +5810,7 @@
 13	%	%	SYM	SYM	_	12	dep	_	LId=%_0
 14	على	عَلَى	ADP	IN	_	15	case	_	LId=عَلَى_1
 15	الأرصدة	رَصِيد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	obl	_	LId=رَصِيد_1
-16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	LId=الَّذِي_1
+16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	LId=الَّذِي_1
 17	تبلغ	بَلَغ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	LId=بَلَغ-ُ_1
 18	ما	مَا	PART	RP	_	23	compound:prt	_	LId=ما_1
 19	بين	بَينَ	ADP	IN	_	23	case	_	LId=بَيْنَ_1
@@ -6241,7 +6241,7 @@
 16	ي	هُوَ	PRON	PRP	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	obl	_	_
 17	في	فِي	ADP	IN	_	18	case	_	LId=فِي_1
 18	الصور	صُورَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	obl	_	LId=صُورَة_1
-19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	obj	_	LId=الَّذِي_1
+19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	obj	_	LId=الَّذِي_1
 20	بحثت	بَحَث	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	18	acl:relcl	_	LId=بَحَث-َ_1
 21	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1|SpaceAfter=No
 22	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
@@ -6272,7 +6272,7 @@
 10	عن	عَن	ADP	IN	_	11	case	_	LId=عَن_1
 11	مصادر	مَصدَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	obl	_	LId=مَصْدَر_1
 12	الوحي	وَحي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=وَحْي_1
-13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	14	nsubj	_	LId=الَّذِي_1
+13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj	_	LId=الَّذِي_1
 14	تفي	وَفَى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	LId=وَفَى-ِ_1
 15	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
 16	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	17	det	_	LId=ذٰلِكَ_1
@@ -7028,7 +7028,7 @@
 4	حكومة	حُكُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=حُكُومَة_1
 5	هونغ	هُونج	PROPN	NNP	Number=Sing	4	nmod	_	LId=هُونْج_1
 6	كونغ	كُونج	PROPN	NNP	Number=Sing	5	flat	_	LId=كُونْج_1
-7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	8	obj	_	LId=الَّذِي_1
+7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	LId=الَّذِي_1
 8	يقود	قَاد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LId=قاد-ُ_1|SpaceAfter=No
 9	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	dep	_	_
 10	مشرعون	مُشَرِّع	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	8	nsubj	_	LId=مُشَرِّع_1
@@ -7767,7 +7767,7 @@
 6	تستفد	ٱِستَفاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	LId=ٱِسْتَفاد_1
 7	من	مِن	ADP	IN	_	8	case	_	LId=مِن_1
 8	الدفعة	دُفعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	LId=دَفْعَة_1
-9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	10	obj	_	LId=الَّذِي_1
+9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	obj	_	LId=الَّذِي_1
 10	أحدث	أَحدَث	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	acl:relcl	_	LId=أَحْدَث_1|SpaceAfter=No
 11	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	dep	_	_
 12	انخفاض	اِنخِفَاض	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	LId=ٱِنْخِفاض_1
@@ -8663,7 +8663,7 @@
 16	أو	أَو	CCONJ	CC	_	17	cc	_	LId=أَوْ_1
 17	عدد	عَدَد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	conj	_	LId=عَدَد_1
 18	القواعد	قَاعِدَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	17	nmod	_	LId=قاعِدَة_2
-19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	obj	_	LId=الَّذِي_1
+19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	obj	_	LId=الَّذِي_1
 20	نتبع	ٱِتَّبَع	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	LId=ٱِتَّبَع_1|SpaceAfter=No
 21	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	dep	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	_	LId=._0
@@ -9049,7 +9049,7 @@
 8	أن	أَنَّ	SCONJ	IN	_	22	mark	_	LId=أَنَّ_1
 9	الجداول	جَدوَل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	22	nsubj	_	LId=جَدْوَل_2
 10	الزمنية	زَمَنِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=زَمَنِيّ_1
-11	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	LId=الَّذِي_1
+11	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	12	obj	_	LId=الَّذِي_1
 12	عرضت	عَرَض	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=عَرَض-ِ_1|SpaceAfter=No
 13	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	dep	_	_
 14	وسائل	وَسِيلَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj	_	LId=وَسِيلَة_1
@@ -9411,12 +9411,12 @@
 4	"	"	PUNCT	``	_	23	punct	_	LId="_0|SpaceAfter=No
 5	في	فِي	ADP	IN	_	6	case	_	LId=فِي_1
 6	المدن	مَدِينَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	obl	_	LId=مَدِينَة_1
-7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	LId=الَّذِي_1
+7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	obl	_	LId=الَّذِي_1
 8	انطلقنا	ٱِنطَلَق	VERB	VBC	Aspect=Perf|Number=Plur|Person=1|Tense=Past|Voice=Act	6	acl:relcl	_	LId=ٱِنْطَلَق_1
 9	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1|SpaceAfter=No
 10	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	dep	_	_
 11	أو	أَو	CCONJ	CC	_	13	cc	_	LId=أَوْ_1
-12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	13	obl	_	LId=الَّذِي_1
+12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	obl	_	LId=الَّذِي_1
 13	لا	لَا	PART	RP	_	8	conj	_	LId=لا_1
 14	زال	زَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	13	fixed	_	LId=زال-ُ_1
 15	في	فِي	ADP	IN	_	12	case	_	LId=فِي_1|SpaceAfter=No
@@ -9747,7 +9747,7 @@
 7	فوق	فَوقَ	ADP	IN	_	8	case	_	LId=فَوْق_1
 8	الأسوار	سُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	obl	_	LId=سُور_1
 9	العالية	عَالِي	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	LId=عالِي_1
-10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	11	nsubj	_	LId=الَّذِي_1
+10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	LId=الَّذِي_1
 11	تفصل	فَصَل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	LId=فَصَل-ِ_1
 12	بين	بَينَ	ADP	IN	_	13	case	_	LId=بَيْنَ_1
 13	الحدائق	حَدِيقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	obl	_	LId=حَدِيقَة_1|SpaceAfter=No
@@ -10359,7 +10359,7 @@
 7	غابات	غَابَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	LId=غابَة_1
 8	التايغا	تايغا	PROPN	NNP	Gender=Fem|Number=Sing	7	nmod	_	LId=تايْغا_1
 9	الصنوبرية	صَنَوبَرِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	LId=صَنَوْبَرِيّ_1
-10	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	LId=الَّذِي_1
+10	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	LId=الَّذِي_1
 11	تغطي	غَطَّى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	LId=غَطَّى_1
 12	نسبة	نِسبَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	LId=نِسْبَة_1
 13	كبيرة	كَبِير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	12	amod	_	LId=كَبِير_1
@@ -10472,7 +10472,7 @@
 10	الميلاد	مِيلَاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=مِيلاد_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
 12	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
-13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	15	nsubj	_	LId=الَّذِي_1
+13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 14	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=كان-ُ_1
 15	تعتمد	اِعتَمَد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	LId=ٱِعْتَمَد_1
 16	على	عَلَى	ADP	IN	_	17	case	_	LId=عَلَى_1
@@ -10486,7 +10486,7 @@
 24	استراتيجية	إِسترَاتِيجِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	23	amod	_	LId=إِسْتراتِيجِيّ_1
 25	مع	مَعَ	ADP	IN	_	26	case	_	LId=مَع_1
 26	المدن	مَدِينَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	23	nmod	_	LId=مَدِينَة_1
-27	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	29	nsubj	_	LId=الَّذِي_1
+27	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	29	nsubj	_	LId=الَّذِي_1
 28	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	29	aux	_	LId=كان-ُ_1
 29	تسيطر	سَيطَر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	LId=سَيْطَر_1
 30	على	عَلَى	ADP	IN	_	31	case	_	LId=عَلَى_1
@@ -10687,7 +10687,7 @@
 12	موناكو	مُوناكُو	PROPN	NNP	Gender=Fem|Number=Sing	10	conj	_	LId=مُوناكُو_1|SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	_	LId=,_0
 14	و	و	PART	RP	_	16	compound:prt	_	SpaceAfter=No
-15	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	LId=الَّذِي_1
+15	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	LId=الَّذِي_1
 16	قضت	قَضَى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	advcl	_	LId=قَضَى-ِ_1
 17	ب	بِ	ADP	IN	_	18	case	_	SpaceAfter=No
 18	حماية	حِمَايَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	16	obl	_	LId=حِمايَة_1
@@ -11135,7 +11135,7 @@
 21	الجنوبية	جَنُوبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=جَنُوبِيّ_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 23	و	و	PART	RP	_	25	compound:prt	_	SpaceAfter=No
-24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	25	nsubj:pass	_	LId=الَّذِي_1
+24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj:pass	_	LId=الَّذِي_1
 25	يعتقد	اِعتَقَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	advcl	_	LId=ٱِعْتَقَد_1
 26	ب	بِ	ADP	IN	_	25	case	_	SpaceAfter=No
 27	أن	أَنَّ	SCONJ	IN	_	29	mark	_	LId=أَنَّ_1
@@ -11269,7 +11269,7 @@
 4	الصفائح	صَفِيحَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	LId=صَفِيحَة_1
 5	التكتونية	تكتونيه	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=تكتونيه_0
 6	الأرضية	أَرضِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=أَرْضِيّ_1
-7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	8	nsubj	_	LId=الَّذِي_1
+7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	LId=الَّذِي_1
 8	كونت	كَوَّن	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	acl:relcl	_	LId=كَوَّن_1
 9	الصدع	صَدع	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	LId=صَدْع_1
 10	الشرق	شَرق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	LId=شَرْق_1
@@ -11456,7 +11456,7 @@
 5	مناخ	مُنَاخ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=مُناخ_1
 6	الصحراء	صَحراء	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=صَحْراء_1
 7	الكبرى	أَكبَر	ADJ	JJR	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	amod	_	LId=أَكْبَر_2|Proper=True
-8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	9	obj	_	LId=الَّذِي_1
+8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	9	obj	_	LId=الَّذِي_1
 9	تحد	أَحَدّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	LId=حَدّ-ُ_1|SpaceAfter=No
 10	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	dep	_	_
 11	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
@@ -12561,7 +12561,7 @@
 # text_en = During the family's years in Kentucky and Indiana, Thomas Lincoln worked as a farmer, cabinetmaker, and carpenter.
 1	خلال	خِلَالَ	ADP	IN	_	2	case	_	LId=خِلال_1
 2	السنوات	سَنَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	obl	_	LId=سَنَة_1
-3	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	4	obj	_	LId=الَّذِي_1
+3	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	4	obj	_	LId=الَّذِي_1
 4	قضت	قَضَى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=قَضَى-ِ_1|SpaceAfter=No
 5	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dep	_	_
 6	العائلة	عَائِلَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	LId=عائِلَة_1
@@ -12874,7 +12874,7 @@
 5	الأراضي	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	obj	_	LId=أَرْض_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	LId=,_0
 7	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
-8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	11	det	_	LId=الَّذِي_1
+8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	det	_	LId=الَّذِي_1
 9	يبلغ	بَلَغ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LId=بَلَغ-ُ_1
 10	مجموع	مَجمُوع	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	LId=مَجْمُوع_1|SpaceAfter=No
 11	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
@@ -12899,7 +12899,7 @@
 5	الوحيدة	وَحِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=وَحِيد_2
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	ألاسكا	أَلاسكا	PROPN	NNP	Gender=Fem|Number=Sing	4	nmod	_	LId=أَلاسْكا_1
-8	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	LId=الَّذِي_1
+8	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	obl	_	LId=الَّذِي_1
 9	يتجاوز	تَجَاوَز	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LId=تَجاوَز_1
 10	في	فِي	ADP	IN	_	8	case	_	LId=فِي_1|SpaceAfter=No
 11	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	dep	_	_
@@ -13801,7 +13801,7 @@
 18	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	_	_
 19	في	فِي	ADP	IN	_	20	case	_	LId=فِي_1
 20	المنطقة	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	nmod	_	LId=مِنْطَقَة_1
-21	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	23	obl	_	LId=الَّذِي_1
+21	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	obl	_	LId=الَّذِي_1
 22	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=كان-ُ_1
 23	ترتفع	اِرتَفَع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	LId=ٱِرْتَفَع_1
 24	في	فِي	ADP	IN	_	21	case	_	LId=فِي_1|SpaceAfter=No
@@ -13844,7 +13844,7 @@
 1	لكن	ل`كِنَّ	PART	RP	_	9	compound:prt	_	LId=لٰكِنَّ_1
 2	جمهورية	جُمهُورِيَّة	PROPN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	LId=جُمْهُورِيَّة_1
 3	الصين	صِين	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LId=صِين_1
-4	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	7	nsubj	_	LId=الَّذِي_1
+4	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	LId=الَّذِي_1
 5	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	7	aux	_	LId=كان-ُ_1
 6	قد	قَد	PART	RP	_	7	compound:prt	_	LId=قَدْ_1
 7	تأسست	تَأَسَّس	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=أَسَّس_1
@@ -13930,7 +13930,7 @@
 # text_en = The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period.
 1	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	10	aux	_	LId=كان-ُ_1
 2	المنطقة	مِنطَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	10	nsubj	_	LId=مِنْطَقَة_1
-3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	LId=الَّذِي_1
+3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	obj	_	LId=الَّذِي_1
 4	حكم	حَكَم	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=حَكَم_2|SpaceAfter=No
 5	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dep	_	_
 6	بوغد	وَغد	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	LId=وَغْد_1
@@ -13990,7 +13990,7 @@
 10	المعركة	مَعرَكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=مَعْرَكَة_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 12	و	و	PART	RP	_	14	compound:prt	_	SpaceAfter=No
-13	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	14	obj	_	LId=الَّذِي_1
+13	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	obj	_	LId=الَّذِي_1
 14	وضع	وَضَع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	advcl	_	LId=وَضَع_1|SpaceAfter=No
 15	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	dep	_	_
 16	جيمس	جِيمس	PROPN	NNP	Gender=Masc|Number=Sing	14	nsubj	_	LId=جِيمس_1
@@ -14002,7 +14002,7 @@
 22	أشادت	أَشاد	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَشاد_1
 23	ب	بِ	ADP	IN	_	24	case	_	SpaceAfter=No
 24	المصادر	مَصدَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	22	obl	_	LId=مَصْدَر_1
-25	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	26	nsubj	_	LId=الَّذِي_1
+25	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	26	nsubj	_	LId=الَّذِي_1
 26	سمحت	سَمَح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	24	acl:relcl	_	LId=سَمَح-َ_1
 27	ب	بِ	ADP	IN	_	28	case	_	SpaceAfter=No
 28	إعادة	إِعَادَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	26	obl	_	LId=إِعادَة_1
@@ -14270,7 +14270,7 @@
 8	نيو	نِيُو	PROPN	NNP	Number=Sing	5	nmod	_	LId=نِيُو_1
 9	فرانس	فرانس	PROPN	NNP	Number=Sing	8	flat	_	LId=فرانْس_1
 10	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
-11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	15	nsubj:pass	_	LId=الَّذِي_1
+11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj:pass	_	LId=الَّذِي_1
 12	لم	لَم	PART	RP	Polarity=Neg	15	advmod	_	LId=لَمْ_1
 13	تكن	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	LId=كان-ُ_1
 14	قد	قَد	PART	RP	_	15	compound:prt	_	LId=قَدْ_1
@@ -14719,7 +14719,7 @@
 18	الطقوس	طَقس	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	nsubj:pass	_	LId=طَقْس_2
 19	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	القرابين	قُربان	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	18	conj	_	LId=قُرْبان_1
-21	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	23	nsubj:pass	_	LId=الَّذِي_1
+21	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj:pass	_	LId=الَّذِي_1
 22	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	23	aux	_	LId=كان-ُ_1
 23	تعتبر	ٱِعتَبَر	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	acl:relcl	_	LId=ٱِعْتَبَر_1
 24	لائقة	لائِق	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	23	xcomp	_	LId=لائِق_1|SpaceAfter=No
@@ -14886,7 +14886,7 @@
 15	يتحدث	تَحَدَّث	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	LId=تَحَدَّث_1
 16	عن	عَن	ADP	IN	_	17	case	_	LId=عَن_1
 17	المواقع	مَوقِع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	obl	_	LId=مَوْقِع_1
-18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	19	nsubj:pass	_	LId=الَّذِي_1
+18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	19	nsubj:pass	_	LId=الَّذِي_1
 19	احتلت	اِحتَلّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	17	acl:relcl	_	LId=ٱِحْتَلّ_1|SpaceAfter=No
 20	.	.	PUNCT	.	_	7	punct	_	LId=._0
 
@@ -14901,7 +14901,7 @@
 3	تل	تَلّ	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LId=تَلّ_1
 4	العمارنة	عمارنه	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	LId=عمارنه_0|SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	LId=,_0
-6	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	LId=الَّذِي_1
+6	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	LId=الَّذِي_1
 7	تعود	عاد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LId=عاد-ُ_1
 8	إلى	إِلَى	ADP	IN	_	9	case	_	LId=إِلَى_1
 9	القرن	قَرن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=قَرْن_1
@@ -15028,7 +15028,7 @@
 6	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	conj	_	_
 7	من	مِن	ADP	IN	_	8	case	_	LId=مِن_1
 8	الأعياد	عِيد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	LId=عِيد_1
-9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	LId=الَّذِي_1
+9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	obl	_	LId=الَّذِي_1
 10	يتقيد	تَقَيَّد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	LId=تَقَيَّد_1
 11	ب	بِ	ADP	IN	_	9	case	_	LId=بِ_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	dep	_	_
@@ -15280,7 +15280,7 @@
 13	ل	لِ	ADP	IN	_	14	case	_	SpaceAfter=No
 14	لقوة	قُوَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=قُوَّة_1
 15	العسكرية	عَسكَرِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	LId=عَسْكَرِيّ_1
-16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	LId=الَّذِي_1
+16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	19	nmod	_	LId=الَّذِي_1
 17	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	18	aux	_	LId=كان-ُ_1
 18	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	LId=أَمْكَن_1
 19	توجيي	وَجِيه	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	LId=وَجِيه_1|SpaceAfter=No
@@ -15598,14 +15598,14 @@
 12	حب	حُبّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=حُبّ_1
 13	فلورانس	لُورانس	PROPN	NNP	Gender=Fem|Number=Sing	12	nmod	_	LId=لُورانس_1
 14	غارارد	غارارد	PROPN	NNP	Gender=Masc|Number=Sing	13	flat	_	LId=غارارد_0
-15	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	nsubj	_	LId=الَّذِي_1
+15	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	LId=الَّذِي_1
 16	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	17	aux	_	LId=كان-ُ_1
 17	ترافق	رافَق	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	LId=رافَق_1
 18	تريكس	تريكس	PROPN	NNP	Gender=Masc|Number=Sing	17	obj	_	LId=تريكس_0
 19	في	فِي	ADP	IN	_	20	case	_	LId=فِي_1
 20	ساوثسي	ساوثسي	PROPN	NNP	Gender=Fem|Number=Sing	17	obl	_	LId=ساوثسي_0
 21	(	(	PUNCT	(	_	23	punct	_	LId=(_0|SpaceAfter=No
-22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	23	obl	_	LId=الَّذِي_1
+22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	obl	_	LId=الَّذِي_1
 23	عادت	عَاد	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	20	acl:relcl	_	LId=عاد-ُ_1
 24	إلي	إِلَى	ADP	IN	_	22	case	_	LId=إِلَى_1|SpaceAfter=No
 25	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	dep	_	_
@@ -15708,7 +15708,7 @@
 9	مي	مَيّ	PROPN	NNP	Gender=Masc|Number=Sing	8	flat	_	LId=مَيّ_1|SpaceAfter=No
 10	"	"	PUNCT	''	_	7	punct	_	LId="_0|SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	LId=,_0
-12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	13	nsubj	_	LId=الَّذِي_1
+12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	LId=الَّذِي_1
 13	صدرت	صَدَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	LId=صَدَر-ُ_1
 14	عام	عام	ADV	RB	_	13	obl:tmod	_	LId=عام_1
 15	1610	1610	NUM	CD	Case=Gen	14	obl	_	LId=١٦١٠_0|SpaceAfter=No
@@ -15927,7 +15927,7 @@
 8	ل	لِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	لشكوى	شَكوَى	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=شَكْوَى_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	_	LId=,_0
-11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	12	nsubj	_	LId=الَّذِي_1
+11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	LId=الَّذِي_1
 12	تؤدي	أَدَّى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	LId=أَدَّى_1
 13	إلى	إِلَى	ADP	IN	_	14	case	_	LId=إِلَى_1
 14	عصيانٍ	عِصيان	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=عِصْيان_1
@@ -15969,7 +15969,7 @@
 2	الثورة	ثَورَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=ثَوْرَة_1
 3	العربية	عَرَبِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=عَرَبِيّ_1
 4	الكبرى	أَكبَر	ADJ	JJR	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=أَكْبَر_2
-5	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=الَّذِي_1
+5	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	6	nsubj	_	LId=الَّذِي_1
 6	انطلقت	اِنطَلَق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=ٱِنْطَلَق_1
 7	عام	عام	ADV	RB	_	6	obl:tmod	_	LId=عام_1
 8	1916	1916	NUM	CD	Case=Gen	7	obl	_	LId=١٩١٦_0
@@ -16361,7 +16361,7 @@
 14	التفكك	تَفَكُّك	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=تَفَكُّك_1
 15	في	فِي	ADP	IN	_	16	case	_	LId=فِي_1
 16	السنوات	سَنَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	14	nmod	_	LId=سَنَة_1
-17	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	18	nsubj	_	LId=الَّذِي_1
+17	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	LId=الَّذِي_1
 18	سبقت	سَبَق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	acl:relcl	_	LId=سَبَق-ُِ_1
 19	الحرب	حَرب	PROPN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	obj	_	LId=حَرْب_1
 20	العالمية	عَالَمِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=عالَمِيّ_1|Proper=True
@@ -16478,7 +16478,7 @@
 8	الولاية	وِلَايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=وِلايَة_1|SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	LId=,_0
 10	و	و	PART	RP	_	12	compound:prt	_	SpaceAfter=No
-11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	12	nsubj	_	LId=الَّذِي_1
+11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	LId=الَّذِي_1
 12	واجهت	وَاجَه	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	6	advcl	_	LId=واجَه_1
 13	مصاعب	مَصاعِب	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	12	obj	_	LId=مَصاعِب_1
 14	لوجستية	لُوجِستِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	13	amod	_	LId=لُوجِسْتِيّ_1
@@ -16662,7 +16662,7 @@
 9	و	وَ	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	الأغراض	غَرَض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	conj	_	LId=غَرَض_1
 11	الجنائزية	جنائزيه	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=جنائزيه_0
-12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	13	obj	_	LId=الَّذِي_1
+12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	obj	_	LId=الَّذِي_1
 13	تحوي	حَوَى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	LId=حَوَى-ِ_1|SpaceAfter=No
 14	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	dep	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -16908,7 +16908,7 @@
 6	رامبلر	رامبلر	PROPN	NNP	Gender=Fem|Number=Sing	5	nmod	_	LId=رامبلر_0
 7	صغيرة	صَغِير	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	LId=صَغِير_1
 8	الحجم	حَجم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=حَجْم_1
-9	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	11	obj	_	LId=الَّذِي_1
+9	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	11	obj	_	LId=الَّذِي_1
 10	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	11	aux	_	LId=كان-ُ_1
 11	تصنع	صَنَع	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=صَنَع-َ_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	dep	_	_
@@ -17587,7 +17587,7 @@
 14	ميليس	ميليس	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	LId=ميليس_0
 15	شبه	شِبه	DET	PDT	Case=Acc	16	det	_	LId=شِبْه_1
 16	العسكرية	عَسكَرِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=عَسْكَرِيّ_1
-17	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	19	nsubj	_	LId=الَّذِي_1
+17	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	19	nsubj	_	LId=الَّذِي_1
 18	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	19	aux	_	LId=كان-ُ_1
 19	تطارد	طارَد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	LId=طارَد_1
 20	عناصر	عُنصُر	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	19	obj	_	LId=عُنْصُر_1
@@ -18239,7 +18239,7 @@
 7	أخرى	آخَر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	4	amod	_	LId=أُخْرَى_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	LId=,_0
 9	و	و	PART	RP	_	11	compound:prt	_	SpaceAfter=No
-10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	11	nsubj	_	LId=الَّذِي_1
+10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	LId=الَّذِي_1
 11	تتكون	تَكَوَّن	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	LId=تَكَوَّن_1
 12	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
 13	تمثال	تِمثَال	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	LId=تِمْثال_1
@@ -19186,7 +19186,7 @@
 19	لابوف	لابوف	PROPN	NNP	Gender=Masc|Number=Sing	18	nmod	_	LId=لابوف_0|SpaceAfter=No
 20	,	,	PUNCT	,	_	18	punct	_	LId=,_0
 21	و	و	PART	RP	_	23	compound:prt	_	SpaceAfter=No
-22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	23	obl	_	LId=الَّذِي_1
+22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	obl	_	LId=الَّذِي_1
 23	ظهر	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	advcl	_	LId=ظَهَر-َ_1
 24	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1|SpaceAfter=No
 25	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	dep	_	_
@@ -19518,7 +19518,7 @@
 # text_en = The patterns presented by the data from the Petén region and Uaxactun allowed for these sites to fit within the cultural development of the Maya lowlands.
 1	أتاحت	أَتَاح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَتاح_1
 2	الأنماط	نَمَط	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=نَمَط_1
-3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	LId=الَّذِي_1
+3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	obj	_	LId=الَّذِي_1
 4	قدمت	قَدَّم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	acl:relcl	_	LId=قَدَّم_1|SpaceAfter=No
 5	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dep	_	_
 6	البيانات	بَيَان	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	LId=بَيان_1
@@ -20292,7 +20292,7 @@
 10	البولونيوم	بولونيوم	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=بولونيوم_0|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 12	و	و	PART	RP	_	14	compound:prt	_	SpaceAfter=No
-13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	14	nsubj:pass	_	LId=الَّذِي_1
+13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj:pass	_	LId=الَّذِي_1
 14	استخدمت	اِستَخدَم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	advcl	_	LId=ٱِسْتَخْدَم_1
 15	في	فِي	ADP	IN	_	16	case	_	LId=فِي_1
 16	الكثير	كَثِير	NOUN	NN	Case=Gen|Definite=Def|Number=Sing	14	obl	_	LId=كَثِير_2
@@ -20499,7 +20499,7 @@
 21	1954	1954	NUM	CD	_	16	obl:tmod	_	LId=١٩٥٤_0|SpaceAfter=No
 22	)	)	PUNCT	)	_	21	punct	_	LId=)_0|SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	LId=,_0
-24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	LId=الَّذِي_1
+24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	26	nmod	_	LId=الَّذِي_1
 25	لعبت	لَعِب	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	18	acl:relcl	_	LId=لَعِب-َ_1
 26	دور	دَور	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	25	obj	_	LId=دَوْر_1|SpaceAfter=No
 27	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	dep	_	_
@@ -20726,7 +20726,7 @@
 15	ل	لِ	ADP	IN	_	16	case	_	SpaceAfter=No
 16	إصدار	إِصدَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=إِصْدار_1
 17	الأغاني	أُغنِيَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	16	nmod	_	LId=أُغْنِيَة_1
-18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	19	obj	_	LId=الَّذِي_1
+18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	19	obj	_	LId=الَّذِي_1
 19	تؤلف	أَلَّف	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	LId=أَلَّف_1|SpaceAfter=No
 20	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	dep	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -21064,7 +21064,7 @@
 1	معاهدة	مُعاهَدَة	PROPN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	11	nsubj	_	LId=مُعاهَدَة_1
 2	لندن	لَندَن	PROPN	NNP	Gender=Fem|Number=Sing	1	nmod	_	LId=لَنْدَن_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	_	LId=,_0
-4	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	LId=الَّذِي_1
+4	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	5	nsubj:pass	_	LId=الَّذِي_1
 5	وقعت	وَقَع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	1	acl:relcl	_	LId=وَقَع-َ_1
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	30	30	NUM	CD	_	5	obl	_	LId=٣٠_0
@@ -21076,7 +21076,7 @@
 13	كبيراً	كَبِير	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	amod	_	LId=كَبِير_1
 14	من	مِن	ADP	IN	_	15	case	_	LId=مِن_1
 15	الأراضي	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	nmod	_	LId=أَرْض_1
-16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	17	obl	_	LId=الَّذِي_1
+16	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	obl	_	LId=الَّذِي_1
 17	تطالب	طَالَب	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	LId=طالَب_1
 18	ب	بِ	ADP	IN	_	16	case	_	LId=بِ_1|SpaceAfter=No
 19	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	dep	_	_
@@ -21342,7 +21342,7 @@
 16	بعد	بَعدَ	ADP	IN	_	17	case	_	LId=بَعْد_1
 17	فترة	فَترَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	obl	_	LId=فَتْرَة_1
 18	التكاثر	تَكَاثُر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	LId=تَكاثُر_1
-19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	20	nsubj	_	LId=الَّذِي_1
+19	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	LId=الَّذِي_1
 20	تستمر	اِستَمَرّ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	LId=ٱِسْتَمَرّ_1
 21	ل	لِ	ADP	IN	_	22	case	_	SpaceAfter=No
 22	شهرين	شَهر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Dual	20	obl	_	LId=شَهْر_1|SpaceAfter=No
@@ -21397,7 +21397,7 @@
 3	عدداً	عَدَد	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	1	obj	_	LId=عَدَد_1
 4	من	مِن	ADP	IN	_	5	case	_	LId=مِن_1
 5	الشروط	شَرط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	LId=شَرْط_1
-6	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	LId=الَّذِي_1
+6	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	9	nmod	_	LId=الَّذِي_1
 7	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=أَمْكَن_1
 8	ل	لِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	تحقيق	تَحقِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=تَحْقِيق_1|SpaceAfter=No
@@ -21419,7 +21419,7 @@
 25	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	_	_
 26	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
 27	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	22	nmod	_	LId=دَوْلَة_1
-28	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	29	nsubj	_	LId=الَّذِي_1
+28	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	29	nsubj	_	LId=الَّذِي_1
 29	انضمت	اِنضَمّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	27	acl:relcl	_	LId=ٱِنْضَمّ_1
 30	إلى	إِلَى	ADP	IN	_	31	case	_	LId=إِلَى_1
 31	حلف	حِلف	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	29	obl	_	LId=حِلْف_1
@@ -21976,7 +21976,7 @@
 12	ب	بِ	ADP	IN	_	13	case	_	SpaceAfter=No
 13	طائرة	طَائِرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	LId=طائِرَة_1
 14	البوينغ	بُوِينغ	PROPN	NNP	Number=Sing	13	nmod	_	LId=بُوِينغ_1
-15	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	16	obj	_	LId=الَّذِي_1
+15	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	16	obj	_	LId=الَّذِي_1
 16	جرفت	جَرَف	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	13	acl:relcl	_	LId=جَرَف-ُ_1|SpaceAfter=No
 17	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	dep	_	_
 18	الأمواج	مَوج	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	16	nsubj	_	LId=مَوْج_1
@@ -22617,7 +22617,7 @@
 5	الجمهوريين	جُمهُورِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	LId=جُمْهُورِيّ_1
 6	التمهيدية	تَمهِيدِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=تَمْهِيدِيّ_1|SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	LId=,_0
-8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	LId=الَّذِي_1
+8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	9	obl	_	LId=الَّذِي_1
 9	تدعم	دَعَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LId=دَعَم-َ_1
 10	في	فِي	ADP	IN	_	8	case	_	LId=فِي_1|SpaceAfter=No
 11	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	dep	_	_
@@ -22672,7 +22672,7 @@
 1	ما	ما	PRON	WP	Case=Nom|PronType=Int	0	root	_	LId=ما_3
 2	هي	هُوَ	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	dep	_	LId=هِيَ_1
 3	القيود	قَيد	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=قَيْد_2
-4	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	LId=الَّذِي_1
+4	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	5	nmod	_	LId=الَّذِي_1
 5	من	مِن	ADP	IN	_	3	acl:relcl	_	LId=مِن_1
 6	شأن	شَأن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obj	_	LId=شَأْن_1|SpaceAfter=No
 7	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
@@ -22699,7 +22699,7 @@
 5	العظمى	أَعظَم	ADJ	JJR	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	amod	_	LId=أَعْظَم_2
 6	من	مِن	ADP	IN	_	7	case	_	LId=مِن_1
 7	الحالات	حَالَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	nmod	_	LId=حالَة_1
-8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	LId=الَّذِي_1
+8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	LId=الَّذِي_1
 9	تنشأ	أَنشَأ	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	LId=أَنْشَأ_1
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	مكانا	مَكان	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	9	obl	_	LId=مَكان_1
@@ -23044,7 +23044,7 @@
 20	لفاشية	فاشِيّ	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	18	obl	_	LId=فاشِيّ_1|SpaceAfter=No
 21	,	,	PUNCT	,	_	24	punct	_	LId=,_0
 22	و	و	PART	RP	_	24	compound:prt	_	SpaceAfter=No
-23	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	24	nsubj	_	LId=الَّذِي_1
+23	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	24	nsubj	_	LId=الَّذِي_1
 24	اشتهرت	ٱِشتَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	advcl	_	LId=ٱِشْتَهَر_1
 25	ب	بِ	ADP	IN	_	26	case	_	SpaceAfter=No
 26	اضطهاد	اِضطِهَاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	obl	_	LId=ٱِضْطِهاد_1
@@ -23347,7 +23347,7 @@
 11	المتوسط	مُتَوَسِّط	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	LId=مُتَوَسِّط_1
 12	في	فِي	ADP	IN	_	13	case	_	LId=فِي_1
 13	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	LId=دَوْلَة_1
-14	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	15	nsubj	_	LId=الَّذِي_1
+14	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 15	تتبنى	تَبَنَّى	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	LId=تَبَنَّى_1
 16	العملة	عامِل	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	LId=عامِل_2
 17	الموحدة	مُوَحَّد	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	LId=مُوَحَّد_1|SpaceAfter=No
@@ -23806,7 +23806,7 @@
 12	إلى	إِلَى	ADP	IN	_	13	case	_	LId=إِلَى_1
 13	إلغاء	إِلغَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	LId=إِلْغاء_1
 14	التشريعات	تَشرِيع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nmod	_	LId=تَشْرِيع_1
-15	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	16	nsubj	_	LId=الَّذِي_1
+15	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	LId=الَّذِي_1
 16	تشكل	شَكَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	LId=شَكَّل_1
 17	مدعاة	مَدعَاة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	16	obj	_	LId=مَدْعاة_1
 18	فخرٍ	فَخر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	LId=فَخْر_1
@@ -23910,7 +23910,7 @@
 9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
 10	الحزب	حِزب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	LId=حِزْب_1
 11	الرسائل	رِسَالَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	7	obj	_	LId=رِسالَة_1
-12	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	16	det	_	Gloss=which|LId=الَّذِي_1
+12	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	16	det	_	Gloss=which|LId=الَّذِي_1
 13	حاول	حَاوَل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	11	acl:relcl	_	Gloss=tried|LId=حاوَل_1
 14	الرئيس	رَئِيس	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=the-president|LId=رَئِيس_1
 15	توجيه	تَوجِيه	NOUN	VBG	Case=Acc|Definite=Def|Gender=Masc	13	xcomp	_	Gloss=directing|LId=تَوْجِيه_1|SpaceAfter=No
@@ -24443,7 +24443,7 @@
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	مركز	مَركَز	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=مَرْكَز_1
 8	المدينة	مَدِينَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=مَدِينَة_1
-9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	10	nsubj	_	LId=الَّذِي_1
+9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	10	nsubj	_	LId=الَّذِي_1
 10	نجت	نَجا	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	4	acl:relcl	_	LId=نَجا-ُ_1
 11	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
 12	الدمار	دَمَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	obl	_	LId=دَمار_1
@@ -24489,7 +24489,7 @@
 # text_en = The Islamic citizens who have settled since the beginning of the 1960s emigrated primarily from Turkey.
 1	الجالية	جَالِيَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	9	nsubj	_	LId=جالِيَة_1
 2	الإسلامية	إِسلَامِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	amod	_	LId=إِسْلامِيّ_1
-3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LId=الَّذِي_1
+3	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	nsubj	_	LId=الَّذِي_1
 4	استقرت	اِستَقَرّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	acl:relcl	_	LId=ٱِسْتَقَرّ_1
 5	هنا	هُنَا	ADV	RB	_	4	advmod	_	LId=هُنا_1
 6	منذ	مُنذُ	ADP	IN	_	7	case	_	LId=مُنْذُ_1
@@ -24576,7 +24576,7 @@
 2	حديقة	حَدِيقَة	PROPN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	LId=حَدِيقَة_1
 3	غولدن	جُولدِن	PROPN	NNP	Number=Sing	2	appos	_	LId=جُولْدِن_1
 4	غيت	غيت	PROPN	NNP	Number=Sing	3	flat	_	LId=غيت_0
-5	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	LId=الَّذِي_1
+5	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nmod	_	LId=الَّذِي_1
 6	يبلغ	بَلَغ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LId=بَلَغ-ُ_1
 7	طول	طُول	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	LId=طُول_1|SpaceAfter=No
 8	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	dep	_	_
@@ -25385,7 +25385,7 @@
 6	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ذات	ذَات	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=ذات_1
 8	الهيئة	هَيئَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=هَيْئَة_1
-9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	LId=الَّذِي_1
+9	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	nmod	_	LId=الَّذِي_1
 10	ورد	وَرَد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	8	acl:relcl	_	LId=رَدّ-ُ_1
 11	ذكر	ذِكر	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	10	nsubj	_	LId=ذَكَر_1|SpaceAfter=No
 12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	dep	_	_
@@ -26234,7 +26234,7 @@
 13	و	وَ	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	تمثل	مَثَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	LId=مَثَّل_1
 15	المحبة	مَحَبَّة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	14	nsubj	_	LId=مَحَبَّة_1
-16	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	LId=الَّذِي_1
+16	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	LId=الَّذِي_1
 17	يكن	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	LId=كَنّ-ِ_1|SpaceAfter=No
 18	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	dep	_	_
 19	أهل	أَهل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	17	nsubj	_	LId=أَهْل_1
@@ -26300,7 +26300,7 @@
 1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
 2	من	مِن	ADP	IN	_	0	root	_	LId=مِن_1
 3	الأشياء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	LId=شَيْء_1
-4	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	LId=الَّذِي_1
+4	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	LId=الَّذِي_1
 5	تدعم	دَعَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	LId=دَعَم-َ_1
 6	هذه	ه`ذا	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	7	det	_	LId=هٰذا_1
 7	النظرية	نَظَرِيَّة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	LId=نَظَرِيَّة_1
@@ -26378,7 +26378,7 @@
 21	الخشبية	خَشَبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	amod	_	LId=خَشَبِيّ_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	LId=,_0
 23	و	و	PART	RP	_	25	compound:prt	_	SpaceAfter=No
-24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	25	nsubj:pass	_	LId=الَّذِي_1
+24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj:pass	_	LId=الَّذِي_1
 25	هدمت	هَدَم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	20	advcl	_	LId=هَدَم-ِ_1
 26	لاحاقاً	أَحاق	ADV	RB	_	25	advmod	_	LId=أَحاق_1
 27	مع	مَعَ	ADP	IN	_	28	case	_	LId=مَع_1
@@ -26508,7 +26508,7 @@
 6	الكلابرية	كلابريه	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	LId=كلابريه_0|SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	LId=,_0
 8	و	و	PART	RP	_	10	compound:prt	_	SpaceAfter=No
-9	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	LId=الَّذِي_1
+9	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	10	nsubj	_	LId=الَّذِي_1
 10	ضمت	ضَمّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	advcl	_	LId=ضَمّ-ُ_1
 11	سامنيوم	سامنيوم	PROPN	NNP	Gender=Fem|Number=Sing	10	obj	_	LId=سامنيوم_0
 12	أيضاً	أَيضًا	ADV	RB	_	11	advmod	_	LId=أَيْضاً_1|SpaceAfter=No
@@ -26867,7 +26867,7 @@
 8	ل	لِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	لأفلام	فِيلم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	6	nmod	_	LId=فِيلْم_1
 10	السينمائية	سِينَمَائِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=سِينَمائِيّ_1
-11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	12	obj	_	LId=الَّذِي_1
+11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	12	obj	_	LId=الَّذِي_1
 12	ألف	أَلَّف	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=أَلَّف_1|SpaceAfter=No
 13	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	dep	_	_
 14	موريكوني	موريكوني	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	LId=موريكوني_0
@@ -26942,7 +26942,7 @@
 17	التوزيعات	تَوزِيع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	LId=تَوْزِيع_1
 18	الموسيقية	مُوسِيقِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	amod	_	LId=مُوسِيقِيّ_1
 19	و	و	PART	RP	_	21	compound:prt	_	SpaceAfter=No
-20	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	LId=الَّذِي_1
+20	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	21	nsubj	_	LId=الَّذِي_1
 21	ظهرت	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	advcl	_	LId=ظَهَر-َ_1
 22	لاحقاً	لاحِق	ADV	RB	_	21	obl:tmod	_	LId=لاحِق_1
 23	في	فِي	ADP	IN	_	24	case	_	LId=فِي_1
@@ -27073,7 +27073,7 @@
 11	تيبو	تيبو	PROPN	NNP	Gender=Masc|Number=Sing	10	flat	_	LId=تيبو_0
 12	أدينو	ادينو	PROPN	NNP	Gender=Masc|Number=Sing	11	flat	_	LId=ادينو_0|SpaceAfter=No
 13	"	"	PUNCT	''	_	9	punct	_	LId="_0
-14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	LId=الَّذِي_1
+14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 15	تشكلت	تَشَكَّل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=تَشَكَّل_1
 16	من	مِن	ADP	IN	_	18	case	_	LId=مِن_1
 17	خلال	خِلَالَ	ADP	IN	_	16	fixed	_	LId=خِلال_1
@@ -27104,7 +27104,7 @@
 14	التقدمي	تَقَدُّمِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	amod	_	LId=تَقَدُّمِيّ_1
 15	ثورة	ثَورَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obj	_	LId=ثَوْرَة_1
 16	الحقوق	حَقّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	LId=حَقّ_1
-17	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing	18	nsubj	_	LId=الَّذِي_1
+17	التي	الَّذِي	PRON	REL	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	LId=الَّذِي_1
 18	أطاحت	أَطاح	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	acl:relcl	_	LId=أَطاح_1
 19	ب	بِ	ADP	IN	_	20	case	_	LId=بِ_1|SpaceAfter=No
 20	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	_
@@ -27164,7 +27164,7 @@
 4	المصارف	مَصرِف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	LId=مَصْرَف_1
 5	و	وَ	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 6	التدخلات	تَدَخُّل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	conj	_	LId=تَدَخُّل_1
-7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	8	nsubj	_	LId=الَّذِي_1
+7	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	LId=الَّذِي_1
 8	جرت	جَرَى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl:relcl	_	LId=جَرَى-ِ_1
 9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1|SpaceAfter=No
 10	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
@@ -27361,7 +27361,7 @@
 9	بديلٌ	بَدِيل	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=بَدِيل_1
 10	عن	عَن	ADP	IN	_	11	case	_	LId=عَن_1
 11	اللغة	لُغَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	obl	_	LId=لُغَة_1
-12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing	13	nsubj	_	LId=الَّذِي_1
+12	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	LId=الَّذِي_1
 13	تشكل	شَكَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	LId=شَكَّل_1
 14	الانتقال	اِنتِقَال	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	obj	_	LId=ٱِنْتِقال_1
 15	من	مِن	ADP	IN	_	16	case	_	LId=مِن_1
