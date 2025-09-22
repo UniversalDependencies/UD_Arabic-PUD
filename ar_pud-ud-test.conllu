@@ -490,7 +490,7 @@
 # text = وارتفعت تلك النسبة باطراد بمرور السنين ـ11 بالمئة فقط من إجمالي الأصوات طرحت يوم الانتخابات عام 1996 وفق مكتب الإحصاءـ ويبدو أنها من المرجح أن ترتفع مجدداً هذا العام.
 # original_text = وارتفعت تلك النسبة باطراد بمرور السنين _11 بالمئة فقط من إجمالي الأصوات طرحت يوم الانتخابات عام 1996 وفق مكتب الإحصاء_ ويبدو أنها من المرجح أن ترتفع مجددا هذا العام.
 # text_en = That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau  -- and seems likely to jump again this year.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	ارتفعت	اِرتَفَع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِرْتَفَع_1
 3	تلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	det	_	LId=ذٰلِكَ_1
 4	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	LId=نِسْبَة_1
@@ -793,7 +793,7 @@
 # text = ويتجلى هذا بأبهى صوره عندما يكون اسم الشخص الشهير نادراً جداً في البداية.
 # original_text = ويتجلى هذا بأبهى صوره عندما يكون اسم الشخص الشهير نادرا جدا في البداية.
 # text_en = It's most obvious when a celebrity's name is initially quite rare.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	يتجلى	تَجَلَّى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=تَجَلَّى_1
 3	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	LId=هٰذا_1
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -817,7 +817,7 @@
 # text = وبحلول عام 2007, وفي عز رواجه (ورواج نايتلي ربما), كان الاسم من بين أكثر 50 اسماً رواجاً, وكان الأطفال الذين يحملون اسم Keira أكثر بثلاث مرات منمن يحملون اسم Kiera.
 # original_text = وبحلول عام 2007, وفي عز رواجه (ورواج نايتلي ربما), كان الاسم من بين أكثر 50 اسما رواجا, وكان الأطفال الذين يحملون اسم Keira أكثر بثلاث مرات ممن يحملون اسم Kiera.
 # text_en = And by 2007, at the height of its popularity (and, perhaps, Knightley's) it was a top 50 name, with three times more babies named Keira than Kiera.
-1	و	و	PART	RP	_	19	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	19	cc	_	SpaceAfter=No
 2	ب	بِ	ADP	IN	_	3	case	_	SpaceAfter=No
 3	حلول	حَلّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	obl	_	LId=حَلّ_1
 4	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=عام_1
@@ -1219,7 +1219,7 @@
 # text = ومع تأهب الصين لتكون أكبر سوقٍ في مجال الطيران في العالم خلال العقد المقبل, يشكل هذا المعرض فرصةً لبكين لتظهر طموحاتها في مجال الطيران المدني إلى جانب العكسري.
 # original_text = ومع تأهب الصين لتكون أكبر سوق في مجال الطيران في العالم خلال العقد المقبل, يشكل هذا المعرض فرصة لبكين لتظهر طموحاتها في مجال الطيران المدني إلى جانب العكسري.
 # text_en = And with China set to become the world's biggest aviation market in the next decade, the show is an opportunity for Beijing to demonstrate its ambitions in civil aviation as well as defence.
-1	و	و	PART	RP	_	18	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	18	cc	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
 3	تأهب	تَأَهُّب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	obl	_	LId=تَأَهُّب_1
 4	الصين	صِين	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	LId=صِين_1
@@ -1309,7 +1309,7 @@
 10	21	21	NUM	CD	_	9	nmod	_	LId=٢١_0
 11	تشرين	تِشرِين	PROPN	NNP	Gender=Masc|Number=Sing	10	obl:tmod	_	LId=تِشْرِين_1
 12	الأول	أَوَّل	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	amod	_	LId=أَوَّل_2|Proper=True
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 15	أوقفت	أَوقَف	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	advcl	_	LId=أَوْقَف_1
 16	عمل	عَمَل	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	LId=عَمَل_1
@@ -1633,7 +1633,7 @@
 26	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
 27	البذور	بَذر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	25	obl	_	LId=بَذْر_2
 28	الفضائية	فَضَائِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	27	amod	_	LId=فَضائِيّ_1
-29	و	و	PART	RP	_	31	compound:prt	_	SpaceAfter=No
+29	و	و	CCONJ	RP	_	31	cc	_	SpaceAfter=No
 30	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	31	nsubj	_	LId=الَّذِي_1
 31	بلغت	بَلَغ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	25	advcl	_	LId=بَلَغ-ُ_1
 32	66	66	NUM	CD	_	31	obj	_	LId=٦٦_0|SpaceAfter=No
@@ -1721,7 +1721,7 @@
 # text = وتقول: "لا يزال عامل القرف مخيماً على فكرة شراء وارتداء أجزاءً من جسد شخصٍ آخر".
 # original_text = وتقول: "لا يزال عامل القرف مخيما على فكرة شراء وارتداء أجزاء من جسد شخص آخر".
 # text_en = "There is still a 'yuk' factor to the whole idea of buying and wearing other people's body parts," she says.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=قال-ُ_1|SpaceAfter=No
 3	:	:	PUNCT	:	_	6	punct	_	LId=:_0
 4	"	"	PUNCT	``	_	6	punct	_	LId="_0|SpaceAfter=No
@@ -1749,7 +1749,7 @@
 # text = وتشرح تارلو: "عادةً ما يتم في الصين وضع الشعر في أحواضٍ كيميائية لإزالة أي أثرٍ للقشور الجلدية".
 # original_text = وتشرح تارلو: "عادة ما يتم في الصين وضع الشعر في أحواض كيميائية لإزالة أي أثر للقشور الجلدية".
 # text_en = In China the hair is typically put in a chemical bath to remove the cuticle completely, Tarlo explains.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	تشرح	شَرَح	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=شَرَح-َ_1
 3	تارلو	تارلو	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	LId=تارلو_0|SpaceAfter=No
 4	:	:	PUNCT	:	_	8	punct	_	LId=:_0
@@ -1804,7 +1804,7 @@
 # text = ويقول التقرير: "نطبق اليوم عقوبات باستخدام ضوءٍ قوي".
 # original_text = ويقول التقرير: "نطبق اليوم عقوبات باستخدام ضوء قوي".
 # text_en = "Tonight we are carrying out punishments using a high beam," the post reads.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	يقول	قَال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=قال-ُ_1
 3	التقرير	تَقرِير	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=تَقْرِير_1|SpaceAfter=No
 4	:	:	PUNCT	:	_	6	punct	_	LId=:_0
@@ -1825,7 +1825,7 @@
 # text = وقد طبقت شرطة مرور شينجن عقوبات غير تقليدية قبل ذلك.
 # original_text = وقد طبقت شرطة مرور شينجن عقوبات غير تقليدية قبل ذلك.
 # text_en = Shenzhen's traffic police have opted for unconventional penalties before.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	طبقت	طَبَّق	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=طَبَّق_1
 4	شرطة	شُرطَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	LId=شُرْطَة_1
@@ -2063,7 +2063,7 @@
 # text = وقال متحدثٌ باسم الشرطة لوكالة أسوشييتد برس أنه حدث "تبادل للألفاظ" تبعته مشاجرة, لكن لم تسجل إصابات.
 # original_text = وقال متحدث باسم الشرطة لوكالة أسوشييتد برس أنه حدث "تبادل للألفاظ" تبعته مشاجرة, لكن لم تسجل إصابات.
 # text_en = A police spokesman told the Associated Press there was "an exchange of words" followed by an "altercation" but that no injuries had been reported.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	قال	قَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قال-ُ_1
 3	متحدثٌ	مُتَحَدِّث	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LId=مُتَحَدِّث_1
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -2191,7 +2191,7 @@
 # text = وأضاف: "إنها خطوة واحدة في طريقٍ طويلٍ للعثور على التركيبة الصحيحة لموانع الحمل الهرمونية الخاصة بالذكور.
 # original_text = وأضاف: "إنها خطوة واحدة في طريق طويل للعثور على التركيبة الصحيحة لموانع الحمل الهرمونية الخاصة بالذكور.
 # text_en = He added: "This has been one step in a long journey of finding the right combination for male hormonal contraception."
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	أضاف	أَضَاف	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَضاف_1|SpaceAfter=No
 3	:	:	PUNCT	:	_	7	punct	_	LId=:_0
 4	"	"	PUNCT	``	_	7	punct	_	LId="_0|SpaceAfter=No
@@ -2280,7 +2280,7 @@
 # text = ويظهر التحليل وجود صلة مباشرة بين عدد السجائر التي يدخنها المرء في حياته وعدد الطفرات التي أصابت الحمض النووي الريبي منقوص الأكسجين الخاص بالورم.
 # original_text = ويظهر التحليل وجود صلة مباشرة بين عدد السجائر التي يدخنها المرء في حياته وعدد الطفرات التي أصابت الحمض النووي الريبي منقوص الأكسجين الخاص بالورم.
 # text_en = The analysis shows a direct link between the number of cigarettes smoked in a lifetime and the number of mutations in tumour DNA.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	يظهر	أَظهَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَظْهَر_1
 3	التحليل	تَحلِيل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=تَحْلِيل_1
 4	وجود	وُجُود	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	LId=وُجُود_1
@@ -2317,7 +2317,7 @@
 # text = ومع ذلك, لم يتمكنوا من العثور على ذات النسق في أنسجة مثل المثانة, والتي لم تتعرض بشكل مباشر.
 # original_text = ومع ذلك, لم يتمكنوا من العثور على ذات النسق في أنسجة مثل المثانة, والتي لم تتعرض بشكل مباشر.
 # text_en = However, they could not find this same pattern in tissues such as the bladder, which are not directly exposed.
-1	و	و	PART	RP	_	6	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	6	cc	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
 3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
@@ -2333,7 +2333,7 @@
 14	مثل	مِثلَ	ADP	IN	_	15	case	_	LId=مِثْل_1
 15	المثانة	مَثانَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	LId=مَثانَة_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	20	punct	_	LId=,_0
-17	و	و	PART	RP	_	20	compound:prt	_	SpaceAfter=No
+17	و	و	CCONJ	RP	_	20	cc	_	SpaceAfter=No
 18	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	LId=الَّذِي_1
 19	لم	لَم	PART	RP	Polarity=Neg	20	advmod	_	LId=لَمْ_1
 20	تتعرض	تَعَرَّض	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	LId=تَعَرَّض_1
@@ -2433,7 +2433,7 @@
 # text = وسوف يوجه ترودو تلك الدعوة إلى الرئيس الخامس والأربعين للولايات المتحدة بصرف النظر عنمن سيكون.
 # original_text = وسوف يوجه ترودو تلك الدعوة إلى الرئيس الخامس والأربعين للولايات المتحدة بصرف النظر عمن سيكون.
 # text_en = Trudeau will extend that invitation to the 45th president of the United States, whoever he or she may be.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	سوف	سَوفَ	PART	RP	_	3	compound:prt	_	LId=سَوْفَ_1
 3	يوجه	وَجَّه	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=وَجَّه_1
 4	ترودو	ترودو	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	LId=ترودو_0
@@ -2664,7 +2664,7 @@
 16	(	(	PUNCT	(	_	17	punct	_	LId=(_0|SpaceAfter=No
 17	ريكو	ريكو	PROPN	NNP	Gender=Masc|Number=Sing	12	appos	_	LId=ريكو_0|SpaceAfter=No
 18	)	)	PUNCT	)	_	17	punct	_	LId=)_0
-19	و	و	PART	RP	_	21	compound:prt	_	SpaceAfter=No
+19	و	و	CCONJ	RP	_	21	cc	_	SpaceAfter=No
 20	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	21	nsubj	_	LId=الَّذِي_1
 21	ينظم	نَظَّم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	LId=نَظَّم_1
 22	عمل	عَمَل	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	obj	_	LId=عَمَل_1
@@ -2739,7 +2739,7 @@
 25	مثل	مِثلَ	ADP	IN	_	26	case	_	LId=مِثْل_1
 26	بكين	بِكِين	PROPN	NNP	Gender=Masc|Number=Sing	24	nmod	_	LId=بِكِين_1|SpaceAfter=No
 27	,	,	PUNCT	,	_	30	punct	_	LId=,_0
-28	و	و	PART	RP	_	30	compound:prt	_	SpaceAfter=No
+28	و	و	CCONJ	RP	_	30	cc	_	SpaceAfter=No
 29	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	30	nsubj	_	LId=الَّذِي_1
 30	تبرز	بَرَز	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	LId=بَرَز-ُ_1
 31	يوماً	يَوم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	30	obj	_	LId=يَوْم_1
@@ -2760,7 +2760,7 @@
 # text = وقال غويلبيو: "نشهد العديد والعديد من الدول, وخصوصاً الدول الكبيرة الجديدة المسببة للانبعاثات مثل البرازيل وجنوب أفريقيا والهند والصين, تشارك في لعب أدوارٍ في تقليل الانبعاثات".
 # original_text = وقال غويلبيو: "نشهد العديد والعديد من الدول, وخصوصا الدول الكبيرة الجديدة المسببة للانبعاثات مثل البرازيل وجنوب أفريقيا والهند والصين, تشارك في لعب أدوار في تقليل الانبعاثات".
 # text_en = "We are seeing many, many countries and especially large new emitters like Brazil, South Africa, India and China stepping up to the plate in terms of playing a role in reducing emissions," said Guilbeault.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	قال	قَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قال-ُ_1
 3	غويلبيو	غويلبيو	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	LId=غويلبيو_0|SpaceAfter=No
 4	:	:	PUNCT	:	_	6	punct	_	LId=:_0
@@ -2772,7 +2772,7 @@
 10	من	مِن	ADP	IN	_	11	case	_	LId=مِن_1
 11	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nmod	_	LId=دَوْلَة_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	خصوصاً	خُصُوص	ADV	RB	_	15	advmod	_	LId=خُصُوص_1
 15	الدول	دَولَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	11	advcl	_	LId=دَوْلَة_1
 16	الكبيرة	كَبِير	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	amod	_	LId=كَبِير_1
@@ -2973,7 +2973,7 @@
 12	نيوز	نِيُوز	PROPN	NNP	Number=Sing	9	flat	_	LId=نِيُوز_1|SpaceAfter=No
 13	:	:	PUNCT	:	_	17	punct	_	LId=:_0
 14	"	"	PUNCT	``	_	17	punct	_	LId="_0|SpaceAfter=No
-15	و	و	PART	RP	_	17	compound:prt	_	SpaceAfter=No
+15	و	و	CCONJ	RP	_	17	cc	_	SpaceAfter=No
 16	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	17	nsubj	_	LId=هٰذا_1
 17	كارثة	كَارِثَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	ccomp	_	LId=كارِثَة_1
 18	ب	بِ	ADP	IN	ExtPos=ADP	21	case	_	SpaceAfter=No
@@ -3066,7 +3066,7 @@
 9	منذ	مُنذُ	ADP	IN	_	10	case	_	LId=مُنْذُ_1
 10	شهر	شَهر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=شَهْر_1
 11	أيلول	أَيلُول	PROPN	NNP	Gender=Masc|Number=Sing	10	nmod	_	LId=أَيْلُول_1
-12	و	و	PART	RP	_	14	compound:prt	_	SpaceAfter=No
+12	و	و	CCONJ	RP	_	14	cc	_	SpaceAfter=No
 13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj:pass	_	LId=الَّذِي_1
 14	يزعم	زَعَم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	LId=زَعَم-ُ_1
 15	أن	أَنَّ	SCONJ	IN	_	17	mark	_	LId=أَنَّ_1|SpaceAfter=No
@@ -3111,7 +3111,7 @@
 21	بين	بَينَ	ADP	IN	_	20	acl:relcl	_	LId=بَيْنَ_1|SpaceAfter=No
 22	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	obj	_	_
 23	مبلغاً	مَبلَغ	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	LId=مَبْلَغ_1
-24	و	و	PART	RP	_	25	compound:prt	_	SpaceAfter=No
+24	و	و	CCONJ	RP	_	25	cc	_	SpaceAfter=No
 25	قدر	قَدر	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	23	advcl	_	LId=قَدْر_1|SpaceAfter=No
 26	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
 27	1,5	1,5	NUM	CD	_	29	nummod	_	LId=١,٥_0
@@ -3230,7 +3230,7 @@
 # text = وقال غوميري الذي قاد لجنة التحقيق الخاصة بفضيحة الرعاية الاتحادية بين عامي 2004 و2006 أن هيئات كهذه ضرورية للمساعدة في استعادة ثقة الجمهور في سيادة القانون.
 # original_text = وقال غوميري الذي قاد لجنة التحقيق الخاصة بفضيحة الرعاية الاتحادية بين عامي 2004 و2006 أن هيئات كهذه ضرورية للمساعدة في استعادة ثقة الجمهور في سيادة القانون.
 # text_en = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	قال	قَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قال-ُ_1
 3	غوميري	غوميري	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	LId=غوميري_0
 4	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	LId=الَّذِي_1
@@ -3269,7 +3269,7 @@
 # text = وقد أدى ذلك خلال اليومين الماضيين إلى اكتشاف أن ستة صحفيين آخرين من كيبيك كانوا هدفاً لعمليات مراقبة قادتها الشرطة المحلية.
 # original_text = وقد أدى ذلك خلال اليومين الماضيين إلى اكتشاف أن ستة صحفيين آخرين من كيبيك كانوا هدفا لعمليات مراقبة قادتها الشرطة المحلية.
 # text_en = That led to revelations over the last two days that at least six other Quebec journalists were targeted by provincial police surveillance operations.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	أدى	أَدَّى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَدَّى_1
 4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	LId=ذٰلِكَ_1
@@ -3301,7 +3301,7 @@
 # text = وكتب في دليل الإرشادات: "لا يجب أن يكون هنا معاملة تفضيلية للحكومة أو أي مظهر من مظاهر المعاملة التفضيلية للأفراد أو المنظمات بسبب تقديمهم لتبرعات مالية للسياسيين أو للأحزاب السياسية".
 # original_text = وكتب في دليل الإرشادات: "لا يجب أن يكون هنا معاملة تفضيلية للحكومة أو أي مظهر من مظاهر المعاملة التفضيلية للأفراد أو المنظمات بسبب تقديمهم لتبرعات مالية للسياسيين أو للأحزاب السياسية".
 # text_en = "There should be no preferential access to government, or appearance of preferential access, accorded to individuals or organizations because they have made financial contributions to politicians and political parties," the guidelines read.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	كتب	كَتَب	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=كَتَب-ُ_1
 3	في	فِي	ADP	IN	_	4	case	_	LId=فِي_1
 4	دليل	دَلِيل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=دَلِيل_1
@@ -3467,7 +3467,7 @@
 # text = وتتزامن هذه التقديرات مع النسب المئوية للشقق الجديدة التي تدخل سوق الإيجارات عند انتهائها, مما يدل على الدور المهم الذي يلعبه المستثمرون (المحليون) في خطة النمو في سوق العقارات.
 # original_text = وتتزامن هذه التقديرات مع النسب المئوية للشقق الجديدة التي تدخل سوق الإيجارات عند انتهائها, مما يدل على الدور المهم الذي يلعبه المستثمرون (المحليون) في خطة النمو في سوق العقارات.
 # text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	تتزامن	تَزَامَن	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=تَزامَن_1
 3	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=هٰذا_1
 4	التقديرات	تَقدِير	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	LId=تَقْدِير_2
@@ -4008,7 +4008,7 @@
 # text = وهذا لا ينطبق فقط على المحتوى الترفيهي, بل أيضاً على التعليم, والأبحاث العلمية, وـربما هذا الأهمـ على الخطاب السياسي.
 # original_text = وهذا لا ينطبق فقط على المحتوى الترفيهي, بل أيضا على التعليم, والأبحاث العلمية, و_ربما هذا الأهم_ على الخطاب السياسي.
 # text_en = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
-1	و	و	PART	RP	_	4	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	4	cc	_	SpaceAfter=No
 2	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	LId=هٰذا_1
 3	لا	لَا	PART	RP	Polarity=Neg	4	advmod	_	LId=لا_1
 4	ينطبق	اِنطَبَق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِنْطَبَق_1
@@ -4061,7 +4061,7 @@
 # text = وشكل الحطام حلقةً حول خط الاستواء الأرضي وتجمع في نهاية المطاف بفعل الجاذبية ليشكل القمر.
 # original_text = وشكل الحطام حلقة حول خط الاستواء الأرضي وتجمع في نهاية المطاف بفعل الجاذبية ليشكل القمر.
 # text_en = The debris formed a ring around the Earth's equator and was eventually drawn together by gravity to form the moon.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	شكل	شَكَّل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=شَكَّل_1
 3	الحطام	حُطام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=حُطام_1
 4	حلقةً	حَلقَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	LId=حَلْقَة_1
@@ -4088,7 +4088,7 @@
 # text = ومع ذلك, ظلت هناك أسئلة بلا إجابة.
 # original_text = ومع ذلك, ظلت هناك أسئلة بلا إجابة.
 # text_en = Still, there are questions left unanswered.
-1	و	و	PART	RP	_	5	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	5	cc	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
 3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
@@ -4315,7 +4315,7 @@
 # text = وقد اعترفت قائلةً: "عليكم بالنظر إلى ما أقرت به بأننا نحتاج إلى شيءٍ مختلف ـيمكننا أن نقوم بعملٍ أفضلـ وإلى أنها أعربت عن أسفها".
 # original_text = وقد اعترفت قائلة: "عليكم بالنظر إلى ما أقرت به بأننا نحتاج إلى شيء مختلف _يمكننا أن نقوم بعمل أفضل_ وإلى أنها أعربت عن أسفها".
 # text_en = And, she granted, “you have to look at where she has acknowledged that we need to do something different—we can do better—and where she has expressed regret.”
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	اعترفت	اِعتَرَف	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِعْتَرَف_1
 4	قائلةً	قائِل	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	3	ccomp	_	LId=قائِل_1|SpaceAfter=No
@@ -5715,7 +5715,7 @@
 # text = وسببها هو أنها لا توفر الحماية الكافية للعمال الأمريكيين الذين قد تتأذى وظائفهم ومعيشتهم.
 # original_text = وسببها هو أنها لا توفر الحماية الكافية للعمال الأمريكيين الذين قد تتأذى وظائفهم ومعيشتهم.
 # text_en = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
-1	و	و	PART	RP	_	8	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	8	cc	_	SpaceAfter=No
 2	سبب	سَبَب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	LId=سَبَب_1|SpaceAfter=No
 3	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dep	_	LId=هُوَ_1
@@ -5938,7 +5938,7 @@
 3	إلى	إِلَى	ADP	IN	_	4	case	_	LId=إِلَى_1
 4	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=عام_1
 5	2016	2016	NUM	CD	_	4	nmod	_	LId=٢٠١٦_0
-6	و	و	PART	RP	_	7	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	7	cc	_	SpaceAfter=No
 7	يلقى	أَلقَى	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَلْقَى_1
 8	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	LId=هٰذا_1
 9	المزيد	مَزِيد	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	LId=مَزِيد_1
@@ -6245,7 +6245,7 @@
 20	بحثت	بَحَث	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	18	acl:relcl	_	LId=بَحَث-َ_1
 21	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1|SpaceAfter=No
 22	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
-23	و	و	PART	RP	_	27	compound:prt	_	SpaceAfter=No
+23	و	و	CCONJ	RP	_	27	cc	_	SpaceAfter=No
 24	كأن	كَأَنَّ	SCONJ	IN	_	27	mark	_	LId=كَأَنَّ_1|SpaceAfter=No
 25	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
 26	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	27	cop	_	LId=كان-ُ_1
@@ -6409,7 +6409,7 @@
 # text = وماذا عن وضع أستراليا؟
 # original_text = وماذا عن وضع أستراليا؟
 # text_en = And what about Australia’s position?
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	ماذا	ماذا	PRON	WP	Case=Nom|PronType=Int	3	nsubj	_	LId=ماذا_1
 3	عن	عَن	ADP	IN	_	0	root	_	LId=عَن_1
 4	وضع	وَضع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	LId=وَضْع_1
@@ -6997,7 +6997,7 @@
 # text = ويلزم القسم المشرعين أن يقسموا بالولاء لهونغ كونغ كجزءٍ من جمهورية الصين الشعبية.
 # original_text = ويلزم القسم المشرعين أن يقسموا بالولاء لهونغ كونغ كجزء من جمهورية الصين الشعبية.
 # text_en = The oath involves lawmakers swearing allegiance to Hong Kong as part of the People’s Republic of China.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	يلزم	أَلزَم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَلْزَم_1
 3	القسم	قِسم	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=قِسْم_1
 4	المشرعين	مُشَرِّع	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	LId=مُشَرِّع_1
@@ -7079,7 +7079,7 @@
 # text = وفي الوقت نفسه يبدو أن هونغ كونغ تستعد لموجة مظاهرات جديدة.
 # original_text = وفي الوقت نفسه يبدو أن هونغ كونغ تستعد لموجة مظاهرات جديدة.
 # text_en = Hong Kong, meanwhile, appears to be bracing for a wave of protests.
-1	و	و	PART	RP	_	6	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	6	cc	_	SpaceAfter=No
 2	في	فِي	ADP	IN	_	3	case	_	LId=فِي_1
 3	الوقت	وَقت	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=وَقْت_1
 4	نفس	نَفس	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	appos	_	LId=نَفْس_1|SpaceAfter=No
@@ -7722,7 +7722,7 @@
 # text = ويتبعه صندوق آفيفا إنفستورز متعدد الإستراتيجية ذو العائد والدخل المستهدف, الذي وضع فيه المستثمرون ملياري جنيه إسترليني و1,4 مليار جنيه إسترليني على التوالي.
 # original_text = ويتبعه صندوق آفيفا إنفستورز متعدد الإستراتيجية ذو العائد والدخل المستهدف, الذي وضع فيه المستثمرون ملياري جنيه إسترليني و1,4 مليار جنيه إسترليني على التوالي.
 # text_en = It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	يتبع	تَبِع	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=تَبِع-َ_1|SpaceAfter=No
 3	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	صندوق	صُندُوق	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=صُنْدُوق_1
@@ -7824,7 +7824,7 @@
 # text = وأورد تقريرٌ مهمٌ في كانون الثاني أن المحيطات ستحوي على كميات من البلاستيك أكثر من الأسماك بحلول عام 2050 ما لم يتخذ العالم إجراءات جذرية لمنع تسرب القمامة إلى البحار.
 # original_text = وأورد تقرير مهم في كانون الثاني أن المحيطات ستحوي على كميات من البلاستيك أكثر من الأسماك بحلول عام 2050 ما لم يتخذ العالم إجراءات جذرية لمنع تسرب القمامة إلى البحار.
 # text_en = A major report in January said oceans would contain more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	أورد	أَورَد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=أَوْرَد_1
 3	تقريرٌ	تَقرِير	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	LId=تَقْرِير_1
 4	مهمٌ	مُهِمّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	amod	_	LId=مُهِمّ_1
@@ -8238,7 +8238,7 @@
 9	القلب	قَلب	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	obj	_	LId=قَلْب_1
 10	ب	بِ	ADP	IN	_	11	case	_	SpaceAfter=No
 11	بساطة	بَسَاطَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	LId=بَساطَة_1
-12	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+12	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 13	كأن	كَأَنَّ	SCONJ	IN	_	15	mark	_	LId=كَأَنَّ_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	_	_
 15	مصنوعٌ	مَصنُوع	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Voice=Pass	6	acl	_	LId=مَصْنُوع_1
@@ -8259,12 +8259,12 @@
 # text = وطبعاً هناك بوب, وهو مصدرٌ دائمٌ للترفيه.
 # original_text = وطبعا هناك بوب, وهو مصدر دائم للترفيه.
 # text_en = And, of course, there's Bob, a constant source of entertainment.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	طبعاً	طَبع	ADV	RB	_	3	advmod	_	LId=طَبْع_1
 3	هناك	هُنَاكَ	ADV	RB	_	0	root	_	LId=هُناكَ_1
 4	بوب	بُوب	PROPN	NNP	_	3	nsubj	_	LId=بُوب_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	LId=,_0
-6	و	و	PART	RP	_	8	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	8	cc	_	SpaceAfter=No
 7	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LId=هُوَ_1
 8	مصدرٌ	مَصدَر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	advcl	_	LId=مَصْدَر_1
 9	دائمٌ	دائِم	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	LId=دائِم_1
@@ -8521,7 +8521,7 @@
 3	ساوث	ساوث	PROPN	NNP	Number=Sing	2	nmod	_	LId=ساوث_1
 4	بانك	أَنَّ	PROPN	NNP	Gender=Masc|Number=Sing	3	flat	_	LId=أَنَّ_1|SpaceAfter=No
 5	,	,	PUNCT	,	_	9	punct	_	LId=,_0
-6	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	9	cc	_	SpaceAfter=No
 7	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LId=هُوَ_1
 8	أحد	أَحَد	DET	PDT	Case=Nom|PronType=Ind	9	det	_	LId=أَحَد_1
 9	معالم	مَعلَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	advcl	_	LId=مَعْلَم_1
@@ -8993,7 +8993,7 @@
 10	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 11	الشهيرة	شَهِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=شَهِير_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	اللذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Dual|PronType=Int	15	nsubj	_	LId=الَّذِي_1
 15	يحملان	حَمَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	LId=حَمَل-ِ_1
 16	عنوانين	عُنوان	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Dual	15	obj	_	LId=عُنْوان_1
@@ -9256,7 +9256,7 @@
 3	"	"	PUNCT	``	_	4	punct	_	LId="_0|SpaceAfter=No
 4	لوفينغ	لوفينغ	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	LId=لوفينغ_0|SpaceAfter=No
 5	"	"	PUNCT	''	_	4	punct	_	LId="_0
-6	و	و	PART	RP	_	10	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	10	cc	_	SpaceAfter=No
 7	ريتشارد	رِيتشارد	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	LId=رِيتْشارْد_1
 8	و	وَ	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	مليدريد	مليدريد	PROPN	NNP	Gender=Fem|Number=Sing	7	conj	_	LId=مليدريد_0
@@ -9288,7 +9288,7 @@
 1	المشاهير	مَشهُور	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	12	nsubj	_	LId=مَشْهُور_1
 2	و	وَ	CCONJ	CC	_	3	cc	_	SpaceAfter=No
 3	المعجبون	مُعجَب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	conj	_	LId=مُعْجَب_1
-4	و	و	PART	RP	_	1	compound:prt	_	SpaceAfter=No
+4	و	و	CCONJ	RP	_	1	cc	_	SpaceAfter=No
 5	حتى	حَتَّى	CCONJ	CC	_	6	cc	_	LId=حَتَّى_3
 6	مراسلي	مُراسِل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	conj	_	LId=مُراسِل_1
 7	"	"	PUNCT	``	_	8	punct	_	LId="_0|SpaceAfter=No
@@ -9654,7 +9654,7 @@
 # text = وقال الأمريكي: "علي أن أهنئ آندي لتبوئه المركز الأول على العالم, فهذا إنجازٌ رائع".
 # original_text = وقال الأمريكي: "علي أن أهنئ آندي لتبوئه المركز الأول على العالم, فهذا إنجاز رائع".
 # text_en = "I have to congratulate Andy -- to get to No. 1 in the world that's an incredible achievement," the American said.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	قال	قَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قال-ُ_1
 3	الأمريكي	أَمرِيكِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=أَمْرِيكِيّ_1|SpaceAfter=No
 4	:	:	PUNCT	:	_	6	punct	_	LId=:_0
@@ -9810,7 +9810,7 @@
 7	ل	لِ	ADP	IN	_	8	case	_	SpaceAfter=No
 8	جوني	جُون	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	LId=جُون_1
 9	كارسون	كارسون	PROPN	NNP	Gender=Masc|Number=Sing	8	flat	_	LId=كارسون_0
-10	و	و	PART	RP	_	12	compound:prt	_	SpaceAfter=No
+10	و	و	CCONJ	RP	_	12	cc	_	SpaceAfter=No
 11	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	LId=هُوَ_1
 12	يحضر	حَضَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	LId=حَضَر-ُ_1
 13	سلم	سُلَّم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	obj	_	LId=سِلْم_1
@@ -9885,7 +9885,7 @@
 3	غونزاليز	غونزاليز	PROPN	NNP	Gender=Masc|Number=Sing	2	flat	_	LId=غونزاليز_0
 4	آنايا	أَنأَى	PROPN	NNP	Gender=Masc|Number=Sing	3	flat	_	LId=أَنْأَى_2|SpaceAfter=No
 5	,	,	PUNCT	,	_	9	punct	_	LId=,_0
-6	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	9	cc	_	SpaceAfter=No
 7	هي	هُوَ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LId=هِيَ_1
 8	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	9	det	_	LId=أَحَد_1
 9	المخرجين	مُخرِج	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	advcl	_	LId=مُخْرِج_1
@@ -10232,7 +10232,7 @@
 3	الحائز	حائِز	ADJ	VBN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	2	ccomp	_	LId=حائِز_1
 4	على	عَلَى	ADP	IN	_	5	case	_	LId=عَلَى_1
 5	جوائز	جَائِزَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	LId=جائِزَة_1
-6	و	و	PART	RP	_	8	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	8	cc	_	SpaceAfter=No
 7	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	8	obj	_	LId=الَّذِي_1
 8	صمم	صَمَم	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	advcl	_	LId=صَمَم_1|SpaceAfter=No
 9	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	dep	_	_
@@ -10392,7 +10392,7 @@
 # text = ومثالها جزر لاين في المحيط الهادي وجزر المالديف في المحيط الهندي.
 # original_text = ومثالها جزر لاين في المحيط الهادي وجزر المالديف في المحيط الهندي.
 # text_en = Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	مثال	مِثَال	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	LId=مِثال_1|SpaceAfter=No
 3	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	جزر	جَزِيرَة	PROPN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	nsubj	_	LId=جَزِيرَة_1
@@ -10471,7 +10471,7 @@
 9	قبل	قَبلَ	ADP	IN	_	10	case	_	LId=قَبْل_1
 10	الميلاد	مِيلَاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=مِيلاد_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-12	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+12	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 14	كانت	كَان	AUX	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	aux	_	LId=كان-ُ_1
 15	تعتمد	اِعتَمَد	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	LId=ٱِعْتَمَد_1
@@ -10686,7 +10686,7 @@
 11	و	وَ	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	موناكو	مُوناكُو	PROPN	NNP	Gender=Fem|Number=Sing	10	conj	_	LId=مُوناكُو_1|SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	_	LId=,_0
-14	و	و	PART	RP	_	16	compound:prt	_	SpaceAfter=No
+14	و	و	CCONJ	RP	_	16	cc	_	SpaceAfter=No
 15	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	LId=الَّذِي_1
 16	قضت	قَضَى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	8	advcl	_	LId=قَضَى-ِ_1
 17	ب	بِ	ADP	IN	_	18	case	_	SpaceAfter=No
@@ -10715,7 +10715,7 @@
 10	ل	لِ	ADP	IN	_	11	case	_	SpaceAfter=No
 11	لحكومة	حُكُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	LId=حُكُومَة_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 15	يرأس	رَأَس	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	LId=رَأَس-َِ_1
 16	مجلساً	مَجلِس	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	15	obj	_	LId=مَجْلِس_1
@@ -11134,7 +11134,7 @@
 20	السامي	سامِيّ	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	LId=سامِيّ_1
 21	الجنوبية	جَنُوبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	19	amod	_	LId=جَنُوبِيّ_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	LId=,_0
-23	و	و	PART	RP	_	25	compound:prt	_	SpaceAfter=No
+23	و	و	CCONJ	RP	_	25	cc	_	SpaceAfter=No
 24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj:pass	_	LId=الَّذِي_1
 25	يعتقد	اِعتَقَد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	advcl	_	LId=ٱِعْتَقَد_1
 26	ب	بِ	ADP	IN	_	25	case	_	SpaceAfter=No
@@ -11298,7 +11298,7 @@
 # text = وقد نشر المذكورون أيضاً الإسلام في الحزام الساحلي, غير أن غالبية البانتو لم يحتكوا بالإسلام قط وظلوا أتباعاً للديانات الأفريقية التقليدية.
 # original_text = وقد نشر المذكورون أيضا الإسلام في الحزام الساحلي, غير أن غالبية البانتو لم يحتكوا بالإسلام قط وظلوا أتباعا للديانات الأفريقية التقليدية.
 # text_en = The latter also spread Islam to the coastal belt, but most Bantu never had contact with Islam and remained African Traditional Religion adherents.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	نشر	نَشَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=نَشَر-ُ_1
 4	المذكورون	مَذكُور	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	LId=مَذْكُور_1
@@ -11930,7 +11930,7 @@
 # text = وبقيت الدانيفيركه في حوزة الألمان منذ ذلك الحين.
 # original_text = وبقيت الدانيفيركه في حوزة الألمان منذ ذلك الحين.
 # text_en = The Danevirke has remained in German possession ever since.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	بقيت	بَقِي	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=بَقِي-َ_1
 3	الدانيفيركه	دانيفيركه	PROPN	NNP	Number=Sing	2	nsubj	_	LId=دانيفيركه_0
 4	في	فِي	ADP	IN	_	5	case	_	LId=فِي_1
@@ -12029,7 +12029,7 @@
 # text = وتختلف عن الجزء الغربي من البلاد في أن أبرز تضاريسها غير موازية للساحل.
 # original_text = وتختلف عن الجزء الغربي من البلاد في أن أبرز تضاريسها غير موازية للساحل.
 # text_en = It differs from the western portion of the country in that its prominent topographic features do not parallel the coast.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	تختلف	اِختَلَف	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ٱِخْتَلَف_1
 3	عن	عَن	ADP	IN	_	4	case	_	LId=عَن_1
 4	الجزء	جُزء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=جُزْء_1
@@ -12286,7 +12286,7 @@
 32	إلى	إِلَى	ADP	IN	_	33	case	_	LId=إِلَى_1
 33	المناطق	مِنطَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	15	obl	_	LId=مِنْطَقَة_1
 34	القاحلة	قَحلاء	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	33	amod	_	LId=قَحْلاء_1
-35	و	و	PART	RP	_	37	compound:prt	_	SpaceAfter=No
+35	و	و	CCONJ	RP	_	37	cc	_	SpaceAfter=No
 36	خلال	خِلَالَ	ADP	IN	_	37	case	_	LId=خِلال_1
 37	أشهر	شَهر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	33	conj	_	LId=شَهْر_1
 38	الصيف	صَيف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	37	nmod	_	LId=صَيْف_1|SpaceAfter=No
@@ -12842,7 +12842,7 @@
 # text = وهي ليست رائجة جداً بسبب مواقعها النائية والخالية من الطرقات في أغلب الأحيان.
 # original_text = وهي ليست رائجة جدا بسبب مواقعها النائية والخالية من الطرقات في أغلب الأحيان.
 # text_en = These are not very popular due to the often remote and roadless locations.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	هي	هُوَ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LId=هِيَ_1
 3	ليست	لَيسَ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=لَيْسَ_1
 4	رائجة	رَائِج	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	3	amod	_	LId=رائِج_1
@@ -12873,7 +12873,7 @@
 4	بقية	بَقِيَّة	DET	PDT	Case=Acc|PronType=Ind	5	det	_	LId=بَقِيَّة_1
 5	الأراضي	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	1	obj	_	LId=أَرْض_1|SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	LId=,_0
-7	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
+7	و	و	CCONJ	RP	_	9	cc	_	SpaceAfter=No
 8	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	det	_	LId=الَّذِي_1
 9	يبلغ	بَلَغ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	LId=بَلَغ-ُ_1
 10	مجموع	مَجمُوع	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	LId=مَجْمُوع_1|SpaceAfter=No
@@ -12892,7 +12892,7 @@
 # text = وهي أيضاً المنطقة الوحيدة في ألاسكا التي يتجاوز فيها معدل درجات الحرارة القصوى خلال النهار درجة التجمد في أشهر الشتاء.
 # original_text = وهي أيضا المنطقة الوحيدة في ألاسكا التي يتجاوز فيها معدل درجات الحرارة القصوى خلال النهار درجة التجمد في أشهر الشتاء.
 # text_en = This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months.
-1	و	و	PART	RP	_	4	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	4	cc	_	SpaceAfter=No
 2	هي	هُوَ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LId=هِيَ_1
 3	أيضاً	أَيضًا	ADV	RB	_	4	advmod	_	LId=أَيْضاً_1
 4	المنطقة	مِنطَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	LId=مِنْطَقَة_1
@@ -13305,7 +13305,7 @@
 5	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
 6	الكاريب	كاريب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=كاريب_0|SpaceAfter=No
 7	,	,	PUNCT	,	_	11	punct	_	LId=,_0
-8	و	و	PART	RP	_	11	compound:prt	_	SpaceAfter=No
+8	و	و	CCONJ	RP	_	11	cc	_	SpaceAfter=No
 9	هم	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	LId=هُم_1
 10	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	11	det	_	LId=أَحَد_1
 11	مجموعات	مَجمُوعَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	6	advcl	_	LId=مَجْمُوعَة_1
@@ -13421,7 +13421,7 @@
 16	الجنوب	جَنُوب	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=جَنُوب_1|SpaceAfter=No
 17	"	"	PUNCT	''	_	15	punct	_	LId="_0
 18	(	(	PUNCT	(	_	21	punct	_	LId=(_0|SpaceAfter=No
-19	و	و	PART	RP	_	21	compound:prt	_	SpaceAfter=No
+19	و	و	CCONJ	RP	_	21	cc	_	SpaceAfter=No
 20	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	LId=هُوَ_1
 21	المحيط	مُحِيط	PROPN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	15	advcl	_	LId=مُحِيط_1
 22	الهادي	هادِي	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	21	amod	_	LId=هادِي_2|Proper=True
@@ -13437,7 +13437,7 @@
 32	الشمال	شَمال	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	31	nmod	_	LId=شَمال_1|SpaceAfter=No
 33	"	"	PUNCT	''	_	31	punct	_	LId="_0
 34	(	(	PUNCT	(	_	37	punct	_	LId=(_0|SpaceAfter=No
-35	و	و	PART	RP	_	37	compound:prt	_	SpaceAfter=No
+35	و	و	CCONJ	RP	_	37	cc	_	SpaceAfter=No
 36	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	LId=هُوَ_1
 37	البحر	بَحر	PROPN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	31	advcl	_	LId=بَحْر_1
 38	الكاريبي	كَارِيبِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	37	amod	_	LId=كارِيبِي_1|Proper=True
@@ -13530,7 +13530,7 @@
 8	كيب	كِيب	PROPN	NNP	Gender=Fem|Number=Sing	7	nmod	_	LId=كِيب_1
 9	تاون	تاون	PROPN	NNP	Gender=Fem|Number=Sing	8	flat	_	LId=تاون_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	_	LId=,_0
-11	و	و	PART	RP	_	13	compound:prt	_	SpaceAfter=No
+11	و	و	CCONJ	RP	_	13	cc	_	SpaceAfter=No
 12	هي	هُوَ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	LId=هِيَ_1
 13	بلدية	بَلَدِيَّة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	advcl	_	LId=بَلَدِيَّة_1
 14	شاملة	شَامِل	ADJ	VBN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	13	ccomp	_	LId=شامِل_1
@@ -13782,7 +13782,7 @@
 # original_text = أولا وقبل كل شيء, كان الأهم توفير مساحة مفتوحة من أجل أهل المدينة وسكانها في المنطقة التي كانت ترتفع فيها المباني بسرعة كبيرة.
 # text_en = First and foremost was the provision of open space for the benefit of townspeople and local residents within an area that was being rapidly built up.
 1	أولاً	أَوَّل	ADV	RB	_	9	advmod	_	LId=أَوَّل_2
-2	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
+2	و	و	CCONJ	RP	_	9	cc	_	SpaceAfter=No
 3	قبل	قَبلَ	ADP	IN	_	5	case	_	LId=قَبْل_1
 4	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	5	det	_	LId=كُلّ_1
 5	شيء	شَيء	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	LId=شَيْء_1|SpaceAfter=No
@@ -13989,7 +13989,7 @@
 9	عن	عَن	ADP	IN	_	10	case	_	LId=عَن_1
 10	المعركة	مَعرَكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=مَعْرَكَة_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	LId=,_0
-12	و	و	PART	RP	_	14	compound:prt	_	SpaceAfter=No
+12	و	و	CCONJ	RP	_	14	cc	_	SpaceAfter=No
 13	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	obj	_	LId=الَّذِي_1
 14	وضع	وَضَع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	6	advcl	_	LId=وَضَع_1|SpaceAfter=No
 15	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	dep	_	_
@@ -14047,7 +14047,7 @@
 # text = وبالتالي وجد الفرعون المصري نفسه في شمال أمورو, متجاوزاً قادش, في تونيب, حيث لم يصل جنديٌ مصريٌ منذ زمن تحتمس الثالث قبل ذلك بنحو 120 عاماً.
 # original_text = وبالتالي وجد الفرعون المصري نفسه في شمال أمورو, متجاوزا قادش, في تونيب, حيث لم يصل جندي مصري منذ زمن تحتمس الثالث قبل ذلك بنحو 120 عاما.
 # text_en = The Egyptian pharaoh thus found himself in northern Amurru, well past Kadesh, in Tunip, where no Egyptian soldier had been seen since the time of Thutmose III almost 120 years earlier.
-1	و	و	PART	RP	_	4	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	4	cc	_	SpaceAfter=No
 2	ب	بِ	ADP	IN	ExtPos=ADV	4	advmod	_	SpaceAfter=No
 3	التالي	تالِي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	fixed	_	LId=تالِي_1
 4	وجد	وَجَد	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=وَجَد-ِ_1
@@ -14269,7 +14269,7 @@
 7	من	مِن	ADP	IN	_	8	case	_	LId=مِن_1
 8	نيو	نِيُو	PROPN	NNP	Number=Sing	5	nmod	_	LId=نِيُو_1
 9	فرانس	فرانس	PROPN	NNP	Number=Sing	8	flat	_	LId=فرانْس_1
-10	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+10	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj:pass	_	LId=الَّذِي_1
 12	لم	لَم	PART	RP	Polarity=Neg	15	advmod	_	LId=لَمْ_1
 13	تكن	كَان	AUX	VBC	Aspect=Imp|Gender=Fem|Mood=Jus|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	LId=كان-ُ_1
@@ -14284,7 +14284,7 @@
 # text = وهذا وضع أساساً لتحقيق التكامل حيث كان يمكن تطبيق الآليات الاقتصادية والقضائية في كل أرجاء البحر المتوسط كما حدث ذات يوم بدءاً اللاتيوم إلى أرجاء إيطاليا.
 # original_text = وهذا وضع أساسا لتحقيق التكامل حيث كان يمكن تطبيق الآليات الاقتصادية والقضائية في كل أرجاء البحر المتوسط كما حدث ذات يوم بدءا اللاتيوم إلى أرجاء إيطاليا.
 # text_en = It set the basis for integration where the economic and judicial mechanisms of the state could be applied throughout the Mediterranean as was once done from Latium into all Italy.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	هذا	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	LId=هٰذا_1
 3	وضع	وَضع	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=وَضْع_1
 4	أساساً	أَسَاس	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	LId=أَساس_1
@@ -14366,7 +14366,7 @@
 # text = وقد ظهرت نبوءةٌ تقول أنه إما سيموت بالشيخوخة بعد حياةٍ هادئة, أو سيموت يافعاً في أرض المعركة وسيكتسب الخلود من خلال الشعر.
 # original_text = وقد ظهرت نبوءة تقول أنه إما سيموت بالشيخوخة بعد حياة هادئة, أو سيموت يافعا في أرض المعركة وسيكتسب الخلود من خلال الشعر.
 # text_en = It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	ظهرت	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ظَهَر-َ_1
 4	نبوءةٌ	نُبُوءَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	3	nsubj	_	LId=نُبُوءَة_1
@@ -14577,7 +14577,7 @@
 22	الصينيين	صِينِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	21	amod	_	LId=صِينِيّ_1
 23	غير	غَير	PART	RP	Polarity=Neg	24	advmod	_	LId=غَيْر_1
 24	الأكفاء	كَفء	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	21	amod	_	LId=كَفْء_1
-25	و	و	PART	RP	_	27	compound:prt	_	SpaceAfter=No
+25	و	و	CCONJ	RP	_	27	cc	_	SpaceAfter=No
 26	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur|PronType=Int	27	nsubj	_	LId=الَّذِي_1
 27	رضخوا	رَضَخ	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	21	advcl	_	LId=رَضَخ-َ_1
 28	ل	لِ	ADP	IN	_	29	case	_	SpaceAfter=No
@@ -15402,7 +15402,7 @@
 # text = وعلامتان تقيسان طول الأشهر القمرية.
 # original_text = وعلامتان تقيسان طول الأشهر القمرية.
 # text_en = Two measure the lengths of lunar months.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	علامتان	عَلامَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Dual	3	nsubj	_	LId=عَلامَة_1
 3	تقيسان	قاس	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=قاس-ِ_1
 4	طول	طُول	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	LId=طُول_1
@@ -15429,7 +15429,7 @@
 # text = وخلال العصر ما بعد الكلاسيكي في يوكاتان استخدم نظامٌ ثالث.
 # original_text = وخلال العصر ما بعد الكلاسيكي في يوكاتان استخدم نظام ثالث.
 # text_en = During the Post-Classic period in Yucatán a third system was in use.
-1	و	و	PART	RP	_	9	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	9	cc	_	SpaceAfter=No
 2	خلال	خِلَالَ	ADP	IN	_	3	case	_	LId=خِلال_1
 3	العصر	عَصر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=عَصْر_1
 4	ما	ما	PRON	WP	Case=Gen|PronType=Int	6	acl:relcl	_	LId=ما_1
@@ -16080,7 +16080,7 @@
 2	التعميد	تَعمِيد	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=تَعْمِيد_1
 3	القسري	قَسرِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	amod	_	LId=قَسْرِيّ_1
 4	يتعارض	تَعَارَض	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=تَعارَض_1
-5	و	و	PART	RP	_	6	compound:prt	_	SpaceAfter=No
+5	و	و	CCONJ	RP	_	6	cc	_	SpaceAfter=No
 6	تعاليم	تَعلِيم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	4	obj	_	LId=تَعْلِيم_1
 7	الكنيسة	كَنِيسَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=كَنِيسَة_1
 8	الكاثوليكية	كاثُولِيكِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	LId=كاثُولِيكِيّ_1|SpaceAfter=No
@@ -16436,7 +16436,7 @@
 # text = ومع ذلك, كان موجهاً بشكل كبير إلى مواقع صغيرة في الغرب وغير مؤهلٍ بشكلٍ جيد لخوض الحروب الخارجية.
 # original_text = ومع ذلك, كان موجها بشكل كبير إلى مواقع صغيرة في الغرب وغير مؤهل بشكل جيد لخوض الحروب الخارجية.
 # text_en = However, it was too oriented to small posts in the West and not as well-prepared for an overseas conflict.
-1	و	و	PART	RP	_	6	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	6	cc	_	SpaceAfter=No
 2	مع	مَعَ	ADP	IN	_	3	case	_	LId=مَع_1
 3	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	LId=,_0
@@ -16477,7 +16477,7 @@
 7	ميليشيا	مِيلِيشِيا	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=مِيلِيشِيا_1
 8	الولاية	وِلَايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=وِلايَة_1|SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	LId=,_0
-10	و	و	PART	RP	_	12	compound:prt	_	SpaceAfter=No
+10	و	و	CCONJ	RP	_	12	cc	_	SpaceAfter=No
 11	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	LId=الَّذِي_1
 12	واجهت	وَاجَه	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	6	advcl	_	LId=واجَه_1
 13	مصاعب	مَصاعِب	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	12	obj	_	LId=مَصاعِب_1
@@ -16637,7 +16637,7 @@
 10	تتضمن	تَضَمَّن	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=تَضَمَّن_1
 11	النساء	نِسَاء	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	10	obj	_	LId=نِساء_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	خصوصاً	خُصُوص	ADV	RB	_	15	advmod	_	LId=خُصُوص_1
 15	أدوار	دَور	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	11	appos	_	LId=دَوْر_1|SpaceAfter=No
 16	هن	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nmod	_	_
@@ -16806,7 +16806,7 @@
 # text = وقد أدخل تغييرٌ جذريٌ في مبادئ العمل بوساطة الأسكتلندي جيمس واط.
 # original_text = وقد أدخل تغيير جذري في مبادئ العمل بوساطة الأسكتلندي جيمس واط.
 # text_en = A fundamental change in working principles was brought about by Scotsman James Watt.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	أدخل	أَدخَل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=أَدْخَل_1
 4	تغييرٌ	تَغيِير	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj:pass	_	LId=تَغْيِير_1
@@ -17853,7 +17853,7 @@
 # text = وقد لقي نجاحاً كبيراً إلى درجة أن الجيش استمر في استخدامه لسنوات عديدة بعد الحرب, وكان لا يزال مستخدماً في بعض الدول خلال الثمانينيات.
 # original_text = وقد لقي نجاحا كبيرا إلى درجة أن الجيش استمر في استخدامه لسنوات عديدة بعد الحرب, وكان لا يزال مستخدما في بعض الدول خلال الثمانينيات.
 # text_en = It was so successful that the military continued to use it for many years after the war, and it was still in use in some countries in the 1980s.
-1	و	و	PART	RP	_	3	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	3	cc	_	SpaceAfter=No
 2	قد	قَد	PART	RP	_	3	compound:prt	_	LId=قَدْ_1
 3	لقي	لَقِي	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=لَقِي-َ_1
 4	نجاحاً	نَجَاح	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	LId=نَجاح_1
@@ -18238,7 +18238,7 @@
 6	فخرية	فَخرِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	4	amod	_	LId=فَخْرِيّ_1
 7	أخرى	آخَر	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	4	amod	_	LId=أُخْرَى_1|SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	LId=,_0
-9	و	و	PART	RP	_	11	compound:prt	_	SpaceAfter=No
+9	و	و	CCONJ	RP	_	11	cc	_	SpaceAfter=No
 10	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	LId=الَّذِي_1
 11	تتكون	تَكَوَّن	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	LId=تَكَوَّن_1
 12	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
@@ -19185,7 +19185,7 @@
 18	بطولة	بُطُولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	LId=بُطُولَة_1
 19	لابوف	لابوف	PROPN	NNP	Gender=Masc|Number=Sing	18	nmod	_	LId=لابوف_0|SpaceAfter=No
 20	,	,	PUNCT	,	_	18	punct	_	LId=,_0
-21	و	و	PART	RP	_	23	compound:prt	_	SpaceAfter=No
+21	و	و	CCONJ	RP	_	23	cc	_	SpaceAfter=No
 22	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	obl	_	LId=الَّذِي_1
 23	ظهر	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	advcl	_	LId=ظَهَر-َ_1
 24	في	فِي	ADP	IN	_	22	case	_	LId=فِي_1|SpaceAfter=No
@@ -19385,7 +19385,7 @@
 20	مؤلف	مُؤَلِّف	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	18	conj	_	LId=مُؤَلِّف_1
 21	أغانٍ	أُغنِيَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	20	nmod	_	LId=أُغْنِيَة_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	LId=,_0
-23	و	و	PART	RP	_	25	compound:prt	_	SpaceAfter=No
+23	و	و	CCONJ	RP	_	25	cc	_	SpaceAfter=No
 24	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	LId=الَّذِي_1
 25	وقع	وَقَّع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	10	advcl	_	LId=وَقَّع_1
 26	مع	مَعَ	ADP	IN	_	27	case	_	LId=مَع_1
@@ -20291,7 +20291,7 @@
 9	من	مِن	ADP	IN	_	10	case	_	LId=مِن_1
 10	البولونيوم	بولونيوم	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=بولونيوم_0|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	LId=,_0
-12	و	و	PART	RP	_	14	compound:prt	_	SpaceAfter=No
+12	و	و	CCONJ	RP	_	14	cc	_	SpaceAfter=No
 13	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj:pass	_	LId=الَّذِي_1
 14	استخدمت	اِستَخدَم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	7	advcl	_	LId=ٱِسْتَخْدَم_1
 15	في	فِي	ADP	IN	_	16	case	_	LId=فِي_1
@@ -20777,7 +20777,7 @@
 38	سكريتي	سُكَّرِيَّة	PROPN	NNP	Number=Sing	36	nmod	_	LId=سُكَّرِيَّة_1
 39	بوليتي	وَلِيَّة	PROPN	NNP	Number=Sing	38	flat	_	LId=وَلِيَّة_1|SpaceAfter=No
 40	"	"	PUNCT	''	_	38	punct	_	LId="_0
-41	و	و	PART	RP	_	43	compound:prt	_	SpaceAfter=No
+41	و	و	CCONJ	RP	_	43	cc	_	SpaceAfter=No
 42	الذي	الَّذِي	PRON	REL	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	43	nsubj	_	LId=الَّذِي_1
 43	وافق	وَافَق	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	28	advcl	_	LId=وافَق_1
 44	على	عَلَى	ADP	IN	_	45	case	_	LId=عَلَى_1
@@ -21736,7 +21736,7 @@
 # text = والآن هو بطلٌ للعالم أيضاً.
 # original_text = والآن هو بطل للعالم أيضا.
 # text_en = And now he is also world champion.
-1	و	و	PART	RP	_	4	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	4	cc	_	SpaceAfter=No
 2	الآن	آن	ADV	RB	_	4	obl:tmod	_	LId=آن_1
 3	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	LId=هُوَ_1
 4	بطلٌ	بَطَل	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=بَطَل_1
@@ -22893,7 +22893,7 @@
 # text = وكشف ممثل فرنسا قائلاً "إيتا في طريقها إلى الخروج".
 # original_text = وكشف ممثل فرنسا قائلا "إيتا في طريقها إلى الخروج".
 # text_en = "ETA is on its way out," the French contingent revealed.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	كشف	كَشَف	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كَشَف-ِ_1
 3	ممثل	مُمَثِّل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	LId=مُمَثِّل_1
 4	فرنسا	فَرَنسا	PROPN	NNP	Gender=Fem|Number=Sing	3	nmod	_	LId=فَرَنْسا_1
@@ -23043,7 +23043,7 @@
 19	ل	لِ	ADP	IN	_	20	case	_	SpaceAfter=No
 20	لفاشية	فاشِيّ	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	18	obl	_	LId=فاشِيّ_1|SpaceAfter=No
 21	,	,	PUNCT	,	_	24	punct	_	LId=,_0
-22	و	و	PART	RP	_	24	compound:prt	_	SpaceAfter=No
+22	و	و	CCONJ	RP	_	24	cc	_	SpaceAfter=No
 23	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	24	nsubj	_	LId=الَّذِي_1
 24	اشتهرت	ٱِشتَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	16	advcl	_	LId=ٱِشْتَهَر_1
 25	ب	بِ	ADP	IN	_	26	case	_	SpaceAfter=No
@@ -23352,7 +23352,7 @@
 16	العملة	عامِل	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	LId=عامِل_2
 17	الموحدة	مُوَحَّد	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	LId=مُوَحَّد_1|SpaceAfter=No
 18	,	,	PUNCT	,	_	21	punct	_	LId=,_0
-19	و	و	PART	RP	_	21	compound:prt	_	SpaceAfter=No
+19	و	و	CCONJ	RP	_	21	cc	_	SpaceAfter=No
 20	الذي	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	21	nsubj	_	LId=الَّذِي_1
 21	يعادل	عَادَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	LId=عادَل_1
 22	1,365	1,365	NUM	CD	_	23	nummod	_	LId=١,٣٦٥_0
@@ -23973,7 +23973,7 @@
 # text = وماذا عن الأحزاب في ماذا, في الحقوق التاريخية؟
 # original_text = وماذا عن الأحزاب في ماذا, في الحقوق التاريخية؟
 # text_en = And what about the parties in what, in historical rights?
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	ماذا	ماذا	PRON	WP	Case=Nom|PronType=Int	0	root	_	LId=ماذا_1
 3	عن	عَن	ADP	IN	_	4	case	_	LId=عَن_1
 4	الأحزاب	حِزب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=حِزْب_1
@@ -24160,7 +24160,7 @@
 # text = ويجب أن تستقبل بروحٍ منفتحة وذهنٍ صافٍ لأنها تشكل الجيل الجديد من الجمال والأمل.
 # original_text = ويجب أن تستقبل بروح منفتحة وذهن صاف لأنها تشكل الجيل الجديد من الجمال والأمل.
 # text_en = And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	يجب	وَجَب	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=وَجَب-ِ_1
 3	أن	أَن	ADP	IN	_	4	mark	_	LId=أَنْ_1
 4	تستقبل	اِستَقبَل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	csubj	_	LId=ٱِسْتَقْبَل_1
@@ -25215,7 +25215,7 @@
 # text = واليوم, هناك آثارٌ كثيرة يمكن زيارتها.
 # original_text = واليوم, هناك آثار كثيرة يمكن زيارتها.
 # text_en = Today, expansive ruins can be viewed there.
-1	و	و	PART	RP	_	4	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	4	cc	_	SpaceAfter=No
 2	اليوم	يَوم	ADV	RB	_	4	obl:tmod	_	LId=يَوْم_1|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	LId=,_0
 4	هناك	هُنَاكَ	ADV	RB	_	0	root	_	LId=هُناكَ_1
@@ -25808,7 +25808,7 @@
 10	الحكم	حُكم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	obl	_	LId=حُكْم_1
 11	الذاتي	ذَاوتِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	amod	_	LId=ذاتِيّ_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	LId=,_0
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	LId=هُوَ_1
 15	نمطٌ	نَمَط	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	advcl	_	LId=نَمَط_1
 16	أملت	آمِل	NOUN	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	acl:relcl	_	LId=آمِل_1|SpaceAfter=No
@@ -25854,7 +25854,7 @@
 10	ب	بِ	ADP	IN	_	11	case	_	SpaceAfter=No
 11	الظهور	ظُهُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=ظُهُور_1|SpaceAfter=No
 12	:	:	PUNCT	:	_	15	punct	_	LId=:_0
-13	و	و	PART	RP	_	15	compound:prt	_	SpaceAfter=No
+13	و	و	CCONJ	RP	_	15	cc	_	SpaceAfter=No
 14	هي	هُوَ	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	LId=هِيَ_1
 15	أقاليم	إِقلِيم	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	7	advcl	_	LId=إِقْلِيم_1
 16	صغير	صَغِير	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	15	amod	_	LId=صَغِير_1
@@ -26124,7 +26124,7 @@
 3	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=عام_1
 4	1948	1948	NUM	CD	_	3	nmod	_	LId=١٩٤٨_0|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	LId=,_0
-6	و	و	PART	RP	_	7	compound:prt	_	SpaceAfter=No
+6	و	و	CCONJ	RP	_	7	cc	_	SpaceAfter=No
 7	أملاً	أَمَل	VERB	VBG	Case=Acc|Definite=Ind|Gender=Masc	15	advcl	_	LId=أَمَل-َ_1
 8	ب	بِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	تحويل	تَحوِيل	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	7	obl	_	LId=تَحْوِيل_1
@@ -26297,7 +26297,7 @@
 # text = ومن الأشياء التي تدعم هذه النظرية وجود قطيع ملكي كبير من الخيول في فيلا بيلوكا, في سستو سان جوفاني.
 # original_text = ومن الأشياء التي تدعم هذه النظرية وجود قطيع ملكي كبير من الخيول في فيلا بيلوكا, في سستو سان جوفاني.
 # text_en = An element supporting this hypothesis would be the intense royal livestock of horses that took place at Villa Pelucca, in Sesto San Giovanni.
-1	و	و	PART	RP	_	2	compound:prt	_	SpaceAfter=No
+1	و	و	CCONJ	RP	_	2	cc	_	SpaceAfter=No
 2	من	مِن	ADP	IN	_	0	root	_	LId=مِن_1
 3	الأشياء	شَيء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obj	_	LId=شَيْء_1
 4	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	LId=الَّذِي_1
@@ -26377,7 +26377,7 @@
 20	المدرجات	مُدَرَّج	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	18	obl	_	LId=مُدَرَّج_2
 21	الخشبية	خَشَبِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	amod	_	LId=خَشَبِيّ_1|SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	LId=,_0
-23	و	و	PART	RP	_	25	compound:prt	_	SpaceAfter=No
+23	و	و	CCONJ	RP	_	25	cc	_	SpaceAfter=No
 24	التي	الَّذِي	PRON	REL	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj:pass	_	LId=الَّذِي_1
 25	هدمت	هَدَم	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	20	advcl	_	LId=هَدَم-ِ_1
 26	لاحاقاً	أَحاق	ADV	RB	_	25	advmod	_	LId=أَحاق_1
@@ -26507,7 +26507,7 @@
 5	و	وَ	CCONJ	CC	_	6	cc	_	SpaceAfter=No
 6	الكلابرية	كلابريه	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	conj	_	LId=كلابريه_0|SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	LId=,_0
-8	و	و	PART	RP	_	10	compound:prt	_	SpaceAfter=No
+8	و	و	CCONJ	RP	_	10	cc	_	SpaceAfter=No
 9	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	10	nsubj	_	LId=الَّذِي_1
 10	ضمت	ضَمّ	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	2	advcl	_	LId=ضَمّ-ُ_1
 11	سامنيوم	سامنيوم	PROPN	NNP	Gender=Fem|Number=Sing	10	obj	_	LId=سامنيوم_0
@@ -26909,7 +26909,7 @@
 11	بين	بَينَ	ADP	IN	_	12	case	_	LId=بَيْنَ_1
 12	الاثنين	اِثنَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	8	nmod	_	LId=ٱِثْنَيْنِ_1|SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	_	LId=,_0
-14	و	و	PART	RP	_	16	compound:prt	_	SpaceAfter=No
+14	و	و	CCONJ	RP	_	16	cc	_	SpaceAfter=No
 15	الذي	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	LId=الَّذِي_1
 16	أدى	أَدَّى	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	_	LId=أَدَّى_1
 17	إلى	إِلَى	ADP	IN	_	18	case	_	LId=إِلَى_1
@@ -26941,7 +26941,7 @@
 16	في	فِي	ADP	IN	_	17	case	_	LId=فِي_1
 17	التوزيعات	تَوزِيع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	15	nmod	_	LId=تَوْزِيع_1
 18	الموسيقية	مُوسِيقِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	amod	_	LId=مُوسِيقِيّ_1
-19	و	و	PART	RP	_	21	compound:prt	_	SpaceAfter=No
+19	و	و	CCONJ	RP	_	21	cc	_	SpaceAfter=No
 20	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	21	nsubj	_	LId=الَّذِي_1
 21	ظهرت	ظَهَر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	15	advcl	_	LId=ظَهَر-َ_1
 22	لاحقاً	لاحِق	ADV	RB	_	21	obl:tmod	_	LId=لاحِق_1
@@ -27574,7 +27574,7 @@
 14	غير	غَير	PART	RP	Polarity=Neg	15	advmod	_	LId=غَيْر_1
 15	قانوني	قَانُونِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	amod	_	LId=قانُونِيّ_1|SpaceAfter=No
 16	,	,	PUNCT	,	_	19	punct	_	LId=,_0
-17	و	و	PART	RP	_	19	compound:prt	_	SpaceAfter=No
+17	و	و	CCONJ	RP	_	19	cc	_	SpaceAfter=No
 18	هو	هُوَ	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	LId=هُوَ_1
 19	تصرفٌ	تَصَرُّف	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	advcl	_	LId=تَصَرُّف_1|SpaceAfter=No
 20	,	,	PUNCT	,	_	22	punct	_	LId=,_0

@@ -40,6 +40,7 @@ employ ten-fold cross-validation.
   * Added VerbForm=Fin to verbs with Mood.
   * Added PronType=Prs to pronouns and determiners.
   * Relation obl changed to nmod if parent is undoubtedly nominal.
+  * Clause-initial "و" is CCONJ, not PART.
 * 2022-11-15 v2.11
   * Fixed some annotation/validation errors.
   * Lemmas converted to Arabic script, preferably PADT-like.

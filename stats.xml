@@ -19,11 +19,11 @@
     <tag name="ADP">3576</tag><!-- فِي, مِن, بِ, لِ, عَلَى, إِلَى, أَن, مَعَ, عَن, خِلَالَ -->
     <tag name="ADV">404</tag><!-- عام, أَيضًا, هُنَاكَ, نَحو, فَقَط, يَوم, جِدًّا, آن, تَقرِيب, عادَة -->
     <tag name="AUX">186</tag><!-- كَان, لَيس -->
-    <tag name="CCONJ">653</tag><!-- وَ, أَو, بَل, ثُمَّ, حَتَّى, ل`كِنَّ -->
+    <tag name="CCONJ">755</tag><!-- وَ, و, أَو, بَل, ثُمَّ, حَتَّى, ل`كِنَّ -->
     <tag name="DET">166</tag><!-- كُلّ, أَحَد, بَعض, أَيّ, عِدَّة, مُعظَم, آخِر, جَمِيع, آخَر, شِبه -->
     <tag name="NOUN">5575</tag><!-- عَام, شَكل, مِنطَقَة, شَرِكَة, وَقت, عَمَل, مَدِينَة, أَرض, أَمر, اِسم -->
     <tag name="NUM">371</tag><!-- 1, 10, عشر, ثلاث, مليون, 3, 2014, 2015, أربعة, عشرة -->
-    <tag name="PART">566</tag><!-- و, سَ, لَا, لَم, قَد, غَير, مَا, ف, إِنَّ, ل`كِنَّ -->
+    <tag name="PART">464</tag><!-- سَ, لَا, لَم, قَد, غَير, مَا, ف, إِنَّ, ل`كِنَّ, أَنَّ -->
     <tag name="PRON">1299</tag><!-- هُوَ, الَّذِي, ه`ذا, ذ`لِكَ, ما, مِن, أُولائِكَ, ماذا, من, آخَر -->
     <tag name="PROPN">1728</tag><!-- بَحر, تِشرِين, صِين, سِي, وِلايَة, بِي, ترامب, كانُون, حَرب, نِيسان -->
     <tag name="PUNCT">2226</tag><!-- ., ,, ", :, (, ), -, ؟, ـ, ... -->
@@ -33,7 +33,7 @@
     <tag name="X">1</tag><!-- سُرعانَ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="39">
+  <feats unique="40">
     <feat name="Aspect" value="Imp" upos="AUX,VERB">940</feat><!-- يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, تكن, يعمل, تضم -->
     <feat name="Aspect" value="Perf" upos="ADJ,AUX,NOUN,VERB">1041</feat><!-- كان, كانت, قال, تم, كانوا, بدأت, قالت, بدأ, بات, أصبح -->
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1415</feat><!-- ه, ها, هذا, أكثر, الذي, كبيراً, هم, نا, عاماً, كل -->
@@ -42,7 +42,8 @@
     <feat name="Definite" value="Def" upos="ADJ,AUX,DET,NOUN,PROPN,VERB">5864</feat><!-- عام, الأول, الخاصة, الوقت, اسم, العديد, القرن, المتحدة, الأمر, البحر -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
     <feat name="ExtPos" value="ADP" upos="ADP,PART">110</feat><!-- من, ب, حتى, ما, ك, ل -->
-    <feat name="ExtPos" value="ADV" upos="ADP,PART">15</feat><!-- ب, على, لا, من -->
+    <feat name="ExtPos" value="ADV" upos="ADP,PART">17</feat><!-- لا, ب, على, من -->
+    <feat name="ExtPos" value="CCONJ" upos="PART">4</feat><!-- غير -->
     <feat name="ExtPos" value="SCONJ" upos="ADP,PART">31</feat><!-- ب, ما, في, كما, إلا, حتى, حيث, غير, بما, لو -->
     <feat name="Foreign" value="Yes" upos="DET,PROPN">2</feat><!-- فيغارو, لو -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">4666</feat><!-- ها, التي, كانت, هذه, الخاصة, هي, المتحدة, كبيرة, الحرب, ذات -->
@@ -79,16 +80,16 @@
     <dep name="acl">34</dep>
     <dep name="acl:relcl">320</dep>
     <dep name="advcl">316</dep>
-    <dep name="advmod">450</dep>
+    <dep name="advmod">452</dep>
     <dep name="amod">1620</dep>
     <dep name="appos">187</dep>
     <dep name="aux">91</dep>
     <dep name="case">3047</dep>
-    <dep name="cc">654</dep>
+    <dep name="cc">758</dep>
     <dep name="cc:preconj">2</dep>
-    <dep name="ccomp">287</dep>
+    <dep name="ccomp">286</dep>
     <dep name="compound">7</dep>
-    <dep name="compound:prt">377</dep>
+    <dep name="compound:prt">273</dep>
     <dep name="conj">661</dep>
     <dep name="cop">95</dep>
     <dep name="csubj">57</dep>
@@ -114,6 +115,6 @@
     <dep name="punct">2226</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">152</dep>
+    <dep name="xcomp">151</dep>
   </deps>
 </treebank>
