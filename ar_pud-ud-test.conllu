@@ -52,7 +52,7 @@
 # text = بالنسبة إلى أولئك الذين يتابعون الانتقال الخاص بوسائل التواصل الاجتماعي في الكابيتول هيل, سيكون الأمر مختلفاً بعض الشيء.
 # original_text = بالنسبة إلى أولئك الذين يتابعون الانتقال الخاص بوسائل التواصل الاجتماعي في الكابيتول هيل, سيكون الأمر مختلفا بعض الشيء.
 # text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=نِسْبَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
 4	أولئك	أُولائِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	20	obl	_	LId=أُولائِكَ_1
@@ -150,7 +150,7 @@
 1	تمول	مَوَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=مَوَّل_1
 2	النفقات	نَفَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj:pass	_	LId=نَفَقَة_1
 3	الجديدة	جَدِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=جَدِيد_1
-4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADP	6	case	_	LId=مِن_1
 5	خلال	خِلَالَ	ADP	IN	_	4	fixed	_	LId=خِلال_1
 6	حساب	حِسَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=حِساب_1
 7	كلينتون	كلِينتُون	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	LId=كلِينْتُون_1
@@ -318,7 +318,7 @@
 15	الطلاب	طَالِب	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	14	nsubj	_	LId=طالِب_1
 16	المحتوى	مُحتَوِي	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	obj	_	LId=مُحْتَوِي_1
 17	العلمي	عِلمِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	amod	_	LId=عِلْمِيّ_1
-18	من	مِن	ADP	IN	_	20	case	_	LId=مِن_1
+18	من	مِن	ADP	IN	ExtPos=ADP	20	case	_	LId=مِن_1
 19	خلال	خِلَالَ	ADP	IN	_	18	fixed	_	LId=خِلال_1
 20	التطبيق	تَطبِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	obl	_	LId=تَطْبِيق_1|SpaceAfter=No
 21	.	.	PUNCT	.	_	14	punct	_	LId=._0
@@ -334,7 +334,7 @@
 3	المعدل	مُعَدَّل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=مُعَدَّل_1
 4	الوطني	وَطَنِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	LId=وَطَنِيّ_1
 5	العام	عَامّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	amod	_	LId=عامّ_1
-6	ب	بِ	ADP	IN	_	9	case	_	SpaceAfter=No
+6	ب	بِ	ADP	IN	ExtPos=ADP	9	case	_	SpaceAfter=No
 7	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	fixed	_	LId=نِسْبَة_1
 8	إلى	إِلَى	ADP	IN	_	6	fixed	_	LId=إِلَى_1
 9	الصف	صَفّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=صَفّ_1
@@ -346,7 +346,7 @@
 15	المعدل	مُعَدَّل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	LId=مُعَدَّل_1
 16	الوطني	وَطَنِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	LId=وَطَنِيّ_1
 17	العام	عَامّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	LId=عامّ_1
-18	ب	بِ	ADP	IN	_	21	case	_	SpaceAfter=No
+18	ب	بِ	ADP	IN	ExtPos=ADP	21	case	_	SpaceAfter=No
 19	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	fixed	_	LId=نِسْبَة_1
 20	إلى	إِلَى	ADP	IN	_	18	fixed	_	LId=إِلَى_1
 21	الصف	صَفّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=صَفّ_1
@@ -640,7 +640,7 @@
 6	أندريه	أَندرِيه	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LId=أَنْدرِيه_1
 7	برايس	رايس	PROPN	NNP	Gender=Masc|Number=Sing	6	flat	_	LId=رايْس_1
 8	الثالث	ثَالِث	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=ثالِث_1|Proper=True
-9	من	مِن	ADP	IN	_	11	case	_	LId=مِن_1
+9	من	مِن	ADP	IN	ExtPos=ADP	11	case	_	LId=مِن_1
 10	خلال	خِلَالَ	ADP	IN	_	9	fixed	_	LId=خِلال_1
 11	ضغط	ضَغط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=ضَغْط_1
 12	وجه	وَجه	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod	_	LId=وَجْه_1|SpaceAfter=No
@@ -837,7 +837,7 @@
 18	,	,	PUNCT	,	_	14	punct	_	LId=,_0
 19	كان	كَان	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كان-ُ_1
 20	الاسم	اِسم	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	19	nsubj	_	LId=ٱِسْم_1
-21	من	مِن	ADP	IN	_	25	case	_	LId=مِن_1
+21	من	مِن	ADP	IN	ExtPos=ADP	25	case	_	LId=مِن_1
 22	بين	بَينَ	ADP	IN	_	21	fixed	_	LId=بَيْنَ_1
 23	أكثر	أَكثَر	DET	PDT	Case=Gen|PronType=Ind	25	det	_	LId=أَكْثَر_2
 24	50	50	NUM	CD	_	25	nummod	_	LId=٥٠_0
@@ -1106,7 +1106,7 @@
 2	المشروع	مَشرُوع	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=مَشْرُوع_1
 3	أموال	مَال	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	LId=مال_1|SpaceAfter=No
 4	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-5	من	مِن	ADP	IN	_	7	case	_	LId=مِن_1
+5	من	مِن	ADP	IN	ExtPos=ADP	7	case	_	LId=مِن_1
 6	خلال	خِلَالَ	ADP	IN	_	5	fixed	_	LId=خِلال_1
 7	عقود	عَقد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=عَقْد_2
 8	الرعاية	رِعَايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	LId=رِعايَة_1
@@ -1130,7 +1130,7 @@
 8	10	10	NUM	CD	_	9	nummod	_	LId=١٠_0
 9	أسابيع	أُسبُوع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	7	nmod	_	LId=أُسْبُوع_1
 10	مصرحة	مُصَرَّح	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Voice=Pass	2	ccomp	_	LId=مُصَرَّح_1
-11	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
+11	من	مِن	ADP	IN	ExtPos=ADP	13	case	_	LId=مِن_1
 12	قبل	قَبلَ	ADP	IN	_	11	fixed	_	LId=قِبَل_1
 13	الوكالة	وِكالَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	obl	_	LId=وِكالَة_1
 14	الاستخبارية	ٱِستِخبارِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=ٱِسْتِخْبارِيّ_1|Proper=True
@@ -1672,7 +1672,7 @@
 24	مدة	مُدَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	LId=مُدَّة_1
 25	ستة	ستة	NUM	CD	Case=Gen|Gender=Fem|Number=Plur	26	nummod	_	LId=سِتّ_1
 26	أشهر	شَهر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	24	nmod	_	LId=شَهْر_1
-27	من	مِن	ADP	IN	_	30	case	_	LId=مِن_1
+27	من	مِن	ADP	IN	ExtPos=ADP	30	case	_	LId=مِن_1
 28	دون	دُونَ	ADP	IN	_	27	fixed	_	LId=دُون_1
 29	أن	أَن	ADP	IN	_	30	mark	_	LId=أَنْ_1
 30	يكون	كَان	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	xcomp	_	LId=كان-ُ_1
@@ -1705,7 +1705,7 @@
 5	لبستنة	بَستَنَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	LId=بَسْتَنَة_1
 6	تعليقات	تَعلِيق	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	1	obj	_	LId=تَعْلِيق_1
 7	أرسلت	أَرسَل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	6	acl:relcl	_	LId=أَرْسَل_1
-8	من	مِن	ADP	IN	_	10	case	_	LId=مِن_1
+8	من	مِن	ADP	IN	ExtPos=ADP	10	case	_	LId=مِن_1
 9	قبل	قَبلَ	ADP	IN	_	8	fixed	_	LId=قِبَل_1
 10	تلاميذ	تِلمِيذ	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	7	obl	_	LId=تِلْمِيذ_1
 11	و	وَ	CCONJ	CC	_	12	cc	_	SpaceAfter=No
@@ -2129,7 +2129,7 @@
 # text = بحسب إدارة شرطة المدينة أن شجاراً نشب بعدما وصل "مجموعة كبيرة من الناس... عرفوا عن أنفسهم بأنهم من السلطات المحلية" إلى موقع التصوير يوم الثلاثاء.
 # original_text = بحسب إدارة شرطة المدينة أن شجارا نشب بعدما وصل "مجموعة كبيرة من الناس... عرفوا عن أنفسهم بأنهم من السلطات المحلية" إلى موقع التصوير يوم الثلاثاء.
 # text_en = According to the city's police department, a fight broke out after "a large group of people... who identified themselves as district authorities" arrived on set on Tuesday.
-1	ب	بِ	ADP	IN	_	3	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	3	case	_	SpaceAfter=No
 2	حسب	حَسَبَ	ADP	IN	_	1	fixed	_	LId=حَسَب_1
 3	إدارة	إِدَارَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	LId=إِدارَة_1
 4	شرطة	شُرطَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	LId=شُرْطَة_1
@@ -2462,7 +2462,7 @@
 # text = بالرغم من نشر صورة هذا الصباح, تقول شرطة بريتيش كولومبيا أن لديهم أسئلة أكثر مما لديهم أجوبة بشأن رجلٍ متشرد اتهم بطعن فتاة مراهقة حتى الموت في مدرستها مدرسة آبوستفورد الثانوية.
 # original_text = بالرغم من نشر صورة هذا الصباح, تقول شرطة بريتيش كولومبيا أن لديهم أسئلة أكثر مما لديهم أجوبة بشأن رجل متشرد اتهم بطعن فتاة مراهقة حتى الموت في مدرستها مدرسة آبوستفورد الثانوية.
 # text_en = Despite the release of a photo this morning, police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen girl at her Abbotsford high school.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	نشر	نَشر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=نَشْر_1
@@ -2745,7 +2745,7 @@
 31	يوماً	يَوم	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	30	obj	_	LId=يَوْم_1
 32	بعد	بَعدَ	ADP	IN	_	33	case	_	LId=بَعْد_1
 33	يوم	يَوم	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	30	obl	_	LId=يَوْم_1
-34	من	مِن	ADP	IN	_	36	case	_	LId=مِن_1
+34	من	مِن	ADP	IN	ExtPos=ADP	36	case	_	LId=مِن_1
 35	خلال	خِلَالَ	ADP	IN	_	34	fixed	_	LId=خِلال_1
 36	الضباب	ضَباب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	30	obl	_	LId=ضَباب_1
 37	الدخاني	دخاني	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	amod	_	LId=دخاني_0
@@ -2976,7 +2976,7 @@
 15	و	و	PART	RP	_	17	compound:prt	_	SpaceAfter=No
 16	هذه	ه`ذا	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	17	nsubj	_	LId=هٰذا_1
 17	كارثة	كَارِثَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	ccomp	_	LId=كارِثَة_1
-18	ب	بِ	ADP	IN	_	21	case	_	SpaceAfter=No
+18	ب	بِ	ADP	IN	ExtPos=ADP	21	case	_	SpaceAfter=No
 19	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	fixed	_	LId=نِسْبَة_1
 20	ل	لِ	ADP	IN	_	18	fixed	_	SpaceAfter=No
 21	لمرضى	مَرِيض	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	LId=مَرِيض_1
@@ -3562,7 +3562,7 @@
 # original_text = لكن من دون إطار تشريعي ومع الفكرة العميقة عن الحشيش كعلاج شعبي لتعديل المزاج, تركت الشركات في حيرة من أمرها.
 # text_en = But without a legislative framework, and with the grassroots origins of pot as a mood-altering folk remedy, companies are left guessing.
 1	لكن	ل`كِن	PART	RP	_	19	compound:prt	_	LId=لٰكِنْ_1
-2	من	مِن	ADP	IN	_	4	case	_	LId=مِن_1
+2	من	مِن	ADP	IN	ExtPos=ADP	4	case	_	LId=مِن_1
 3	دون	دُونَ	ADP	IN	_	2	fixed	_	LId=دُون_1
 4	إطارٍ	إِطار	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	19	obl	_	LId=إِطار_1
 5	تشريعي	تَشرِيعِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	LId=تَشْرِيعِيّ_1
@@ -3833,7 +3833,7 @@
 19	في	فِي	ADP	IN	_	20	case	_	LId=فِي_1
 20	عالم	عَالَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	obl	_	LId=عالَم_1
 21	الأدب	أَدَب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	nmod	_	LId=أَدَب_1
-22	من	مِن	ADP	IN	_	24	case	_	LId=مِن_1
+22	من	مِن	ADP	IN	ExtPos=ADP	24	case	_	LId=مِن_1
 23	خلال	خِلَالَ	ADP	IN	_	22	fixed	_	LId=خِلال_1
 24	قصص	قِصَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	16	obl	_	LId=قِصَّة_1|SpaceAfter=No
 25	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nmod	_	SpaceAfter=No
@@ -4714,7 +4714,7 @@
 16	,	,	PUNCT	,	_	17	punct	_	LId=,_0
 17	مزيلةً	مُزِيل	NOUN	VBN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	5	acl	_	LId=مُزِيل_1
 18	العوائق	عَائِق	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	17	obj	_	LId=عائِق_1
-19	من	مِن	ADP	IN	_	21	case	_	LId=مِن_1
+19	من	مِن	ADP	IN	ExtPos=ADP	21	case	_	LId=مِن_1
 20	أمام	أَمَامَ	ADP	IN	_	19	fixed	_	LId=أَمام_1
 21	أولئك	أُولائِكَ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	obl	_	LId=أُولائِكَ_1
 22	الذين	الَّذِي	PRON	REL	Case=Gen|Gender=Masc|Number=Plur|PronType=Int	23	nsubj	_	LId=الَّذِي_1
@@ -4738,7 +4738,7 @@
 # text = من خلال محادثة وودز عبر البريد الإلكتروني, حاولت أن لأول مرة أن أكشف عن أصول الكلمات.
 # original_text = من خلال محادثة وودز عبر البريد الإلكتروني, حاولت أن لأول مرة أن أكشف عن أصول الكلمات.
 # text_en = Corresponding with Woods by e-mail, I tried my hand at uncovering an etym.
-1	من	مِن	ADP	IN	_	3	case	_	LId=مِن_1
+1	من	مِن	ADP	IN	ExtPos=ADP	3	case	_	LId=مِن_1
 2	خلال	خِلَالَ	ADP	IN	_	1	fixed	_	LId=خِلال_1
 3	محادثة	مُحَادَثَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	obl	_	LId=مُحادَثَة_1
 4	وودز	وودز	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	LId=وودز_0
@@ -4929,7 +4929,7 @@
 14	ينتزع	ٱِنتَزَع	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	LId=ٱِنْتَزَع_1
 15	المقعد	مَقعَد	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	obj	_	LId=مَقْعَد_1
 16	مجدداً	مُجَدَّد	ADV	RB	_	14	advmod	_	LId=مُجَدَّد_1
-17	من	مِن	ADP	IN	_	19	case	_	LId=مِن_1
+17	من	مِن	ADP	IN	ExtPos=ADP	19	case	_	LId=مِن_1
 18	خلال	خِلَالَ	ADP	IN	_	17	fixed	_	LId=خِلال_1
 19	مرشحت	مُرَشَّح	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	obl	_	LId=مُرَشَّح_1|SpaceAfter=No
 20	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	_
@@ -5267,7 +5267,7 @@
 6	إن	إِنَّ	PART	RP	_	8	compound:prt	_	LId=إِنَّ_1|SpaceAfter=No
 7	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	فرصةٌ	فُرصَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	conj	_	LId=فُرْصَة_1
-9	ب	بِ	ADP	IN	_	12	case	_	SpaceAfter=No
+9	ب	بِ	ADP	IN	ExtPos=ADP	12	case	_	SpaceAfter=No
 10	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	fixed	_	LId=نِسْبَة_1
 11	إلي	إِلَى	ADP	IN	_	9	fixed	_	LId=إِلَى_1|SpaceAfter=No
 12	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
@@ -5399,7 +5399,7 @@
 10	هذا	ه`ذا	PRON	PDEM	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	LId=هٰذا_1
 11	س	سَ	PART	RP	_	12	compound:prt	_	SpaceAfter=No
 12	يخفف	خَفَّف	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	LId=خَفَّف_1
-13	من	مِن	ADP	IN	_	15	case	_	LId=مِن_1
+13	من	مِن	ADP	IN	ExtPos=ADP	15	case	_	LId=مِن_1
 14	قبل	قَبلَ	ADP	IN	_	13	fixed	_	LId=قِبَل_1
 15	الرأي	رَأي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=رَأْي_1
 16	العام	عَامّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	amod	_	LId=عامّ_1
@@ -5623,7 +5623,7 @@
 15	يريدون	أَرَاد	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	LId=أَراد_1
 16	مشاهدت	مُشاهِد	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	LId=مُشاهِد_1|SpaceAfter=No
 17	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
-18	من	مِن	ADP	IN	_	20	case	_	LId=مِن_1
+18	من	مِن	ADP	IN	ExtPos=ADP	20	case	_	LId=مِن_1
 19	دون	دُونَ	ADP	IN	_	18	fixed	_	LId=دُون_1|SpaceAfter=No
 20	ي	هُوَ	PRON	PRP	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	1	punct	_	LId=._0
@@ -6508,7 +6508,7 @@
 1	قال	قَال	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=قال-ُ_1
 2	مسؤولٌ	مَسؤُول	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	LId=مَسْؤُول_1
 3	أوروبي	أُورُبِّيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	amod	_	LId=أُورُبِّيّ_1
-4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADP	6	case	_	LId=مِن_1
 5	دون	دُونَ	ADP	IN	_	4	fixed	_	LId=دُون_1
 6	تحديد	تَحدِيد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=تَحْدِيد_1
 7	أعداد	عَدَد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	6	nmod	_	LId=عَدَد_1|SpaceAfter=No
@@ -6646,7 +6646,7 @@
 12	لدي	لَدَى	ADP	IN	_	13	case	_	LId=لَدَى_1|SpaceAfter=No
 13	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
 14	أطفالٌ	طِفل	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur	11	nsubj	_	LId=طِفْل_1
-15	من	مِن	ADP	IN	_	17	case	_	LId=مِن_1
+15	من	مِن	ADP	IN	ExtPos=ADP	17	case	_	LId=مِن_1
 16	خلال	خِلَالَ	ADP	IN	_	15	fixed	_	LId=خِلال_1
 17	رفض	رَفض	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	9	obl	_	LId=رَفْض_1|SpaceAfter=No
 18	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
@@ -6975,7 +6975,7 @@
 4	التدخل	تَدَخُّل	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	LId=تَدَخُّل_1
 5	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dep	_	LId=هُوَ_1
 6	الأوسع	أَوسَع	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	LId=أَوْسَع_2
-7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
+7	من	مِن	ADP	IN	ExtPos=ADP	9	case	_	LId=مِن_1
 8	قبل	قَبلَ	ADP	IN	_	7	fixed	_	LId=قِبَل_1
 9	بكين	بِكِين	PROPN	NNP	Gender=Fem|Number=Sing	6	obl	_	LId=بِكِين_1
 10	منذ	مُنذُ	ADP	IN	_	11	case	_	LId=مُنْذُ_1
@@ -7207,7 +7207,7 @@
 5	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
 6	كل	كُلّ	DET	PDT	Case=Gen|PronType=Tot	7	det	_	LId=كُلّ_1
 7	تأكيد	تَأكِيد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=تَأْكِيد_1
-8	ب	بِ	ADP	IN	_	11	case	_	SpaceAfter=No
+8	ب	بِ	ADP	IN	ExtPos=ADP	11	case	_	SpaceAfter=No
 9	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	fixed	_	LId=نِسْبَة_1
 10	إلى	إِلَى	ADP	IN	_	8	fixed	_	LId=إِلَى_1
 11	آندي	أَندَى	PROPN	NNP	Gender=Masc|Number=Sing	1	obl	_	LId=أَنْدَى_1
@@ -7790,7 +7790,7 @@
 4	تنظيف	تَنظِيف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=تَنْظِيف_1
 5	محيطات	مُحِيط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	LId=مُحِيط_1
 6	الأرض	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	LId=أَرْض_1
-7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
+7	من	مِن	ADP	IN	ExtPos=ADP	9	case	_	LId=مِن_1
 8	خلال	خِلَالَ	ADP	IN	_	7	fixed	_	LId=خِلال_1
 9	استخدام	اِستِخدَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=ٱِسْتِخْدام_1
 10	النفايات	نُفَايَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	9	nmod	_	LId=نُفايَة_1
@@ -8246,7 +8246,7 @@
 17	أجل	أَجل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	obl	_	LId=أَجْل_1
 18	مشاهدت	مُشاهِد	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	LId=مُشاهِد_1|SpaceAfter=No
 19	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
-20	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
+20	من	مِن	ADP	IN	ExtPos=ADP	22	case	_	LId=مِن_1
 21	بعد	بَعدَ	ADP	IN	_	20	fixed	_	LId=بَعْد_1
 22	ظهر	ظُهر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	LId=ظُهْر_1
 23	يوم	يَوم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	LId=يَوْم_1
@@ -8291,7 +8291,7 @@
 # text = بالنسبة إلى الجمهور المعاصر, الذي لا يملك معظمه خبرةً بالجبهات الأمامية من الحروب, تنتمي أعمال دوس إلى عالمٍ لا يمكن تخيله.
 # original_text = بالنسبة إلى الجمهور المعاصر, الذي لا يملك معظمه خبرة بالجبهات الأمامية من الحروب, تنتمي أعمال دوس إلى عالم لا يمكن تخيله.
 # text_en = To modern audiences, most of whom will have little experience of frontline conflict, Doss’s feats belong to the realm of the unimaginable.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=نِسْبَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
 4	الجمهور	جُمهُور	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=جُمْهُور_1
@@ -8654,7 +8654,7 @@
 7	أداؤ	أَداء	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj:pass	_	LId=أَداء_1|SpaceAfter=No
 8	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 9	التنظيمي	تَنظِيمِيّ	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=تَنْظِيمِيّ_1
-10	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
+10	من	مِن	ADP	IN	ExtPos=ADP	12	case	_	LId=مِن_1
 11	خلال	خِلَالَ	ADP	IN	_	10	fixed	_	LId=خِلال_1
 12	مدى	مَدَى	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=مَدَى_1
 13	الأمان	أَمَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	LId=أَمان_1
@@ -8685,14 +8685,14 @@
 9	الإلكتروني	إِلِكترُونِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=إِلِكْترُونِيّ_1
 10	أو	أَو	CCONJ	CC	_	11	cc	_	LId=أَوْ_1
 11	ضغطوا	ضَغَط	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|Voice=Act	5	conj	_	LId=ضَغَط_1
-12	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
+12	من	مِن	ADP	IN	ExtPos=ADP	14	case	_	LId=مِن_1
 13	دون	دُونَ	ADP	IN	_	12	fixed	_	LId=دُون_1
 14	تفكير	تَفكِير	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	LId=تَفْكِير_1
 15	على	عَلَى	ADP	IN	_	16	case	_	LId=عَلَى_1
 16	روابط	رابِطَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	11	obl	_	LId=رابِطَة_1
 17	و	وَ	CCONJ	CC	_	18	cc	_	SpaceAfter=No
 18	مرفقات	مُرفَق	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	16	conj	_	LId=مُرْفَق_1
-19	من	مِن	ADP	IN	_	21	case	_	LId=مِن_1
+19	من	مِن	ADP	IN	ExtPos=ADP	21	case	_	LId=مِن_1
 20	دون	دُونَ	ADP	IN	_	19	fixed	_	LId=دُون_1
 21	التفكير	تَفكِير	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	LId=تَفْكِير_1
 22	في	فِي	ADP	IN	_	23	case	_	LId=فِي_1
@@ -9126,7 +9126,7 @@
 11	جبال	جَبَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	10	nmod	_	LId=جَبَل_1
 12	الديون	دَين	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	LId=دَيْن_1
 13	المتراكمة	مُتَرَاكِم	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	amod	_	LId=مُتَراكِم_1
-14	من	مِن	ADP	IN	_	16	case	_	LId=مِن_1
+14	من	مِن	ADP	IN	ExtPos=ADP	16	case	_	LId=مِن_1
 15	قبل	قَبلَ	ADP	IN	_	14	fixed	_	LId=قِبَل_1
 16	الحكومات	حُكُومَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	12	nmod	_	LId=حُكُومَة_1
 17	المحلية	مَحَلِّيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	amod	_	LId=مَحَلِّيّ_1
@@ -9467,7 +9467,7 @@
 7	في	فِي	ADP	IN	_	8	case	_	LId=فِي_1
 8	شطب	شَطب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=شَطْب_1
 9	الخدمة	خِدمَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	LId=خِدْمَة_1
-10	ب	بِ	ADP	IN	_	13	case	_	SpaceAfter=No
+10	ب	بِ	ADP	IN	ExtPos=ADP	13	case	_	SpaceAfter=No
 11	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	10	fixed	_	LId=نِسْبَة_1
 12	إلى	إِلَى	ADP	IN	_	10	fixed	_	LId=إِلَى_1
 13	الأموات	أَمَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	LId=أَمَة_1|SpaceAfter=No
@@ -9490,7 +9490,7 @@
 9	ل	لِ	ADP	IN	_	10	case	_	SpaceAfter=No
 10	تتبع	تَتَبُّع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=تَتَبُّع_1
 11	الطائرات	طَائِرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	nmod	_	LId=طائِرَة_1
-12	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
+12	من	مِن	ADP	IN	ExtPos=ADP	14	case	_	LId=مِن_1
 13	دون	دُونَ	ADP	IN	_	12	fixed	_	LId=دُون_1
 14	طيار	طَيَّار	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	11	nmod	_	LId=طَيّار_1|SpaceAfter=No
 15	.	.	PUNCT	.	_	4	punct	_	LId=._0
@@ -9610,7 +9610,7 @@
 12	نزعة	نَزعَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	nmod	_	LId=نَزْعَة_1
 13	جماعية	جَمَاعِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	amod	_	LId=جَماعِيّ_1
 14	أكبر	أَكبَر	ADJ	JJR	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	amod	_	LId=أَكْبَر_2
-15	من	مِن	ADP	IN	_	17	case	_	LId=مِن_1
+15	من	مِن	ADP	IN	ExtPos=ADP	17	case	_	LId=مِن_1
 16	قبل	قَبلَ	ADP	IN	_	15	fixed	_	LId=قِبَل_1
 17	شركات	شَرِكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	10	nmod	_	LId=شَرِكَة_1
 18	التكنولوجيا	تِكنُولُوجِيَا	NOUN	NN	Definite=Def|Gender=Fem|Number=Sing	17	nmod	_	LId=تِكْنُولُوجِيا_1|SpaceAfter=No
@@ -9695,7 +9695,7 @@
 9	ل	لِ	ADP	IN	_	10	case	_	Proper=True|SpaceAfter=No
 10	لغولف	غُولف	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod	_	LId=غُولْف_1|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	LId=,_0
-12	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
+12	ب	بِ	ADP	IN	ExtPos=ADP	14	case	_	SpaceAfter=No
 13	حسب	حَسَبَ	ADP	IN	_	12	fixed	_	LId=حَسَب_1
 14	أخبار	خَبَر	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=خَبَر_1
 15	التاسعة	تَاسِع	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	LId=تاسِع_1|Proper=True
@@ -10752,7 +10752,7 @@
 1	تشمل	شَمِل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=شَمِل-َ_1
 2	المشاريع	مَشرُوع	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=مَشْرُوع_1
 3	الراهنة	رَاهِن	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=راهِن_1
-4	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
+4	ل	لِ	ADP	IN	ExtPos=ADP	7	case	_	SpaceAfter=No
 5	استصلاح	اِستِصلَاح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	fixed	_	LId=ٱِسْتِصْلاح_1
 6	الأراضي	أَرض	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nmod	_	LId=أَرْض_1
 7	توسيع	تَوسِيع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=تَوْسِيع_1
@@ -10796,7 +10796,7 @@
 3	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	dep	_	LId=هُوَ_1
 4	الأكثر	أَكثَر	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	LId=أَكْثَر_2
 5	قبولاً	قُبُول	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	LId=قَبُول_1
-6	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
+6	من	مِن	ADP	IN	ExtPos=ADP	9	case	_	LId=مِن_1
 7	بين	بَينَ	ADP	IN	_	6	fixed	_	LId=بَيْنَ_1
 8	جميع	جَمِيع	DET	PDT	Case=Gen	9	det	_	LId=جَمِيع_1
 9	تصنيفات	تَصنِيف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	LId=تَصْنِيف_1
@@ -10810,7 +10810,7 @@
 # text = بالرغم من أن تصنيف الكتل الهوائية استخدم بدايةً في التوقعات الجوية خلال الخمسينيات, بدأ خبراء المناخ بوضع بيانات مناخية إجمالية استناداً إلى هذه الفكرة عام 1973.
 # original_text = بالرغم من أن تصنيف الكتل الهوائية استخدم بداية في التوقعات الجوية خلال الخمسينيات, بدأ خبراء المناخ بوضع بيانات مناخية إجمالية استنادا إلى هذه الفكرة عام 1973.
 # text_en = While air mass identification was originally used in weather forecasting during the 1950s, climatologists began to establish synoptic climatologies based on this idea in 1973.
-1	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	8	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	أن	أَنَّ	SCONJ	IN	_	8	mark	_	LId=أَنَّ_1
@@ -10976,7 +10976,7 @@
 5	الأول	أَوَّل	ADJ	JJ	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	amod	_	LId=أَوَّل_2|Proper=True
 6	(	(	PUNCT	(	_	7	punct	_	LId=(_0|SpaceAfter=No
 7	حكم	حُكم	NOUN	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	advcl	_	LId=حُكْم_1
-8	ما	مَا	PART	RP	_	10	case	_	LId=ما_1
+8	ما	مَا	PART	RP	ExtPos=ADP	10	case	_	LId=ما_1
 9	بين	بَينَ	ADP	IN	_	8	fixed	_	LId=بَيْنَ_1
 10	830	830	NUM	CD	_	7	obl	_	LId=٨٣٠_0|SpaceAfter=No
 11	-	-	PUNCT	-	_	12	punct	_	LId=-_0|SpaceAfter=No
@@ -11015,7 +11015,7 @@
 # text = بالإضافة إلى ذلك, يحدد النظام الأساسي انتخابات مجالس الأقاليم والمناطق الحضرية.
 # original_text = بالإضافة إلى ذلك, يحدد النظام الأساسي انتخابات مجالس الأقاليم والمناطق الحضرية.
 # text_en = In addition, statute determines the election of assembly of regions, and metropolitan districts.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=إِضافَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
 4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
@@ -11037,7 +11037,7 @@
 # text = بالرغم من أن أيسلندا كانت تابعة سياسياً للدنمارك حتى تاريخٍ متقدم (1918), كان تأثير اللغة الدنماركية على اللغة الأيسلندية ضئيلاً جداً والاستعارات منها قليلة.
 # original_text = بالرغم من أن أيسلندا كانت تابعة سياسيا للدنمارك حتى تاريخ متقدم (1918), كان تأثير اللغة الدنماركية على اللغة الأيسلندية ضئيلا جدا والاستعارات منها قليلة.
 # text_en = Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language.
-1	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	7	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	أن	أَنَّ	SCONJ	IN	_	7	mark	_	LId=أَنَّ_1
@@ -11343,7 +11343,7 @@
 9	حسنت	حَسَّن	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=حَسَّن_1
 10	البنية	بِنيَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	LId=بِنْيَة_1
 11	التحتية	تَحتِيّ	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	amod	_	LId=تَحْتِيّ_1
-12	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
+12	من	مِن	ADP	IN	ExtPos=ADP	14	case	_	LId=مِن_1
 13	خلال	خِلَالَ	ADP	IN	_	12	fixed	_	LId=خِلال_1
 14	الاستثمارات	اِستِثمَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	9	obl	_	LId=ٱِسْتِثْمار_2
 15	الكبيرة	كَبِير	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	LId=كَبِير_1
@@ -11475,7 +11475,7 @@
 # text = ما بين حزيران وآب من عام 2010 ضربت المجاعة منطقة الساحل.
 # original_text = ما بين حزيران وآب من عام 2010 ضربت المجاعة منطقة الساحل.
 # text_en = In June to August 2010 famine struck the Sahel.
-1	ما	مَا	PART	RP	_	3	case	_	LId=ما_1
+1	ما	مَا	PART	RP	ExtPos=ADP	3	case	_	LId=ما_1
 2	بين	بَينَ	ADP	IN	_	1	fixed	_	LId=بَيْنَ_1
 3	حزيران	حَزِيران	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	LId=حَزِيران_1
 4	و	وَ	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -11532,7 +11532,7 @@
 6	الاستعمار	اِستِعمَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	conj	_	LId=ٱِسْتِعْمار_1
 7	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	الحروب	حَرب	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	conj	_	LId=حَرْب_1
-9	ب	بِ	ADP	IN	_	12	case	_	SpaceAfter=No
+9	ب	بِ	ADP	IN	ExtPos=ADP	12	case	_	SpaceAfter=No
 10	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	fixed	_	LId=إِضافَة_1
 11	إلى	إِلَى	ADP	IN	_	9	fixed	_	LId=إِلَى_1
 12	الطعام	طَعَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	LId=طَعام_1
@@ -11816,7 +11816,7 @@
 23	الواقعة	وَاقِع	ADJ	VBN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	22	ccomp	_	LId=واقِع_2
 24	جنوب	جَنُوب	ADP	IN	_	25	case	_	LId=جَنُوب_1
 25	دانيفيركه	دانيفيركه	PROPN	NNP	Gender=Fem|Number=Sing	23	obl	_	LId=دانيفيركه_0
-26	من	مِن	ADP	IN	_	28	case	_	LId=مِن_1
+26	من	مِن	ADP	IN	ExtPos=ADP	28	case	_	LId=مِن_1
 27	قبل	قَبلَ	ADP	IN	_	26	fixed	_	LId=قِبَل_1
 28	الجيش	جَيش	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	obl	_	LId=جَيْش_1
 29	الألماني	أَلمَانِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	28	amod	_	LId=أَلْمانِيّ_1
@@ -11901,7 +11901,7 @@
 2	خبر	خَبَر	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	LId=خَبَر_1
 3	الانسحاب	اِنسِحَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	LId=ٱِنْسِحاب_1
 4	صدمةً	صَدمَة	NOUN	NN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	LId=صَدْمَة_1
-5	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
+5	ب	بِ	ADP	IN	ExtPos=ADP	8	case	_	SpaceAfter=No
 6	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	fixed	_	LId=نِسْبَة_1
 7	إلى	إِلَى	ADP	IN	_	5	fixed	_	LId=إِلَى_1
 8	الرأي	رَأي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	LId=رَأْي_1
@@ -12147,7 +12147,7 @@
 # text = بالنسبة إلى اللون, تظهر الأوراق تنوعاً كبيراً في درجات اللون الأخضر, من المائل إلى الصفرة وحتى المائل إلى الزرقة.
 # original_text = بالنسبة إلى اللون, تظهر الأوراق تنوعا كبيرا في درجات اللون الأخضر, من المائل إلى الصفرة وحتى المائل إلى الزرقة.
 # text_en = In color, the leaves show a great variety of greens, ranging from yellowish to bluish.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=نِسْبَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
 4	اللون	لَون	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=لَوْن_1|SpaceAfter=No
@@ -12252,7 +12252,7 @@
 # text = بالرغم من أن مساحتها تبلغ 11% فقط من مساحة أوروبا, تؤمن جبال الألب ما يصل إلى 90% من المياه إلى المناطق الأوروبية المنخفضة, بالأخص إلى المناطق القاحلة وخلال أشهر الصيف.
 # original_text = بالرغم من أن مساحتها تبلغ 11% فقط من مساحة أوروبا, تؤمن جبال الألب ما يصل إلى 90% من المياه إلى المناطق الأوروبية المنخفضة, بالأخص إلى المناطق القاحلة وخلال أشهر الصيف.
 # text_en = Although the area is only about 11 percent of the surface area of Europe, the Alps provide up to 90 percent of water to lowland Europe, particularly to arid areas and during the summer months.
-1	ب	بِ	ADP	IN	_	7	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	7	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	أن	أَنَّ	SCONJ	IN	_	7	mark	_	LId=أَنَّ_1
@@ -12327,7 +12327,7 @@
 1	تستخدم	اِستَخدَم	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=ٱِسْتَخْدَم_1
 2	مياه	مَاء	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	1	nsubj:pass	_	LId=ماء_1
 3	الأنهار	نَهر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod	_	LId=نَهْر_1
-4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADP	6	case	_	LId=مِن_1
 5	قبل	قَبلَ	ADP	IN	_	4	fixed	_	LId=قَبْل_1
 6	أكثر	أَكثَر	ADJ	JJR	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=أَكْثَر_2
 7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
@@ -12705,7 +12705,7 @@
 22	الزراعية	زِرَاعِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	21	amod	_	LId=زِراعِيّ_1
 23	حول	حَولَ	ADP	IN	_	24	case	_	LId=حَوْل_1
 24	العالم	عالَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	21	nmod	_	LId=عالَم_1
-25	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
+25	من	مِن	ADP	IN	ExtPos=ADP	27	case	_	LId=مِن_1
 26	خلال	خِلَالَ	ADP	IN	_	25	fixed	_	LId=خِلال_1
 27	التعرية	تَعرِيَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	nmod	_	LId=تَعْرِيَة_1
 28	و	وَ	CCONJ	CC	_	29	cc	_	SpaceAfter=No
@@ -12764,7 +12764,7 @@
 13	مكانٍ	مَكان	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	LId=مَكان_1
 14	في	فِي	ADP	IN	_	15	case	_	LId=فِي_1
 15	العالم	عالَم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=عالَم_1
-16	من	مِن	ADP	IN	_	18	case	_	LId=مِن_1
+16	من	مِن	ADP	IN	ExtPos=ADP	18	case	_	LId=مِن_1
 17	حيث	حَيثُ	ADP	IN	_	16	fixed	_	LId=حَيْثُ_1
 18	العنف	عُنف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=عُنْف_1
 19	ضد	ضِدَّ	ADP	IN	_	20	case	_	LId=ضِدّ_1
@@ -13008,7 +13008,7 @@
 8	عام	عَام	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	ccomp	_	LId=عام_1
 9	النهر	نَهر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	LId=نَهار_1|SpaceAfter=No
 10	"	"	PUNCT	''	_	8	punct	_	LId="_0
-11	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
+11	من	مِن	ADP	IN	ExtPos=ADP	13	case	_	LId=مِن_1
 12	قبل	قَبلَ	ADP	IN	_	11	fixed	_	LId=قِبَل_1
 13	العمدة	عُمدَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	LId=عُمْدَة_1
 14	اللورد	لُورد	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	13	nmod	_	LId=لُورْد_1
@@ -13334,7 +13334,7 @@
 1	بعد	بَعدَ	ADP	IN	_	2	case	_	LId=بَعْد_1
 2	اكتشاف	اِكتِشَاف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	LId=ٱِكْتِشاف_1
 3	أمريكا	أَمرِيكا	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	LId=أَمْرِيكا_1
-4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADP	6	case	_	LId=مِن_1
 5	قبل	قَبلَ	ADP	IN	_	4	fixed	_	LId=قِبَل_1
 6	كريستوفر	كرِيستُوفَر	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	LId=كرِيسْتُوفَر_1
 7	كولومبوس	كولومبوس	PROPN	NNP	Gender=Masc|Number=Sing	6	flat	_	LId=كولومبوس_0
@@ -13429,7 +13429,7 @@
 24	برزخ	بَرزَخ	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	LId=بَرْزَخ_1
 25	بنما	نَماة	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	nmod	_	LId=نَماة_1|SpaceAfter=No
 26	)	)	PUNCT	)	_	21	punct	_	LId=)_0
-27	ك	كَ	ADP	IN	_	7	case	_	SpaceAfter=No
+27	ك	كَ	ADP	IN	ExtPos=ADP	7	case	_	SpaceAfter=No
 28	مقابل	مُقابِل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	27	fixed	_	LId=مُقابِل_1
 29	ل	لِ	ADP	IN	_	31	case	_	LId=لِ_1|SpaceAfter=No
 30	"	"	PUNCT	``	_	31	punct	_	LId="_0|SpaceAfter=No
@@ -13623,7 +13623,7 @@
 23	لترويج	تَروِيج	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obl	_	LId=تَرْوِيج_1
 24	ل	لِ	ADP	IN	_	25	case	_	SpaceAfter=No
 25	لكتاب	كِتاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	23	nmod	_	LId=كِتاب_1
-26	من	مِن	ADP	IN	_	28	case	_	LId=مِن_1
+26	من	مِن	ADP	IN	ExtPos=ADP	28	case	_	LId=مِن_1
 27	خلال	خِلَالَ	ADP	IN	_	26	fixed	_	LId=خِلال_1
 28	إرسال	إِرسَال	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	23	nmod	_	LId=إِرْسال_1
 29	مخطوطات	مَخطُوط	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	28	nmod	_	LId=مَخْطُوط_1
@@ -14095,7 +14095,7 @@
 5	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	خاض	خَاض	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	ccomp	_	LId=خاض-ُ_1
 7	المعركة	مَعرَكَة	NOUN	NN	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	LId=مَعْرَكَة_1
-8	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
+8	من	مِن	ADP	IN	ExtPos=ADP	12	case	_	LId=مِن_1
 9	دون	دُونَ	ADP	IN	_	8	fixed	_	LId=دُون_1
 10	حتى	حَتَّى	ADP	IN	_	12	mark	_	LId=حَتَّى_1
 11	أن	أَنَّ	SCONJ	IN	_	10	fixed	_	LId=أَنَّ_1
@@ -14393,7 +14393,7 @@
 25	س	سَ	PART	RP	_	26	compound:prt	_	SpaceAfter=No
 26	يكتسب	ٱِكتَسَب	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	conj	_	LId=ٱِكْتَسَب_1
 27	الخلود	خُلُود	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	26	obj	_	LId=خُلُود_1
-28	من	مِن	ADP	IN	_	30	case	_	LId=مِن_1
+28	من	مِن	ADP	IN	ExtPos=ADP	30	case	_	LId=مِن_1
 29	خلال	خِلَالَ	ADP	IN	_	28	fixed	_	LId=خِلال_1
 30	الشعر	شَعر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	26	obl	_	LId=شِعْر_1|SpaceAfter=No
 31	.	.	PUNCT	.	_	3	punct	_	LId=._0
@@ -14665,7 +14665,7 @@
 9	الشيوخ	شَيخ	PROPN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	LId=شَيْخ_1
 10	و	وَ	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 11	الدولة	دَولَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	conj	_	LId=دَوْلَة_1
-12	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
+12	من	مِن	ADP	IN	ExtPos=ADP	14	case	_	LId=مِن_1
 13	دون	دُونَ	ADP	IN	_	12	fixed	_	LId=دُون_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 15	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
@@ -15058,7 +15058,7 @@
 # text = بالإضافة إلى ذلك, عزز الدفاعات بين مصر وآسيا, مشيداً أسوار الحاكم في منطقة شرق الدلتا.
 # original_text = بالإضافة إلى ذلك, عزز الدفاعات بين مصر وآسيا, مشيدا أسوار الحاكم في منطقة شرق الدلتا.
 # text_en = In addition, he strengthened defenses between Egypt and Asia, building the Walls of the Ruler in the East Delta region.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	LId=إِضافَة_1
 3	إلى	إِلَى	ADP	IN	_	1	fixed	_	LId=إِلَى_1
 4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
@@ -15109,7 +15109,7 @@
 # text = بالرغم من ذلك, يبدو أن كليهما سيطر على أجزاءٍ على الأقل من مصر السفلى.
 # original_text = بالرغم من ذلك, يبدو أن كليهما سيطر على أجزاء على الأقل من مصر السفلى.
 # text_en = Despite this, they both seem to have held at least parts of lower Egypt.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
@@ -15211,7 +15211,7 @@
 2	ينظر	نَظَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=نَظَر-ُ_1
 3	إلى	إِلَى	ADP	IN	_	4	case	_	LId=إِلَى_1
 4	كارلوس	كارلُوس	PROPN	NNP	Gender=Masc|Number=Sing	2	obl	_	LId=كارْلُوس_1
-5	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
+5	ب	بِ	ADP	IN	ExtPos=ADP	8	case	_	SpaceAfter=No
 6	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	LId=رَغْم_1
 7	من	مِن	ADP	IN	_	5	fixed	_	LId=مِن_1
 8	أفعال	فِعل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	LId=فِعْل_1|SpaceAfter=No
@@ -15471,7 +15471,7 @@
 21	المرجح	مُرَجِّح	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	20	obj	_	LId=مُرَجِّح_1
 22	أن	أَن	ADP	IN	_	23	mark	_	LId=أَنْ_1
 23	تكون	كان	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	csubj	_	LId=كان-ُ_1
-24	من	مِن	ADP	IN	_	26	case	_	LId=مِن_1
+24	من	مِن	ADP	IN	ExtPos=ADP	26	case	_	LId=مِن_1
 25	قبيل	قُبَيلَ	ADP	IN	_	24	fixed	_	LId=قَبِيل_1
 26	الصدفة	صُدفَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	23	obl	_	LId=صُدْفَة_1|SpaceAfter=No
 27	,	,	PUNCT	,	_	30	punct	_	LId=,_0
@@ -15516,7 +15516,7 @@
 9	الجزيرة	جَزِيرَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nsubj:pass	_	LId=جَزِيرَة_1
 10	إلى	إِلَى	ADP	IN	_	11	case	_	LId=إِلَى_1
 11	قسمين	قِسم	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Dual	7	obl	_	LId=قِسْم_1
-12	من	مِن	ADP	IN	_	14	case	_	LId=مِن_1
+12	من	مِن	ADP	IN	ExtPos=ADP	14	case	_	LId=مِن_1
 13	قبل	قَبلَ	ADP	IN	_	12	fixed	_	LId=قِبَل_1
 14	الرومان	رُومان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	LId=رُومان_1
 15	ل	لِ	ADP	IN	_	16	case	_	SpaceAfter=No
@@ -15697,7 +15697,7 @@
 # text = بالرغم من أن رواية "جين بينغ مي", التي صدرت عام 1610, تتضمن مواد سابقة, فهي تظهر النزعة نحو التكوين المستقل والاهتمام بالسيكولوجيا.
 # original_text = بالرغم من أن رواية "جين بينغ مي", التي صدرت عام 1610, تتضمن مواد سابقة, فهي تظهر النزعة نحو التكوين المستقل والاهتمام بالسيكولوجيا.
 # text_en = Jin Ping Mei, published in 1610, although incorporating earlier material, marks the trend toward independent composition and concern with psychology.
-1	ب	بِ	ADP	IN	_	17	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	17	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	أن	أَنَّ	SCONJ	IN	_	17	mark	_	LId=أَنَّ_1
@@ -15843,7 +15843,7 @@
 8	ل	لِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	إهدار	إِهدَار	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	LId=إِهْدار_1
 10	مكاسب	مَكسَب	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	9	nmod	_	LId=مَكْسَب_1
-11	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
+11	من	مِن	ADP	IN	ExtPos=ADP	13	case	_	LId=مِن_1
 12	قبل	قَبلَ	ADP	IN	_	11	fixed	_	LId=قِبَل_1
 13	تمردٍ	تَمَرُّد	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	LId=تَمَرُّد_1
 14	ما	ما	PRON	WP	Case=Gen|PronType=Int	13	amod	_	LId=ما_1|SpaceAfter=No
@@ -16235,7 +16235,7 @@
 23	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	24	cop	_	LId=كان-ُ_1
 24	محمياً	مَحمِيّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	16	xcomp	_	LId=مَحْمِيّ_1
 25	جيداً	جَيِّد	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	24	amod	_	LId=جَيِّد_1
-26	من	مِن	ADP	IN	_	28	case	_	LId=مِن_1
+26	من	مِن	ADP	IN	ExtPos=ADP	28	case	_	LId=مِن_1
 27	قبل	قَبلَ	ADP	IN	_	26	fixed	_	LId=قِبَل_1
 28	قوات	قُوَّة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	24	obl	_	LId=قُوَّة_1
 29	مشتركة	مُشتَرَك	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	28	amod	_	LId=مُشْتَرَك_1
@@ -16507,7 +16507,7 @@
 6	بعد	بَعدَ	ADP	IN	_	7	case	_	LId=بَعْد_1
 7	احتلال	اِحتِلَال	NOUN	VBG	Case=Gen|Definite=Def|Gender=Masc	1	obl	_	LId=ٱِحْتِلال_1|SpaceAfter=No
 8	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-9	من	مِن	ADP	IN	_	11	case	_	LId=مِن_1
+9	من	مِن	ADP	IN	ExtPos=ADP	11	case	_	LId=مِن_1
 10	قبل	قَبلَ	ADP	IN	_	9	fixed	_	LId=قِبَل_1
 11	الجيش	جَيش	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=جَيْش_1
 12	الأمريكي	أَمرِيكِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	amod	_	LId=أَمْرِيكِيّ_1|SpaceAfter=No
@@ -16743,7 +16743,7 @@
 5	,	,	PUNCT	,	_	7	punct	_	LId=,_0
 6	اللذان	الَّذِي	PRON	REL	Case=Nom|Gender=Masc|Number=Dual	7	nsubj:pass	_	Gloss=who|LId=الَّذِي_1
 7	زرعا	زَرَع	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Dual|Person=2|Tense=Past|Voice=Pass	1	acl:relcl	_	Gloss=planted|LId=زَرَع-َ_1
-8	من	مِن	ADP	IN	_	10	case	_	LId=مِن_1
+8	من	مِن	ADP	IN	ExtPos=ADP	10	case	_	LId=مِن_1
 9	قبل	قَبلَ	ADP	IN	_	8	fixed	_	LId=قِبَل_1
 10	الإنسان	إِنسَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	LId=إِنْسان_1
 11	ل	لِ	ADP	IN	_	12	case	_	SpaceAfter=No
@@ -16814,7 +16814,7 @@
 6	في	فِي	ADP	IN	_	7	case	_	LId=فِي_1
 7	مبادئ	مَبدَأ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	LId=مَبْدَأ_1
 8	العمل	عَمَل	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	LId=عَمَل_1
-9	ب	بِ	ADP	IN	_	11	case	_	SpaceAfter=No
+9	ب	بِ	ADP	IN	ExtPos=ADP	11	case	_	SpaceAfter=No
 10	وساطة	وِسَاطَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	fixed	_	LId=وِساطَة_1
 11	الأسكتلندي	إِسكُتلَندِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=إِسْكُتْلَنْدِيّ_2
 12	جيمس	جِيمس	PROPN	NNP	Gender=Masc|Number=Sing	11	appos	_	LId=جِيمس_1
@@ -17627,7 +17627,7 @@
 17	يمنح	مَنَح	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	conj	_	LId=مَنَح-َ_1
 18	جوائز	جَائِزَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	17	nsubj:pass	_	LId=جائِزَة_1
 19	رسمية	رَسمِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	18	amod	_	LId=رَسْمِيّ_1
-20	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
+20	من	مِن	ADP	IN	ExtPos=ADP	22	case	_	LId=مِن_1
 21	دون	دُونَ	ADP	IN	_	20	fixed	_	LId=دُون_1
 22	موافقت	مُوافَقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	LId=مُوافَقَة_1|SpaceAfter=No
 23	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	_	_
@@ -17659,7 +17659,7 @@
 17	على	عَلَى	ADP	IN	_	18	case	_	LId=عَلَى_1
 18	الهيروين	هِيرُوِين	NOUN	NN	Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=هِيرُوِين_1|SpaceAfter=No
 19	,	,	PUNCT	,	_	23	punct	_	LId=,_0
-20	ب	بِ	ADP	IN	_	23	case	_	SpaceAfter=No
+20	ب	بِ	ADP	IN	ExtPos=ADP	23	case	_	SpaceAfter=No
 21	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	20	fixed	_	LId=إِضافَة_1
 22	إلى	إِلَى	ADP	IN	_	20	fixed	_	LId=إِلَى_1
 23	تراجع	تَرَاجُع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=تَراجُع_1|SpaceAfter=No
@@ -17779,7 +17779,7 @@
 # text = من خلال استخدام الهوائي ثنائي القطب لتحقيق دقة زاوية كبيرة, يتيح نظام التحكم الأرضي لمشغلي الرادار الأرضي الذين يراقبون شاشاتٍ دقيقة خاصة أن يوجهوا طائرةً خلال هبوطها على المدرج من خلال بث أوامر شفهية إلى الطيار.
 # original_text = من خلال استخدام الهوائي ثنائي القطب لتحقيق دقة زاوية كبيرة, يتيح نظام التحكم الأرضي لمشغلي الرادار الأرضي الذين يراقبون شاشات دقيقة خاصة أن يوجهوا طائرة خلال هبوطها على المدرج من خلال بث أوامر شفهية إلى الطيار.
 # text_en = Using Alvarez's dipole antenna to achieve a very high angular resolution, GCA allows ground-based radar operators watching special precision displays to guide a landing airplane to the runway by transmitting verbal commands to the pilot.
-1	من	مِن	ADP	IN	_	3	case	_	LId=مِن_1
+1	من	مِن	ADP	IN	ExtPos=ADP	3	case	_	LId=مِن_1
 2	خلال	خِلَالَ	ADP	IN	_	1	fixed	_	LId=خِلال_1
 3	استخدام	اِستِخدَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obl	_	LId=ٱِسْتِخْدام_1
 4	الهوائي	هَوائِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=هَوائِيّ_2
@@ -17812,7 +17812,7 @@
 31	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	nmod	_	_
 32	على	عَلَى	ADP	IN	_	33	case	_	LId=عَلَى_1
 33	المدرج	مُدَرَّج	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	30	nmod	_	LId=مُدَرَّج_1
-34	من	مِن	ADP	IN	_	36	case	_	LId=مِن_1
+34	من	مِن	ADP	IN	ExtPos=ADP	36	case	_	LId=مِن_1
 35	خلال	خِلَالَ	ADP	IN	_	34	fixed	_	LId=خِلال_1
 36	بث	بَثّ	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	27	obl	_	LId=بَثّ_1
 37	أوامر	أَمر	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	36	nmod	_	LId=أَمْر_2
@@ -17837,7 +17837,7 @@
 8	ب	بِ	ADP	IN	_	9	case	_	SpaceAfter=No
 9	كفاءة	كَفَاءَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	LId=كَفاءَة_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	_	LId=,_0
-11	حتى	حَتَّى	ADP	IN	_	13	case	_	LId=حَتَّى_1
+11	حتى	حَتَّى	ADP	IN	ExtPos=ADP	13	case	_	LId=حَتَّى_1
 12	مع	مَعَ	ADP	IN	_	11	fixed	_	LId=مَع_1
 13	الطيارين	طَيَّار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	obl	_	LId=طَيّار_1
 14	غير	غَير	PART	RP	Polarity=Neg	15	advmod	_	LId=غَيْر_1
@@ -18478,7 +18478,7 @@
 # text = من خلال إعلانٍ عن وظيفة وجدته شقيقته في جريدة "ذا سكوتسمان", عمل لمدة عامٍ ونصف كمحرر صحفي في جريدة "نوتينغهام جورنال".
 # original_text = من خلال إعلان عن وظيفة وجدته شقيقته في جريدة "ذا سكوتسمان", عمل لمدة عام ونصف كمحرر صحفي في جريدة "نوتينغهام جورنال".
 # text_en = Following a job advertisement found by his sister in The Scotsman, he worked for a year and a half as a staff journalist on the Nottingham Journal.
-1	من	مِن	ADP	IN	_	3	case	_	LId=مِن_1
+1	من	مِن	ADP	IN	ExtPos=ADP	3	case	_	LId=مِن_1
 2	خلال	خِلَالَ	ADP	IN	_	1	fixed	_	LId=خِلال_1
 3	إعلانٍ	إِعلان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	LId=إِعْلان_1
 4	عن	عَن	ADP	IN	_	3	case	_	LId=عَن_1
@@ -18795,7 +18795,7 @@
 19	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
 20	الإنساني	إِنسَانِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	amod	_	LId=إِنْسانِيّ_1|SpaceAfter=No
 21	,	,	PUNCT	,	_	24	punct	_	LId=,_0
-22	حتى	حَتَّى	ADP	IN	_	24	case	_	LId=حَتَّى_3
+22	حتى	حَتَّى	ADP	IN	ExtPos=ADP	24	case	_	LId=حَتَّى_3
 23	بعد	بَعدَ	ADP	IN	_	22	fixed	_	LId=بَعْد_1
 24	انتهاء	اِنتِهَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	obl	_	LId=ٱِنْتِهاء_1
 25	الحكم	حُكم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	nmod	_	LId=حُكْم_1
@@ -19150,7 +19150,7 @@
 12	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
 13	الاستثمارات	اِستِثمَار	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	11	nmod	_	LId=ٱِسْتِثْمار_2
 14	السيئة	سَيِّئ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=سَيِّء_1
-15	من	مِن	ADP	IN	_	17	case	_	LId=مِن_1
+15	من	مِن	ADP	IN	ExtPos=ADP	17	case	_	LId=مِن_1
 16	قبل	قَبلَ	ADP	IN	_	15	fixed	_	LId=قِبَل_1
 17	مستثمري	مُستَثمِر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	13	nmod	_	LId=مُسْتَثْمِر_1|SpaceAfter=No
 18	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nmod	_	_
@@ -19681,7 +19681,7 @@
 # text = من خلال جدته, كان ميشيما ينحدر مباشرةً من سلالة توكوغاوا إيه-ياسو.
 # original_text = من خلال جدته, كان ميشيما ينحدر مباشرة من سلالة توكوغاوا إيه-ياسو.
 # text_en = Through his grandmother, Mishima was a direct descendant of Tokugawa Ieyasu.
-1	من	مِن	ADP	IN	_	3	case	_	LId=مِن_1
+1	من	مِن	ADP	IN	ExtPos=ADP	3	case	_	LId=مِن_1
 2	خلال	خِلَالَ	ADP	IN	_	1	fixed	_	LId=خِلال_1
 3	جدت	جِدَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	LId=جِدَّة_1|SpaceAfter=No
 4	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	SpaceAfter=No
@@ -20069,7 +20069,7 @@
 17	الحدود	حَدّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	nmod	_	LId=حَدّ_2
 18	نحو	نَحوَ	ADP	IN	_	19	case	_	LId=نَحْو_1
 19	تشيكوسلوفاكيا	تشِيكُوسلُوفاكِيا	PROPN	NNP	Gender=Fem|Number=Sing	16	nmod	_	LId=تشِيكُوسْلُوفاكِيا_1
-20	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
+20	من	مِن	ADP	IN	ExtPos=ADP	22	case	_	LId=مِن_1
 21	دون	دُونَ	ADP	IN	_	20	fixed	_	LId=دُون_1
 22	التوقف	تَوَقُّف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	LId=تَوَقُّف_1
 23	عند	عِندَ	ADP	IN	_	24	case	_	LId=عِنْد_1
@@ -21434,7 +21434,7 @@
 40	العقوبات	عُقُوبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	38	nmod	_	LId=عُقُوبَة_1
 41	على	عَلَى	ADP	IN	_	42	case	_	LId=عَلَى_1
 42	روسيا	رُوسِيا	PROPN	NNP	Gender=Fem|Number=Sing	40	nmod	_	LId=رُوسِيا_1
-43	ب	بِ	ADP	IN	_	46	case	_	SpaceAfter=No
+43	ب	بِ	ADP	IN	ExtPos=ADP	46	case	_	SpaceAfter=No
 44	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	43	fixed	_	LId=إِضافَة_1
 45	إلى	إِلَى	ADP	IN	_	43	fixed	_	LId=إِلَى_1
 46	سداد	سَدَاد	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	22	nmod	_	LId=سَداد_1
@@ -21757,7 +21757,7 @@
 4	شكل	شَكَّل	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=شَكَّل_1
 5	نهائي	نِهَائِيّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	LId=نِهائِيّ_2
 6	الموسم	مَوسِم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=مَوْسِم_1
-7	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
+7	ب	بِ	ADP	IN	ExtPos=ADP	10	case	_	SpaceAfter=No
 8	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	fixed	_	LId=نِسْبَة_1
 9	إلى	إِلَى	ADP	IN	_	7	fixed	_	LId=إِلَى_1
 10	كيربر	كيربر	PROPN	NNP	Gender=Masc|Number=Sing	11	nmod	_	LId=كيربر_0
@@ -21897,7 +21897,7 @@
 # original_text = سئلت من قبل الضباط بطريقتهم البلهاء الفريدة ما إذا كنت أعرف الكاتب غونتر دي بروين وما إذا كنا قريبين فكريا.
 # text_en = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
 1	سئلت	سَأَل	VERB	VBC	Aspect=Perf|Number=Sing|Person=1|Tense=Past|Voice=Pass	0	root	_	LId=سَأَل-َ_1
-2	من	مِن	ADP	IN	_	4	case	_	LId=مِن_1
+2	من	مِن	ADP	IN	ExtPos=ADP	4	case	_	LId=مِن_1
 3	قبل	قَبلَ	ADP	IN	_	2	fixed	_	LId=قِبَل_1
 4	الضباط	ضَابِط	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=ضابِط_2
 5	ب	بِ	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -21999,7 +21999,7 @@
 4	المشكلة	مُشكِلَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	LId=مُشْكِلَة_1
 5	قد	قَد	PART	RP	_	6	compound:prt	_	LId=قَدْ_1
 6	انتهت	اِنتَهَى	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=ٱِنْتَهَى_1
-7	ب	بِ	ADP	IN	_	10	case	_	SpaceAfter=No
+7	ب	بِ	ADP	IN	ExtPos=ADP	10	case	_	SpaceAfter=No
 8	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	fixed	_	LId=نِسْبَة_1
 9	إلى	إِلَى	ADP	IN	_	7	fixed	_	LId=إِلَى_1
 10	باروسو	باروسو	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	LId=باروسو_0|SpaceAfter=No
@@ -22044,7 +22044,7 @@
 # text = من خلال الاتفاق بين عون والحريري, حدث تقاربٌ بين التحالفين المتخاصمين في الوقت الحاضر.
 # original_text = من خلال الاتفاق بين عون والحريري, حدث تقارب بين التحالفين المتخاصمين في الوقت الحاضر.
 # text_en = For the time being, the deal between Aoun and Hariri has brought the two enemy factions closer together.
-1	من	مِن	ADP	IN	_	3	case	_	LId=مِن_1
+1	من	مِن	ADP	IN	ExtPos=ADP	3	case	_	LId=مِن_1
 2	خلال	خِلَالَ	ADP	IN	_	1	fixed	_	LId=خِلال_1
 3	الاتفاق	اِتِّفَاق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	LId=ٱِتِّفاق_1
 4	بين	بَينَ	ADP	IN	_	5	case	_	LId=بَيْنَ_1
@@ -22551,7 +22551,7 @@
 10	367	367	NUM	CD	_	11	nummod	_	LId=٣٦٧_0
 11	نائباً	نَائِب	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	LId=نائِب_1
 12	(	(	PUNCT	(	_	15	punct	_	LId=(_0|SpaceAfter=No
-13	من	مِن	ADP	IN	_	15	case	_	LId=مِن_1
+13	من	مِن	ADP	IN	ExtPos=ADP	15	case	_	LId=مِن_1
 14	بين	بَينَ	ADP	IN	_	13	fixed	_	LId=بَيْنَ_1
 15	550	550	NUM	CD	_	11	nmod	_	LId=٥٥٠_0|SpaceAfter=No
 16	)	)	PUNCT	)	_	15	punct	_	LId=)_0|SpaceAfter=No
@@ -22708,7 +22708,7 @@
 14	يمكن	أَمكَن	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=أَمْكَن_1
 15	حل	حِلّ	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	LId=حِلّ_1|SpaceAfter=No
 16	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
-17	من	مِن	ADP	IN	_	19	case	_	LId=مِن_1
+17	من	مِن	ADP	IN	ExtPos=ADP	19	case	_	LId=مِن_1
 18	دون	دُونَ	ADP	IN	_	17	fixed	_	LId=دُون_1
 19	نزاعات	نِزَاع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	15	nmod	_	LId=نِزاع_1|SpaceAfter=No
 20	.	.	PUNCT	.	_	14	punct	_	LId=._0
@@ -22857,7 +22857,7 @@
 15	المنجزة	منجزه	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=منجزه_0
 16	فعلاً	فِعل	ADV	RB	_	15	advmod	_	LId=فِعْل_1|SpaceAfter=No
 17	,	,	PUNCT	,	_	20	punct	_	LId=,_0
-18	من	مِن	ADP	IN	_	20	case	_	LId=مِن_1
+18	من	مِن	ADP	IN	ExtPos=ADP	20	case	_	LId=مِن_1
 19	دون	دُونَ	ADP	IN	_	18	fixed	_	LId=دُون_1
 20	التمكن	تَمَكُّن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=تَمَكُّن_1
 21	من	مِن	ADP	IN	_	22	case	_	LId=مِن_1
@@ -23174,7 +23174,7 @@
 3	تقديم	تَقدِيم	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	LId=تَقْدِيم_1
 4	500	500	NUM	CD	_	5	nummod	_	LId=٥٠٠_0
 5	يورو	يُورُو	NOUN	NN	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	LId=يُورُو_1
-6	من	مِن	ADP	IN	_	8	case	_	LId=مِن_1
+6	من	مِن	ADP	IN	ExtPos=ADP	8	case	_	LId=مِن_1
 7	قبل	قَبلَ	ADP	IN	_	6	fixed	_	LId=قِبَل_1
 8	الدول	دَولَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	LId=دَوْلَة_1
 9	ل	لِ	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -23532,7 +23532,7 @@
 14	قراءة	قِرَاءَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	LId=قِراءَة_1
 15	الأفكار	فِكر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	14	nmod	_	LId=فِكْر_1|SpaceAfter=No
 16	"	"	PUNCT	''	_	14	punct	_	LId="_0
-17	من	مِن	ADP	IN	_	19	case	_	LId=مِن_1
+17	من	مِن	ADP	IN	ExtPos=ADP	19	case	_	LId=مِن_1
 18	خلال	خِلَالَ	ADP	IN	_	17	fixed	_	LId=خِلال_1
 19	المساعدة	مُساعَدَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	nmod	_	LId=مُساعَدَة_1
 20	على	عَلَى	ADP	IN	_	21	case	_	LId=عَلَى_1
@@ -23630,7 +23630,7 @@
 4	أكبر	أَكبَر	ADJ	JJR	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=أَكْبَر_2
 5	شركة	شَرِكَة	NOUN	NN	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	4	obl	_	LId=شَرِكَة_1
 6	أمريكية	أَمرِيكِيّ	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	LId=أَمْرِيكِيّ_1
-7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
+7	من	مِن	ADP	IN	ExtPos=ADP	9	case	_	LId=مِن_1
 8	حيث	حَيثُ	ADP	IN	_	7	fixed	_	LId=حَيْثُ_1
 9	القيمة	قِيمَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	LId=قِيمَة_1
 10	السوقية	سُوقِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	amod	_	LId=سُوقِيّ_1|SpaceAfter=No
@@ -23661,7 +23661,7 @@
 13	يحضرون	حَضَر	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=حَضَر-ُ_1
 14	اجتماعاً	اِجتِمَاع	NOUN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	13	obj	_	LId=ٱِجْتِماع_1
 15	خاصاً	خَاصّ	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	14	amod	_	LId=خاصّ_1
-16	ب	بِ	ADP	IN	_	19	case	_	SpaceAfter=No
+16	ب	بِ	ADP	IN	ExtPos=ADP	19	case	_	SpaceAfter=No
 17	الإضافة	إِضَافَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	16	fixed	_	LId=إِضافَة_1
 18	إلى	إِلَى	ADP	IN	_	16	fixed	_	LId=إِلَى_1
 19	قمة	قِمَّة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	obl	_	LId=قِمَّة_1
@@ -23899,7 +23899,7 @@
 # text = بالرغم منهم, لم يفهم الكل في الحزب الرسائل التي حاول الرئيس توجيهها إليهم بالأمس.
 # original_text = بالرغم منهم, لم يفهم الكل في الحزب الرسائل التي حاول الرئيس توجيهها إليهم بالأمس.
 # text_en = In spite of them, not everyone in the party understood the messages that the president tried to send to them yesterday.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1|SpaceAfter=No
 4	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obl	_	SpaceAfter=No
@@ -23999,13 +23999,13 @@
 6	:	:	PUNCT	:	_	13	punct	_	LId=:_0
 7	"	"	PUNCT	``	_	13	punct	_	LId="_0|SpaceAfter=No
 8	المهرج	مُهَرِّج	NOUN	NN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	nsubj	_	LId=مُهَرِّج_1
-9	ب	بِ	ADP	IN	_	12	case	_	SpaceAfter=No
+9	ب	بِ	ADP	IN	ExtPos=ADP	12	case	_	SpaceAfter=No
 10	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	fixed	_	LId=نِسْبَة_1
 11	إلى	إِلَى	ADP	IN	_	9	fixed	_	LId=إِلَى_1
 12	الإنسانية	إِنسانِيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	LId=إِنْسانِيَّة_1
 13	ك	كَ	ADP	IN	_	1	ccomp	_	SpaceAfter=No
 14	الظل	ظِلّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	13	obj	_	LId=ظِلّ_1
-15	ب	بِ	ADP	IN	_	18	case	_	SpaceAfter=No
+15	ب	بِ	ADP	IN	ExtPos=ADP	18	case	_	SpaceAfter=No
 16	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	fixed	_	LId=نِسْبَة_1
 17	إلى	إِلَى	ADP	IN	_	15	fixed	_	LId=إِلَى_1
 18	الإنسان	إِنسَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	LId=إِنْسان_1|SpaceAfter=No
@@ -24612,7 +24612,7 @@
 8	لترفيه	تَرفِيه	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	LId=تَرْفِيه_1
 9	و	وَ	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	الاستجمام	ٱِستِجمام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	conj	_	LId=ٱِسْتِجْمام_1
-11	ب	بِ	ADP	IN	_	14	case	_	SpaceAfter=No
+11	ب	بِ	ADP	IN	ExtPos=ADP	14	case	_	SpaceAfter=No
 12	النسبة	نِسبَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	fixed	_	LId=نِسْبَة_1
 13	إلى	إِلَى	ADP	IN	_	11	fixed	_	LId=إِلَى_1
 14	سكان	ساكِن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	nmod	_	LId=ساكِن_1
@@ -24746,7 +24746,7 @@
 18	العبء	عِبء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	LId=عِبْء_1
 19	عن	عَن	ADP	IN	_	20	case	_	LId=عَن_1
 20	البوسفور	بُوسفُور	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	LId=بُوسْفُور_1
-21	من	مِن	ADP	IN	_	23	case	_	LId=مِن_1
+21	من	مِن	ADP	IN	ExtPos=ADP	23	case	_	LId=مِن_1
 22	خلال	خِلَالَ	ADP	IN	_	21	fixed	_	LId=خِلال_1
 23	إنشاء	إِنشَاء	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	LId=إِنْشاء_1
 24	قناة	قَناة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	23	nmod	_	LId=قَناة_1
@@ -25186,7 +25186,7 @@
 12	معاملة	مُعَامَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	LId=مُعامَلَة_1
 13	مملكتي	مَملَكَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Dual	12	nmod	_	LId=مَمْلَكَة_1|SpaceAfter=No
 14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	_
-15	من	مِن	ADP	IN	_	17	case	_	LId=مِن_1
+15	من	مِن	ADP	IN	ExtPos=ADP	17	case	_	LId=مِن_1
 16	دون	دُونَ	ADP	IN	_	15	fixed	_	LId=دُون_1
 17	تمييز	تَميِيز	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	4	obl	_	LId=تَمْيِيز_1|SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	_	LId=._0
@@ -25242,7 +25242,7 @@
 8	حرب	حَرب	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	LId=حَرْب_1
 9	الثلاثين	الثلاثين	NUM	CD	Case=Gen|Gender=Fem|Number=Plur	10	nummod	_	LId=ثَلاثُون_1|Proper=True
 10	عاماً	عامّ	PROPN	NN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	LId=عامّ_1
-11	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
+11	من	مِن	ADP	IN	ExtPos=ADP	13	case	_	LId=مِن_1
 12	قبل	قَبلَ	ADP	IN	_	11	fixed	_	LId=قِبَل_1
 13	القوات	قُوَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	LId=قُوَّة_1
 14	السويدية	سوِيدِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	13	amod	_	LId=سُوِيدِيّ_1|SpaceAfter=No
@@ -25929,7 +25929,7 @@
 # text_en = Trade was developed by establishing commercial outposts throughout the Mediterranean, a technique that had not been used until then.
 1	طورت	طَوَّر	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LId=طَوَّر_1
 2	التجارة	تِجَارَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj:pass	_	LId=تِجارَة_1
-3	من	مِن	ADP	IN	_	5	case	_	LId=مِن_1
+3	من	مِن	ADP	IN	ExtPos=ADP	5	case	_	LId=مِن_1
 4	خلال	خِلَالَ	ADP	IN	_	3	fixed	_	LId=خِلال_1
 5	إنشاء	إِنشَاء	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	LId=إِنْشاء_1
 6	مواقع	مَوقِع	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur	5	nmod	_	LId=مَوْقِع_1
@@ -26144,7 +26144,7 @@
 23	طالباً	طَالِب	ADJ	VBN	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	16	ccomp	_	LId=طالِب_3
 24	دعم	دَعم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	23	obj	_	LId=دَعْم_1|SpaceAfter=No
 25	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	_	_
-26	من	مِن	ADP	IN	_	28	case	_	LId=مِن_1
+26	من	مِن	ADP	IN	ExtPos=ADP	28	case	_	LId=مِن_1
 27	دون	دُونَ	ADP	IN	_	26	fixed	_	LId=دُون_1
 28	جدوى	جَدوَى	NOUN	NN	Definite=Ind|Gender=Fem|Number=Sing	23	obl	_	LId=جَدْوَى_1|SpaceAfter=No
 29	.	.	PUNCT	.	_	15	punct	_	LId=._0
@@ -26797,7 +26797,7 @@
 22	أن	أَن	ADP	IN	_	29	mark	_	LId=أَنْ_1
 23	وليفيا	لِيفِيّ	PROPN	NNP	Gender=Fem|Number=Sing	29	nsubj:pass	_	LId=لِيفِيّ_1|SpaceAfter=No
 24	,	,	PUNCT	,	_	27	punct	_	LId=,_0
-25	من	مِن	ADP	IN	_	27	case	_	LId=مِن_1
+25	من	مِن	ADP	IN	ExtPos=ADP	27	case	_	LId=مِن_1
 26	بين	بَينَ	ADP	IN	_	25	fixed	_	LId=بَيْنَ_1
 27	الآخرين	آخَر	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	23	nmod	_	LId=آخَر_1|SpaceAfter=No
 28	,	,	PUNCT	,	_	27	punct	_	LId=,_0
@@ -26884,7 +26884,7 @@
 25	ألفت	أَلِف	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	4	advcl	_	LId=أَلِف-َ_1
 26	بعض	بَعض	DET	PDT	Case=Nom|PronType=Ind	27	det	_	LId=بَعْض_1|SpaceAfter=No
 27	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj:pass	_	_
-28	من	مِن	ADP	IN	_	30	case	_	LId=مِن_1
+28	من	مِن	ADP	IN	ExtPos=ADP	30	case	_	LId=مِن_1
 29	قبل	قَبلَ	ADP	IN	_	28	fixed	_	LId=قِبَل_1
 30	الاثنين	اِثنَان	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	25	obl	_	LId=ٱِثْنَيْنِ_1
 31	معاً	مَعًا	ADV	RB	_	30	advmod	_	LId=مَع_1|SpaceAfter=No
@@ -27075,7 +27075,7 @@
 13	"	"	PUNCT	''	_	9	punct	_	LId="_0
 14	التي	الَّذِي	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	LId=الَّذِي_1
 15	تشكلت	تَشَكَّل	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	9	acl:relcl	_	LId=تَشَكَّل_1
-16	من	مِن	ADP	IN	_	18	case	_	LId=مِن_1
+16	من	مِن	ADP	IN	ExtPos=ADP	18	case	_	LId=مِن_1
 17	خلال	خِلَالَ	ADP	IN	_	16	fixed	_	LId=خِلال_1
 18	انغراز	ٱِنغِراز	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	obl	_	LId=ٱِنْغِراز_1
 19	القشرة	قِشر	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	LId=قِشْر_1
@@ -27414,7 +27414,7 @@
 # text = بالرغم من ذلك, لو تم القبول بالقانون الإنجليزي, لكان لبنات لويس الخامس وفيليب الخامس وكارلوس الرابع حقٌ بالمطالبة بالعرش أكثر من عمتهم إيزابيلا فرنسا.
 # original_text = بالرغم من ذلك, لو تم القبول بالقانون الإنجليزي, لكان لبنات لويس الخامس وفيليب الخامس وكارلوس الرابع حق بالمطالبة بالعرش أكثر من عمتهم إيزابيلا فرنسا.
 # text_en = Nonetheless, if the English law had been accepted, the daughters of Luis X, Felipe V and Carlos IV would have had more of a claim to the throne, above their aunt Isabella of France.
-1	ب	بِ	ADP	IN	_	4	case	_	SpaceAfter=No
+1	ب	بِ	ADP	IN	ExtPos=ADP	4	case	_	SpaceAfter=No
 2	الرغم	رَغم	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	fixed	_	LId=رَغْم_1
 3	من	مِن	ADP	IN	_	1	fixed	_	LId=مِن_1
 4	ذلك	ذ`لِكَ	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	14	obl	_	LId=ذٰلِكَ_1|SpaceAfter=No
@@ -27606,7 +27606,7 @@
 4	ب	بِ	ADP	IN	_	5	case	_	SpaceAfter=No
 5	تصرفات	تَصَرُّف	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obl	_	LId=تَصَرُّف_1
 6	بومبي	بومبي	PROPN	NNP	Gender=Fem|Number=Sing	5	nmod	_	LId=بومبي_0
-7	من	مِن	ADP	IN	_	9	case	_	LId=مِن_1
+7	من	مِن	ADP	IN	ExtPos=ADP	9	case	_	LId=مِن_1
 8	قبل	قَبلَ	ADP	IN	_	7	fixed	_	LId=قِبَل_1
 9	كوريو	كُورِيّ	PROPN	NNP	Gender=Masc|Number=Sing	1	obl	_	LId=كُورِيّ_1|SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	LId=,_0
@@ -27637,7 +27637,7 @@
 8	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 9	في	فِي	ADP	IN	_	10	case	_	LId=فِي_1
 10	المنصة	مِنَصَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	LId=مِنَصَّة_1
-11	من	مِن	ADP	IN	_	13	case	_	LId=مِن_1
+11	من	مِن	ADP	IN	ExtPos=ADP	13	case	_	LId=مِن_1
 12	قبل	قَبلَ	ADP	IN	_	11	fixed	_	LId=قِبَل_1
 13	مارك	مارك	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	LId=مارْك_1
 14	أنطونيو	أَنطُونِيُو	PROPN	NNP	Gender=Masc|Number=Sing	13	flat	_	LId=أَنْطُونِيُو_1|SpaceAfter=No
@@ -27665,7 +27665,7 @@
 7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
 8	شكل	شَكل	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	LId=شَكْل_1
 9	قاطع	قاطِع	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	amod	_	LId=قاطِع_1
-10	من	مِن	ADP	IN	_	12	case	_	LId=مِن_1
+10	من	مِن	ADP	IN	ExtPos=ADP	12	case	_	LId=مِن_1
 11	خلال	خِلَالَ	ADP	IN	_	10	fixed	_	LId=خِلال_1
 12	منع	مَنع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=مَنْع_1|SpaceAfter=No
 13	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
