@@ -13600,7 +13600,7 @@
 # text_en = By mid-1962, Brooks and Carson had largely finished the editing, and were laying the groundwork for promoting the book by sending the manuscript out to select individuals for final suggestions.
 1	ب	بِ	ADP	IN	_	2	case	_	SpaceAfter=No
 2	حلول	حُلُول	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	LId=حُلُول_1
-3	منتصف	مُنتَصَف	DET	PDT	Case=Gen	4	det	_	LId=مُنْتَصَف_1
+3	منتصف	مُنتَصَف	DET	PDT	Case=Gen|PronType=Ind	4	det	_	LId=مُنْتَصَف_1
 4	عام	عَام	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl:tmod	_	LId=عام_1
 5	1962	1962	NUM	CD	_	4	nmod	_	LId=١٩٦٢_0|SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	LId=,_0
@@ -13702,7 +13702,7 @@
 # original_text = منذ منتصف ستينيات القرن العشرين, ازدهر الاقتصاد الكوري الجنوبي بشكل هائل وتغير الهيكل الاقتصادي بشكل جذري.
 # text_en = Since the 1960s, the South Korean economy has grown enormously and the economic structure was radically transformed.
 1	منذ	مُنذُ	ADP	IN	_	3	case	_	LId=مُنْذُ_1
-2	منتصف	مُنتَصَف	DET	PDT	Case=Gen	3	det	_	LId=مُنْتَصَف_1
+2	منتصف	مُنتَصَف	DET	PDT	Case=Gen|PronType=Ind	3	det	_	LId=مُنْتَصَف_1
 3	ستينيات	سِتِّينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	obl	_	LId=سِتِّينِيّ_1
 4	القرن	قَرن	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	nmod	_	LId=قَرْن_1
 5	العشرين	عِشرُون	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	amod	_	LId=عِشْرُون_1|SpaceAfter=No
