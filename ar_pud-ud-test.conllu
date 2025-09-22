@@ -9363,7 +9363,7 @@
 # original_text = نورمان أحد أقرب رفاقي إلي, لذا من السيئ جدا رؤيته في تلك الحالة العاطفية.
 # text_en = "Norman is one of my good buddies, so it totally sucked to see him in that emotional state."
 1	نورمان	نُورمان	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	LId=نُورْمان_1
-2	أحد	أَحَد	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	LId=أَحَد_1
+2	أحد	أَحَد	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	LId=أَحَد_1
 3	أقرب	أَقرَب	ADJ	JJR	Case=Gen|Definite=Def	0	root	_	LId=أَقْرَب_1
 4	رفاق	رَفِيق	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	3	obl	_	LId=رِفْقَة_1|SpaceAfter=No
 5	ي	هُوَ	PRON	PRP	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
@@ -16858,7 +16858,7 @@
 11	قوة	قُوَّة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	6	xcomp	_	LId=قُوَّة_1
 12	إقليمية	إِقلِيمِيّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	11	amod	_	LId=إِقْلِيمِيّ_1
 13	في	فِي	ADP	IN	_	15	case	_	LId=فِي_1
-14	شبه	شِبه	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing	15	det	_	LId=شِبْه_1|Proper=True
+14	شبه	شِبه	PRON	PDEM	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	LId=شِبْه_1|Proper=True
 15	جزيرة	جَزِيرَة	PROPN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	LId=جَزِيرَة_1
 16	بيلوبونيز	بيلوبونيز	PROPN	NNP	Gender=Fem|Number=Sing	15	nmod	_	LId=بيلوبونيز_0
 17	و	وَ	CCONJ	CC	_	20	cc	_	SpaceAfter=No
@@ -17127,7 +17127,7 @@
 17	ملايين	ملايين	NUM	CD	Case=Gen|Number=Plur	14	obl	_	LId=مِلْيُون_1
 18	مدني	مَدَنِيّ	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	nmod	_	LId=مَدَنِيّ_1|SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	LId=,_0
-20	غالبيت	غالِبِيَّة	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	21	det	_	LId=غالِبِيَّة_1|SpaceAfter=No
+20	غالبيت	غالِبِيَّة	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	LId=غالِبِيَّة_1|SpaceAfter=No
 21	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
 22	من	مِن	ADP	IN	_	12	advcl	_	LId=مِن_1
 23	الصينيين	صِينِيّ	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	22	obj	_	LId=صِينِيّ_1
@@ -18628,7 +18628,7 @@
 # original_text = كان آخر كتبها غير الروائية عن مارغريت دوغلاس, كونتيسة لينوكس.
 # text_en = Her latest non-fiction is about Margaret Douglas, Countess of Lennox.
 1	كان	كَان	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LId=كان-ُ_1
-2	آخر	آخَر	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	LId=آخَر_1
+2	آخر	آخَر	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	LId=آخَر_1
 3	كتب	كِتَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	LId=كَتَب-ُ_1|SpaceAfter=No
 4	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	غير	غَير	PART	RP	Polarity=Neg	6	advmod	_	LId=غَيْر_1
@@ -19441,7 +19441,7 @@
 # original_text = كان هذان آخر البومين ينتجهما رافيرتي مع هيو ميرفي, الذي توفي عام 1998.
 # text_en = These were the last two records Rafferty produced with Hugh Murphy, who died in 1998.
 1	كان	كَان	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	LId=كان-ُ_1
-2	هذان	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Dual	4	nsubj	_	LId=هٰذا_1
+2	هذان	ه`ذا	PRON	PDEM	Case=Nom|Gender=Masc|Number=Dual|PronType=Dem	4	nsubj	_	LId=هٰذا_1
 3	آخر	آخَر	DET	PDT	Case=Acc|PronType=Ind	4	det	_	LId=آخَر_1
 4	البومين	بومين	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Dual	0	root	_	LId=بومين_0
 5	ينتج	أَنتَج	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	LId=أَنْتَج_1|SpaceAfter=No
@@ -19529,7 +19529,7 @@
 11	و	وَ	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	واكساكتون	واكساكتون	PROPN	NNP	Gender=Fem|Number=Sing	9	conj	_	LId=واكساكتون_0
 13	ل	لِ	ADP	IN	_	15	case	_	SpaceAfter=No
-14	هذين	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Dual	15	det	_	LId=هٰذا_1
+14	هذين	ه`ذا	PRON	PDEM	Case=Gen|Gender=Masc|Number=Dual|PronType=Dem	15	det	_	LId=هٰذا_1
 15	الموقعين	مُوَقِّع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Dual	2	nmod	_	LId=مُوَقِّع_1
 16	أن	أَنَّ	SCONJ	IN	_	17	mark	_	LId=أَنَّ_1
 17	يتلاءما	تَلاءَم	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	LId=تَلاءَم_1

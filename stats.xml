@@ -60,7 +60,7 @@
     <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">2643</feat><!-- ه, ها, كان, هم, كانت, يمكن, هو, يكون, هي, قال -->
     <feat name="Polarity" value="Neg" upos="PART">162</feat><!-- لم, لا, غير, لن, ليس, ما -->
     <feat name="PronType" value="Art" upos="DET">1</feat><!-- لو -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">193</feat><!-- ذلك, هذا, هذه, أولئك, ذا, ال, هؤلاء -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">199</feat><!-- ذلك, هذا, هذه, أولئك, ذا, آخر, أحد, ال, شبه, غالبيت -->
     <feat name="PronType" value="Ind" upos="DET">108</feat><!-- أحد, بعض, إحدى, أي, عدة, آخر, معظم, شبه, أغلب, أكثر -->
     <feat name="PronType" value="Int" upos="PRON">77</feat><!-- ما, الذين, ماذا, اللذين, م -->
     <feat name="PronType" value="Prs" upos="PRON">835</feat><!-- ه, ها, هم, هو, نا, هي, هما, ك, ي, أنا -->
