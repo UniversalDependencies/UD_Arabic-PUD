@@ -41,9 +41,9 @@
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">1568</feat><!-- هذا, التي, الذي, هو, هذه, كل, هي, الأمر, أحد, أكثر -->
     <feat name="Definite" value="Def" upos="ADJ,AUX,DET,NOUN,PROPN,VERB">5864</feat><!-- عام, الأول, الخاصة, الوقت, اسم, العديد, القرن, المتحدة, الأمر, البحر -->
     <feat name="Definite" value="Ind" upos="ADJ,NOUN,PROPN,VERB">2018</feat><!-- أكثر, شكلٍ, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, جنيه, كبير -->
-    <feat name="ExtPos" value="ADP" upos="ADP,PART">110</feat><!-- من, ب, حتى, ما, ك, ل -->
-    <feat name="ExtPos" value="ADV" upos="ADP,PART">17</feat><!-- لا, ب, على, من -->
-    <feat name="ExtPos" value="CCONJ" upos="PART">4</feat><!-- غير -->
+    <feat name="ExtPos" value="ADP" upos="ADP,PART">113</feat><!-- من, ب, حتى, ما, ك, ل -->
+    <feat name="ExtPos" value="ADV" upos="ADP,PART,PRON">18</feat><!-- لا, ب, على, من, ما -->
+    <feat name="ExtPos" value="CCONJ" upos="PART">5</feat><!-- غير, كما -->
     <feat name="ExtPos" value="SCONJ" upos="ADP,PART">31</feat><!-- ب, ما, في, كما, إلا, حتى, حيث, غير, بما, لو -->
     <feat name="Foreign" value="Yes" upos="DET,PROPN">2</feat><!-- فيغارو, لو -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">4666</feat><!-- ها, التي, كانت, هذه, الخاصة, هي, المتحدة, كبيرة, الحرب, ذات -->
@@ -78,18 +78,18 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="39">
     <dep name="acl">34</dep>
-    <dep name="acl:relcl">320</dep>
-    <dep name="advcl">316</dep>
-    <dep name="advmod">452</dep>
-    <dep name="amod">1620</dep>
-    <dep name="appos">187</dep>
+    <dep name="acl:relcl">319</dep>
+    <dep name="advcl">315</dep>
+    <dep name="advmod">453</dep>
+    <dep name="amod">1621</dep>
+    <dep name="appos">188</dep>
     <dep name="aux">91</dep>
-    <dep name="case">3047</dep>
-    <dep name="cc">758</dep>
+    <dep name="case">3050</dep>
+    <dep name="cc">759</dep>
     <dep name="cc:preconj">2</dep>
     <dep name="ccomp">286</dep>
     <dep name="compound">7</dep>
-    <dep name="compound:prt">273</dep>
+    <dep name="compound:prt">272</dep>
     <dep name="conj">661</dep>
     <dep name="cop">95</dep>
     <dep name="csubj">57</dep>
@@ -99,15 +99,15 @@
     <dep name="discourse">1</dep>
     <dep name="dislocated">6</dep>
     <dep name="expl">8</dep>
-    <dep name="fixed">199</dep>
+    <dep name="fixed">198</dep>
     <dep name="flat">280</dep>
     <dep name="iobj">10</dep>
     <dep name="mark">481</dep>
-    <dep name="nmod">3264</dep>
-    <dep name="nsubj">1370</dep>
+    <dep name="nmod">3266</dep>
+    <dep name="nsubj">1369</dep>
     <dep name="nsubj:pass">141</dep>
     <dep name="nummod">150</dep>
-    <dep name="obj">746</dep>
+    <dep name="obj">742</dep>
     <dep name="obl">1956</dep>
     <dep name="obl:tmod">109</dep>
     <dep name="orphan">4</dep>
